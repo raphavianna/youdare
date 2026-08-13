@@ -10,25 +10,24 @@ Concorrência de agências da Electrolux para 2027, escopo LATAM, conduzida pela
 marketing regional. Dois cases a responder, um por mercado, mais a estrutura de time e de
 operação. Fonte: `00-briefing/2026-07-31_electrolux_briefing_deck-agencias.pdf`.
 
-## 2. Estado do processo — data de referência 13/08/2026
+## 2. Cronograma declarado pelo cliente
 
-| Data | Marco | Situação |
-|---|---|---|
-| 23/07 | Apresentação do briefing | concluído |
-| 31/07 | Entrega do RFP às agências | concluído |
-| 31/07 a 05/08 | Envio de perguntas das agências por e-mail | **janela encerrada** |
-| 10/08 | Retorno da Electrolux às perguntas, por e-mail | concluído |
-| **11 a 25/08** | **Janela de debriefing entre ELX e agências** | **aberta agora — fecha em 12 dias** |
-| 20/09 | Submissão das propostas com RFP + case deck | 38 dias |
-| 21 a 28/09 | Apresentações | |
-| 02/10 | Revisão da proposta, dúvidas e ajustes | |
-| 05/10 | Procurement revisa escopo e time | |
-| 20/10 | Agências submetem proposta revisada | |
-| 01/12 | Definição da(s) agência(s) | |
+Registro de fato, extraído do deck-mãe. A condução do processo é do time da agência; este
+quadro serve para situar o trabalho, não para pautá-lo.
 
-`[a confirmar: se a Youdare enviou perguntas até 05/08, se recebeu o retorno de 10/08, e se
-há debriefing agendado dentro da janela que fecha em 25/08. Esses três itens mudam o que
-entra na tese.]`
+| Data | Marco |
+|---|---|
+| 23/07 | Apresentação do briefing |
+| 31/07 | Entrega do RFP às agências |
+| 31/07 a 05/08 | Envio de perguntas das agências por e-mail |
+| 10/08 | Retorno da Electrolux às perguntas, por e-mail |
+| 11 a 25/08 | Janela de debriefing entre ELX e agências |
+| 20/09 | Submissão das propostas com RFP + case deck |
+| 21 a 28/09 | Apresentações |
+| 02/10 | Revisão da proposta, dúvidas e ajustes |
+| 05/10 | Procurement revisa escopo e time |
+| 20/10 | Agências submetem proposta revisada |
+| 01/12 | Definição da(s) agência(s) |
 
 ## 3. Os dois cases
 
