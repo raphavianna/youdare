@@ -1,0 +1,30 @@
+# R6 — credenciais nunca entram no versionamento
+.env
+.env.*
+*.pem
+*.key
+*.p12
+credentials*.json
+service-account*.json
+client_secret*.json
+token*.json
+.secrets/
+**/secrets/
+
+# dados locais que o usuário decidir não versionar
+/data-local/
+**/_local/
+
+# ambiente e caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# saídas temporárias
+*.tmp
+~$*
