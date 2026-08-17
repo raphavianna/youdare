@@ -1385,5 +1385,341 @@
    "aio": 26
   },
   "electrolux": 14
- }
+ },
+ "jornada4": {
+  "sem_marca": 7077400,
+  "heads": 6869800,
+  "cauda": 207600,
+  "descoberta": 1146110,
+  "escolha": 1446660,
+  "posse": 264860,
+  "nao_class": 3141820,
+  "total": 13076850
+ },
+ "exemplos": {
+  "nao classificado": [
+   [
+    "air fryer",
+    823000
+   ],
+   [
+    "geladeira",
+    823000
+   ],
+   [
+    "ar condicionado",
+    673000
+   ]
+  ],
+  "especificacao produto": [
+   [
+    "geladeira frost free",
+    368000
+   ],
+   [
+    "lava e seca",
+    201000
+   ],
+   [
+    "geladeira electrolux frost free",
+    90500
+   ]
+  ],
+  "marca e navegacao": [
+   [
+    "brastemp",
+    201000
+   ],
+   [
+    "eletrolux",
+    110000
+   ],
+   [
+    "consul",
+    110000
+   ]
+  ],
+  "peca e consumivel": [
+   [
+    "filtro de água",
+    18100
+   ],
+   [
+    "filtro consul",
+    12100
+   ],
+   [
+    "filtro eletrolux",
+    6600
+   ]
+  ],
+  "aquisicao e comparacao": [
+   [
+    "preço de geladeira",
+    9900
+   ],
+   [
+    "cupom de desconto brastemp",
+    1900
+   ],
+   [
+    "máquina de lavar brastemp 15kg menor preço",
+    1600
+   ]
+  ],
+  "assistencia e reparo": [
+   [
+    "assistencia tecnica brastemp",
+    8100
+   ],
+   [
+    "autorizada brastemp",
+    5400
+   ],
+   [
+    "assistência técnica brastemp",
+    4400
+   ]
+  ],
+  "frente nomeada": [
+   [
+    "outlet eletrolux",
+    1300
+   ],
+   [
+    "outlet brastemp",
+    720
+   ],
+   [
+    "eletrolux outlet",
+    480
+   ]
+  ],
+  "manual e uso": [
+   [
+    "como usar air fryer",
+    1900
+   ],
+   [
+    "funções ar condicionado",
+    1300
+   ],
+   [
+    "como limpar maquina de lavar brastemp",
+    1000
+   ]
+  ],
+  "garantia": [
+   [
+    "eletrolux garantia",
+    720
+   ],
+   [
+    "garantia eletrolux",
+    590
+   ],
+   [
+    "brastemp garantia",
+    590
+   ]
+  ],
+  "defeito": [
+   [
+    "ar condicionado pingando agua",
+    2900
+   ],
+   [
+    "ar condicionado não gela",
+    1900
+   ],
+   [
+    "geladeira não está gelando",
+    1900
+   ]
+  ],
+  "conectividade e smart": [
+   [
+    "lava-louças 15 serviços brastemp inox com smart sensor - blf61ar",
+    590
+   ],
+   [
+    "geladeira smart samsung",
+    590
+   ],
+   [
+    "smart geladeira samsung",
+    390
+   ]
+  ],
+  "consumo e eficiencia": [
+   [
+    "consumo ar condicionado hisense portatil 12000 btus",
+    590
+   ]
+  ],
+  "manutencao e cuidado": [
+   [
+    "limpeza máquina de lavar brastemp 13kg",
+    320
+   ],
+   [
+    "limpeza maquina eletrolux",
+    140
+   ]
+  ],
+  "consumo": [
+   [
+    "air fryer gasta muita energia",
+    2900
+   ],
+   [
+    "ar condicionado gasta muita energia",
+    1600
+   ],
+   [
+    "lava e seca gasta muita energia",
+    590
+   ]
+  ],
+  "sinonimo": [
+   [
+    "microondas não esquenta",
+    3600
+   ],
+   [
+    "como limpar airfryer",
+    2400
+   ],
+   [
+    "como limpar microondas",
+    1900
+   ]
+  ],
+  "assistencia": [
+   [
+    "conserto de geladeira",
+    14800
+   ],
+   [
+    "conserto de ar condicionado",
+    3600
+   ],
+   [
+    "conserto de fogão",
+    3600
+   ]
+  ],
+  "peca": [
+   [
+    "copo liquidificador",
+    8100
+   ],
+   [
+    "termostato geladeira",
+    6600
+   ],
+   [
+    "filtro ar condicionado",
+    5400
+   ]
+  ],
+  "descarte": [
+   [
+    "coleta de eletrodomésticos usados",
+    90
+   ],
+   [
+    "reciclagem de eletrodomésticos",
+    50
+   ],
+   [
+    "como descartar geladeira velha",
+    30
+   ]
+  ],
+  "manutencao": [
+   [
+    "como limpar ferro de passar",
+    6600
+   ],
+   [
+    "como limpar ventilador",
+    5400
+   ],
+   [
+    "como limpar ar condicionado",
+    3600
+   ]
+  ],
+  "instalacao": [
+   [
+    "instalação de ar condicionado",
+    22200
+   ],
+   [
+    "como instalar ar condicionado",
+    3600
+   ],
+   [
+    "quanto custa instalar ar condicionado",
+    1600
+   ]
+  ],
+  "receita": [
+   [
+    "receitas air fryer",
+    2900
+   ],
+   [
+    "receitas panela elétrica",
+    50
+   ],
+   [
+    "o que dá para fazer no air fryer",
+    20
+   ]
+  ]
+ },
+ "frentes": [
+  [
+   "electrolux cuida",
+   2400
+  ],
+  [
+   "electrolux instala",
+   480
+  ],
+  [
+   "electrolux projeta",
+   320
+  ],
+  [
+   "electrolux pro",
+   140
+  ],
+  [
+   "electrolux shopclub",
+   320
+  ],
+  [
+   "electrolux outlet",
+   4400
+  ],
+  [
+   "coleta consciente electrolux",
+   20
+  ],
+  [
+   "garantia estendida electrolux",
+   170
+  ],
+  [
+   "assistência técnica electrolux",
+   5400
+  ],
+  [
+   "peça original electrolux",
+   0
+  ]
+ ]
 }

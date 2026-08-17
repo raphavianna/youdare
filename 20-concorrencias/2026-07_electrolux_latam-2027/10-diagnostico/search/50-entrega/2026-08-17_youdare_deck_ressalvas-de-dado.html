@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="pt-BR"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ressalvas de dado — Electrolux LATAM 2027 · Youdare</title>
+<link rel="preconnect" href="https://api.fontshare.com">
+<link href="https://api.fontshare.com/v2/css?f[]=zodiak@400,401&f[]=supreme@400,500,600&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--surface:#1a1a19;--surface-2:#212120;--ink:#f0ede4;--ink-2:#a8a69c;--ink-3:#6b6a63;
+  --hair:#2e2e2b;--accent:#3987e5;--ia:#199e70;--ambos:#c98500}
+html,body{height:100%;background:var(--surface);color:var(--ink);
+  font-family:'Supreme',ui-sans-serif,sans-serif;font-feature-settings:'tnum' 1;
+  -webkit-font-smoothing:antialiased;overflow-x:hidden}
+body{scroll-snap-type:y mandatory;overflow-y:auto;cursor:pointer}
+
+/* === VIEWPORT FITTING (NAO NEGOCIAVEL) === */
+.slide{height:100vh;height:100dvh;overflow:hidden;scroll-snap-align:start;position:relative;
+  display:flex;align-items:center;
+  background:radial-gradient(120% 90% at 88% 6%,#22231f 0%,var(--surface) 62%)}
+.slide::after{content:'';position:absolute;inset:0;pointer-events:none;
+  background-image:linear-gradient(var(--hair) 1px,transparent 1px);background-size:100% 64px;opacity:.22}
+.slide-inner{position:relative;z-index:1;width:min(1580px,92vw);margin:0 auto;max-height:90vh;
+  display:flex;flex-direction:column;gap:clamp(.45rem,1.1vh,1rem)}
+
+/* === TIPOGRAFIA === */
+.kicker{font-size:clamp(.56rem,.8vw,.74rem);letter-spacing:.24em;text-transform:uppercase;
+  color:var(--accent);font-weight:600}
+h1{font-family:'Zodiak',Georgia,serif;font-weight:400;line-height:.98;
+  font-size:clamp(2.4rem,6.2vw,5.6rem);letter-spacing:-.02em}
+h1 em{font-style:italic;color:var(--accent)}
+h2{font-family:'Zodiak',Georgia,serif;font-weight:400;line-height:1.06;
+  font-size:clamp(1.3rem,2.7vw,2.5rem);letter-spacing:-.015em;max-width:36ch}
+.s-head{display:flex;flex-direction:column;gap:clamp(.16rem,.45vh,.4rem);
+  border-left:2px solid var(--accent);padding-left:clamp(.6rem,1vw,1rem)}
+.s-top{display:flex;align-items:center;gap:.8em;flex-wrap:wrap}
+.subt{color:var(--ink-2);font-size:clamp(.7rem,.98vw,.9rem);line-height:1.45;max-width:88ch;
+  margin-top:.15em}
+.sub{color:var(--ink-2);font-size:clamp(.8rem,1.12vw,1.02rem);max-width:62ch;line-height:1.45}
+.leitura{color:var(--ink-2);font-size:clamp(.7rem,.96vw,.88rem);line-height:1.5;max-width:100ch;
+  border-top:1px solid var(--hair);padding-top:clamp(.3rem,.7vh,.6rem)}
+.leitura b{color:var(--ink);font-weight:600}
+.fonte{color:var(--ink-3);font-size:clamp(.52rem,.7vw,.64rem);letter-spacing:.04em}
+.s-body{flex:1;min-height:0;display:flex;flex-direction:column;
+  gap:clamp(.4rem,.9vh,.85rem);justify-content:center;overflow:hidden}
+
+/* === BADGE DE FONTE === */
+.badge{font-size:clamp(.5rem,.68vw,.62rem);letter-spacing:.14em;text-transform:uppercase;
+  font-weight:600;padding:.28em .7em;border-radius:2em;border:1px solid;white-space:nowrap}
+.b-search{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 45%,transparent);
+  background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.b-ia{color:var(--ia);border-color:color-mix(in srgb,var(--ia) 45%,transparent);
+  background:color-mix(in srgb,var(--ia) 12%,transparent)}
+.b-ambos{color:var(--ambos);border-color:color-mix(in srgb,var(--ambos) 45%,transparent);
+  background:color-mix(in srgb,var(--ambos) 12%,transparent)}
+
+/* === CAPA E DIVISOR === */
+.capa .slide-inner,.divisor .slide-inner{gap:clamp(.6rem,1.9vh,1.6rem)}
+.capa-meta{display:flex;flex-wrap:wrap;gap:clamp(.45rem,1.3vw,1.3rem);margin-top:clamp(.3rem,1.2vh,1rem)}
+.capa-meta span{font-size:clamp(.58rem,.84vw,.78rem);color:var(--ink-2);letter-spacing:.05em;
+  border:1px solid var(--hair);padding:.3em .8em;border-radius:2em}
+.divisor{background:linear-gradient(115deg,#202220 0%,var(--surface) 58%)}
+.parte{font-size:clamp(.58rem,.88vw,.8rem);letter-spacing:.3em;text-transform:uppercase;color:var(--accent)}
+.divisor h2{font-size:clamp(2rem,5.2vw,4.6rem);max-width:none}
+
+/* === FONTES (slide 2) === */
+.fontes{display:grid;grid-template-columns:1fr 1fr;gap:clamp(.7rem,2vw,2rem)}
+.fx{border:1px solid var(--hair);padding:clamp(.7rem,1.8vh,1.3rem) clamp(.8rem,1.5vw,1.3rem);
+  display:flex;flex-direction:column;gap:.3em;background:var(--surface-2)}
+.fxb{align-self:flex-start;font-size:clamp(.5rem,.68vw,.62rem);letter-spacing:.14em;
+  text-transform:uppercase;font-weight:600;padding:.28em .7em;border-radius:2em;border:1px solid}
+.fxv{font-family:'Zodiak',Georgia,serif;font-size:clamp(1.8rem,4vw,3.4rem);line-height:1}
+.fxl{font-size:clamp(.62rem,.86vw,.8rem);color:var(--ink-2)}
+
+/* === BARRAS === */
+.bh{display:flex;flex-direction:column;gap:clamp(.22rem,.8vh,.55rem)}
+.bh-row{display:grid;grid-template-columns:minmax(9ch,15ch) 1fr minmax(6ch,9ch);
+  align-items:center;gap:clamp(.4rem,.9vw,.9rem)}
+.bh-lab{font-size:clamp(.6rem,.86vw,.82rem);color:var(--ink-2);text-align:right;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bh-track{height:clamp(.8rem,2.3vh,1.45rem);background:#232322;border-radius:2px;overflow:hidden}
+.bh-fill{display:block;height:100%;border-radius:0 3px 3px 0;animation:grow .8s cubic-bezier(.2,.8,.2,1) both}
+.bh-val{font-size:clamp(.6rem,.88vw,.84rem);font-weight:600}
+@keyframes grow{from{transform:scaleX(0);transform-origin:left}to{transform:scaleX(1)}}
+
+.be{display:flex;flex-direction:column;gap:clamp(.22rem,.8vh,.55rem)}
+.be-row{display:grid;grid-template-columns:minmax(9ch,14ch) 1fr minmax(7ch,13ch);
+  align-items:center;gap:clamp(.4rem,.9vw,.9rem)}
+.be-lab{font-size:clamp(.6rem,.86vw,.82rem);color:var(--ink-2);text-align:right}
+.be-track{display:flex;height:clamp(1.05rem,3.1vh,2rem);border-radius:2px;overflow:hidden;gap:2px}
+.be-seg{display:flex;align-items:center;justify-content:center;font-size:clamp(.5rem,.72vw,.68rem);
+  font-weight:600;animation:grow .8s cubic-bezier(.2,.8,.2,1) both;overflow:hidden}
+.be-extra{font-size:clamp(.58rem,.84vw,.78rem);color:var(--ink-2)}
+.legenda{display:flex;flex-wrap:wrap;gap:clamp(.45rem,1.2vw,1.2rem);margin-top:.25rem}
+.legenda span{display:flex;align-items:center;gap:.4em;font-size:clamp(.56rem,.78vw,.72rem);color:var(--ink-2)}
+.legenda i{width:.78em;height:.78em;border-radius:2px;display:block}
+
+/* === MINI BARRAS MES A MES === */
+.sbw{display:inline-flex;align-items:flex-end;gap:2px;height:clamp(1.1rem,3vh,1.9rem);width:100%}
+.sb{flex:1;min-width:3px;border-radius:1px;display:block;opacity:.9}
+.mm{display:flex;flex-direction:column;gap:.3em;border-top:1px solid var(--hair);padding-top:.6em}
+.mml{font-size:clamp(.5rem,.7vw,.62rem);letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3)}
+
+/* === SVG === */
+.chart{width:100%;height:auto;max-height:min(50vh,450px);display:block}
+.ln{fill:none;stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round;opacity:.55}
+.ln.forte{stroke-width:2.6;opacity:1}
+.ref{stroke:var(--hair);stroke-width:1;stroke-dasharray:3 4}
+.reflab,.xlab,.lnlab{font-family:'Supreme',sans-serif;font-size:11px;fill:var(--ink-3)}
+.lnlab{font-size:12px;font-weight:600}.xlab{text-anchor:middle}
+
+/* === TABELAS === */
+.tb,.hm{width:100%;border-collapse:collapse;font-size:clamp(.58rem,.85vw,.82rem)}
+.tb th,.hm th{text-align:left;color:var(--ink-3);font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;font-size:clamp(.48rem,.66vw,.62rem);padding:.45em .65em;
+  border-bottom:1px solid var(--hair)}
+.tb td{padding:.46em .65em;border-bottom:1px solid #232322;color:var(--ink-2);vertical-align:middle}
+.tb td b,.tb td:first-child{color:var(--ink)}
+.hm td{padding:.45em .35em;text-align:center;border:1px solid var(--surface);
+  font-variant-numeric:tabular-nums;font-size:clamp(.53rem,.75vw,.74rem)}
+.hm th.rh{text-align:right;text-transform:none;font-size:clamp(.56rem,.78vw,.76rem);
+  color:var(--ink-2);border:none;padding-right:.65em}
+.hm thead th{text-align:center;padding-bottom:.35em}
+.dot{display:inline-block;width:.6em;height:.6em;border-radius:50%;margin-right:.5em}
+.up,.tb td b.up{color:#199e70;font-weight:600}
+.down,.tb td b.down{color:#d95926;font-weight:600}
+.flat,.tb td b.flat{color:var(--ink-3)}
+code{font-family:ui-monospace,monospace;font-size:.88em;color:var(--ink);background:#26261f;
+  padding:.1em .4em;border-radius:2px;white-space:nowrap}
+
+/* === KPIS E BLOCOS === */
+.kpis{display:flex;flex-wrap:wrap;gap:clamp(.5rem,1.8vw,2.2rem);
+  border-top:1px solid var(--hair);padding-top:clamp(.35rem,.9vh,.8rem)}
+.kpi{display:flex;flex-direction:column;gap:.1em;min-width:min(18ch,42vw)}
+.kv{font-family:'Zodiak',Georgia,serif;font-size:clamp(1.3rem,3vw,2.7rem);line-height:1;
+  letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.kl{font-size:clamp(.56rem,.8vw,.74rem);color:var(--ink-2);line-height:1.3;max-width:26ch}
+.col2{display:grid;grid-template-columns:1fr 1fr;gap:clamp(.7rem,2.2vw,2.2rem);align-items:start;min-height:0}
+.quadro{border:1px solid var(--hair);border-left:2px solid var(--accent);
+  padding:clamp(.55rem,1.4vh,1rem) clamp(.7rem,1.3vw,1.1rem);background:var(--surface-2)}
+.quadro.alerta{border-left-color:var(--ambos)}
+.quadro p,.quadro li{color:var(--ink-2);font-size:clamp(.7rem,.98vw,.9rem);line-height:1.5}
+.quadro b{color:var(--ink)}
+.quadro ul{margin-left:1.1em;display:flex;flex-direction:column;gap:.28em}
+.qh{display:block;font-size:clamp(.52rem,.72vw,.64rem);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--accent);margin-bottom:.45em}
+blockquote{font-family:'Zodiak',Georgia,serif;font-size:clamp(.92rem,1.8vw,1.5rem);line-height:1.35;color:var(--ink)}
+cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78vw,.72rem);color:var(--ink-3)}
+.sem-cob{border:1px dashed var(--hair);padding:clamp(.6rem,1.6vh,1.2rem);text-align:center;
+  display:flex;flex-direction:column;gap:.28em;background:#1e1e1c}
+.sc-x{font-size:clamp(1.1rem,2.4vw,2rem);color:var(--ink-3);line-height:1}
+.sem-cob b{font-size:clamp(.7rem,.98vw,.88rem)}
+.sem-cob span:last-child{font-size:clamp(.56rem,.78vw,.72rem);color:var(--ink-3);max-width:34ch;margin:0 auto}
+.confronto{display:flex;align-items:center;gap:clamp(.6rem,2.2vw,2.2rem);justify-content:center;
+  border-block:1px solid var(--hair);padding:clamp(.6rem,1.8vh,1.2rem) 0}
+.cf{display:flex;flex-direction:column;gap:.18em;text-align:center;flex:1}
+.cft{font-size:clamp(.52rem,.72vw,.64rem);letter-spacing:.2em;text-transform:uppercase;color:var(--ink-3)}
+.cfv{font-family:'Zodiak',Georgia,serif;font-size:clamp(1.8rem,4.6vw,4rem);line-height:1}
+.cfl{font-size:clamp(.58rem,.82vw,.78rem);color:var(--ink-2)}
+.cfx{font-size:clamp(1rem,2.2vw,1.8rem);color:var(--ink-3)}
+.achados{display:grid;grid-template-columns:1fr 1fr;gap:clamp(.55rem,1.6vw,1.5rem)}
+.ach{display:flex;gap:clamp(.5rem,1.1vw,1rem);border-top:1px solid var(--hair);padding-top:.65em}
+.an{font-family:'Zodiak',Georgia,serif;font-size:clamp(1.1rem,2.2vw,1.9rem);color:var(--accent);line-height:1}
+.ach b{display:block;font-size:clamp(.74rem,1.02vw,.95rem);margin-bottom:.22em}
+.ach p{font-size:clamp(.6rem,.86vw,.8rem);color:var(--ink-2);line-height:1.45}
+
+/* === NAV === */
+.nav{position:fixed;right:clamp(.5rem,1.4vw,1.4rem);top:50%;transform:translateY(-50%);z-index:50;
+  display:flex;flex-direction:column;gap:6px}
+.nav b{width:6px;height:6px;border-radius:50%;background:var(--hair);cursor:pointer;
+  transition:background .2s,transform .2s}
+.nav b.on{background:var(--accent);transform:scale(1.5)}
+.pg{position:fixed;left:clamp(.6rem,1.6vw,1.6rem);bottom:clamp(.5rem,1.4vh,1.2rem);z-index:50;
+  font-size:clamp(.54rem,.74vw,.68rem);color:var(--ink-3);letter-spacing:.1em}
+.dica{position:fixed;right:clamp(.6rem,1.6vw,1.6rem);bottom:clamp(.5rem,1.4vh,1.2rem);z-index:50;
+  font-size:clamp(.5rem,.68vw,.62rem);color:var(--ink-3);letter-spacing:.06em;opacity:.75}
+
+/* === BREAKPOINTS DE ALTURA === */
+@media (max-height:700px){.slide-inner{max-height:93vh}.kpi{min-width:min(15ch,40vw)}}
+@media (max-height:600px){.chart{max-height:36vh}.leitura,.subt{font-size:.68rem}
+  .bh-track{height:.6rem}.be-track{height:.75rem}.bh,.be{gap:.2rem}.be-seg{font-size:.46rem}}
+@media (max-height:500px){h2{font-size:1.15rem}.kv{font-size:1.25rem}.chart{max-height:30vh}
+  .fonte,.legenda{display:none}}
+@media (max-width:900px){.col2,.achados,.fontes{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style></head><body>
+<nav class="nav"></nav><div class="pg">01</div><div class="dica">clique para avançar · shift+clique volta</div>
+<section class="slide capa"><div class="slide-inner">
+  <span class="kicker">Youdare · Direção de Mídia e Dados · agosto 2026</span>
+  <h1>Ressalvas<br><em>de dado</em></h1>
+  <p class="sub">Complemento técnico do material de cenário — o que checar antes de construir em cima, e o que este pacote não responde</p>
+  <div class="capa-meta"><span>Uso interno</span><span>Leia junto com o deck de cenário</span></div>
+</div></section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Ressalvas</span><span class="badge b-ambos">Search + IA</span></div>
+      <h2>Números frágeis — confira antes de levar para o cliente</h2>
+      <p class="subt">Cada linha indica um número presente no material de cenário que não sustenta contestação sem contexto.</p>
+    </header>
+    <div class="s-body"><table class="tb wide"><thead><tr><th>Número</th><th>Por quê</th><th>Onde aparece</th></tr></thead><tbody><tr><td>Descoberta da Samsung, 5,5%</td><td>O recorte de origem partiu de uma consulta de categoria, não do nome da marca. É artefato, não achado</td><td>Panorama · comparativo de jornada</td></tr><tr><td>Cobertura de IA em posse (0%, 25%)</td><td>As famílias de manutenção e receita têm entre 3 e 4 perguntas na amostra de 150</td><td>Comparativo de IA · síntese</td></tr><tr><td>Sentimento (58,1 · 70,5 · 46,3)</td><td>Classificação automática, sem critério publicado. Vale como comparação relativa, não como nível absoluto</td><td>Comparativo de IA</td></tr><tr><td>Séries de 12 meses</td><td>Reconstruídas a partir do volume médio e do índice de tendência, sob premissa declarada</td><td>Todos os slides de evolução</td></tr><tr><td>Volumes entre players</td><td>Recortes com profundidade diferente: Brastemp 1.998 keywords, Haier 44. Composição interna é comparável; volume absoluto não</td><td>Panorama</td></tr><tr><td>Tráfego de LLM</td><td>Estimativa modelada, não contagem</td><td>Slide de tendência</td></tr><tr><td>Famílias de demanda</td><td>A classificação cobre entre 33% e 89% do volume por player. “Não classificado” é categoria legítima</td><td>Todos os slides de jornada</td></tr></tbody></table></div>
+    
+    
+  </div>
+</section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Ressalvas</span><span class="badge b-ambos">Search + IA</span></div>
+      <h2>O que este pacote de dados não responde</h2>
+      <p class="subt">Cinco perguntas ficaram fora do alcance das fontes. Nenhuma foi preenchida por suposição.</p>
+    </header>
+    <div class="s-body"><table class="tb wide"><thead><tr><th>Pergunta</th><th>Por que não</th><th>O que resolveria</th></tr></thead><tbody><tr><td>Quem captura cada consulta hoje</td><td>A coluna de competidores veio vazia em todos os arquivos</td><td>Posições orgânicas dos domínios captores</td></tr><tr><td>Qual o valor da demanda não capturada</td><td>Sem custo real e sem taxa de conversão</td><td>Dados de conta e analytics da loja</td></tr><tr><td>O que a IA responde quando perguntam pela marca pelo nome</td><td>Só veio o recorte sem marca</td><td>Relatório de respostas com marca</td></tr><tr><td>Quais fontes os modelos citam</td><td>Há contagem de fontes, não a lista</td><td>Export de fontes citadas</td></tr><tr><td>Hisense e Haier em IA</td><td>Não estão nas respostas nem no tráfego medido</td><td>Incluir os dois no rastreio</td></tr></tbody></table></div>
+    <p class="leitura">Lacuna declarada é método. O material de cenário não preenche nenhuma delas.</p>
+    
+  </div>
+</section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Ressalvas</span><span class="badge b-ambos">Search + IA</span></div>
+      <h2>Como os números foram produzidos</h2>
+      <p class="subt">O material inteiro é gerado por script a partir de um único arquivo de dados consolidado — nenhuma cifra é digitada à mão.</p>
+    </header>
+    <div class="s-body"><table class="tb wide"><thead><tr><th>Etapa</th><th>O que faz</th></tr></thead><tbody><tr><td><b>Normalização</b></td><td>Unifica os arquivos de origem, remove duplicatas e consultas em idioma estrangeiro, e reconstrói a série mensal</td></tr><tr><td><b>Consolidação</b></td><td>Calcula todos os recortes do material e grava num único arquivo de dados</td></tr><tr><td><b>Geração</b></td><td>Monta os slides a partir desse arquivo. Qualquer número muda na origem e se propaga sozinho</td></tr></tbody></table><div class="quadro"><p>Reproduzir o material inteiro leva dois comandos. Isso é o que torna cada número deste deck rastreável até o arquivo de origem.</p></div></div>
+    
+    
+  </div>
+</section>
+<script>
+const ss=[...document.querySelectorAll('.slide')];
+const nav=document.querySelector('.nav'), pg=document.querySelector('.pg');
+let atual=0;
+ss.forEach((_,i)=>{const b=document.createElement('b');
+  b.onclick=ev=>{ev.stopPropagation();ir(i)};nav.appendChild(b)});
+const dots=[...nav.children];
+function ir(i){atual=Math.max(0,Math.min(i,ss.length-1));ss[atual].scrollIntoView({behavior:'smooth'})}
+const io=new IntersectionObserver(es=>es.forEach(en=>{if(en.isIntersecting){
+  atual=ss.indexOf(en.target);dots.forEach((d,j)=>d.classList.toggle('on',atual===j));
+  pg.textContent=String(atual+1).padStart(2,'0')+' / '+String(ss.length).padStart(2,'0');}}),{threshold:.55});
+ss.forEach(s=>io.observe(s));
+/* avanca com clique; clique com shift, ou na metade esquerda com alt, volta */
+addEventListener('click',ev=>{
+  if(ev.target.closest('a,button,.nav')) return;
+  ir(ev.shiftKey ? atual-1 : atual+1);
+});
+addEventListener('contextmenu',ev=>{ev.preventDefault();ir(atual-1)});
+addEventListener('keydown',ev=>{
+  if(['ArrowDown','ArrowRight',' ','PageDown'].includes(ev.key)){ev.preventDefault();ir(atual+1)}
+  if(['ArrowUp','ArrowLeft','PageUp'].includes(ev.key)){ev.preventDefault();ir(atual-1)}});
+</script></body></html>
