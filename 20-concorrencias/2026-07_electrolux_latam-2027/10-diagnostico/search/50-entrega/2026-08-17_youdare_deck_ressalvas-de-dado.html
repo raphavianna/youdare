@@ -91,7 +91,7 @@ h2{font-family:'Zodiak',Georgia,serif;font-weight:400;line-height:1.06;
 .be-track{display:flex;height:clamp(1.05rem,3.1vh,2rem);border-radius:2px;overflow:hidden;gap:2px}
 .be-seg{display:flex;align-items:center;justify-content:center;font-size:clamp(.5rem,.72vw,.68rem);
   font-weight:600;animation:grow .8s cubic-bezier(.2,.8,.2,1) both;overflow:hidden}
-.be-extra{font-size:clamp(.58rem,.84vw,.78rem);color:var(--ink-2)}
+.be-extra{min-width:16ch;max-width:20ch;font-size:clamp(.58rem,.84vw,.78rem);color:var(--ink-2);line-height:1.25}
 .legenda{display:flex;flex-wrap:wrap;gap:clamp(.45rem,1.2vw,1.2rem);margin-top:.25rem}
 .legenda span{display:flex;align-items:center;gap:.4em;font-size:clamp(.56rem,.78vw,.72rem);color:var(--ink-2)}
 .legenda i{width:.78em;height:.78em;border-radius:2px;display:block}
@@ -172,6 +172,16 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
 .chip.e-posse{border-left-color:#7d5300}
 .chip.e-sem_marca{border-left-color:#f7e3b8}
 .th2{display:block;font-weight:400;text-transform:none;letter-spacing:0;color:var(--ink-3);font-size:.86em;margin-top:.15em}
+.arq{font-size:clamp(.56rem,.78vw,.72rem);color:var(--ink-3);display:block}
+/* quadrante: retrato posicional dos players em duas medidas */
+.quad .qbg{fill:#1e1e1c}
+.quad .qhi{fill:color-mix(in srgb,var(--accent) 7%,transparent)}
+.quad .qax{stroke:var(--hair);stroke-width:1;stroke-dasharray:4 4}
+.quad .qlab{fill:var(--ink-3);font-size:13px;letter-spacing:.14em;text-transform:uppercase}
+.quad .qnome{font-size:15px;font-weight:600}
+.quad .qcorte{fill:var(--ink-3);font-size:12px}
+.quad .qeixo{fill:var(--ink-3);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+.quad .qpt{stroke:var(--surface);stroke-width:2}
 .mini{font-size:clamp(.56rem,.78vw,.72rem);color:var(--ink-3);margin-top:.5em}
 /* sintese executiva: abre um bloco dizendo o que ele decide */
 .sintese{display:grid;grid-template-columns:repeat(auto-fit,minmax(0,1fr));gap:clamp(.5rem,1.5vw,1.4rem)}

@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Como ler o dado — Electrolux LATAM 2027 · Youdare</title>
+<link rel="preconnect" href="https://api.fontshare.com">
+<link href="https://api.fontshare.com/v2/css?f[]=zodiak@400,401&f[]=supreme@400,500,600&display=swap" rel="stylesheet">
+<style>
+:root{--surface:#1a1a19;--ink:#f0ede4;--ink-2:#cfcdc4;--ink-3:#8a8880;--hair:#33322e;
+  --accent:#3987e5;--ia:#199e70;--alerta:#c98500}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--surface);color:var(--ink);font-family:'Supreme',ui-sans-serif,system-ui,sans-serif;
+  line-height:1.6;font-size:16px;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74ch;margin:0 auto;padding:clamp(2rem,6vw,5rem) clamp(1.1rem,4vw,2rem) 6rem}
+header.capa{border-bottom:1px solid var(--hair);padding-bottom:2.2rem;margin-bottom:3rem}
+.kicker{font-size:.68rem;letter-spacing:.22em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:'Zodiak',Georgia,serif;font-size:clamp(2rem,5vw,3.2rem);line-height:1.08;margin:.5em 0 .3em;font-weight:400}
+h1 em{font-style:italic;color:var(--ink-2)}
+.sub{color:var(--ink-2);font-size:1.02rem;max-width:56ch}
+.sec{margin-bottom:3.6rem;scroll-margin-top:2rem}
+h2{font-family:'Zodiak',Georgia,serif;font-size:clamp(1.3rem,2.9vw,1.95rem);font-weight:400;
+  line-height:1.2;margin-bottom:1.1rem;display:flex;gap:.7em;align-items:baseline}
+.num{font-size:.52em;color:var(--accent);letter-spacing:.1em}
+h3{font-size:.95rem;font-weight:600;margin:1.8rem 0 .6rem;color:var(--ink)}
+p{color:var(--ink-2);margin-bottom:.85rem}
+p.lead{font-size:1.08rem;color:var(--ink)}
+p.obs{font-size:.88rem;color:var(--ink-3);border-left:2px solid var(--hair);padding-left:1em}
+b{color:var(--ink);font-weight:600}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.86em;
+  background:#232322;padding:.12em .4em;border-radius:2px;color:var(--ink)}
+ul.regras{list-style:none;display:flex;flex-direction:column;gap:.7rem;margin:1.2rem 0}
+ul.regras li{color:var(--ink-2);border-left:2px solid var(--accent);padding-left:1em}
+table{width:100%;border-collapse:collapse;margin:1rem 0 1.4rem;font-size:.88rem}
+th{text-align:left;font-size:.62rem;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3);
+  border-bottom:1px solid var(--hair);padding:.5em .7em .5em 0;font-weight:500;vertical-align:bottom}
+td{padding:.6em .7em .6em 0;border-bottom:1px solid #26262330;color:var(--ink-2);vertical-align:top}
+table.wide td:first-child{white-space:nowrap;color:var(--ink)}
+.ok{color:var(--ia)} .nao{color:#d95926}
+.fontes{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,20rem),1fr));gap:1.2rem;margin:1.4rem 0}
+.fonte{border:1px solid var(--hair);border-top-width:3px;padding:1.2rem}
+.f-search{border-top-color:var(--accent)} .f-ia{border-top-color:var(--ia)}
+.fonte .tag{font-size:.58rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-3)}
+.fonte h3{margin:.3rem 0 .6rem}
+.cifra{font-family:'Zodiak',Georgia,serif;font-size:1.9rem;color:var(--ink);line-height:1;margin-bottom:.15rem}
+.cl{font-size:.76rem;color:var(--ink-3);margin-bottom:1rem}
+.fonte p{font-size:.86rem}
+.med{border-top:1px solid var(--hair);padding-top:1.1rem;margin-top:1.6rem}
+.med h3{margin-top:0;font-size:1.05rem;font-family:'Zodiak',Georgia,serif;font-weight:400}
+dl{display:grid;grid-template-columns:minmax(8rem,12rem) 1fr;gap:.35rem 1.2rem;font-size:.88rem;margin-top:.6rem}
+dt{font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);padding-top:.28em}
+dd{color:var(--ink-2)}
+dt.al{color:var(--alerta)} dd.al{color:var(--ink-2)}
+dd.on{color:var(--ink-3);font-size:.82rem}
+footer{border-top:1px solid var(--hair);padding-top:1.4rem;font-size:.78rem;color:var(--ink-3)}
+@media (max-width:34rem){dl{grid-template-columns:1fr;gap:.1rem .6rem}dt{padding-top:.7em}}
+</style></head><body><div class="wrap">
+<header class="capa">
+  <span class="kicker">Youdare · Direção de Mídia e Dados · agosto 2026</span>
+  <h1>Como ler<br><em>o dado</em></h1>
+  <p class="sub">Texto de apoio ao material de cenário de search e IA. O que cada número é, de
+  onde vem, sobre o que é calculado e onde ele engana.</p>
+</header>
+<section class="sec"><h2><span class="num">01</span>Para que serve este documento</h2>
+<p class="lead">O material de cenário mostra os números. Este documento explica <b>o que cada
+número é</b>, de onde ele vem, sobre o que ele é calculado e onde ele engana. Leia antes de
+apresentar; consulte quando alguém contestar.</p>
+<p>Duas regras valem para o material inteiro e resolvem a maior parte das dúvidas:</p>
+<ul class="regras">
+  <li><b>Cobertura é sempre sobre o total da demanda da categoria.</b> Quando a comparação for
+  de marca contra marca, é esta a medida. Nunca sobre a fatia já ocupada pelas marcas, nunca
+  sobre uma amostra de perguntas.</li>
+  <li><b>Busca e IA não se somam.</b> Medem coisas diferentes, em unidades diferentes. Toda
+  comparação entre as duas fontes é de posição relativa dentro de cada uma.</li>
+</ul></section><section class="sec"><h2><span class="num">02</span>As duas fontes</h2>
+<p>O material tem duas bases independentes. Elas foram construídas separadamente, sem consulta
+uma à outra, e só depois cruzadas. É essa independência que dá valor às convergências.</p>
+<div class="fontes">
+  <div class="fonte f-search">
+    <span class="tag">Search</span>
+    <h3>Demanda de busca</h3>
+    <p class="cifra">13.076.850</p><p class="cl">buscas/mês mapeadas · Brasil · ago/25 a jul/26</p>
+    <p><b>O que é.</b> Volume de busca por palavra-chave, com série mensal de doze meses.
+    Um arquivo por marca, mais um de cabeças de categoria e uma lista de cauda sem marca
+    construída por nós.</p>
+    <p><b>Enxerga.</b> A demanda que a pessoa expressa digitando, os termos exatos, a composição
+    por necessidade e a forma da curva ao longo do ano.</p>
+    <p><b>Não enxerga.</b> Quem captura cada consulta hoje, demanda latente, conversão.</p>
+  </div>
+  <div class="fonte f-ia">
+    <span class="tag">IA</span>
+    <h3>Demanda mediada por assistente</h3>
+    <p class="cifra">22.608.981</p><p class="cl">de volume em 3.056 tópicos de categoria · Brasil</p>
+    <p><b>O que é.</b> Tópicos que os assistentes tratam como o mesmo assunto, com volume e
+    intenção; e os prompts reais dentro deles, com a resposta que cada provedor deu.</p>
+    <p><b>Enxerga.</b> O que as pessoas perguntam, em que momento da relação com o produto,
+    e se alguma marca é nomeada — na pergunta e na resposta.</p>
+    <p><b>Não enxerga.</b> Quais fontes o modelo cita para montar a resposta, e o que ele
+    responde quando perguntam pela marca pelo nome.</p>
+  </div>
+</div>
+<h3>O que limita as duas</h3>
+<p><b>Em IA, todo export para em 1.000 linhas.</b> O universo é censurado por seed: os
+percentuais descrevem <b>demanda mapeada</b>, não demanda total. Cada seed novo alarga o mapa.
+Nenhum percentual da parte de IA deve ser lido como participação sobre o universo da categoria.</p>
+<p><b>Em busca, os arquivos por marca têm profundidade diferente</b> — Brastemp com 1.998
+keywords, Haier com 44. A composição interna de cada marca é comparável; o tamanho entre marcas
+não. Por isso a comparação de cobertura entre players só é válida na base de IA, cujos
+13 exports partem todos dos mesmos seeds de categoria.</p></section><section class="sec"><h2><span class="num">03</span>As medidas, uma a uma</h2><div class="med">
+      <h3>Cobertura</h3>
+      <dl>
+        <dt>O que é</dt><dd>A fatia da demanda total da categoria cujos tópicos carregam o nome de uma marca.</dd>
+        <dt>Sobre o quê é calculada</dt><dd><b>O total da demanda de categoria em IA — 22.608.981 de volume</b></dd>
+        <dt>Como se lê</dt><dd>Electrolux tem 5,69%, Brastemp 1,91%. Somando as sete e as demais marcas, 18,8%. O resto, 81,2%, não nomeia fabricante.</dd>
+        <dt class="al">Onde engana</dt><dd class="al">Ela mede o que é <b>perguntado</b>, não quem a IA cita ao responder. São perguntas diferentes.</dd>
+        <dt>Onde aparece</dt><dd class="on">Parte 2 · Cobertura consolidado, por marca e por estágio</dd>
+      </dl></div><div class="med">
+      <h3>Citação em resposta</h3>
+      <dl>
+        <dt>O que é</dt><dd>Em quantas das 150 perguntas sem marca de uma amostra a marca aparece no texto da resposta.</dd>
+        <dt>Sobre o quê é calculada</dt><dd><b>A amostra de 150 perguntas — não a demanda da categoria</b></dd>
+        <dt>Como se lê</dt><dd>Electrolux aparece em 33% delas. É a medida de <b>como</b> a marca aparece, não de quanto da demanda ela cobre.</dd>
+        <dt class="al">Onde engana</dt><dd class="al">Números de citação e de cobertura têm denominadores diferentes e não se comparam entre si. Usar 33% numa comparação de marca contra marca é erro: a medida certa ali é a cobertura.</dd>
+        <dt>Onde aparece</dt><dd class="on">Parte 2 · Cobertura, outras medidas e provedores</dd>
+      </dl></div><div class="med">
+      <h3>Presença e ocupação</h3>
+      <dl>
+        <dt>O que é</dt><dd><b>Presença</b> é o volume dos tópicos em que um domínio aparece de algum modo. <b>Ocupação</b> é essa mesma presença ponderada pela visibilidade que o domínio tem dentro de cada tópico.</dd>
+        <dt>Sobre o quê é calculada</dt><dd><b>O total da demanda de categoria em IA</b></dd>
+        <dt>Como se lê</dt><dd>brastemp.com.br está presente em 19,2% do volume e ocupa 8,2%. A distância entre as duas é o diagnóstico: aparecer em muitos tópicos com pouca visibilidade em cada um.</dd>
+        <dt class="al">Onde engana</dt><dd class="al">A medida existe por domínio. Não comparar um player que a tem com outro que não a tem.</dd>
+        <dt>Onde aparece</dt><dd class="on">Parte 2 · Ocupação</dd>
+      </dl></div><div class="med">
+      <h3>Trajetória (inclinação contra a categoria)</h3>
+      <dl>
+        <dt>O que é</dt><dd>A média dos cinco últimos meses dividida pela dos sete primeiros, depois de dividir a série da marca pela série da categoria para descontar sazonalidade.</dd>
+        <dt>Sobre o quê é calculada</dt><dd><b>A própria série da marca, relativa à categoria</b></dd>
+        <dt>Como se lê</dt><dd>Acima de 1,00 a marca ganha share de demanda; abaixo, perde. Hisense 1,40; Electrolux 0,99; Samsung 0,85.</dd>
+        <dt class="al">Onde engana</dt><dd class="al">Sem descontar a sazonalidade, a Electrolux apareceria em 1,08 e pareceria estar crescendo. Toda a categoria sobe e desce junto nos mesmos meses.</dd>
+        <dt>Onde aparece</dt><dd class="on">Parte 1 · Panorama e retrato de arquétipos</dd>
+      </dl></div><div class="med">
+      <h3>Fatia de posse</h3>
+      <dl>
+        <dt>O que é</dt><dd>Quanto da demanda classificada de uma marca vem das famílias de vida com o produto.</dd>
+        <dt>Sobre o quê é calculada</dt><dd><b>O volume classificado daquela marca — os três estágios somam 100%</b></dd>
+        <dt>Como se lê</dt><dd>Consul 16,4%, Electrolux 7,9%. É leitura de perfil, não de tamanho.</dd>
+        <dt class="al">Onde engana</dt><dd class="al">Não use para comparar tamanho entre marcas: os recortes de origem têm profundidades diferentes.</dd>
+        <dt>Onde aparece</dt><dd class="on">Parte 1 · Retratos de arquétipo e de perfil</dd>
+      </dl></div></section><section class="sec"><h2><span class="num">04</span>O modelo de jornada</h2>
+<p>Os mesmos quatro estágios organizam as duas fontes, mas são derivados de formas diferentes,
+porque as fontes medem coisas diferentes. Isso está declarado no material e é declarado aqui.</p>
+<table class="wide"><thead><tr><th>Estágio</th><th>Em busca, sai de</th><th>Em IA, sai de</th><th>Peso em busca</th><th>Peso em IA</th></tr></thead><tbody><tr><td><b>0 · Sem marca</b></td><td>A consulta não menciona fabricante</td><td>O nome do tópico não menciona fabricante</td><td><b>54,1%</b></td><td><b>81,2%</b></td></tr><tr><td><b>1 · Descoberta</b></td><td>Família de marca e navegação</td><td>Família de marca e loja, ou intent navegacional acima de 25%</td><td>8,8%</td><td>7,0%</td></tr><tr><td><b>2 · Escolha</b></td><td>Especificação de produto, aquisição e comparação</td><td>Comparação e preço, ou intent comercial + transacional acima de 45%</td><td>11,1%</td><td>29,6%</td></tr><tr><td><b>3 · Posse</b></td><td>As dez famílias de vida com o produto</td><td>As oito famílias de vida com o produto</td><td>2,0%</td><td>13,8%</td></tr></tbody></table>
+<p class="obs">Em IA existe um quinto agrupamento, <b>exploração de categoria</b>
+(49,6%), para tópicos que nomeiam produto ou categoria sem
+expressar necessidade nem intenção de compra dominante. Ele não tem equivalente em busca, onde
+esse comportamento aparece dentro do estágio 0.</p>
+<p><b>O estágio é regra, não medição.</b> Os cortes em 25% e 45% de intent são decisão nossa,
+declarada. Mudar o corte muda a fronteira entre descoberta e escolha, não a leitura de que a
+posse pesa mais que a descoberta.</p></section><section class="sec"><h2><span class="num">05</span>As famílias de necessidade</h2>
+<p>Família é o nível mais fino da leitura. Ela agrupa consultas e tópicos <b>pela necessidade
+que os gera</b>, e é o eixo do material inteiro. O estágio de posse é a soma dessas famílias.</p>
+<table class="wide"><thead><tr><th>Família</th><th>Consulta real que a exemplifica</th><th>A necessidade por trás</th></tr></thead><tbody><tr><td><b>Assistência e conserto</b></td><td><code>conserto de geladeira</code></td><td>Procura quem arruma</td></tr><tr><td><b>Defeito e problema</b></td><td><code>ar condicionado pingando agua</code></td><td>Descreve o sintoma antes de saber o que é</td></tr><tr><td><b>Peça e consumível</b></td><td><code>copo liquidificador</code></td><td>Procura o componente pelo nome dele, não por “peça”</td></tr><tr><td><b>Instalação</b></td><td><code>instalação de ar condicionado</code></td><td>Comprou e precisa pôr para funcionar</td></tr><tr><td><b>Manutenção e limpeza</b></td><td><code>como limpar ferro de passar</code></td><td>Cuida do produto para ele durar</td></tr><tr><td><b>Manual e uso</b></td><td><code>como usar air fryer</code></td><td>Tem o produto e não sabe operar</td></tr><tr><td><b>Consumo e energia</b></td><td><code>air fryer gasta muita energia</code></td><td>Preocupação de custo depois da compra</td></tr><tr><td><b>Garantia e suporte</b></td><td><code>garantia estendida electrolux</code></td><td>Procura cobertura, não conserto</td></tr><tr><td><b>Receita e preparo</b></td><td><code>receitas air fryer</code></td><td>Usa o produto para o fim dele</td></tr><tr><td><b>Descarte e sustentabilidade</b></td><td><code>coleta consciente</code></td><td>Fim de vida do produto</td></tr></tbody></table>
+<h3>A regra que mais gera dúvida: nome comercial não é família</h3>
+<p>A Electrolux criou frentes nomeadas — Cuida, Instala, Projeta, Pro, Shopclub, Outlet, Coleta
+Consciente. Nenhuma delas é uma família. Cada uma <b>entra pela necessidade que atende</b>:
+Cuida é assistência, Instala é instalação, Outlet e Shopclub são aquisição e comparação.</p>
+<p>O nome comercial é um atributo transversal, que convive com a família e não a substitui.
+Por isso <code>assistência técnica electrolux</code> e <code>electrolux cuida</code> caem as duas
+em assistência. O que os separa não é a família: é se a pessoa digitou a necessidade ou o nome
+comercial que a marca deu a ela.</p>
+<p class="obs">A demanda pelo nome existe e é pequena: as sete frentes somam
+<b>10.600 buscas/mês</b>, 1,5% da demanda pela marca. A necessidade correspondente é muito maior
+— <code>assistência técnica electrolux</code> sozinha tem 5.400 contra 2.790 de Cuida somando as
+duas grafias da marca.</p></section><section class="sec"><h2><span class="num">06</span>O que pode e o que não pode ser comparado</h2>
+<table class="wide"><thead><tr><th>Comparação</th><th>Pode?</th><th>Por quê</th></tr></thead><tbody><tr><td>Cobertura de uma marca contra outra, em IA</td><td><b class="ok">Sim</b></td><td>Os 13 exports partem dos mesmos seeds de categoria, e nenhum carrega nome de marca. Marca que aparece foi descoberta pela ferramenta.</td></tr><tr><td>Perfil de jornada de uma marca contra outra, em busca</td><td><b class="ok">Sim</b></td><td>A composição interna de cada marca não depende da profundidade do recorte.</td></tr><tr><td>Trajetória de uma marca contra outra</td><td><b class="ok">Sim</b></td><td>A inclinação é relativa à própria série da marca, descontada a categoria.</td></tr><tr><td>Volume absoluto de uma marca contra outra, em busca</td><td><b class="nao">Não</b></td><td>Brastemp foi exportada com 1.998 keywords e Haier com 44. O tamanho reflete o recorte.</td></tr><tr><td>Citação em resposta de uma marca contra outra</td><td><b class="nao">Não</b></td><td>Os exports de prompt são semeados por marca, e Consul, Samsung e Haier não têm seed. Quem tem seed aparece mais por construção.</td></tr><tr><td>Volume de busca somado com volume de IA</td><td><b class="nao">Não</b></td><td>Unidades diferentes. Buscas por mês e volume de tópico não são a mesma coisa.</td></tr><tr><td>Ocupação de um domínio contra a cobertura de outra marca</td><td><b class="nao">Não</b></td><td>São medidas distintas. Ocupação só se compara com ocupação.</td></tr></tbody></table>
+<h3>O recorte limpo dos prompts</h3>
+<p>Onde a leitura depende de a IA citar uma marca, o material usa só as <b>943
+respostas do seed sem marca</b>. É o único recorte em que citar um fabricante é decisão do
+modelo e não eco do prompt. Nele, 23,6% das respostas nomeiam alguma
+das sete marcas.</p></section><section class="sec"><h2><span class="num">07</span>Glossário rápido</h2><table class="wide"><thead><tr><th>Termo</th><th>O que quer dizer aqui</th></tr></thead><tbody><tr><td><b>Tópico</b></td><td>Agrupamento de prompts que os assistentes tratam como o mesmo assunto. É a unidade da base de IA.</td></tr><tr><td><b>Prompt</b></td><td>A pergunta real que uma pessoa fez a um assistente.</td></tr><tr><td><b>Seed</b></td><td>O termo de partida de um export. Define o que a ferramenta foi procurar, e por isso define o viés.</td></tr><tr><td><b>Intent</b></td><td>Classificação da própria ferramenta sobre a disposição da consulta: informacional, comercial, transacional, navegacional, tarefa.</td></tr><tr><td><b>Visibility</b></td><td>Nota de 0 a 100 que mede quanto de um tópico um domínio ocupa. Entra no cálculo de ocupação.</td></tr><tr><td><b>AI Overview</b></td><td>Resumo gerado que o Google entrega no topo da busca em vez de links. Mede mediação, não presença da marca dentro do resumo.</td></tr><tr><td><b>Território sem dono</b></td><td>As 207.600 buscas/mês de posse que nenhum player reivindica em posicionamento nem tem demanda atrelada ao nome. Não quer dizer que ninguém receba esse tráfego.</td></tr><tr><td><b>Vazamento de clustering</b></td><td>Tópicos que a ferramenta agrupou mas que não são sobre a categoria. São excluídos de todo agregado.</td></tr></tbody></table></section>
+<footer>Complemento do material <b>Cenário de search e IA · Electrolux LATAM 2027</b>.
+As ressalvas de número específico vivem no deck <b>Ressalvas de dado</b>.<br>
+Gerado por <code>30-analise/gerar_guia.py</code> a partir de <code>dados_do_deck.json</code>.
+Nenhuma cifra deste documento é digitada à mão.</footer>
+</div></body></html>
