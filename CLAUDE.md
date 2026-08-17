@@ -159,6 +159,15 @@ e audiência de mercado. Fontes típicas: Kantar IBOPE Media, TGI, Kantar Ad Ins
 O ESOV — a diferença entre share of voice e share of market — nasce do cruzamento entre esta
 prática e a P1, e é o preditor de crescimento mais usado para dimensionar pressão de marca.
 
+**Lente de posicionamento declarado × demanda medida.** Todo mapeamento competitivo cruza o que
+cada player *diz que é* — territórios declarados, frentes nomeadas, eixos de campanha — com a
+demanda medida atrelada ao nome dele. O quadrante que mais decide é **território anunciado e
+vago**: o player declarou, montou estrutura, e ainda não tem demanda. Num concorrente isso é
+janela de ocupação com prazo, não conforto; na própria marca é aposta a validar. Separar
+antecipação de aposta errada depende da inclinação da série, nunca do nível. Aplique a lente ao
+cliente e a todos os concorrentes do conjunto declarado, não apenas ao primeiro caso da
+conversa. Detalhe em `00-cadeira/metodo/posicionamento-vs-demanda.md`.
+
 **Pergunta central:** contra quem estamos competindo por atenção, com que pressão, e qual
 posição relativa a verba atual compra.
 

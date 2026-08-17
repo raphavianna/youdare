@@ -43,9 +43,31 @@ atual** — o Tier 1 abaixo é o que a torna testável.
 
 | # | Export | Ferramenta | Destrava |
 |---|---|---|---|
-| 1 | **Keyword universe de serviço e pós-compra, NÃO-branded.** Seeds sugeridas: assistência técnica, conserto, autorizada, peça de reposição, filtro, correia, resistência, instalação, garantia, manutenção, "não gela", "não centrifuga", "não seca", "erro", "como limpar", "como usar", "manual", consumo de energia, kWh, selo Procel, descarte, reciclagem, receita, modo de preparo — cruzadas com as categorias do portfólio | SEMrush Keyword Magic | O tamanho real da demanda de ecossistema. É o teste de H1 |
+| 1 | **Keyword universe de serviço e pós-compra, NÃO-branded.** Seed list derivado empiricamente — ver quadro abaixo | SEMrush Keyword Magic | O tamanho real da demanda de ecossistema. É o teste de H1 |
 | 2 | **Keyword universe das frentes nomeadas:** Instala, Projeta, Cuida, Electrolux Pro, Shopclub, Outlets, Afiliados, Coleta Consciente | SEMrush Keyword Magic | Se as frentes que o cliente quer conectar existem em busca, e com que peso |
 | 3 | **Organic Positions dos captores que não são fabricantes:** Mercado Livre, Magalu, Amazon, Casas Bahia, Americanas, YouTube e portais de conteúdo doméstico, nas keywords do item 1 | SEMrush Organic Research | Quem captura hoje a demanda do ecossistema. É o conjunto competitivo do ecossistema, distinto do de produto |
+
+### Seed list do item 1 — derivado do corpus de IA, não suposto
+
+Extraído das perguntas reais do corpus de 4.749 prompts e questões não-branded. Detalhe em
+`30-analise/2026-08-17_youdare_analise_territorio-anunciado-e-vago.md`.
+
+| Família | Seeds | Observação de estrutura |
+|---|---|---|
+| Assistência técnica | `assistência técnica`, `autorizada`, `conserto`, `consertar`, `suporte técnico`, `agendar manutenção`, `chamado técnico` | **Cruzar com cidade.** O padrão real é `assistência técnica <marca> <cidade>` e `autorizada em <cidade>`. Sem seed geográfico, a família inteira é subdimensionada |
+| Peça e consumível | `peça de reposição`, `filtro`, `refil`, `correia`, `resistência`, `lâmpada geladeira`, `filtro hepa`, `gás refrigerante` | **Cruzar com código de modelo.** O padrão é `refil <código>`, `filtro para <modelo>`. Longa cauda de altíssima intenção |
+| Manual e uso | `manual`, `manual pdf`, `como limpar`, `como usar`, `como configurar`, `como programar`, `como higienizar` | **Família própria, não subitem de "uso".** `manual <produto> <modelo> pdf` é contato de pós-compra que hoje vai para terceiro |
+| Instalação | `como instalar`, `instalação`, `medidas do vão`, `montagem` | Frequentemente colado a `configurar` e `manter` na mesma pergunta |
+| Garantia | `garantia`, `extensão de garantia`, `garantia de procedência`, `cobertura` | Aparece junto de `suporte ao cliente` e de `onde comprar` — é atributo de decisão, não só de pós-venda |
+| Manutenção e cuidado | `cuidados`, `manutenção`, `limpeza`, `durabilidade`, `vida útil`, `conservação` | Formulação típica: `quais cuidados devo ter com <produto>` |
+| Defeito | `não gela`, `não liga`, `não centrifuga`, `não seca`, `erro`, `barulho`, `vazando` | Volume baixo no corpus de IA, mas é a família com maior probabilidade de estar sub-representada ali e forte em busca |
+| Consumo e eficiência | `consumo de energia`, `kwh`, `conta de luz`, `selo procel`, `econômica`, `inmetro` | Já aparece com 2,8% do corpus — é a família de serviço com mais demanda medida |
+| Descarte e sustentabilidade | `descarte`, `reciclagem`, `coleta`, `logística reversa` | **Zero perguntas no corpus.** Puxar mesmo assim: é território declarado pela marca e a ausência precisa ser confirmada em busca, não inferida da IA |
+
+Cruzar todas as famílias com as categorias do portfólio (geladeira, lavadora, lava e seca,
+fogão, forno, micro-ondas, ar condicionado, aspirador, purificador, coifa, cooktop, lava-louças,
+air fryer) e rodar as mesmas famílias em versão **branded por marca** do conjunto competitivo,
+para permitir a leitura de quem captura cada uma.
 
 ## Tier 1B — Haier: a ameaça que o briefing nomeia e o dado não cobre
 
