@@ -200,7 +200,7 @@ slide("search", "O modelo", "A posse se decompõe em oito famílias, e cada uma 
   "Famílias são o nível mais fino da leitura: agrupam consultas pela necessidade que as gera. Elas são o eixo do material inteiro.",
   tabela(["Família","Consultas reais que a compõem","Volume/mês"],
     [[f'<b>{lab}</b>', ex(f, 2), f'<b>{n(SD["familias"].get(f,0)/100*SD["volume"])}</b>'] for f, lab in FAMS], "wide"),
-  "As oito somam o território de posse. É nele que este material vai concentrar a leitura, porque é onde a categoria inteira tem o menor peso de demanda.", F_CAUDA)
+  "As oito classificam pela <b>necessidade</b> que a consulta expressa, não pelo nome comercial do serviço. <code>assistência técnica electrolux</code> é assistência; <code>electrolux cuida</code> é frente nomeada, uma família à parte.", F_CAUDA)
 
 slides.append("""<section class="slide divisor"><div class="slide-inner">
   <span class="parte">Parte 1</span><h2>Os players</h2>
@@ -252,29 +252,52 @@ slide("search", "Electrolux", "Contra a categoria, a demanda da Electrolux está
         (str(el["inclinacao_bruta"]).replace(".",","), "sem descontar a sazonalidade — a leitura enganosa", "#6b6a63")]),
   "As duas medidas divergem de propósito: julho foi um mês forte, o que puxa a leitura ponta a ponta para 115, mas a <b>média do período não se move</b>. É o ano a ano que descreve a trajetória.", F_KW)
 
-# --- frentes nomeadas, explicado
-FR = D["frentes"]
-slide("search", "Electrolux", "As frentes de serviço que a marca criou quase não têm demanda buscável",
-  "Frentes nomeadas são as marcas de serviço e canal que a Electrolux lançou — Cuida, Instala, Projeta, Pro, Shopclub, Outlet e Coleta Consciente. Cada uma foi medida pelo nome.",
-  '<div class="col2"><div>' +
-  barras_h([(k.replace("electrolux ","").replace(" electrolux","").capitalize(), v, None) for k, v in FR],
-           lambda x: "#3987e5", fmt=n) + '</div><div>' +
-  kpis([(n(sum(v for _, v in FR)), "buscas/mês somando todas as frentes", "#3987e5"),
-        (n(el["volume"]), "buscas/mês da marca Electrolux", "#f0ede4"),
-        ("0,75", "inclinação da família — a que mais cai", "#d95926")]) +
-  '<div class="quadro"><p>Todas as frentes somadas equivalem a <b>1,2%</b> da demanda pela marca. E a família é a única série da Electrolux que <b>cai</b> enquanto a demanda espontânea de pós-compra sobe.</p></div>'
-  '</div></div>',
-  "", F_KW + " · " + F_CAUDA)
+# --- frentes nomeadas, explicado (dois eixos, separados)
+FR = {k: v for k, v in D["frentes"]}
+NECESSIDADE = [("assistência técnica electrolux", "assistência e reparo"),
+               ("garantia estendida electrolux", "garantia"),
+               ("peça original electrolux", "peça e consumível")]
+SUBMARCA = [("electrolux outlet","Outlet"), ("electrolux cuida","Cuida"), ("electrolux instala","Instala"),
+            ("electrolux projeta","Projeta"), ("electrolux shopclub","Shopclub"),
+            ("electrolux pro","Pro"), ("coleta consciente electrolux","Coleta Consciente")]
+v_nec = sum(FR.get(k,0) for k,_ in NECESSIDADE)
+v_sub = sum(FR.get(k,0) for k,_ in SUBMARCA)
+
+slide("search", "O modelo", "A necessidade e o nome do serviço são duas coisas diferentes, e ficam em famílias diferentes",
+  "Quem digita a necessidade cai na família da necessidade, mesmo mencionando a marca. Só quem digita o nome da submarca cai em “frente nomeada”. A regra vale para todas as marcas do material.",
+  '<div class="col2"><div class="quadro"><span class="qh">Família da necessidade</span>'
+  + tabela(["Consulta","Cai na família","Vol/mês"],
+      [[f'<code>{e(k)}</code>', fam, f'<b>{n(FR.get(k,0))}</b>'] for k, fam in NECESSIDADE])
+  + '<p style="margin-top:.6em">A pessoa quer o serviço. O nome que a marca deu a ele não entra na conta.</p></div>'
+  '<div class="quadro"><span class="qh">Família “frente nomeada”</span>'
+  + tabela(["Consulta","Submarca","Vol/mês"],
+      [[f'<code>{e(k)}</code>', lab, f'<b>{n(FR.get(k,0))}</b>'] for k, lab in SUBMARCA])
+  + '<p style="margin-top:.6em">A pessoa procura o nome da frente. É demanda de reconhecimento da submarca.</p></div></div>',
+  "As duas medem coisas distintas: a primeira é <b>tamanho da necessidade</b>, a segunda é <b>reconhecimento da submarca criada para atendê-la</b>.", F_KW + " · " + F_CAUDA)
+
+slide("search", "Electrolux", "Mais gente procura assistência da Electrolux do que a marca criada para prestá-la",
+  "Comparação direta entre a necessidade expressa com o nome da marca e a submarca de serviço correspondente.",
+  '<div class="confronto">'
+  f'<div class="cf"><span class="cft">A necessidade</span><span class="cfv" style="color:#3987e5">{n(FR.get("assistência técnica electrolux",0))}</span>'
+  '<span class="cfl"><code>assistência técnica electrolux</code></span></div>'
+  '<div class="cfx">↔</div>'
+  f'<div class="cf"><span class="cft">A submarca criada para ela</span><span class="cfv" style="color:#d95926">{n(FR.get("electrolux cuida",0))}</span>'
+  '<span class="cfl"><code>electrolux cuida</code></span></div></div>' +
+  barras_h([(lab, FR.get(k,0), None) for k, lab in SUBMARCA], lambda x: "#d95926", fmt=n) +
+  kpis([(n(v_sub), "buscas/mês somando todas as submarcas", "#d95926"),
+        (pct(100*v_sub/el["volume"], 1), "da demanda pela marca Electrolux", "#f0ede4"),
+        ("0,75", "inclinação da família — a que mais cai", "#d95926")]),
+  "A estrutura de serviço existe e a necessidade existe. O que quase não existe é a ligação entre as duas — o consumidor não conhece o nome da frente.", F_KW + " · " + F_CAUDA)
 
 slide("search", "Electrolux", "Dentro da Electrolux, quem cresce é a demanda de quem já tem o produto",
   "Inclinação por família de demanda dentro da marca: acima de 1,00 cresce, abaixo encolhe. As famílias de posse estão no topo.",
   barras_h([("defeito", 1.43, None), ("garantia", 1.32, None), ("peça e consumível", 1.29, None),
             ("manual e uso", 1.24, None), ("especificação de produto", 1.17, None),
             ("marca e navegação", 0.96, None), ("assistência e reparo", 0.93, None),
-            ("frente nomeada", 0.75, "queda"), ("manutenção e cuidado", 0.72, "queda")],
+            ("frente nomeada (nome da submarca)", 0.75, "queda"), ("manutenção e cuidado", 0.72, "queda")],
            lambda k: "#d95926" if k == "queda" else "#3987e5", max_v=1.6,
            fmt=lambda v: str(round(v, 2)).replace(".", ",")),
-  "As estruturas que a marca criou perdem demanda enquanto a demanda espontânea que elas deveriam atender sobe. As duas curvas vão em direções opostas.", F_KW)
+  "Atenção à distinção: <b>frente nomeada</b> mede a busca pelo <b>nome</b> da submarca. A busca pela necessidade — defeito, garantia, peça — está nas próprias famílias, e sobe. O nome cai enquanto a necessidade cresce.", F_KW)
 
 slide("search", "Electrolux", "Geladeira concentra um terço da demanda de marca da Electrolux",
   "Peso de cada categoria de produto dentro da demanda da marca, e as consultas que mais pesam.",
