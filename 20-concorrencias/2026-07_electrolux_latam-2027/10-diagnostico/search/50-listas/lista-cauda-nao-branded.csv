@@ -1,0 +1,2001 @@
+prioridade,familia,categoria,keyword,racional
+1,defeito,geladeira,geladeira não gela,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira não gela o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira não gela,formulacao alternativa
+1,defeito,geladeira,geladeira não está gelando,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira não está gelando o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira não está gelando,formulacao alternativa
+1,defeito,geladeira,geladeira fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira fazendo barulho o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira fazendo barulho,formulacao alternativa
+1,defeito,geladeira,geladeira vazando água,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira vazando água o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira vazando água,formulacao alternativa
+1,defeito,geladeira,geladeira não liga,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira não liga o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira não liga,formulacao alternativa
+1,defeito,geladeira,geladeira congelando demais,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira congelando demais o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira congelando demais,formulacao alternativa
+1,defeito,geladeira,geladeira formando gelo,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira formando gelo o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira formando gelo,formulacao alternativa
+1,defeito,geladeira,geladeira com cheiro ruim,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira com cheiro ruim o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira com cheiro ruim,formulacao alternativa
+1,defeito,geladeira,geladeira luz não acende,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira luz não acende o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira luz não acende,formulacao alternativa
+1,defeito,geladeira,geladeira motor não desliga,query de socorro; altissima intencao de servico
+1,defeito,geladeira,geladeira motor não desliga o que fazer,formulacao de busca por solucao
+1,defeito,geladeira,como resolver geladeira motor não desliga,formulacao alternativa
+1,defeito,freezer,freezer não congela,query de socorro; altissima intencao de servico
+1,defeito,freezer,freezer não gela,query de socorro; altissima intencao de servico
+1,defeito,freezer,freezer formando gelo,query de socorro; altissima intencao de servico
+1,defeito,freezer,freezer fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,freezer,freezer não liga,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar não centrifuga,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar não centrifuga o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar não centrifuga,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar não enche de água,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar não enche de água o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar não enche de água,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar não escoa,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar não escoa o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar não escoa,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar não liga,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar não liga o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar não liga,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar fazendo barulho o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar fazendo barulho,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar vazando água,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar vazando água o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar vazando água,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar travada,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar travada o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar travada,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar não bate,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar não bate o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar não bate,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar parou no meio do ciclo,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar parou no meio do ciclo o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar parou no meio do ciclo,formulacao alternativa
+1,defeito,máquina de lavar,máquina de lavar tambor não gira,query de socorro; altissima intencao de servico
+1,defeito,máquina de lavar,máquina de lavar tambor não gira o que fazer,formulacao de busca por solucao
+1,defeito,máquina de lavar,como resolver máquina de lavar tambor não gira,formulacao alternativa
+1,defeito,lavadora de roupas,lavadora de roupas não centrifuga,query de socorro; altissima intencao de servico
+1,defeito,lavadora de roupas,lavadora de roupas não enche,query de socorro; altissima intencao de servico
+1,defeito,lavadora de roupas,lavadora de roupas não escoa,query de socorro; altissima intencao de servico
+1,defeito,lavadora de roupas,lavadora de roupas fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,lava e seca,lava e seca não seca,query de socorro; altissima intencao de servico
+1,defeito,lava e seca,lava e seca não seca o que fazer,formulacao de busca por solucao
+1,defeito,lava e seca,como resolver lava e seca não seca,formulacao alternativa
+1,defeito,lava e seca,lava e seca não centrifuga,query de socorro; altissima intencao de servico
+1,defeito,lava e seca,lava e seca não centrifuga o que fazer,formulacao de busca por solucao
+1,defeito,lava e seca,como resolver lava e seca não centrifuga,formulacao alternativa
+1,defeito,lava e seca,lava e seca não esquenta,query de socorro; altissima intencao de servico
+1,defeito,lava e seca,lava e seca não esquenta o que fazer,formulacao de busca por solucao
+1,defeito,lava e seca,como resolver lava e seca não esquenta,formulacao alternativa
+1,defeito,lava e seca,lava e seca não escoa,query de socorro; altissima intencao de servico
+1,defeito,lava e seca,lava e seca não escoa o que fazer,formulacao de busca por solucao
+1,defeito,lava e seca,como resolver lava e seca não escoa,formulacao alternativa
+1,defeito,lava e seca,lava e seca fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,lava e seca,lava e seca fazendo barulho o que fazer,formulacao de busca por solucao
+1,defeito,lava e seca,como resolver lava e seca fazendo barulho,formulacao alternativa
+1,defeito,secadora de roupas,secadora de roupas não seca,query de socorro; altissima intencao de servico
+1,defeito,secadora de roupas,secadora de roupas não seca o que fazer,formulacao de busca por solucao
+1,defeito,secadora de roupas,como resolver secadora de roupas não seca,formulacao alternativa
+1,defeito,secadora de roupas,secadora de roupas não esquenta,query de socorro; altissima intencao de servico
+1,defeito,secadora de roupas,secadora de roupas não esquenta o que fazer,formulacao de busca por solucao
+1,defeito,secadora de roupas,como resolver secadora de roupas não esquenta,formulacao alternativa
+1,defeito,secadora de roupas,secadora de roupas não liga,query de socorro; altissima intencao de servico
+1,defeito,secadora de roupas,secadora de roupas não liga o que fazer,formulacao de busca por solucao
+1,defeito,secadora de roupas,como resolver secadora de roupas não liga,formulacao alternativa
+1,defeito,secadora de roupas,secadora de roupas fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,secadora de roupas,secadora de roupas fazendo barulho o que fazer,formulacao de busca por solucao
+1,defeito,secadora de roupas,como resolver secadora de roupas fazendo barulho,formulacao alternativa
+1,defeito,fogão,fogão não acende,query de socorro; altissima intencao de servico
+1,defeito,fogão,fogão não acende o que fazer,formulacao de busca por solucao
+1,defeito,fogão,como resolver fogão não acende,formulacao alternativa
+1,defeito,fogão,fogão boca não acende,query de socorro; altissima intencao de servico
+1,defeito,fogão,fogão boca não acende o que fazer,formulacao de busca por solucao
+1,defeito,fogão,como resolver fogão boca não acende,formulacao alternativa
+1,defeito,fogão,fogão forno não acende,query de socorro; altissima intencao de servico
+1,defeito,fogão,fogão forno não acende o que fazer,formulacao de busca por solucao
+1,defeito,fogão,como resolver fogão forno não acende,formulacao alternativa
+1,defeito,fogão,fogão chama amarela,query de socorro; altissima intencao de servico
+1,defeito,fogão,fogão chama amarela o que fazer,formulacao de busca por solucao
+1,defeito,fogão,como resolver fogão chama amarela,formulacao alternativa
+1,defeito,fogão,fogão cheiro de gás,query de socorro; altissima intencao de servico
+1,defeito,fogão,fogão cheiro de gás o que fazer,formulacao de busca por solucao
+1,defeito,fogão,como resolver fogão cheiro de gás,formulacao alternativa
+1,defeito,fogão,fogão acendimento automático não funciona,query de socorro; altissima intencao de servico
+1,defeito,fogão,fogão acendimento automático não funciona o que fazer,formulacao de busca por solucao
+1,defeito,fogão,como resolver fogão acendimento automático não funciona,formulacao alternativa
+1,defeito,cooktop,cooktop não acende,query de socorro; altissima intencao de servico
+1,defeito,cooktop,cooktop não liga,query de socorro; altissima intencao de servico
+1,defeito,cooktop,cooktop chama fraca,query de socorro; altissima intencao de servico
+1,defeito,forno elétrico,forno elétrico não esquenta,query de socorro; altissima intencao de servico
+1,defeito,forno elétrico,forno elétrico não liga,query de socorro; altissima intencao de servico
+1,defeito,forno elétrico,forno elétrico resistência queimada,query de socorro; altissima intencao de servico
+1,defeito,micro-ondas,micro-ondas não esquenta,query de socorro; altissima intencao de servico
+1,defeito,micro-ondas,micro-ondas não esquenta o que fazer,formulacao de busca por solucao
+1,defeito,micro-ondas,como resolver micro-ondas não esquenta,formulacao alternativa
+1,defeito,micro-ondas,micro-ondas prato não gira,query de socorro; altissima intencao de servico
+1,defeito,micro-ondas,micro-ondas prato não gira o que fazer,formulacao de busca por solucao
+1,defeito,micro-ondas,como resolver micro-ondas prato não gira,formulacao alternativa
+1,defeito,micro-ondas,micro-ondas dando faísca,query de socorro; altissima intencao de servico
+1,defeito,micro-ondas,micro-ondas dando faísca o que fazer,formulacao de busca por solucao
+1,defeito,micro-ondas,como resolver micro-ondas dando faísca,formulacao alternativa
+1,defeito,micro-ondas,micro-ondas não liga,query de socorro; altissima intencao de servico
+1,defeito,micro-ondas,micro-ondas não liga o que fazer,formulacao de busca por solucao
+1,defeito,micro-ondas,como resolver micro-ondas não liga,formulacao alternativa
+1,defeito,micro-ondas,micro-ondas com barulho,query de socorro; altissima intencao de servico
+1,defeito,micro-ondas,micro-ondas com barulho o que fazer,formulacao de busca por solucao
+1,defeito,micro-ondas,como resolver micro-ondas com barulho,formulacao alternativa
+1,defeito,lava louças,lava louças não seca,query de socorro; altissima intencao de servico
+1,defeito,lava louças,lava louças não seca o que fazer,formulacao de busca por solucao
+1,defeito,lava louças,como resolver lava louças não seca,formulacao alternativa
+1,defeito,lava louças,lava louças não escoa,query de socorro; altissima intencao de servico
+1,defeito,lava louças,lava louças não escoa o que fazer,formulacao de busca por solucao
+1,defeito,lava louças,como resolver lava louças não escoa,formulacao alternativa
+1,defeito,lava louças,lava louças não lava direito,query de socorro; altissima intencao de servico
+1,defeito,lava louças,lava louças não lava direito o que fazer,formulacao de busca por solucao
+1,defeito,lava louças,como resolver lava louças não lava direito,formulacao alternativa
+1,defeito,lava louças,lava louças não liga,query de socorro; altissima intencao de servico
+1,defeito,lava louças,lava louças não liga o que fazer,formulacao de busca por solucao
+1,defeito,lava louças,como resolver lava louças não liga,formulacao alternativa
+1,defeito,lava louças,lava louças vazando,query de socorro; altissima intencao de servico
+1,defeito,lava louças,lava louças vazando o que fazer,formulacao de busca por solucao
+1,defeito,lava louças,como resolver lava louças vazando,formulacao alternativa
+1,defeito,ar condicionado,ar condicionado não gela,query de socorro; altissima intencao de servico
+1,defeito,ar condicionado,ar condicionado não gela o que fazer,formulacao de busca por solucao
+1,defeito,ar condicionado,como resolver ar condicionado não gela,formulacao alternativa
+1,defeito,ar condicionado,ar condicionado pingando agua,query de socorro; altissima intencao de servico
+1,defeito,ar condicionado,ar condicionado pingando agua o que fazer,formulacao de busca por solucao
+1,defeito,ar condicionado,como resolver ar condicionado pingando agua,formulacao alternativa
+1,defeito,ar condicionado,ar condicionado não liga,query de socorro; altissima intencao de servico
+1,defeito,ar condicionado,ar condicionado não liga o que fazer,formulacao de busca por solucao
+1,defeito,ar condicionado,como resolver ar condicionado não liga,formulacao alternativa
+1,defeito,ar condicionado,ar condicionado com cheiro,query de socorro; altissima intencao de servico
+1,defeito,ar condicionado,ar condicionado com cheiro o que fazer,formulacao de busca por solucao
+1,defeito,ar condicionado,como resolver ar condicionado com cheiro,formulacao alternativa
+1,defeito,ar condicionado,ar condicionado luz piscando,query de socorro; altissima intencao de servico
+1,defeito,ar condicionado,ar condicionado luz piscando o que fazer,formulacao de busca por solucao
+1,defeito,ar condicionado,como resolver ar condicionado luz piscando,formulacao alternativa
+1,defeito,ar condicionado,ar condicionado fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,ar condicionado,ar condicionado fazendo barulho o que fazer,formulacao de busca por solucao
+1,defeito,ar condicionado,como resolver ar condicionado fazendo barulho,formulacao alternativa
+1,defeito,ar condicionado,ar condicionado desligando sozinho,query de socorro; altissima intencao de servico
+1,defeito,ar condicionado,ar condicionado desligando sozinho o que fazer,formulacao de busca por solucao
+1,defeito,ar condicionado,como resolver ar condicionado desligando sozinho,formulacao alternativa
+1,defeito,air fryer,air fryer não esquenta,query de socorro; altissima intencao de servico
+1,defeito,air fryer,air fryer não esquenta o que fazer,formulacao de busca por solucao
+1,defeito,air fryer,como resolver air fryer não esquenta,formulacao alternativa
+1,defeito,air fryer,air fryer não liga,query de socorro; altissima intencao de servico
+1,defeito,air fryer,air fryer não liga o que fazer,formulacao de busca por solucao
+1,defeito,air fryer,como resolver air fryer não liga,formulacao alternativa
+1,defeito,air fryer,air fryer com cheiro de queimado,query de socorro; altissima intencao de servico
+1,defeito,air fryer,air fryer com cheiro de queimado o que fazer,formulacao de busca por solucao
+1,defeito,air fryer,como resolver air fryer com cheiro de queimado,formulacao alternativa
+1,defeito,air fryer,air fryer desligando sozinha,query de socorro; altissima intencao de servico
+1,defeito,air fryer,air fryer desligando sozinha o que fazer,formulacao de busca por solucao
+1,defeito,air fryer,como resolver air fryer desligando sozinha,formulacao alternativa
+1,defeito,fritadeira elétrica,fritadeira elétrica não esquenta,query de socorro; altissima intencao de servico
+1,defeito,fritadeira elétrica,fritadeira elétrica não liga,query de socorro; altissima intencao de servico
+1,defeito,aspirador de pó,aspirador de pó perdeu sucção,query de socorro; altissima intencao de servico
+1,defeito,aspirador de pó,aspirador de pó perdeu sucção o que fazer,formulacao de busca por solucao
+1,defeito,aspirador de pó,como resolver aspirador de pó perdeu sucção,formulacao alternativa
+1,defeito,aspirador de pó,aspirador de pó não liga,query de socorro; altissima intencao de servico
+1,defeito,aspirador de pó,aspirador de pó não liga o que fazer,formulacao de busca por solucao
+1,defeito,aspirador de pó,como resolver aspirador de pó não liga,formulacao alternativa
+1,defeito,aspirador de pó,aspirador de pó não puxa,query de socorro; altissima intencao de servico
+1,defeito,aspirador de pó,aspirador de pó não puxa o que fazer,formulacao de busca por solucao
+1,defeito,aspirador de pó,como resolver aspirador de pó não puxa,formulacao alternativa
+1,defeito,aspirador de pó,aspirador de pó com pouca forca,query de socorro; altissima intencao de servico
+1,defeito,aspirador de pó,aspirador de pó com pouca forca o que fazer,formulacao de busca por solucao
+1,defeito,aspirador de pó,como resolver aspirador de pó com pouca forca,formulacao alternativa
+1,defeito,robô aspirador,robô aspirador não carrega,query de socorro; altissima intencao de servico
+1,defeito,robô aspirador,robô aspirador não liga,query de socorro; altissima intencao de servico
+1,defeito,robô aspirador,robô aspirador não volta para base,query de socorro; altissima intencao de servico
+1,defeito,purificador de água,purificador de água vazando,query de socorro; altissima intencao de servico
+1,defeito,purificador de água,purificador de água não gela,query de socorro; altissima intencao de servico
+1,defeito,purificador de água,purificador de água sem pressão,query de socorro; altissima intencao de servico
+1,defeito,purificador de água,purificador de água luz vermelha acesa,query de socorro; altissima intencao de servico
+1,defeito,bebedouro,bebedouro não gela,query de socorro; altissima intencao de servico
+1,defeito,bebedouro,bebedouro vazando,query de socorro; altissima intencao de servico
+1,defeito,coifa,coifa não puxa fumaça,query de socorro; altissima intencao de servico
+1,defeito,coifa,coifa fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,depurador de ar,depurador de ar não puxa,query de socorro; altissima intencao de servico
+1,defeito,depurador de ar,depurador de ar com barulho,query de socorro; altissima intencao de servico
+1,defeito,adega climatizada,adega climatizada não gela,query de socorro; altissima intencao de servico
+1,defeito,adega climatizada,adega climatizada fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,cervejeira,cervejeira não gela,query de socorro; altissima intencao de servico
+1,defeito,ventilador,ventilador não liga,query de socorro; altissima intencao de servico
+1,defeito,ventilador,ventilador fazendo barulho,query de socorro; altissima intencao de servico
+1,defeito,batedeira,batedeira não liga,query de socorro; altissima intencao de servico
+1,defeito,batedeira,batedeira perdeu forca,query de socorro; altissima intencao de servico
+1,defeito,liquidificador,liquidificador não liga,query de socorro; altissima intencao de servico
+1,defeito,liquidificador,liquidificador vazando,query de socorro; altissima intencao de servico
+1,defeito,ferro de passar,ferro de passar não esquenta,query de socorro; altissima intencao de servico
+1,defeito,ferro de passar,ferro de passar vazando água,query de socorro; altissima intencao de servico
+1,defeito,ferro de passar,ferro de passar manchando roupa,query de socorro; altissima intencao de servico
+1,defeito,cafeteira,cafeteira não esquenta,query de socorro; altissima intencao de servico
+1,defeito,cafeteira,cafeteira vazando,query de socorro; altissima intencao de servico
+1,defeito,cafeteira,cafeteira não passa café,query de socorro; altissima intencao de servico
+1,defeito,panela elétrica,panela elétrica não esquenta,query de socorro; altissima intencao de servico
+1,defeito,panela elétrica,panela elétrica não liga,query de socorro; altissima intencao de servico
+1,defeito,lavadora de alta pressão,lavadora de alta pressão sem pressão,query de socorro; altissima intencao de servico
+1,defeito,lavadora de alta pressão,lavadora de alta pressão não liga,query de socorro; altissima intencao de servico
+1,defeito,sanduicheira,sanduicheira não esquenta,query de socorro; altissima intencao de servico
+1,defeito,chaleira elétrica,chaleira elétrica não esquenta,query de socorro; altissima intencao de servico
+1,defeito,chaleira elétrica,chaleira elétrica não desliga,query de socorro; altissima intencao de servico
+2,assistencia,geladeira,assistência técnica geladeira,cabeca da familia
+2,assistencia,geladeira,assistência técnica geladeira perto de mim,padrao observado no corpus de IA
+2,assistencia,geladeira,conserto de geladeira,sinonimo de alta frequencia
+2,assistencia,geladeira,quanto custa consertar geladeira,decisao consertar x trocar
+2,assistencia,geladeira,vale a pena consertar geladeira,decisao consertar x trocar
+2,assistencia,geladeira,orçamento conserto geladeira,intencao transacional de servico
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar,cabeca da familia
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar perto de mim,padrao observado no corpus de IA
+2,assistencia,máquina de lavar,conserto de máquina de lavar,sinonimo de alta frequencia
+2,assistencia,máquina de lavar,quanto custa consertar máquina de lavar,decisao consertar x trocar
+2,assistencia,máquina de lavar,vale a pena consertar máquina de lavar,decisao consertar x trocar
+2,assistencia,máquina de lavar,orçamento conserto máquina de lavar,intencao transacional de servico
+2,assistencia,lava e seca,assistência técnica lava e seca,cabeca da familia
+2,assistencia,lava e seca,assistência técnica lava e seca perto de mim,padrao observado no corpus de IA
+2,assistencia,lava e seca,conserto de lava e seca,sinonimo de alta frequencia
+2,assistencia,lava e seca,quanto custa consertar lava e seca,decisao consertar x trocar
+2,assistencia,lava e seca,vale a pena consertar lava e seca,decisao consertar x trocar
+2,assistencia,lava e seca,orçamento conserto lava e seca,intencao transacional de servico
+2,assistencia,fogão,assistência técnica fogão,cabeca da familia
+2,assistencia,fogão,assistência técnica fogão perto de mim,padrao observado no corpus de IA
+2,assistencia,fogão,conserto de fogão,sinonimo de alta frequencia
+2,assistencia,fogão,quanto custa consertar fogão,decisao consertar x trocar
+2,assistencia,fogão,vale a pena consertar fogão,decisao consertar x trocar
+2,assistencia,fogão,orçamento conserto fogão,intencao transacional de servico
+2,assistencia,micro-ondas,assistência técnica micro-ondas,cabeca da familia
+2,assistencia,micro-ondas,assistência técnica micro-ondas perto de mim,padrao observado no corpus de IA
+2,assistencia,micro-ondas,conserto de micro-ondas,sinonimo de alta frequencia
+2,assistencia,micro-ondas,quanto custa consertar micro-ondas,decisao consertar x trocar
+2,assistencia,micro-ondas,vale a pena consertar micro-ondas,decisao consertar x trocar
+2,assistencia,micro-ondas,orçamento conserto micro-ondas,intencao transacional de servico
+2,assistencia,ar condicionado,assistência técnica ar condicionado,cabeca da familia
+2,assistencia,ar condicionado,assistência técnica ar condicionado perto de mim,padrao observado no corpus de IA
+2,assistencia,ar condicionado,conserto de ar condicionado,sinonimo de alta frequencia
+2,assistencia,ar condicionado,quanto custa consertar ar condicionado,decisao consertar x trocar
+2,assistencia,ar condicionado,vale a pena consertar ar condicionado,decisao consertar x trocar
+2,assistencia,ar condicionado,orçamento conserto ar condicionado,intencao transacional de servico
+2,assistencia,air fryer,assistência técnica air fryer,cabeca da familia
+2,assistencia,air fryer,assistência técnica air fryer perto de mim,padrao observado no corpus de IA
+2,assistencia,air fryer,conserto de air fryer,sinonimo de alta frequencia
+2,assistencia,air fryer,quanto custa consertar air fryer,decisao consertar x trocar
+2,assistencia,air fryer,vale a pena consertar air fryer,decisao consertar x trocar
+2,assistencia,air fryer,orçamento conserto air fryer,intencao transacional de servico
+2,assistencia,lava louças,assistência técnica lava louças,cabeca da familia
+2,assistencia,lava louças,assistência técnica lava louças perto de mim,padrao observado no corpus de IA
+2,assistencia,lava louças,conserto de lava louças,sinonimo de alta frequencia
+2,assistencia,lava louças,quanto custa consertar lava louças,decisao consertar x trocar
+2,assistencia,lava louças,vale a pena consertar lava louças,decisao consertar x trocar
+2,assistencia,lava louças,orçamento conserto lava louças,intencao transacional de servico
+2,assistencia,aspirador de pó,assistência técnica aspirador de pó,cabeca da familia
+2,assistencia,aspirador de pó,assistência técnica aspirador de pó perto de mim,padrao observado no corpus de IA
+2,assistencia,aspirador de pó,conserto de aspirador de pó,sinonimo de alta frequencia
+2,assistencia,aspirador de pó,quanto custa consertar aspirador de pó,decisao consertar x trocar
+2,assistencia,aspirador de pó,vale a pena consertar aspirador de pó,decisao consertar x trocar
+2,assistencia,aspirador de pó,orçamento conserto aspirador de pó,intencao transacional de servico
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas,cabeca da familia
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas perto de mim,padrao observado no corpus de IA
+2,assistencia,secadora de roupas,conserto de secadora de roupas,sinonimo de alta frequencia
+2,assistencia,secadora de roupas,quanto custa consertar secadora de roupas,decisao consertar x trocar
+2,assistencia,secadora de roupas,vale a pena consertar secadora de roupas,decisao consertar x trocar
+2,assistencia,secadora de roupas,orçamento conserto secadora de roupas,intencao transacional de servico
+2,assistencia,freezer,assistência técnica freezer,cabeca da familia
+2,assistencia,freezer,assistência técnica freezer perto de mim,padrao observado no corpus de IA
+2,assistencia,freezer,conserto de freezer,sinonimo de alta frequencia
+2,assistencia,freezer,quanto custa consertar freezer,decisao consertar x trocar
+2,assistencia,freezer,vale a pena consertar freezer,decisao consertar x trocar
+2,assistencia,freezer,orçamento conserto freezer,intencao transacional de servico
+2,assistencia,cooktop,assistência técnica cooktop,cabeca da familia
+2,assistencia,cooktop,assistência técnica cooktop perto de mim,padrao observado no corpus de IA
+2,assistencia,cooktop,conserto de cooktop,sinonimo de alta frequencia
+2,assistencia,cooktop,quanto custa consertar cooktop,decisao consertar x trocar
+2,assistencia,cooktop,vale a pena consertar cooktop,decisao consertar x trocar
+2,assistencia,cooktop,orçamento conserto cooktop,intencao transacional de servico
+2,assistencia,forno elétrico,assistência técnica forno elétrico,cabeca da familia
+2,assistencia,forno elétrico,assistência técnica forno elétrico perto de mim,padrao observado no corpus de IA
+2,assistencia,forno elétrico,conserto de forno elétrico,sinonimo de alta frequencia
+2,assistencia,forno elétrico,quanto custa consertar forno elétrico,decisao consertar x trocar
+2,assistencia,forno elétrico,vale a pena consertar forno elétrico,decisao consertar x trocar
+2,assistencia,forno elétrico,orçamento conserto forno elétrico,intencao transacional de servico
+2,assistencia,purificador de água,assistência técnica purificador de água,cabeca da familia
+2,assistencia,purificador de água,assistência técnica purificador de água perto de mim,padrao observado no corpus de IA
+2,assistencia,purificador de água,conserto de purificador de água,sinonimo de alta frequencia
+2,assistencia,purificador de água,quanto custa consertar purificador de água,decisao consertar x trocar
+2,assistencia,purificador de água,vale a pena consertar purificador de água,decisao consertar x trocar
+2,assistencia,purificador de água,orçamento conserto purificador de água,intencao transacional de servico
+2,assistencia,coifa,assistência técnica coifa,cabeca da familia
+2,assistencia,coifa,assistência técnica coifa perto de mim,padrao observado no corpus de IA
+2,assistencia,coifa,conserto de coifa,sinonimo de alta frequencia
+2,assistencia,coifa,quanto custa consertar coifa,decisao consertar x trocar
+2,assistencia,coifa,vale a pena consertar coifa,decisao consertar x trocar
+2,assistencia,coifa,orçamento conserto coifa,intencao transacional de servico
+2,assistencia,transversal,assistência técnica eletrodomésticos são paulo,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira são paulo,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar são paulo,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado são paulo,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão são paulo,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca são paulo,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas são paulo,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças são paulo,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas são paulo,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira são paulo,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar são paulo,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado são paulo,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos rio de janeiro,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira rio de janeiro,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar rio de janeiro,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado rio de janeiro,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão rio de janeiro,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca rio de janeiro,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas rio de janeiro,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças rio de janeiro,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas rio de janeiro,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira rio de janeiro,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar rio de janeiro,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado rio de janeiro,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos belo horizonte,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira belo horizonte,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar belo horizonte,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado belo horizonte,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão belo horizonte,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca belo horizonte,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas belo horizonte,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças belo horizonte,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas belo horizonte,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira belo horizonte,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar belo horizonte,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado belo horizonte,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos brasília,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira brasília,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar brasília,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado brasília,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão brasília,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca brasília,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas brasília,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças brasília,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas brasília,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira brasília,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar brasília,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado brasília,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos curitiba,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira curitiba,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar curitiba,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado curitiba,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão curitiba,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca curitiba,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas curitiba,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças curitiba,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas curitiba,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira curitiba,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar curitiba,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado curitiba,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos porto alegre,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira porto alegre,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar porto alegre,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado porto alegre,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão porto alegre,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca porto alegre,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas porto alegre,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças porto alegre,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas porto alegre,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira porto alegre,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar porto alegre,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado porto alegre,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos salvador,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira salvador,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar salvador,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado salvador,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão salvador,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca salvador,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas salvador,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças salvador,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas salvador,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira salvador,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar salvador,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado salvador,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos recife,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira recife,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar recife,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado recife,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão recife,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca recife,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas recife,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças recife,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas recife,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira recife,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar recife,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado recife,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos fortaleza,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira fortaleza,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar fortaleza,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado fortaleza,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão fortaleza,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca fortaleza,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas fortaleza,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças fortaleza,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas fortaleza,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira fortaleza,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar fortaleza,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado fortaleza,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos campinas,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira campinas,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar campinas,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado campinas,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão campinas,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca campinas,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas campinas,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças campinas,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas campinas,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira campinas,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar campinas,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado campinas,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos goiânia,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira goiânia,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar goiânia,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado goiânia,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão goiânia,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca goiânia,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas goiânia,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças goiânia,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas goiânia,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira goiânia,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar goiânia,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado goiânia,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos manaus,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira manaus,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar manaus,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado manaus,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão manaus,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca manaus,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas manaus,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças manaus,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas manaus,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira manaus,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar manaus,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado manaus,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos belém,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira belém,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar belém,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado belém,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão belém,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca belém,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas belém,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças belém,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas belém,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira belém,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar belém,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado belém,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos guarulhos,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira guarulhos,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar guarulhos,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado guarulhos,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão guarulhos,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca guarulhos,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas guarulhos,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças guarulhos,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas guarulhos,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira guarulhos,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar guarulhos,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado guarulhos,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos santo andré,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira santo andré,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar santo andré,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado santo andré,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão santo andré,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca santo andré,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas santo andré,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças santo andré,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas santo andré,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira santo andré,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar santo andré,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado santo andré,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos são bernardo do campo,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira são bernardo do campo,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar são bernardo do campo,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado são bernardo do campo,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão são bernardo do campo,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca são bernardo do campo,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas são bernardo do campo,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças são bernardo do campo,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas são bernardo do campo,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira são bernardo do campo,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar são bernardo do campo,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado são bernardo do campo,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos osasco,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira osasco,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar osasco,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado osasco,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão osasco,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca osasco,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas osasco,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças osasco,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas osasco,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira osasco,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar osasco,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado osasco,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos niterói,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira niterói,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar niterói,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado niterói,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão niterói,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca niterói,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas niterói,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças niterói,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas niterói,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira niterói,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar niterói,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado niterói,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos sorocaba,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira sorocaba,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar sorocaba,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado sorocaba,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão sorocaba,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca sorocaba,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas sorocaba,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças sorocaba,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas sorocaba,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira sorocaba,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar sorocaba,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado sorocaba,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos ribeirão preto,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira ribeirão preto,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar ribeirão preto,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado ribeirão preto,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão ribeirão preto,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca ribeirão preto,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas ribeirão preto,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças ribeirão preto,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas ribeirão preto,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira ribeirão preto,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar ribeirão preto,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado ribeirão preto,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos uberlândia,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira uberlândia,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar uberlândia,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado uberlândia,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão uberlândia,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca uberlândia,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas uberlândia,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças uberlândia,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas uberlândia,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira uberlândia,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar uberlândia,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado uberlândia,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos joinville,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira joinville,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar joinville,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado joinville,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão joinville,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca joinville,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas joinville,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças joinville,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas joinville,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira joinville,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar joinville,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado joinville,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos florianópolis,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira florianópolis,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar florianópolis,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado florianópolis,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão florianópolis,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca florianópolis,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas florianópolis,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças florianópolis,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas florianópolis,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira florianópolis,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar florianópolis,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado florianópolis,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos natal,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira natal,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar natal,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado natal,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão natal,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca natal,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas natal,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças natal,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas natal,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira natal,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar natal,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado natal,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos maceió,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira maceió,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar maceió,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado maceió,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão maceió,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca maceió,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas maceió,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças maceió,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas maceió,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira maceió,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar maceió,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado maceió,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos joão pessoa,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira joão pessoa,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar joão pessoa,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado joão pessoa,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão joão pessoa,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca joão pessoa,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas joão pessoa,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças joão pessoa,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas joão pessoa,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira joão pessoa,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar joão pessoa,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado joão pessoa,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos cuiabá,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira cuiabá,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar cuiabá,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado cuiabá,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão cuiabá,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca cuiabá,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas cuiabá,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças cuiabá,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas cuiabá,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira cuiabá,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar cuiabá,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado cuiabá,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos campo grande,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira campo grande,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar campo grande,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado campo grande,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão campo grande,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca campo grande,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas campo grande,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças campo grande,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas campo grande,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira campo grande,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar campo grande,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado campo grande,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos vitória,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira vitória,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar vitória,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado vitória,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão vitória,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca vitória,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas vitória,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças vitória,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas vitória,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira vitória,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar vitória,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado vitória,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos londrina,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira londrina,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar londrina,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado londrina,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão londrina,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca londrina,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas londrina,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças londrina,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas londrina,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira londrina,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar londrina,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado londrina,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos maringá,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira maringá,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar maringá,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado maringá,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão maringá,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca maringá,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas maringá,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças maringá,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas maringá,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira maringá,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar maringá,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado maringá,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos santos,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira santos,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar santos,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado santos,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão santos,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca santos,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas santos,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças santos,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas santos,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira santos,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar santos,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado santos,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos são josé dos campos,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira são josé dos campos,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar são josé dos campos,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado são josé dos campos,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão são josé dos campos,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca são josé dos campos,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas são josé dos campos,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças são josé dos campos,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas são josé dos campos,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira são josé dos campos,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar são josé dos campos,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado são josé dos campos,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos caxias do sul,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira caxias do sul,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar caxias do sul,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado caxias do sul,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão caxias do sul,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca caxias do sul,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas caxias do sul,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças caxias do sul,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas caxias do sul,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira caxias do sul,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar caxias do sul,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado caxias do sul,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos contagem,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira contagem,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar contagem,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado contagem,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão contagem,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca contagem,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas contagem,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças contagem,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas contagem,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira contagem,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar contagem,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado contagem,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica eletrodomésticos duque de caxias,geolocalizacao: padrao observado
+2,assistencia,geladeira,assistência técnica geladeira duque de caxias,geolocalizacao por categoria
+2,assistencia,máquina de lavar,assistência técnica máquina de lavar duque de caxias,geolocalizacao por categoria
+2,assistencia,ar condicionado,assistência técnica ar condicionado duque de caxias,geolocalizacao por categoria
+2,assistencia,fogão,assistência técnica fogão duque de caxias,geolocalizacao por categoria
+2,assistencia,lava e seca,assistência técnica lava e seca duque de caxias,geolocalizacao por categoria
+2,assistencia,micro-ondas,assistência técnica micro-ondas duque de caxias,geolocalizacao por categoria
+2,assistencia,lava louças,assistência técnica lava louças duque de caxias,geolocalizacao por categoria
+2,assistencia,secadora de roupas,assistência técnica secadora de roupas duque de caxias,geolocalizacao por categoria
+2,assistencia,geladeira,conserto de geladeira duque de caxias,sinonimo geolocalizado
+2,assistencia,máquina de lavar,conserto de máquina de lavar duque de caxias,sinonimo geolocalizado
+2,assistencia,ar condicionado,conserto de ar condicionado duque de caxias,sinonimo geolocalizado
+2,assistencia,transversal,assistência técnica autorizada,termo de confianca
+2,assistencia,transversal,técnico de eletrodomésticos perto de mim,formulacao local
+2,assistencia,transversal,conserto de eletrodomésticos a domicílio,modalidade de servico
+3,manual e uso,geladeira,manual geladeira,contato de pos-compra
+3,manual e uso,geladeira,manual geladeira pdf,formulacao observada no corpus
+3,manual e uso,geladeira,como usar geladeira,uso
+3,manual e uso,geladeira,como programar geladeira,uso avancado
+3,manual e uso,geladeira,funções geladeira,descoberta de recurso
+3,manual e uso,geladeira,símbolos geladeira significado,duvida recorrente de painel
+3,manual e uso,freezer,manual freezer,contato de pos-compra
+3,manual e uso,freezer,manual freezer pdf,formulacao observada no corpus
+3,manual e uso,freezer,como usar freezer,uso
+3,manual e uso,máquina de lavar,manual máquina de lavar,contato de pos-compra
+3,manual e uso,máquina de lavar,manual máquina de lavar pdf,formulacao observada no corpus
+3,manual e uso,máquina de lavar,como usar máquina de lavar,uso
+3,manual e uso,máquina de lavar,como programar máquina de lavar,uso avancado
+3,manual e uso,máquina de lavar,funções máquina de lavar,descoberta de recurso
+3,manual e uso,máquina de lavar,símbolos máquina de lavar significado,duvida recorrente de painel
+3,manual e uso,lavadora de roupas,manual lavadora de roupas,contato de pos-compra
+3,manual e uso,lavadora de roupas,manual lavadora de roupas pdf,formulacao observada no corpus
+3,manual e uso,lavadora de roupas,como usar lavadora de roupas,uso
+3,manual e uso,lava e seca,manual lava e seca,contato de pos-compra
+3,manual e uso,lava e seca,manual lava e seca pdf,formulacao observada no corpus
+3,manual e uso,lava e seca,como usar lava e seca,uso
+3,manual e uso,lava e seca,como programar lava e seca,uso avancado
+3,manual e uso,lava e seca,funções lava e seca,descoberta de recurso
+3,manual e uso,lava e seca,símbolos lava e seca significado,duvida recorrente de painel
+3,manual e uso,secadora de roupas,manual secadora de roupas,contato de pos-compra
+3,manual e uso,secadora de roupas,manual secadora de roupas pdf,formulacao observada no corpus
+3,manual e uso,secadora de roupas,como usar secadora de roupas,uso
+3,manual e uso,secadora de roupas,como programar secadora de roupas,uso avancado
+3,manual e uso,secadora de roupas,funções secadora de roupas,descoberta de recurso
+3,manual e uso,secadora de roupas,símbolos secadora de roupas significado,duvida recorrente de painel
+3,manual e uso,fogão,manual fogão,contato de pos-compra
+3,manual e uso,fogão,manual fogão pdf,formulacao observada no corpus
+3,manual e uso,fogão,como usar fogão,uso
+3,manual e uso,fogão,como programar fogão,uso avancado
+3,manual e uso,fogão,funções fogão,descoberta de recurso
+3,manual e uso,fogão,símbolos fogão significado,duvida recorrente de painel
+3,manual e uso,cooktop,manual cooktop,contato de pos-compra
+3,manual e uso,cooktop,manual cooktop pdf,formulacao observada no corpus
+3,manual e uso,cooktop,como usar cooktop,uso
+3,manual e uso,forno elétrico,manual forno elétrico,contato de pos-compra
+3,manual e uso,forno elétrico,manual forno elétrico pdf,formulacao observada no corpus
+3,manual e uso,forno elétrico,como usar forno elétrico,uso
+3,manual e uso,micro-ondas,manual micro-ondas,contato de pos-compra
+3,manual e uso,micro-ondas,manual micro-ondas pdf,formulacao observada no corpus
+3,manual e uso,micro-ondas,como usar micro-ondas,uso
+3,manual e uso,micro-ondas,como programar micro-ondas,uso avancado
+3,manual e uso,micro-ondas,funções micro-ondas,descoberta de recurso
+3,manual e uso,micro-ondas,símbolos micro-ondas significado,duvida recorrente de painel
+3,manual e uso,lava louças,manual lava louças,contato de pos-compra
+3,manual e uso,lava louças,manual lava louças pdf,formulacao observada no corpus
+3,manual e uso,lava louças,como usar lava louças,uso
+3,manual e uso,lava louças,como programar lava louças,uso avancado
+3,manual e uso,lava louças,funções lava louças,descoberta de recurso
+3,manual e uso,lava louças,símbolos lava louças significado,duvida recorrente de painel
+3,manual e uso,coifa,manual coifa,contato de pos-compra
+3,manual e uso,coifa,manual coifa pdf,formulacao observada no corpus
+3,manual e uso,coifa,como usar coifa,uso
+3,manual e uso,depurador de ar,manual depurador de ar,contato de pos-compra
+3,manual e uso,depurador de ar,manual depurador de ar pdf,formulacao observada no corpus
+3,manual e uso,depurador de ar,como usar depurador de ar,uso
+3,manual e uso,adega climatizada,manual adega climatizada,contato de pos-compra
+3,manual e uso,adega climatizada,manual adega climatizada pdf,formulacao observada no corpus
+3,manual e uso,adega climatizada,como usar adega climatizada,uso
+3,manual e uso,cervejeira,manual cervejeira,contato de pos-compra
+3,manual e uso,cervejeira,manual cervejeira pdf,formulacao observada no corpus
+3,manual e uso,cervejeira,como usar cervejeira,uso
+3,manual e uso,ar condicionado,manual ar condicionado,contato de pos-compra
+3,manual e uso,ar condicionado,manual ar condicionado pdf,formulacao observada no corpus
+3,manual e uso,ar condicionado,como usar ar condicionado,uso
+3,manual e uso,ar condicionado,como programar ar condicionado,uso avancado
+3,manual e uso,ar condicionado,funções ar condicionado,descoberta de recurso
+3,manual e uso,ar condicionado,símbolos ar condicionado significado,duvida recorrente de painel
+3,manual e uso,air fryer,manual air fryer,contato de pos-compra
+3,manual e uso,air fryer,manual air fryer pdf,formulacao observada no corpus
+3,manual e uso,air fryer,como usar air fryer,uso
+3,manual e uso,air fryer,como programar air fryer,uso avancado
+3,manual e uso,air fryer,funções air fryer,descoberta de recurso
+3,manual e uso,air fryer,símbolos air fryer significado,duvida recorrente de painel
+3,manual e uso,fritadeira elétrica,manual fritadeira elétrica,contato de pos-compra
+3,manual e uso,fritadeira elétrica,manual fritadeira elétrica pdf,formulacao observada no corpus
+3,manual e uso,fritadeira elétrica,como usar fritadeira elétrica,uso
+3,manual e uso,aspirador de pó,manual aspirador de pó,contato de pos-compra
+3,manual e uso,aspirador de pó,manual aspirador de pó pdf,formulacao observada no corpus
+3,manual e uso,aspirador de pó,como usar aspirador de pó,uso
+3,manual e uso,aspirador de pó,como programar aspirador de pó,uso avancado
+3,manual e uso,aspirador de pó,funções aspirador de pó,descoberta de recurso
+3,manual e uso,aspirador de pó,símbolos aspirador de pó significado,duvida recorrente de painel
+3,manual e uso,robô aspirador,manual robô aspirador,contato de pos-compra
+3,manual e uso,robô aspirador,manual robô aspirador pdf,formulacao observada no corpus
+3,manual e uso,robô aspirador,como usar robô aspirador,uso
+3,manual e uso,purificador de água,manual purificador de água,contato de pos-compra
+3,manual e uso,purificador de água,manual purificador de água pdf,formulacao observada no corpus
+3,manual e uso,purificador de água,como usar purificador de água,uso
+3,manual e uso,bebedouro,manual bebedouro,contato de pos-compra
+3,manual e uso,bebedouro,manual bebedouro pdf,formulacao observada no corpus
+3,manual e uso,bebedouro,como usar bebedouro,uso
+3,manual e uso,ventilador,manual ventilador,contato de pos-compra
+3,manual e uso,ventilador,manual ventilador pdf,formulacao observada no corpus
+3,manual e uso,ventilador,como usar ventilador,uso
+3,manual e uso,batedeira,manual batedeira,contato de pos-compra
+3,manual e uso,batedeira,manual batedeira pdf,formulacao observada no corpus
+3,manual e uso,batedeira,como usar batedeira,uso
+3,manual e uso,liquidificador,manual liquidificador,contato de pos-compra
+3,manual e uso,liquidificador,manual liquidificador pdf,formulacao observada no corpus
+3,manual e uso,liquidificador,como usar liquidificador,uso
+3,manual e uso,ferro de passar,manual ferro de passar,contato de pos-compra
+3,manual e uso,ferro de passar,manual ferro de passar pdf,formulacao observada no corpus
+3,manual e uso,ferro de passar,como usar ferro de passar,uso
+3,manual e uso,cafeteira,manual cafeteira,contato de pos-compra
+3,manual e uso,cafeteira,manual cafeteira pdf,formulacao observada no corpus
+3,manual e uso,cafeteira,como usar cafeteira,uso
+3,manual e uso,panela elétrica,manual panela elétrica,contato de pos-compra
+3,manual e uso,panela elétrica,manual panela elétrica pdf,formulacao observada no corpus
+3,manual e uso,panela elétrica,como usar panela elétrica,uso
+3,manual e uso,lavadora de alta pressão,manual lavadora de alta pressão,contato de pos-compra
+3,manual e uso,lavadora de alta pressão,manual lavadora de alta pressão pdf,formulacao observada no corpus
+3,manual e uso,lavadora de alta pressão,como usar lavadora de alta pressão,uso
+3,manual e uso,sanduicheira,manual sanduicheira,contato de pos-compra
+3,manual e uso,sanduicheira,manual sanduicheira pdf,formulacao observada no corpus
+3,manual e uso,sanduicheira,como usar sanduicheira,uso
+3,manual e uso,chaleira elétrica,manual chaleira elétrica,contato de pos-compra
+3,manual e uso,chaleira elétrica,manual chaleira elétrica pdf,formulacao observada no corpus
+3,manual e uso,chaleira elétrica,como usar chaleira elétrica,uso
+4,peca,geladeira,borracha da porta geladeira,peca de reposicao
+4,peca,geladeira,borracha da porta geladeira preco,intencao transacional
+4,peca,geladeira,lâmpada geladeira,peca de reposicao
+4,peca,geladeira,lâmpada geladeira preco,intencao transacional
+4,peca,geladeira,prateleira geladeira,peca de reposicao
+4,peca,geladeira,prateleira geladeira preco,intencao transacional
+4,peca,geladeira,gaveta geladeira,peca de reposicao
+4,peca,geladeira,gaveta geladeira preco,intencao transacional
+4,peca,geladeira,termostato geladeira,peca de reposicao
+4,peca,geladeira,termostato geladeira preco,intencao transacional
+4,peca,geladeira,compressor geladeira,peca de reposicao
+4,peca,geladeira,compressor geladeira preco,intencao transacional
+4,peca,geladeira,filtro de água geladeira,peca de reposicao
+4,peca,geladeira,filtro de água geladeira preco,intencao transacional
+4,peca,geladeira,bandeja geladeira,peca de reposicao
+4,peca,geladeira,bandeja geladeira preco,intencao transacional
+4,peca,geladeira,peça de reposição geladeira,cabeca da familia
+4,peca,geladeira,onde comprar peça de geladeira,intencao de compra de peca
+4,peca,freezer,borracha da porta freezer,peca de reposicao
+4,peca,freezer,borracha da porta freezer preco,intencao transacional
+4,peca,freezer,termostato freezer,peca de reposicao
+4,peca,freezer,termostato freezer preco,intencao transacional
+4,peca,freezer,cesto freezer,peca de reposicao
+4,peca,freezer,cesto freezer preco,intencao transacional
+4,peca,freezer,peça de reposição freezer,cabeca da familia
+4,peca,freezer,onde comprar peça de freezer,intencao de compra de peca
+4,peca,máquina de lavar,correia máquina de lavar,peca de reposicao
+4,peca,máquina de lavar,correia máquina de lavar preco,intencao transacional
+4,peca,máquina de lavar,cesto máquina de lavar,peca de reposicao
+4,peca,máquina de lavar,cesto máquina de lavar preco,intencao transacional
+4,peca,máquina de lavar,bomba de drenagem máquina de lavar,peca de reposicao
+4,peca,máquina de lavar,bomba de drenagem máquina de lavar preco,intencao transacional
+4,peca,máquina de lavar,mangueira máquina de lavar,peca de reposicao
+4,peca,máquina de lavar,mangueira máquina de lavar preco,intencao transacional
+4,peca,máquina de lavar,placa eletrônica máquina de lavar,peca de reposicao
+4,peca,máquina de lavar,placa eletrônica máquina de lavar preco,intencao transacional
+4,peca,máquina de lavar,rolamento máquina de lavar,peca de reposicao
+4,peca,máquina de lavar,rolamento máquina de lavar preco,intencao transacional
+4,peca,máquina de lavar,tampa máquina de lavar,peca de reposicao
+4,peca,máquina de lavar,tampa máquina de lavar preco,intencao transacional
+4,peca,máquina de lavar,filtro máquina de lavar,peca de reposicao
+4,peca,máquina de lavar,filtro máquina de lavar preco,intencao transacional
+4,peca,máquina de lavar,peça de reposição máquina de lavar,cabeca da familia
+4,peca,máquina de lavar,onde comprar peça de máquina de lavar,intencao de compra de peca
+4,peca,lava e seca,correia lava e seca,peca de reposicao
+4,peca,lava e seca,correia lava e seca preco,intencao transacional
+4,peca,lava e seca,resistência lava e seca,peca de reposicao
+4,peca,lava e seca,resistência lava e seca preco,intencao transacional
+4,peca,lava e seca,filtro lava e seca,peca de reposicao
+4,peca,lava e seca,filtro lava e seca preco,intencao transacional
+4,peca,lava e seca,mangueira lava e seca,peca de reposicao
+4,peca,lava e seca,mangueira lava e seca preco,intencao transacional
+4,peca,lava e seca,peça de reposição lava e seca,cabeca da familia
+4,peca,lava e seca,onde comprar peça de lava e seca,intencao de compra de peca
+4,peca,secadora de roupas,resistência secadora de roupas,peca de reposicao
+4,peca,secadora de roupas,resistência secadora de roupas preco,intencao transacional
+4,peca,secadora de roupas,filtro secadora de roupas,peca de reposicao
+4,peca,secadora de roupas,filtro secadora de roupas preco,intencao transacional
+4,peca,secadora de roupas,correia secadora de roupas,peca de reposicao
+4,peca,secadora de roupas,correia secadora de roupas preco,intencao transacional
+4,peca,secadora de roupas,peça de reposição secadora de roupas,cabeca da familia
+4,peca,secadora de roupas,onde comprar peça de secadora de roupas,intencao de compra de peca
+4,peca,fogão,trempe fogão,peca de reposicao
+4,peca,fogão,trempe fogão preco,intencao transacional
+4,peca,fogão,botão fogão,peca de reposicao
+4,peca,fogão,botão fogão preco,intencao transacional
+4,peca,fogão,válvula fogão,peca de reposicao
+4,peca,fogão,válvula fogão preco,intencao transacional
+4,peca,fogão,resistência do forno fogão,peca de reposicao
+4,peca,fogão,resistência do forno fogão preco,intencao transacional
+4,peca,fogão,vidro da porta fogão,peca de reposicao
+4,peca,fogão,vidro da porta fogão preco,intencao transacional
+4,peca,fogão,grelha fogão,peca de reposicao
+4,peca,fogão,grelha fogão preco,intencao transacional
+4,peca,fogão,queimador fogão,peca de reposicao
+4,peca,fogão,queimador fogão preco,intencao transacional
+4,peca,fogão,peça de reposição fogão,cabeca da familia
+4,peca,fogão,onde comprar peça de fogão,intencao de compra de peca
+4,peca,cooktop,vidro cooktop,peca de reposicao
+4,peca,cooktop,vidro cooktop preco,intencao transacional
+4,peca,cooktop,queimador cooktop,peca de reposicao
+4,peca,cooktop,queimador cooktop preco,intencao transacional
+4,peca,cooktop,botão cooktop,peca de reposicao
+4,peca,cooktop,botão cooktop preco,intencao transacional
+4,peca,cooktop,peça de reposição cooktop,cabeca da familia
+4,peca,cooktop,onde comprar peça de cooktop,intencao de compra de peca
+4,peca,forno elétrico,resistência forno elétrico,peca de reposicao
+4,peca,forno elétrico,resistência forno elétrico preco,intencao transacional
+4,peca,forno elétrico,termostato forno elétrico,peca de reposicao
+4,peca,forno elétrico,termostato forno elétrico preco,intencao transacional
+4,peca,forno elétrico,vidro da porta forno elétrico,peca de reposicao
+4,peca,forno elétrico,vidro da porta forno elétrico preco,intencao transacional
+4,peca,forno elétrico,peça de reposição forno elétrico,cabeca da familia
+4,peca,forno elétrico,onde comprar peça de forno elétrico,intencao de compra de peca
+4,peca,micro-ondas,prato giratório micro-ondas,peca de reposicao
+4,peca,micro-ondas,prato giratório micro-ondas preco,intencao transacional
+4,peca,micro-ondas,suporte do prato micro-ondas,peca de reposicao
+4,peca,micro-ondas,suporte do prato micro-ondas preco,intencao transacional
+4,peca,micro-ondas,lâmpada micro-ondas,peca de reposicao
+4,peca,micro-ondas,lâmpada micro-ondas preco,intencao transacional
+4,peca,micro-ondas,porta micro-ondas,peca de reposicao
+4,peca,micro-ondas,porta micro-ondas preco,intencao transacional
+4,peca,micro-ondas,peça de reposição micro-ondas,cabeca da familia
+4,peca,micro-ondas,onde comprar peça de micro-ondas,intencao de compra de peca
+4,peca,lava louças,filtro lava louças,peca de reposicao
+4,peca,lava louças,filtro lava louças preco,intencao transacional
+4,peca,lava louças,hélice lava louças,peca de reposicao
+4,peca,lava louças,hélice lava louças preco,intencao transacional
+4,peca,lava louças,mangueira lava louças,peca de reposicao
+4,peca,lava louças,mangueira lava louças preco,intencao transacional
+4,peca,lava louças,cesto lava louças,peca de reposicao
+4,peca,lava louças,cesto lava louças preco,intencao transacional
+4,peca,lava louças,peça de reposição lava louças,cabeca da familia
+4,peca,lava louças,onde comprar peça de lava louças,intencao de compra de peca
+4,peca,ar condicionado,filtro ar condicionado,peca de reposicao
+4,peca,ar condicionado,filtro ar condicionado preco,intencao transacional
+4,peca,ar condicionado,controle remoto ar condicionado,peca de reposicao
+4,peca,ar condicionado,controle remoto ar condicionado preco,intencao transacional
+4,peca,ar condicionado,capacitor ar condicionado,peca de reposicao
+4,peca,ar condicionado,capacitor ar condicionado preco,intencao transacional
+4,peca,ar condicionado,gás refrigerante ar condicionado,peca de reposicao
+4,peca,ar condicionado,gás refrigerante ar condicionado preco,intencao transacional
+4,peca,ar condicionado,hélice ar condicionado,peca de reposicao
+4,peca,ar condicionado,hélice ar condicionado preco,intencao transacional
+4,peca,ar condicionado,peça de reposição ar condicionado,cabeca da familia
+4,peca,ar condicionado,onde comprar peça de ar condicionado,intencao de compra de peca
+4,peca,air fryer,cesto air fryer,peca de reposicao
+4,peca,air fryer,cesto air fryer preco,intencao transacional
+4,peca,air fryer,cesto antiaderente air fryer,peca de reposicao
+4,peca,air fryer,cesto antiaderente air fryer preco,intencao transacional
+4,peca,air fryer,resistência air fryer,peca de reposicao
+4,peca,air fryer,resistência air fryer preco,intencao transacional
+4,peca,air fryer,peça de reposição air fryer,cabeca da familia
+4,peca,air fryer,onde comprar peça de air fryer,intencao de compra de peca
+4,peca,aspirador de pó,filtro hepa aspirador de pó,peca de reposicao
+4,peca,aspirador de pó,filtro hepa aspirador de pó preco,intencao transacional
+4,peca,aspirador de pó,saco aspirador de pó,peca de reposicao
+4,peca,aspirador de pó,saco aspirador de pó preco,intencao transacional
+4,peca,aspirador de pó,escova aspirador de pó,peca de reposicao
+4,peca,aspirador de pó,escova aspirador de pó preco,intencao transacional
+4,peca,aspirador de pó,mangueira aspirador de pó,peca de reposicao
+4,peca,aspirador de pó,mangueira aspirador de pó preco,intencao transacional
+4,peca,aspirador de pó,bocal aspirador de pó,peca de reposicao
+4,peca,aspirador de pó,bocal aspirador de pó preco,intencao transacional
+4,peca,aspirador de pó,peça de reposição aspirador de pó,cabeca da familia
+4,peca,aspirador de pó,onde comprar peça de aspirador de pó,intencao de compra de peca
+4,peca,robô aspirador,escova robô aspirador,peca de reposicao
+4,peca,robô aspirador,escova robô aspirador preco,intencao transacional
+4,peca,robô aspirador,filtro robô aspirador,peca de reposicao
+4,peca,robô aspirador,filtro robô aspirador preco,intencao transacional
+4,peca,robô aspirador,bateria robô aspirador,peca de reposicao
+4,peca,robô aspirador,bateria robô aspirador preco,intencao transacional
+4,peca,robô aspirador,peça de reposição robô aspirador,cabeca da familia
+4,peca,robô aspirador,onde comprar peça de robô aspirador,intencao de compra de peca
+4,peca,purificador de água,refil purificador de água,peca de reposicao
+4,peca,purificador de água,refil purificador de água preco,intencao transacional
+4,peca,purificador de água,filtro purificador de água,peca de reposicao
+4,peca,purificador de água,filtro purificador de água preco,intencao transacional
+4,peca,purificador de água,válvula purificador de água,peca de reposicao
+4,peca,purificador de água,válvula purificador de água preco,intencao transacional
+4,peca,purificador de água,peça de reposição purificador de água,cabeca da familia
+4,peca,purificador de água,onde comprar peça de purificador de água,intencao de compra de peca
+4,peca,bebedouro,filtro bebedouro,peca de reposicao
+4,peca,bebedouro,filtro bebedouro preco,intencao transacional
+4,peca,bebedouro,refil bebedouro,peca de reposicao
+4,peca,bebedouro,refil bebedouro preco,intencao transacional
+4,peca,bebedouro,torneira bebedouro,peca de reposicao
+4,peca,bebedouro,torneira bebedouro preco,intencao transacional
+4,peca,bebedouro,peça de reposição bebedouro,cabeca da familia
+4,peca,bebedouro,onde comprar peça de bebedouro,intencao de compra de peca
+4,peca,coifa,filtro de carvão coifa,peca de reposicao
+4,peca,coifa,filtro de carvão coifa preco,intencao transacional
+4,peca,coifa,filtro de alumínio coifa,peca de reposicao
+4,peca,coifa,filtro de alumínio coifa preco,intencao transacional
+4,peca,coifa,lâmpada coifa,peca de reposicao
+4,peca,coifa,lâmpada coifa preco,intencao transacional
+4,peca,coifa,peça de reposição coifa,cabeca da familia
+4,peca,coifa,onde comprar peça de coifa,intencao de compra de peca
+4,peca,depurador de ar,filtro de carvão depurador de ar,peca de reposicao
+4,peca,depurador de ar,filtro de carvão depurador de ar preco,intencao transacional
+4,peca,depurador de ar,filtro depurador de ar,peca de reposicao
+4,peca,depurador de ar,filtro depurador de ar preco,intencao transacional
+4,peca,depurador de ar,peça de reposição depurador de ar,cabeca da familia
+4,peca,depurador de ar,onde comprar peça de depurador de ar,intencao de compra de peca
+4,peca,ventilador,hélice ventilador,peca de reposicao
+4,peca,ventilador,hélice ventilador preco,intencao transacional
+4,peca,ventilador,grade ventilador,peca de reposicao
+4,peca,ventilador,grade ventilador preco,intencao transacional
+4,peca,ventilador,motor ventilador,peca de reposicao
+4,peca,ventilador,motor ventilador preco,intencao transacional
+4,peca,ventilador,peça de reposição ventilador,cabeca da familia
+4,peca,ventilador,onde comprar peça de ventilador,intencao de compra de peca
+4,peca,batedeira,batedor batedeira,peca de reposicao
+4,peca,batedeira,batedor batedeira preco,intencao transacional
+4,peca,batedeira,tigela batedeira,peca de reposicao
+4,peca,batedeira,tigela batedeira preco,intencao transacional
+4,peca,batedeira,peça de reposição batedeira,cabeca da familia
+4,peca,batedeira,onde comprar peça de batedeira,intencao de compra de peca
+4,peca,liquidificador,copo liquidificador,peca de reposicao
+4,peca,liquidificador,copo liquidificador preco,intencao transacional
+4,peca,liquidificador,lâmina liquidificador,peca de reposicao
+4,peca,liquidificador,lâmina liquidificador preco,intencao transacional
+4,peca,liquidificador,borracha liquidificador,peca de reposicao
+4,peca,liquidificador,borracha liquidificador preco,intencao transacional
+4,peca,liquidificador,peça de reposição liquidificador,cabeca da familia
+4,peca,liquidificador,onde comprar peça de liquidificador,intencao de compra de peca
+4,peca,ferro de passar,base ferro de passar,peca de reposicao
+4,peca,ferro de passar,base ferro de passar preco,intencao transacional
+4,peca,ferro de passar,resistência ferro de passar,peca de reposicao
+4,peca,ferro de passar,resistência ferro de passar preco,intencao transacional
+4,peca,ferro de passar,peça de reposição ferro de passar,cabeca da familia
+4,peca,ferro de passar,onde comprar peça de ferro de passar,intencao de compra de peca
+4,peca,cafeteira,jarra cafeteira,peca de reposicao
+4,peca,cafeteira,jarra cafeteira preco,intencao transacional
+4,peca,cafeteira,filtro permanente cafeteira,peca de reposicao
+4,peca,cafeteira,filtro permanente cafeteira preco,intencao transacional
+4,peca,cafeteira,peça de reposição cafeteira,cabeca da familia
+4,peca,cafeteira,onde comprar peça de cafeteira,intencao de compra de peca
+4,peca,adega climatizada,prateleira adega climatizada,peca de reposicao
+4,peca,adega climatizada,prateleira adega climatizada preco,intencao transacional
+4,peca,adega climatizada,filtro adega climatizada,peca de reposicao
+4,peca,adega climatizada,filtro adega climatizada preco,intencao transacional
+4,peca,adega climatizada,peça de reposição adega climatizada,cabeca da familia
+4,peca,adega climatizada,onde comprar peça de adega climatizada,intencao de compra de peca
+4,peca,lavadora de alta pressão,mangueira lavadora de alta pressão,peca de reposicao
+4,peca,lavadora de alta pressão,mangueira lavadora de alta pressão preco,intencao transacional
+4,peca,lavadora de alta pressão,bico lavadora de alta pressão,peca de reposicao
+4,peca,lavadora de alta pressão,bico lavadora de alta pressão preco,intencao transacional
+4,peca,lavadora de alta pressão,gatilho lavadora de alta pressão,peca de reposicao
+4,peca,lavadora de alta pressão,gatilho lavadora de alta pressão preco,intencao transacional
+4,peca,lavadora de alta pressão,peça de reposição lavadora de alta pressão,cabeca da familia
+4,peca,lavadora de alta pressão,onde comprar peça de lavadora de alta pressão,intencao de compra de peca
+5,manutencao,geladeira,como limpar geladeira,conteudo de relacionamento
+5,manutencao,geladeira,como higienizar geladeira,variacao de alta frequencia
+5,manutencao,geladeira,cuidados com geladeira,manutencao preventiva
+5,manutencao,geladeira,quanto tempo dura geladeira,durabilidade e recompra
+5,manutencao,geladeira,manutenção preventiva geladeira,servico recorrente
+5,manutencao,freezer,como limpar freezer,conteudo de relacionamento
+5,manutencao,máquina de lavar,como limpar máquina de lavar,conteudo de relacionamento
+5,manutencao,máquina de lavar,como higienizar máquina de lavar,variacao de alta frequencia
+5,manutencao,máquina de lavar,cuidados com máquina de lavar,manutencao preventiva
+5,manutencao,máquina de lavar,quanto tempo dura máquina de lavar,durabilidade e recompra
+5,manutencao,máquina de lavar,manutenção preventiva máquina de lavar,servico recorrente
+5,manutencao,lavadora de roupas,como limpar lavadora de roupas,conteudo de relacionamento
+5,manutencao,lava e seca,como limpar lava e seca,conteudo de relacionamento
+5,manutencao,lava e seca,como higienizar lava e seca,variacao de alta frequencia
+5,manutencao,lava e seca,cuidados com lava e seca,manutencao preventiva
+5,manutencao,lava e seca,quanto tempo dura lava e seca,durabilidade e recompra
+5,manutencao,lava e seca,manutenção preventiva lava e seca,servico recorrente
+5,manutencao,secadora de roupas,como limpar secadora de roupas,conteudo de relacionamento
+5,manutencao,secadora de roupas,como higienizar secadora de roupas,variacao de alta frequencia
+5,manutencao,secadora de roupas,cuidados com secadora de roupas,manutencao preventiva
+5,manutencao,secadora de roupas,quanto tempo dura secadora de roupas,durabilidade e recompra
+5,manutencao,secadora de roupas,manutenção preventiva secadora de roupas,servico recorrente
+5,manutencao,fogão,como limpar fogão,conteudo de relacionamento
+5,manutencao,fogão,como higienizar fogão,variacao de alta frequencia
+5,manutencao,fogão,cuidados com fogão,manutencao preventiva
+5,manutencao,fogão,quanto tempo dura fogão,durabilidade e recompra
+5,manutencao,fogão,manutenção preventiva fogão,servico recorrente
+5,manutencao,cooktop,como limpar cooktop,conteudo de relacionamento
+5,manutencao,forno elétrico,como limpar forno elétrico,conteudo de relacionamento
+5,manutencao,micro-ondas,como limpar micro-ondas,conteudo de relacionamento
+5,manutencao,micro-ondas,como higienizar micro-ondas,variacao de alta frequencia
+5,manutencao,micro-ondas,cuidados com micro-ondas,manutencao preventiva
+5,manutencao,micro-ondas,quanto tempo dura micro-ondas,durabilidade e recompra
+5,manutencao,micro-ondas,manutenção preventiva micro-ondas,servico recorrente
+5,manutencao,lava louças,como limpar lava louças,conteudo de relacionamento
+5,manutencao,lava louças,como higienizar lava louças,variacao de alta frequencia
+5,manutencao,lava louças,cuidados com lava louças,manutencao preventiva
+5,manutencao,lava louças,quanto tempo dura lava louças,durabilidade e recompra
+5,manutencao,lava louças,manutenção preventiva lava louças,servico recorrente
+5,manutencao,coifa,como limpar coifa,conteudo de relacionamento
+5,manutencao,depurador de ar,como limpar depurador de ar,conteudo de relacionamento
+5,manutencao,adega climatizada,como limpar adega climatizada,conteudo de relacionamento
+5,manutencao,cervejeira,como limpar cervejeira,conteudo de relacionamento
+5,manutencao,ar condicionado,como limpar ar condicionado,conteudo de relacionamento
+5,manutencao,ar condicionado,como higienizar ar condicionado,variacao de alta frequencia
+5,manutencao,ar condicionado,cuidados com ar condicionado,manutencao preventiva
+5,manutencao,ar condicionado,quanto tempo dura ar condicionado,durabilidade e recompra
+5,manutencao,ar condicionado,manutenção preventiva ar condicionado,servico recorrente
+5,manutencao,air fryer,como limpar air fryer,conteudo de relacionamento
+5,manutencao,air fryer,como higienizar air fryer,variacao de alta frequencia
+5,manutencao,air fryer,cuidados com air fryer,manutencao preventiva
+5,manutencao,air fryer,quanto tempo dura air fryer,durabilidade e recompra
+5,manutencao,air fryer,manutenção preventiva air fryer,servico recorrente
+5,manutencao,fritadeira elétrica,como limpar fritadeira elétrica,conteudo de relacionamento
+5,manutencao,aspirador de pó,como limpar aspirador de pó,conteudo de relacionamento
+5,manutencao,aspirador de pó,como higienizar aspirador de pó,variacao de alta frequencia
+5,manutencao,aspirador de pó,cuidados com aspirador de pó,manutencao preventiva
+5,manutencao,aspirador de pó,quanto tempo dura aspirador de pó,durabilidade e recompra
+5,manutencao,aspirador de pó,manutenção preventiva aspirador de pó,servico recorrente
+5,manutencao,robô aspirador,como limpar robô aspirador,conteudo de relacionamento
+5,manutencao,purificador de água,como limpar purificador de água,conteudo de relacionamento
+5,manutencao,bebedouro,como limpar bebedouro,conteudo de relacionamento
+5,manutencao,ventilador,como limpar ventilador,conteudo de relacionamento
+5,manutencao,batedeira,como limpar batedeira,conteudo de relacionamento
+5,manutencao,liquidificador,como limpar liquidificador,conteudo de relacionamento
+5,manutencao,ferro de passar,como limpar ferro de passar,conteudo de relacionamento
+5,manutencao,cafeteira,como limpar cafeteira,conteudo de relacionamento
+5,manutencao,panela elétrica,como limpar panela elétrica,conteudo de relacionamento
+5,manutencao,lavadora de alta pressão,como limpar lavadora de alta pressão,conteudo de relacionamento
+5,manutencao,sanduicheira,como limpar sanduicheira,conteudo de relacionamento
+5,manutencao,chaleira elétrica,como limpar chaleira elétrica,conteudo de relacionamento
+6,instalacao,geladeira,como instalar geladeira,instalacao
+6,instalacao,geladeira,instalação de geladeira,servico de instalacao
+6,instalacao,geladeira,quanto custa instalar geladeira,intencao transacional
+6,instalacao,geladeira,medidas do vão para geladeira,planejamento de ambiente
+6,instalacao,geladeira,precisa de tomada especial geladeira,duvida pre-instalacao
+6,instalacao,máquina de lavar,como instalar máquina de lavar,instalacao
+6,instalacao,máquina de lavar,instalação de máquina de lavar,servico de instalacao
+6,instalacao,máquina de lavar,quanto custa instalar máquina de lavar,intencao transacional
+6,instalacao,máquina de lavar,medidas do vão para máquina de lavar,planejamento de ambiente
+6,instalacao,máquina de lavar,precisa de tomada especial máquina de lavar,duvida pre-instalacao
+6,instalacao,lava e seca,como instalar lava e seca,instalacao
+6,instalacao,lava e seca,instalação de lava e seca,servico de instalacao
+6,instalacao,lava e seca,quanto custa instalar lava e seca,intencao transacional
+6,instalacao,lava e seca,medidas do vão para lava e seca,planejamento de ambiente
+6,instalacao,lava e seca,precisa de tomada especial lava e seca,duvida pre-instalacao
+6,instalacao,secadora de roupas,como instalar secadora de roupas,instalacao
+6,instalacao,secadora de roupas,instalação de secadora de roupas,servico de instalacao
+6,instalacao,secadora de roupas,quanto custa instalar secadora de roupas,intencao transacional
+6,instalacao,secadora de roupas,medidas do vão para secadora de roupas,planejamento de ambiente
+6,instalacao,secadora de roupas,precisa de tomada especial secadora de roupas,duvida pre-instalacao
+6,instalacao,fogão,como instalar fogão,instalacao
+6,instalacao,fogão,instalação de fogão,servico de instalacao
+6,instalacao,fogão,quanto custa instalar fogão,intencao transacional
+6,instalacao,fogão,medidas do vão para fogão,planejamento de ambiente
+6,instalacao,fogão,precisa de tomada especial fogão,duvida pre-instalacao
+6,instalacao,cooktop,como instalar cooktop,instalacao
+6,instalacao,cooktop,instalação de cooktop,servico de instalacao
+6,instalacao,cooktop,quanto custa instalar cooktop,intencao transacional
+6,instalacao,cooktop,medidas do vão para cooktop,planejamento de ambiente
+6,instalacao,cooktop,precisa de tomada especial cooktop,duvida pre-instalacao
+6,instalacao,forno elétrico,como instalar forno elétrico,instalacao
+6,instalacao,forno elétrico,instalação de forno elétrico,servico de instalacao
+6,instalacao,forno elétrico,quanto custa instalar forno elétrico,intencao transacional
+6,instalacao,forno elétrico,medidas do vão para forno elétrico,planejamento de ambiente
+6,instalacao,forno elétrico,precisa de tomada especial forno elétrico,duvida pre-instalacao
+6,instalacao,micro-ondas,como instalar micro-ondas,instalacao
+6,instalacao,micro-ondas,instalação de micro-ondas,servico de instalacao
+6,instalacao,micro-ondas,quanto custa instalar micro-ondas,intencao transacional
+6,instalacao,micro-ondas,medidas do vão para micro-ondas,planejamento de ambiente
+6,instalacao,micro-ondas,precisa de tomada especial micro-ondas,duvida pre-instalacao
+6,instalacao,lava louças,como instalar lava louças,instalacao
+6,instalacao,lava louças,instalação de lava louças,servico de instalacao
+6,instalacao,lava louças,quanto custa instalar lava louças,intencao transacional
+6,instalacao,lava louças,medidas do vão para lava louças,planejamento de ambiente
+6,instalacao,lava louças,precisa de tomada especial lava louças,duvida pre-instalacao
+6,instalacao,coifa,como instalar coifa,instalacao
+6,instalacao,coifa,instalação de coifa,servico de instalacao
+6,instalacao,coifa,quanto custa instalar coifa,intencao transacional
+6,instalacao,coifa,medidas do vão para coifa,planejamento de ambiente
+6,instalacao,coifa,precisa de tomada especial coifa,duvida pre-instalacao
+6,instalacao,depurador de ar,como instalar depurador de ar,instalacao
+6,instalacao,depurador de ar,instalação de depurador de ar,servico de instalacao
+6,instalacao,depurador de ar,quanto custa instalar depurador de ar,intencao transacional
+6,instalacao,depurador de ar,medidas do vão para depurador de ar,planejamento de ambiente
+6,instalacao,depurador de ar,precisa de tomada especial depurador de ar,duvida pre-instalacao
+6,instalacao,ar condicionado,como instalar ar condicionado,instalacao
+6,instalacao,ar condicionado,instalação de ar condicionado,servico de instalacao
+6,instalacao,ar condicionado,quanto custa instalar ar condicionado,intencao transacional
+6,instalacao,ar condicionado,medidas do vão para ar condicionado,planejamento de ambiente
+6,instalacao,ar condicionado,precisa de tomada especial ar condicionado,duvida pre-instalacao
+6,instalacao,purificador de água,como instalar purificador de água,instalacao
+6,instalacao,purificador de água,instalação de purificador de água,servico de instalacao
+6,instalacao,purificador de água,quanto custa instalar purificador de água,intencao transacional
+6,instalacao,purificador de água,medidas do vão para purificador de água,planejamento de ambiente
+6,instalacao,purificador de água,precisa de tomada especial purificador de água,duvida pre-instalacao
+6,instalacao,adega climatizada,como instalar adega climatizada,instalacao
+6,instalacao,adega climatizada,instalação de adega climatizada,servico de instalacao
+6,instalacao,adega climatizada,quanto custa instalar adega climatizada,intencao transacional
+6,instalacao,adega climatizada,medidas do vão para adega climatizada,planejamento de ambiente
+6,instalacao,adega climatizada,precisa de tomada especial adega climatizada,duvida pre-instalacao
+6,instalacao,bebedouro,como instalar bebedouro,instalacao
+6,instalacao,bebedouro,instalação de bebedouro,servico de instalacao
+6,instalacao,bebedouro,quanto custa instalar bebedouro,intencao transacional
+6,instalacao,bebedouro,medidas do vão para bebedouro,planejamento de ambiente
+6,instalacao,bebedouro,precisa de tomada especial bebedouro,duvida pre-instalacao
+7,consumo,geladeira,consumo de energia geladeira,eficiencia
+7,consumo,geladeira,quanto gasta de energia geladeira,formulacao coloquial
+7,consumo,geladeira,geladeira gasta muita energia,formulacao coloquial
+7,consumo,geladeira,quantos kwh consome geladeira,formulacao tecnica
+7,consumo,geladeira,geladeira econômica,atributo de escolha
+7,consumo,freezer,consumo de energia freezer,eficiencia
+7,consumo,máquina de lavar,consumo de energia máquina de lavar,eficiencia
+7,consumo,máquina de lavar,quanto gasta de energia máquina de lavar,formulacao coloquial
+7,consumo,máquina de lavar,máquina de lavar gasta muita energia,formulacao coloquial
+7,consumo,máquina de lavar,quantos kwh consome máquina de lavar,formulacao tecnica
+7,consumo,máquina de lavar,máquina de lavar econômica,atributo de escolha
+7,consumo,lavadora de roupas,consumo de energia lavadora de roupas,eficiencia
+7,consumo,lava e seca,consumo de energia lava e seca,eficiencia
+7,consumo,lava e seca,quanto gasta de energia lava e seca,formulacao coloquial
+7,consumo,lava e seca,lava e seca gasta muita energia,formulacao coloquial
+7,consumo,lava e seca,quantos kwh consome lava e seca,formulacao tecnica
+7,consumo,lava e seca,lava e seca econômica,atributo de escolha
+7,consumo,secadora de roupas,consumo de energia secadora de roupas,eficiencia
+7,consumo,secadora de roupas,quanto gasta de energia secadora de roupas,formulacao coloquial
+7,consumo,secadora de roupas,secadora de roupas gasta muita energia,formulacao coloquial
+7,consumo,secadora de roupas,quantos kwh consome secadora de roupas,formulacao tecnica
+7,consumo,secadora de roupas,secadora de roupas econômica,atributo de escolha
+7,consumo,fogão,consumo de energia fogão,eficiencia
+7,consumo,fogão,quanto gasta de energia fogão,formulacao coloquial
+7,consumo,fogão,fogão gasta muita energia,formulacao coloquial
+7,consumo,fogão,quantos kwh consome fogão,formulacao tecnica
+7,consumo,fogão,fogão econômica,atributo de escolha
+7,consumo,cooktop,consumo de energia cooktop,eficiencia
+7,consumo,forno elétrico,consumo de energia forno elétrico,eficiencia
+7,consumo,micro-ondas,consumo de energia micro-ondas,eficiencia
+7,consumo,micro-ondas,quanto gasta de energia micro-ondas,formulacao coloquial
+7,consumo,micro-ondas,micro-ondas gasta muita energia,formulacao coloquial
+7,consumo,micro-ondas,quantos kwh consome micro-ondas,formulacao tecnica
+7,consumo,micro-ondas,micro-ondas econômica,atributo de escolha
+7,consumo,lava louças,consumo de energia lava louças,eficiencia
+7,consumo,lava louças,quanto gasta de energia lava louças,formulacao coloquial
+7,consumo,lava louças,lava louças gasta muita energia,formulacao coloquial
+7,consumo,lava louças,quantos kwh consome lava louças,formulacao tecnica
+7,consumo,lava louças,lava louças econômica,atributo de escolha
+7,consumo,coifa,consumo de energia coifa,eficiencia
+7,consumo,depurador de ar,consumo de energia depurador de ar,eficiencia
+7,consumo,adega climatizada,consumo de energia adega climatizada,eficiencia
+7,consumo,cervejeira,consumo de energia cervejeira,eficiencia
+7,consumo,ar condicionado,consumo de energia ar condicionado,eficiencia
+7,consumo,ar condicionado,quanto gasta de energia ar condicionado,formulacao coloquial
+7,consumo,ar condicionado,ar condicionado gasta muita energia,formulacao coloquial
+7,consumo,ar condicionado,quantos kwh consome ar condicionado,formulacao tecnica
+7,consumo,ar condicionado,ar condicionado econômica,atributo de escolha
+7,consumo,air fryer,consumo de energia air fryer,eficiencia
+7,consumo,air fryer,quanto gasta de energia air fryer,formulacao coloquial
+7,consumo,air fryer,air fryer gasta muita energia,formulacao coloquial
+7,consumo,air fryer,quantos kwh consome air fryer,formulacao tecnica
+7,consumo,air fryer,air fryer econômica,atributo de escolha
+7,consumo,fritadeira elétrica,consumo de energia fritadeira elétrica,eficiencia
+7,consumo,aspirador de pó,consumo de energia aspirador de pó,eficiencia
+7,consumo,aspirador de pó,quanto gasta de energia aspirador de pó,formulacao coloquial
+7,consumo,aspirador de pó,aspirador de pó gasta muita energia,formulacao coloquial
+7,consumo,aspirador de pó,quantos kwh consome aspirador de pó,formulacao tecnica
+7,consumo,aspirador de pó,aspirador de pó econômica,atributo de escolha
+7,consumo,robô aspirador,consumo de energia robô aspirador,eficiencia
+7,consumo,purificador de água,consumo de energia purificador de água,eficiencia
+7,consumo,bebedouro,consumo de energia bebedouro,eficiencia
+7,consumo,ventilador,consumo de energia ventilador,eficiencia
+7,consumo,batedeira,consumo de energia batedeira,eficiencia
+7,consumo,liquidificador,consumo de energia liquidificador,eficiencia
+7,consumo,ferro de passar,consumo de energia ferro de passar,eficiencia
+7,consumo,cafeteira,consumo de energia cafeteira,eficiencia
+7,consumo,panela elétrica,consumo de energia panela elétrica,eficiencia
+7,consumo,lavadora de alta pressão,consumo de energia lavadora de alta pressão,eficiencia
+7,consumo,sanduicheira,consumo de energia sanduicheira,eficiencia
+7,consumo,chaleira elétrica,consumo de energia chaleira elétrica,eficiencia
+7,consumo,transversal,selo procel o que significa,atributo institucional
+7,consumo,transversal,classificação energética eletrodomésticos,atributo institucional
+8,garantia,geladeira,garantia geladeira,pos-venda
+8,garantia,geladeira,garantia estendida geladeira,produto de servico
+8,garantia,máquina de lavar,garantia máquina de lavar,pos-venda
+8,garantia,máquina de lavar,garantia estendida máquina de lavar,produto de servico
+8,garantia,lava e seca,garantia lava e seca,pos-venda
+8,garantia,lava e seca,garantia estendida lava e seca,produto de servico
+8,garantia,fogão,garantia fogão,pos-venda
+8,garantia,fogão,garantia estendida fogão,produto de servico
+8,garantia,micro-ondas,garantia micro-ondas,pos-venda
+8,garantia,micro-ondas,garantia estendida micro-ondas,produto de servico
+8,garantia,ar condicionado,garantia ar condicionado,pos-venda
+8,garantia,ar condicionado,garantia estendida ar condicionado,produto de servico
+8,garantia,air fryer,garantia air fryer,pos-venda
+8,garantia,air fryer,garantia estendida air fryer,produto de servico
+8,garantia,lava louças,garantia lava louças,pos-venda
+8,garantia,lava louças,garantia estendida lava louças,produto de servico
+8,garantia,aspirador de pó,garantia aspirador de pó,pos-venda
+8,garantia,aspirador de pó,garantia estendida aspirador de pó,produto de servico
+8,garantia,secadora de roupas,garantia secadora de roupas,pos-venda
+8,garantia,secadora de roupas,garantia estendida secadora de roupas,produto de servico
+8,garantia,transversal,garantia estendida vale a pena,decisao de compra de servico
+8,garantia,transversal,como acionar garantia de eletrodoméstico,jornada de pos-venda
+8,garantia,transversal,garantia legal eletrodoméstico,direito do consumidor
+9,descarte,geladeira,como descartar geladeira velha,territorio declarado a validar
+9,descarte,geladeira,onde doar geladeira usada,reuso
+9,descarte,máquina de lavar,como descartar máquina de lavar velha,territorio declarado a validar
+9,descarte,máquina de lavar,onde doar máquina de lavar usada,reuso
+9,descarte,fogão,como descartar fogão velha,territorio declarado a validar
+9,descarte,fogão,onde doar fogão usada,reuso
+9,descarte,micro-ondas,como descartar micro-ondas velha,territorio declarado a validar
+9,descarte,micro-ondas,onde doar micro-ondas usada,reuso
+9,descarte,ar condicionado,como descartar ar condicionado velha,territorio declarado a validar
+9,descarte,ar condicionado,onde doar ar condicionado usada,reuso
+9,descarte,freezer,como descartar freezer velha,territorio declarado a validar
+9,descarte,freezer,onde doar freezer usada,reuso
+9,descarte,transversal,reciclagem de eletrodomésticos,territorio declarado
+9,descarte,transversal,logística reversa eletrodomésticos,termo institucional
+9,descarte,transversal,descarte correto de eletrodomésticos,territorio declarado
+9,descarte,transversal,coleta de eletrodomésticos usados,servico
+10,receita,air fryer,receitas air fryer,ponto de entrada citado no briefing
+10,receita,air fryer,o que dá para fazer no air fryer,descoberta de uso
+10,receita,air fryer,tabela de tempo e temperatura air fryer,conteudo utilitario
+10,receita,fritadeira elétrica,receitas fritadeira elétrica,ponto de entrada citado no briefing
+10,receita,fritadeira elétrica,o que dá para fazer no fritadeira elétrica,descoberta de uso
+10,receita,fritadeira elétrica,tabela de tempo e temperatura fritadeira elétrica,conteudo utilitario
+10,receita,forno elétrico,receitas forno elétrico,ponto de entrada citado no briefing
+10,receita,forno elétrico,o que dá para fazer no forno elétrico,descoberta de uso
+10,receita,forno elétrico,tabela de tempo e temperatura forno elétrico,conteudo utilitario
+10,receita,micro-ondas,receitas micro-ondas,ponto de entrada citado no briefing
+10,receita,micro-ondas,o que dá para fazer no micro-ondas,descoberta de uso
+10,receita,micro-ondas,tabela de tempo e temperatura micro-ondas,conteudo utilitario
+10,receita,cooktop,receitas cooktop,ponto de entrada citado no briefing
+10,receita,cooktop,o que dá para fazer no cooktop,descoberta de uso
+10,receita,cooktop,tabela de tempo e temperatura cooktop,conteudo utilitario
+10,receita,panela elétrica,receitas panela elétrica,ponto de entrada citado no briefing
+10,receita,panela elétrica,o que dá para fazer no panela elétrica,descoberta de uso
+10,receita,panela elétrica,tabela de tempo e temperatura panela elétrica,conteudo utilitario
+10,receita,fogão,receitas fogão,ponto de entrada citado no briefing
+10,receita,fogão,o que dá para fazer no fogão,descoberta de uso
+10,receita,fogão,tabela de tempo e temperatura fogão,conteudo utilitario
+11,controle branded,geladeira,assistência técnica geladeira electrolux,controle: fatia branded da familia
+11,controle branded,geladeira,manual geladeira electrolux,controle: fatia branded da familia
+11,controle branded,geladeira,geladeira electrolux nao liga,controle: fatia branded da familia
+11,controle branded,máquina de lavar,assistência técnica máquina de lavar electrolux,controle: fatia branded da familia
+11,controle branded,máquina de lavar,manual máquina de lavar electrolux,controle: fatia branded da familia
+11,controle branded,máquina de lavar,máquina de lavar electrolux nao liga,controle: fatia branded da familia
+11,controle branded,lava e seca,assistência técnica lava e seca electrolux,controle: fatia branded da familia
+11,controle branded,lava e seca,manual lava e seca electrolux,controle: fatia branded da familia
+11,controle branded,lava e seca,lava e seca electrolux nao liga,controle: fatia branded da familia
+11,controle branded,fogão,assistência técnica fogão electrolux,controle: fatia branded da familia
+11,controle branded,fogão,manual fogão electrolux,controle: fatia branded da familia
+11,controle branded,fogão,fogão electrolux nao liga,controle: fatia branded da familia
+11,controle branded,micro-ondas,assistência técnica micro-ondas electrolux,controle: fatia branded da familia
+11,controle branded,micro-ondas,manual micro-ondas electrolux,controle: fatia branded da familia
+11,controle branded,micro-ondas,micro-ondas electrolux nao liga,controle: fatia branded da familia
+11,controle branded,ar condicionado,assistência técnica ar condicionado electrolux,controle: fatia branded da familia
+11,controle branded,ar condicionado,manual ar condicionado electrolux,controle: fatia branded da familia
+11,controle branded,ar condicionado,ar condicionado electrolux nao liga,controle: fatia branded da familia
+11,controle branded,air fryer,assistência técnica air fryer electrolux,controle: fatia branded da familia
+11,controle branded,air fryer,manual air fryer electrolux,controle: fatia branded da familia
+11,controle branded,air fryer,air fryer electrolux nao liga,controle: fatia branded da familia
+11,controle branded,lava louças,assistência técnica lava louças electrolux,controle: fatia branded da familia
+11,controle branded,lava louças,manual lava louças electrolux,controle: fatia branded da familia
+11,controle branded,lava louças,lava louças electrolux nao liga,controle: fatia branded da familia
+11,controle branded,aspirador de pó,assistência técnica aspirador de pó electrolux,controle: fatia branded da familia
+11,controle branded,aspirador de pó,manual aspirador de pó electrolux,controle: fatia branded da familia
+11,controle branded,aspirador de pó,aspirador de pó electrolux nao liga,controle: fatia branded da familia
+11,controle branded,secadora de roupas,assistência técnica secadora de roupas electrolux,controle: fatia branded da familia
+11,controle branded,secadora de roupas,manual secadora de roupas electrolux,controle: fatia branded da familia
+11,controle branded,secadora de roupas,secadora de roupas electrolux nao liga,controle: fatia branded da familia
+11,controle branded,frente nomeada,electrolux cuida,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,electrolux instala,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,electrolux projeta,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,electrolux pro,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,electrolux shopclub,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,electrolux outlet,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,coleta consciente electrolux,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,assistência técnica electrolux,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,peça original electrolux,frente nomeada: quadrante anunciado e vago
+11,controle branded,frente nomeada,garantia estendida electrolux,frente nomeada: quadrante anunciado e vago
+12,sinonimo,máquina de lavar,assistência técnica lavadora,forma alternativa da mesma categoria
+12,sinonimo,máquina de lavar,manual lavadora,forma alternativa
+12,sinonimo,máquina de lavar,como limpar lavadora,forma alternativa
+12,sinonimo,máquina de lavar,consumo de energia lavadora,forma alternativa
+12,sinonimo,máquina de lavar,lavadora não centrifuga,forma alternativa em query de defeito
+12,sinonimo,máquina de lavar,lavadora não enche de água,forma alternativa em query de defeito
+12,sinonimo,máquina de lavar,lavadora não escoa,forma alternativa em query de defeito
+12,sinonimo,máquina de lavar,lavadora não liga,forma alternativa em query de defeito
+12,sinonimo,máquina de lavar,assistência técnica maquina de lavar roupa,forma alternativa da mesma categoria
+12,sinonimo,máquina de lavar,manual maquina de lavar roupa,forma alternativa
+12,sinonimo,máquina de lavar,como limpar maquina de lavar roupa,forma alternativa
+12,sinonimo,máquina de lavar,consumo de energia maquina de lavar roupa,forma alternativa
+12,sinonimo,máquina de lavar,maquina de lavar roupa não centrifuga,forma alternativa em query de defeito
+12,sinonimo,máquina de lavar,maquina de lavar roupa não enche de água,forma alternativa em query de defeito
+12,sinonimo,máquina de lavar,maquina de lavar roupa não escoa,forma alternativa em query de defeito
+12,sinonimo,máquina de lavar,maquina de lavar roupa não liga,forma alternativa em query de defeito
+12,sinonimo,geladeira,assistência técnica refrigerador,forma alternativa da mesma categoria
+12,sinonimo,geladeira,manual refrigerador,forma alternativa
+12,sinonimo,geladeira,como limpar refrigerador,forma alternativa
+12,sinonimo,geladeira,consumo de energia refrigerador,forma alternativa
+12,sinonimo,geladeira,refrigerador não gela,forma alternativa em query de defeito
+12,sinonimo,geladeira,refrigerador não está gelando,forma alternativa em query de defeito
+12,sinonimo,geladeira,refrigerador fazendo barulho,forma alternativa em query de defeito
+12,sinonimo,geladeira,refrigerador vazando água,forma alternativa em query de defeito
+12,sinonimo,micro-ondas,assistência técnica microondas,forma alternativa da mesma categoria
+12,sinonimo,micro-ondas,manual microondas,forma alternativa
+12,sinonimo,micro-ondas,como limpar microondas,forma alternativa
+12,sinonimo,micro-ondas,consumo de energia microondas,forma alternativa
+12,sinonimo,micro-ondas,microondas não esquenta,forma alternativa em query de defeito
+12,sinonimo,micro-ondas,microondas prato não gira,forma alternativa em query de defeito
+12,sinonimo,micro-ondas,microondas dando faísca,forma alternativa em query de defeito
+12,sinonimo,micro-ondas,microondas não liga,forma alternativa em query de defeito
+12,sinonimo,fogão,assistência técnica fogao,forma alternativa da mesma categoria
+12,sinonimo,fogão,manual fogao,forma alternativa
+12,sinonimo,fogão,como limpar fogao,forma alternativa
+12,sinonimo,fogão,consumo de energia fogao,forma alternativa
+12,sinonimo,fogão,fogao não acende,forma alternativa em query de defeito
+12,sinonimo,fogão,fogao boca não acende,forma alternativa em query de defeito
+12,sinonimo,fogão,fogao forno não acende,forma alternativa em query de defeito
+12,sinonimo,fogão,fogao chama amarela,forma alternativa em query de defeito
+12,sinonimo,air fryer,assistência técnica airfryer,forma alternativa da mesma categoria
+12,sinonimo,air fryer,manual airfryer,forma alternativa
+12,sinonimo,air fryer,como limpar airfryer,forma alternativa
+12,sinonimo,air fryer,consumo de energia airfryer,forma alternativa
+12,sinonimo,air fryer,airfryer não esquenta,forma alternativa em query de defeito
+12,sinonimo,air fryer,airfryer não liga,forma alternativa em query de defeito
+12,sinonimo,air fryer,airfryer com cheiro de queimado,forma alternativa em query de defeito
+12,sinonimo,air fryer,airfryer desligando sozinha,forma alternativa em query de defeito
+12,sinonimo,air fryer,assistência técnica fritadeira air fryer,forma alternativa da mesma categoria
+12,sinonimo,air fryer,manual fritadeira air fryer,forma alternativa
+12,sinonimo,air fryer,como limpar fritadeira air fryer,forma alternativa
+12,sinonimo,air fryer,consumo de energia fritadeira air fryer,forma alternativa
+12,sinonimo,air fryer,fritadeira air fryer não esquenta,forma alternativa em query de defeito
+12,sinonimo,air fryer,fritadeira air fryer não liga,forma alternativa em query de defeito
+12,sinonimo,air fryer,fritadeira air fryer com cheiro de queimado,forma alternativa em query de defeito
+12,sinonimo,air fryer,fritadeira air fryer desligando sozinha,forma alternativa em query de defeito
+12,sinonimo,lava louças,assistência técnica lava-louças,forma alternativa da mesma categoria
+12,sinonimo,lava louças,manual lava-louças,forma alternativa
+12,sinonimo,lava louças,como limpar lava-louças,forma alternativa
+12,sinonimo,lava louças,consumo de energia lava-louças,forma alternativa
+12,sinonimo,lava louças,lava-louças não seca,forma alternativa em query de defeito
+12,sinonimo,lava louças,lava-louças não escoa,forma alternativa em query de defeito
+12,sinonimo,lava louças,lava-louças não lava direito,forma alternativa em query de defeito
+12,sinonimo,lava louças,lava-louças não liga,forma alternativa em query de defeito
+12,sinonimo,lava louças,assistência técnica lavalouças,forma alternativa da mesma categoria
+12,sinonimo,lava louças,manual lavalouças,forma alternativa
+12,sinonimo,lava louças,como limpar lavalouças,forma alternativa
+12,sinonimo,lava louças,consumo de energia lavalouças,forma alternativa
+12,sinonimo,lava louças,lavalouças não seca,forma alternativa em query de defeito
+12,sinonimo,lava louças,lavalouças não escoa,forma alternativa em query de defeito
+12,sinonimo,lava louças,lavalouças não lava direito,forma alternativa em query de defeito
+12,sinonimo,lava louças,lavalouças não liga,forma alternativa em query de defeito
+12,sinonimo,aspirador de pó,assistência técnica aspirador,forma alternativa da mesma categoria
+12,sinonimo,aspirador de pó,manual aspirador,forma alternativa
+12,sinonimo,aspirador de pó,como limpar aspirador,forma alternativa
+12,sinonimo,aspirador de pó,consumo de energia aspirador,forma alternativa
+12,sinonimo,aspirador de pó,aspirador perdeu sucção,forma alternativa em query de defeito
+12,sinonimo,aspirador de pó,aspirador não liga,forma alternativa em query de defeito
+12,sinonimo,aspirador de pó,aspirador não puxa,forma alternativa em query de defeito
+12,sinonimo,aspirador de pó,aspirador com pouca forca,forma alternativa em query de defeito
+13,defeito,geladeira,como consertar geladeira não gela,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira não gela,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira não está gelando,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira não está gelando,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira fazendo barulho,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira fazendo barulho,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira vazando água,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira vazando água,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira não liga,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira não liga,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira congelando demais,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira congelando demais,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira formando gelo,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira formando gelo,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira com cheiro ruim,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira com cheiro ruim,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira luz não acende,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira luz não acende,formulacao de diagnostico
+13,defeito,geladeira,como consertar geladeira motor não desliga,formulacao de auto-servico
+13,defeito,geladeira,por que geladeira motor não desliga,formulacao de diagnostico
+13,defeito,freezer,como consertar freezer não congela,formulacao de auto-servico
+13,defeito,freezer,como consertar freezer não gela,formulacao de auto-servico
+13,defeito,freezer,como consertar freezer formando gelo,formulacao de auto-servico
+13,defeito,freezer,como consertar freezer fazendo barulho,formulacao de auto-servico
+13,defeito,freezer,como consertar freezer não liga,formulacao de auto-servico
+13,defeito,máquina de lavar,como consertar máquina de lavar não centrifuga,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar não centrifuga,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar não enche de água,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar não enche de água,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar não escoa,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar não escoa,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar não liga,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar não liga,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar fazendo barulho,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar fazendo barulho,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar vazando água,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar vazando água,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar travada,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar travada,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar não bate,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar não bate,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar parou no meio do ciclo,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar parou no meio do ciclo,formulacao de diagnostico
+13,defeito,máquina de lavar,como consertar máquina de lavar tambor não gira,formulacao de auto-servico
+13,defeito,máquina de lavar,por que máquina de lavar tambor não gira,formulacao de diagnostico
+13,defeito,lavadora de roupas,como consertar lavadora de roupas não centrifuga,formulacao de auto-servico
+13,defeito,lavadora de roupas,como consertar lavadora de roupas não enche,formulacao de auto-servico
+13,defeito,lavadora de roupas,como consertar lavadora de roupas não escoa,formulacao de auto-servico
+13,defeito,lavadora de roupas,como consertar lavadora de roupas fazendo barulho,formulacao de auto-servico
+13,defeito,lava e seca,como consertar lava e seca não seca,formulacao de auto-servico
+13,defeito,lava e seca,por que lava e seca não seca,formulacao de diagnostico
+13,defeito,lava e seca,como consertar lava e seca não centrifuga,formulacao de auto-servico
+13,defeito,lava e seca,por que lava e seca não centrifuga,formulacao de diagnostico
+13,defeito,lava e seca,como consertar lava e seca não esquenta,formulacao de auto-servico
+13,defeito,lava e seca,por que lava e seca não esquenta,formulacao de diagnostico
+13,defeito,lava e seca,como consertar lava e seca não escoa,formulacao de auto-servico
+13,defeito,lava e seca,por que lava e seca não escoa,formulacao de diagnostico
+13,defeito,lava e seca,como consertar lava e seca fazendo barulho,formulacao de auto-servico
+13,defeito,lava e seca,por que lava e seca fazendo barulho,formulacao de diagnostico
+13,defeito,secadora de roupas,como consertar secadora de roupas não seca,formulacao de auto-servico
+13,defeito,secadora de roupas,por que secadora de roupas não seca,formulacao de diagnostico
+13,defeito,secadora de roupas,como consertar secadora de roupas não esquenta,formulacao de auto-servico
+13,defeito,secadora de roupas,por que secadora de roupas não esquenta,formulacao de diagnostico
+13,defeito,secadora de roupas,como consertar secadora de roupas não liga,formulacao de auto-servico
+13,defeito,secadora de roupas,por que secadora de roupas não liga,formulacao de diagnostico
+13,defeito,secadora de roupas,como consertar secadora de roupas fazendo barulho,formulacao de auto-servico
+13,defeito,secadora de roupas,por que secadora de roupas fazendo barulho,formulacao de diagnostico
+13,defeito,fogão,como consertar fogão não acende,formulacao de auto-servico
+13,defeito,fogão,por que fogão não acende,formulacao de diagnostico
+13,defeito,fogão,como consertar fogão boca não acende,formulacao de auto-servico
+13,defeito,fogão,por que fogão boca não acende,formulacao de diagnostico
+13,defeito,fogão,como consertar fogão forno não acende,formulacao de auto-servico
+13,defeito,fogão,por que fogão forno não acende,formulacao de diagnostico
+13,defeito,fogão,como consertar fogão chama amarela,formulacao de auto-servico
+13,defeito,fogão,por que fogão chama amarela,formulacao de diagnostico
+13,defeito,fogão,como consertar fogão cheiro de gás,formulacao de auto-servico
+13,defeito,fogão,por que fogão cheiro de gás,formulacao de diagnostico
+13,defeito,fogão,como consertar fogão acendimento automático não funciona,formulacao de auto-servico
+13,defeito,fogão,por que fogão acendimento automático não funciona,formulacao de diagnostico
+13,defeito,cooktop,como consertar cooktop não acende,formulacao de auto-servico
+13,defeito,cooktop,como consertar cooktop não liga,formulacao de auto-servico
+13,defeito,cooktop,como consertar cooktop chama fraca,formulacao de auto-servico
+13,defeito,forno elétrico,como consertar forno elétrico não esquenta,formulacao de auto-servico
+13,defeito,forno elétrico,como consertar forno elétrico não liga,formulacao de auto-servico
+13,defeito,forno elétrico,como consertar forno elétrico resistência queimada,formulacao de auto-servico
+13,defeito,micro-ondas,como consertar micro-ondas não esquenta,formulacao de auto-servico
+13,defeito,micro-ondas,por que micro-ondas não esquenta,formulacao de diagnostico
+13,defeito,micro-ondas,como consertar micro-ondas prato não gira,formulacao de auto-servico
+13,defeito,micro-ondas,por que micro-ondas prato não gira,formulacao de diagnostico
+13,defeito,micro-ondas,como consertar micro-ondas dando faísca,formulacao de auto-servico
+13,defeito,micro-ondas,por que micro-ondas dando faísca,formulacao de diagnostico
+13,defeito,micro-ondas,como consertar micro-ondas não liga,formulacao de auto-servico
+13,defeito,micro-ondas,por que micro-ondas não liga,formulacao de diagnostico
+13,defeito,micro-ondas,como consertar micro-ondas com barulho,formulacao de auto-servico
+13,defeito,micro-ondas,por que micro-ondas com barulho,formulacao de diagnostico
+13,defeito,lava louças,como consertar lava louças não seca,formulacao de auto-servico
+13,defeito,lava louças,por que lava louças não seca,formulacao de diagnostico
+13,defeito,lava louças,como consertar lava louças não escoa,formulacao de auto-servico
+13,defeito,lava louças,por que lava louças não escoa,formulacao de diagnostico
+13,defeito,lava louças,como consertar lava louças não lava direito,formulacao de auto-servico
+13,defeito,lava louças,por que lava louças não lava direito,formulacao de diagnostico
+13,defeito,lava louças,como consertar lava louças não liga,formulacao de auto-servico
+13,defeito,lava louças,por que lava louças não liga,formulacao de diagnostico
+13,defeito,lava louças,como consertar lava louças vazando,formulacao de auto-servico
+13,defeito,lava louças,por que lava louças vazando,formulacao de diagnostico
+13,defeito,ar condicionado,como consertar ar condicionado não gela,formulacao de auto-servico
+13,defeito,ar condicionado,por que ar condicionado não gela,formulacao de diagnostico
+13,defeito,ar condicionado,como consertar ar condicionado pingando agua,formulacao de auto-servico
+13,defeito,ar condicionado,por que ar condicionado pingando agua,formulacao de diagnostico
+13,defeito,ar condicionado,como consertar ar condicionado não liga,formulacao de auto-servico
+13,defeito,ar condicionado,por que ar condicionado não liga,formulacao de diagnostico
+13,defeito,ar condicionado,como consertar ar condicionado com cheiro,formulacao de auto-servico
+13,defeito,ar condicionado,por que ar condicionado com cheiro,formulacao de diagnostico
+13,defeito,ar condicionado,como consertar ar condicionado luz piscando,formulacao de auto-servico
+13,defeito,ar condicionado,por que ar condicionado luz piscando,formulacao de diagnostico
+13,defeito,ar condicionado,como consertar ar condicionado fazendo barulho,formulacao de auto-servico
+13,defeito,ar condicionado,por que ar condicionado fazendo barulho,formulacao de diagnostico
+13,defeito,ar condicionado,como consertar ar condicionado desligando sozinho,formulacao de auto-servico
+13,defeito,ar condicionado,por que ar condicionado desligando sozinho,formulacao de diagnostico
+13,defeito,air fryer,como consertar air fryer não esquenta,formulacao de auto-servico
+13,defeito,air fryer,por que air fryer não esquenta,formulacao de diagnostico
+13,defeito,air fryer,como consertar air fryer não liga,formulacao de auto-servico
+13,defeito,air fryer,por que air fryer não liga,formulacao de diagnostico
+13,defeito,air fryer,como consertar air fryer com cheiro de queimado,formulacao de auto-servico
+13,defeito,air fryer,por que air fryer com cheiro de queimado,formulacao de diagnostico
+13,defeito,air fryer,como consertar air fryer desligando sozinha,formulacao de auto-servico
+13,defeito,air fryer,por que air fryer desligando sozinha,formulacao de diagnostico
+13,defeito,fritadeira elétrica,como consertar fritadeira elétrica não esquenta,formulacao de auto-servico
+13,defeito,fritadeira elétrica,como consertar fritadeira elétrica não liga,formulacao de auto-servico
+13,defeito,aspirador de pó,como consertar aspirador de pó perdeu sucção,formulacao de auto-servico
+13,defeito,aspirador de pó,por que aspirador de pó perdeu sucção,formulacao de diagnostico
+13,defeito,aspirador de pó,como consertar aspirador de pó não liga,formulacao de auto-servico
+13,defeito,aspirador de pó,por que aspirador de pó não liga,formulacao de diagnostico
+13,defeito,aspirador de pó,como consertar aspirador de pó não puxa,formulacao de auto-servico
+13,defeito,aspirador de pó,por que aspirador de pó não puxa,formulacao de diagnostico
+13,defeito,aspirador de pó,como consertar aspirador de pó com pouca forca,formulacao de auto-servico
+13,defeito,aspirador de pó,por que aspirador de pó com pouca forca,formulacao de diagnostico
+13,defeito,robô aspirador,como consertar robô aspirador não carrega,formulacao de auto-servico
+13,defeito,robô aspirador,como consertar robô aspirador não liga,formulacao de auto-servico
+13,defeito,robô aspirador,como consertar robô aspirador não volta para base,formulacao de auto-servico
+13,defeito,purificador de água,como consertar purificador de água vazando,formulacao de auto-servico
+13,defeito,purificador de água,como consertar purificador de água não gela,formulacao de auto-servico
+13,defeito,purificador de água,como consertar purificador de água sem pressão,formulacao de auto-servico
+13,defeito,purificador de água,como consertar purificador de água luz vermelha acesa,formulacao de auto-servico
+13,defeito,bebedouro,como consertar bebedouro não gela,formulacao de auto-servico
+13,defeito,bebedouro,como consertar bebedouro vazando,formulacao de auto-servico
+13,defeito,coifa,como consertar coifa não puxa fumaça,formulacao de auto-servico
+13,defeito,coifa,como consertar coifa fazendo barulho,formulacao de auto-servico
+13,defeito,depurador de ar,como consertar depurador de ar não puxa,formulacao de auto-servico
+13,defeito,depurador de ar,como consertar depurador de ar com barulho,formulacao de auto-servico
+13,defeito,adega climatizada,como consertar adega climatizada não gela,formulacao de auto-servico
+13,defeito,adega climatizada,como consertar adega climatizada fazendo barulho,formulacao de auto-servico
+13,defeito,cervejeira,como consertar cervejeira não gela,formulacao de auto-servico
+13,defeito,ventilador,como consertar ventilador não liga,formulacao de auto-servico
+13,defeito,ventilador,como consertar ventilador fazendo barulho,formulacao de auto-servico
+13,defeito,batedeira,como consertar batedeira não liga,formulacao de auto-servico
+13,defeito,batedeira,como consertar batedeira perdeu forca,formulacao de auto-servico
+13,defeito,liquidificador,como consertar liquidificador não liga,formulacao de auto-servico
+13,defeito,liquidificador,como consertar liquidificador vazando,formulacao de auto-servico
+13,defeito,ferro de passar,como consertar ferro de passar não esquenta,formulacao de auto-servico
+13,defeito,ferro de passar,como consertar ferro de passar vazando água,formulacao de auto-servico
+13,defeito,ferro de passar,como consertar ferro de passar manchando roupa,formulacao de auto-servico
+13,defeito,cafeteira,como consertar cafeteira não esquenta,formulacao de auto-servico
+13,defeito,cafeteira,como consertar cafeteira vazando,formulacao de auto-servico
+13,defeito,cafeteira,como consertar cafeteira não passa café,formulacao de auto-servico
+13,defeito,panela elétrica,como consertar panela elétrica não esquenta,formulacao de auto-servico
+13,defeito,panela elétrica,como consertar panela elétrica não liga,formulacao de auto-servico
+13,defeito,lavadora de alta pressão,como consertar lavadora de alta pressão sem pressão,formulacao de auto-servico
+13,defeito,lavadora de alta pressão,como consertar lavadora de alta pressão não liga,formulacao de auto-servico
+13,defeito,sanduicheira,como consertar sanduicheira não esquenta,formulacao de auto-servico
+13,defeito,chaleira elétrica,como consertar chaleira elétrica não esquenta,formulacao de auto-servico
+13,defeito,chaleira elétrica,como consertar chaleira elétrica não desliga,formulacao de auto-servico
+13,assistencia,geladeira,assistência técnica autorizada geladeira,atributo de confianca
+13,assistencia,geladeira,assistência técnica geladeira 24 horas,urgencia
+13,assistencia,geladeira,compensa consertar ou comprar geladeira nova,decisao consertar x trocar
+13,manutencao,geladeira,com que frequência limpar geladeira,recorrencia de cuidado
+13,manutencao,geladeira,quando trocar geladeira,gatilho de recompra
+13,manual e uso,geladeira,código de erro geladeira,painel digital
+13,manual e uso,geladeira,o que significa erro geladeira,painel digital
+13,assistencia,máquina de lavar,assistência técnica autorizada máquina de lavar,atributo de confianca
+13,assistencia,máquina de lavar,assistência técnica máquina de lavar 24 horas,urgencia
+13,assistencia,máquina de lavar,compensa consertar ou comprar máquina de lavar nova,decisao consertar x trocar
+13,manutencao,máquina de lavar,com que frequência limpar máquina de lavar,recorrencia de cuidado
+13,manutencao,máquina de lavar,quando trocar máquina de lavar,gatilho de recompra
+13,manual e uso,máquina de lavar,código de erro máquina de lavar,painel digital
+13,manual e uso,máquina de lavar,o que significa erro máquina de lavar,painel digital
+13,assistencia,lava e seca,assistência técnica autorizada lava e seca,atributo de confianca
+13,assistencia,lava e seca,assistência técnica lava e seca 24 horas,urgencia
+13,assistencia,lava e seca,compensa consertar ou comprar lava e seca nova,decisao consertar x trocar
+13,manutencao,lava e seca,com que frequência limpar lava e seca,recorrencia de cuidado
+13,manutencao,lava e seca,quando trocar lava e seca,gatilho de recompra
+13,manual e uso,lava e seca,código de erro lava e seca,painel digital
+13,manual e uso,lava e seca,o que significa erro lava e seca,painel digital
+13,assistencia,fogão,assistência técnica autorizada fogão,atributo de confianca
+13,assistencia,fogão,assistência técnica fogão 24 horas,urgencia
+13,assistencia,fogão,compensa consertar ou comprar fogão nova,decisao consertar x trocar
+13,manutencao,fogão,com que frequência limpar fogão,recorrencia de cuidado
+13,manutencao,fogão,quando trocar fogão,gatilho de recompra
+13,manual e uso,fogão,código de erro fogão,painel digital
+13,manual e uso,fogão,o que significa erro fogão,painel digital
+13,assistencia,micro-ondas,assistência técnica autorizada micro-ondas,atributo de confianca
+13,assistencia,micro-ondas,assistência técnica micro-ondas 24 horas,urgencia
+13,assistencia,micro-ondas,compensa consertar ou comprar micro-ondas nova,decisao consertar x trocar
+13,manutencao,micro-ondas,com que frequência limpar micro-ondas,recorrencia de cuidado
+13,manutencao,micro-ondas,quando trocar micro-ondas,gatilho de recompra
+13,manual e uso,micro-ondas,código de erro micro-ondas,painel digital
+13,manual e uso,micro-ondas,o que significa erro micro-ondas,painel digital
+13,assistencia,ar condicionado,assistência técnica autorizada ar condicionado,atributo de confianca
+13,assistencia,ar condicionado,assistência técnica ar condicionado 24 horas,urgencia
+13,assistencia,ar condicionado,compensa consertar ou comprar ar condicionado nova,decisao consertar x trocar
+13,manutencao,ar condicionado,com que frequência limpar ar condicionado,recorrencia de cuidado
+13,manutencao,ar condicionado,quando trocar ar condicionado,gatilho de recompra
+13,manual e uso,ar condicionado,código de erro ar condicionado,painel digital
+13,manual e uso,ar condicionado,o que significa erro ar condicionado,painel digital
+13,assistencia,air fryer,assistência técnica autorizada air fryer,atributo de confianca
+13,assistencia,air fryer,assistência técnica air fryer 24 horas,urgencia
+13,assistencia,air fryer,compensa consertar ou comprar air fryer nova,decisao consertar x trocar
+13,manutencao,air fryer,com que frequência limpar air fryer,recorrencia de cuidado
+13,manutencao,air fryer,quando trocar air fryer,gatilho de recompra
+13,manual e uso,air fryer,código de erro air fryer,painel digital
+13,manual e uso,air fryer,o que significa erro air fryer,painel digital
+13,assistencia,lava louças,assistência técnica autorizada lava louças,atributo de confianca
+13,assistencia,lava louças,assistência técnica lava louças 24 horas,urgencia
+13,assistencia,lava louças,compensa consertar ou comprar lava louças nova,decisao consertar x trocar
+13,manutencao,lava louças,com que frequência limpar lava louças,recorrencia de cuidado
+13,manutencao,lava louças,quando trocar lava louças,gatilho de recompra
+13,manual e uso,lava louças,código de erro lava louças,painel digital
+13,manual e uso,lava louças,o que significa erro lava louças,painel digital
+13,assistencia,aspirador de pó,assistência técnica autorizada aspirador de pó,atributo de confianca
+13,assistencia,aspirador de pó,assistência técnica aspirador de pó 24 horas,urgencia
+13,assistencia,aspirador de pó,compensa consertar ou comprar aspirador de pó nova,decisao consertar x trocar
+13,manutencao,aspirador de pó,com que frequência limpar aspirador de pó,recorrencia de cuidado
+13,manutencao,aspirador de pó,quando trocar aspirador de pó,gatilho de recompra
+13,manual e uso,aspirador de pó,código de erro aspirador de pó,painel digital
+13,manual e uso,aspirador de pó,o que significa erro aspirador de pó,painel digital
+13,assistencia,secadora de roupas,assistência técnica autorizada secadora de roupas,atributo de confianca
+13,assistencia,secadora de roupas,assistência técnica secadora de roupas 24 horas,urgencia
+13,assistencia,secadora de roupas,compensa consertar ou comprar secadora de roupas nova,decisao consertar x trocar
+13,manutencao,secadora de roupas,com que frequência limpar secadora de roupas,recorrencia de cuidado
+13,manutencao,secadora de roupas,quando trocar secadora de roupas,gatilho de recompra
+13,manual e uso,secadora de roupas,código de erro secadora de roupas,painel digital
+13,manual e uso,secadora de roupas,o que significa erro secadora de roupas,painel digital
+13,assistencia,freezer,assistência técnica autorizada freezer,atributo de confianca
+13,assistencia,freezer,assistência técnica freezer 24 horas,urgencia
+13,assistencia,freezer,compensa consertar ou comprar freezer nova,decisao consertar x trocar
+13,manutencao,freezer,com que frequência limpar freezer,recorrencia de cuidado
+13,manutencao,freezer,quando trocar freezer,gatilho de recompra
+13,manual e uso,freezer,código de erro freezer,painel digital
+13,manual e uso,freezer,o que significa erro freezer,painel digital
+13,assistencia,cooktop,assistência técnica autorizada cooktop,atributo de confianca
+13,assistencia,cooktop,assistência técnica cooktop 24 horas,urgencia
+13,assistencia,cooktop,compensa consertar ou comprar cooktop nova,decisao consertar x trocar
+13,manutencao,cooktop,com que frequência limpar cooktop,recorrencia de cuidado
+13,manutencao,cooktop,quando trocar cooktop,gatilho de recompra
+13,manual e uso,cooktop,código de erro cooktop,painel digital
+13,manual e uso,cooktop,o que significa erro cooktop,painel digital
+13,assistencia,forno elétrico,assistência técnica autorizada forno elétrico,atributo de confianca
+13,assistencia,forno elétrico,assistência técnica forno elétrico 24 horas,urgencia
+13,assistencia,forno elétrico,compensa consertar ou comprar forno elétrico nova,decisao consertar x trocar
+13,manutencao,forno elétrico,com que frequência limpar forno elétrico,recorrencia de cuidado
+13,manutencao,forno elétrico,quando trocar forno elétrico,gatilho de recompra
+13,manual e uso,forno elétrico,código de erro forno elétrico,painel digital
+13,manual e uso,forno elétrico,o que significa erro forno elétrico,painel digital
+13,assistencia,coifa,assistência técnica autorizada coifa,atributo de confianca
+13,assistencia,coifa,assistência técnica coifa 24 horas,urgencia
+13,assistencia,coifa,compensa consertar ou comprar coifa nova,decisao consertar x trocar
+13,manutencao,coifa,com que frequência limpar coifa,recorrencia de cuidado
+13,manutencao,coifa,quando trocar coifa,gatilho de recompra
+13,manual e uso,coifa,código de erro coifa,painel digital
+13,manual e uso,coifa,o que significa erro coifa,painel digital
+13,assistencia,purificador de água,assistência técnica autorizada purificador de água,atributo de confianca
+13,assistencia,purificador de água,assistência técnica purificador de água 24 horas,urgencia
+13,assistencia,purificador de água,compensa consertar ou comprar purificador de água nova,decisao consertar x trocar
+13,manutencao,purificador de água,com que frequência limpar purificador de água,recorrencia de cuidado
+13,manutencao,purificador de água,quando trocar purificador de água,gatilho de recompra
+13,manual e uso,purificador de água,código de erro purificador de água,painel digital
+13,manual e uso,purificador de água,o que significa erro purificador de água,painel digital
+13,assistencia,adega climatizada,assistência técnica autorizada adega climatizada,atributo de confianca
+13,assistencia,adega climatizada,assistência técnica adega climatizada 24 horas,urgencia
+13,assistencia,adega climatizada,compensa consertar ou comprar adega climatizada nova,decisao consertar x trocar
+13,manutencao,adega climatizada,com que frequência limpar adega climatizada,recorrencia de cuidado
+13,manutencao,adega climatizada,quando trocar adega climatizada,gatilho de recompra
+13,manual e uso,adega climatizada,código de erro adega climatizada,painel digital
+13,manual e uso,adega climatizada,o que significa erro adega climatizada,painel digital
+13,peca,geladeira,borracha da porta geladeira original,atributo de peca original
+13,peca,geladeira,borracha da porta geladeira compativel,alternativa de terceiro
+13,peca,geladeira,como trocar borracha da porta geladeira,auto-servico de peca
+13,peca,geladeira,lâmpada geladeira original,atributo de peca original
+13,peca,geladeira,lâmpada geladeira compativel,alternativa de terceiro
+13,peca,geladeira,como trocar lâmpada geladeira,auto-servico de peca
+13,peca,geladeira,prateleira geladeira original,atributo de peca original
+13,peca,geladeira,prateleira geladeira compativel,alternativa de terceiro
+13,peca,geladeira,como trocar prateleira geladeira,auto-servico de peca
+13,peca,geladeira,gaveta geladeira original,atributo de peca original
+13,peca,geladeira,gaveta geladeira compativel,alternativa de terceiro
+13,peca,geladeira,como trocar gaveta geladeira,auto-servico de peca
+13,peca,geladeira,termostato geladeira original,atributo de peca original
+13,peca,geladeira,termostato geladeira compativel,alternativa de terceiro
+13,peca,geladeira,como trocar termostato geladeira,auto-servico de peca
+13,peca,freezer,borracha da porta freezer original,atributo de peca original
+13,peca,freezer,borracha da porta freezer compativel,alternativa de terceiro
+13,peca,freezer,como trocar borracha da porta freezer,auto-servico de peca
+13,peca,freezer,termostato freezer original,atributo de peca original
+13,peca,freezer,termostato freezer compativel,alternativa de terceiro
+13,peca,freezer,como trocar termostato freezer,auto-servico de peca
+13,peca,freezer,cesto freezer original,atributo de peca original
+13,peca,freezer,cesto freezer compativel,alternativa de terceiro
+13,peca,freezer,como trocar cesto freezer,auto-servico de peca
+13,peca,máquina de lavar,correia máquina de lavar original,atributo de peca original
+13,peca,máquina de lavar,correia máquina de lavar compativel,alternativa de terceiro
+13,peca,máquina de lavar,como trocar correia máquina de lavar,auto-servico de peca
+13,peca,máquina de lavar,cesto máquina de lavar original,atributo de peca original
+13,peca,máquina de lavar,cesto máquina de lavar compativel,alternativa de terceiro
+13,peca,máquina de lavar,como trocar cesto máquina de lavar,auto-servico de peca
+13,peca,máquina de lavar,bomba de drenagem máquina de lavar original,atributo de peca original
+13,peca,máquina de lavar,bomba de drenagem máquina de lavar compativel,alternativa de terceiro
+13,peca,máquina de lavar,como trocar bomba de drenagem máquina de lavar,auto-servico de peca
+13,peca,máquina de lavar,mangueira máquina de lavar original,atributo de peca original
+13,peca,máquina de lavar,mangueira máquina de lavar compativel,alternativa de terceiro
+13,peca,máquina de lavar,como trocar mangueira máquina de lavar,auto-servico de peca
+13,peca,máquina de lavar,placa eletrônica máquina de lavar original,atributo de peca original
+13,peca,máquina de lavar,placa eletrônica máquina de lavar compativel,alternativa de terceiro
+13,peca,máquina de lavar,como trocar placa eletrônica máquina de lavar,auto-servico de peca
+13,peca,lava e seca,correia lava e seca original,atributo de peca original
+13,peca,lava e seca,correia lava e seca compativel,alternativa de terceiro
+13,peca,lava e seca,como trocar correia lava e seca,auto-servico de peca
+13,peca,lava e seca,resistência lava e seca original,atributo de peca original
+13,peca,lava e seca,resistência lava e seca compativel,alternativa de terceiro
+13,peca,lava e seca,como trocar resistência lava e seca,auto-servico de peca
+13,peca,lava e seca,filtro lava e seca original,atributo de peca original
+13,peca,lava e seca,filtro lava e seca compativel,alternativa de terceiro
+13,peca,lava e seca,como trocar filtro lava e seca,auto-servico de peca
+13,peca,lava e seca,mangueira lava e seca original,atributo de peca original
+13,peca,lava e seca,mangueira lava e seca compativel,alternativa de terceiro
+13,peca,lava e seca,como trocar mangueira lava e seca,auto-servico de peca
+13,peca,secadora de roupas,resistência secadora de roupas original,atributo de peca original
+13,peca,secadora de roupas,resistência secadora de roupas compativel,alternativa de terceiro
+13,peca,secadora de roupas,como trocar resistência secadora de roupas,auto-servico de peca
+13,peca,secadora de roupas,filtro secadora de roupas original,atributo de peca original
+13,peca,secadora de roupas,filtro secadora de roupas compativel,alternativa de terceiro
+13,peca,secadora de roupas,como trocar filtro secadora de roupas,auto-servico de peca
+13,peca,secadora de roupas,correia secadora de roupas original,atributo de peca original
+13,peca,secadora de roupas,correia secadora de roupas compativel,alternativa de terceiro
+13,peca,secadora de roupas,como trocar correia secadora de roupas,auto-servico de peca
+13,peca,fogão,trempe fogão original,atributo de peca original
+13,peca,fogão,trempe fogão compativel,alternativa de terceiro
+13,peca,fogão,como trocar trempe fogão,auto-servico de peca
+13,peca,fogão,botão fogão original,atributo de peca original
+13,peca,fogão,botão fogão compativel,alternativa de terceiro
+13,peca,fogão,como trocar botão fogão,auto-servico de peca
+13,peca,fogão,válvula fogão original,atributo de peca original
+13,peca,fogão,válvula fogão compativel,alternativa de terceiro
+13,peca,fogão,como trocar válvula fogão,auto-servico de peca
+13,peca,fogão,resistência do forno fogão original,atributo de peca original
+13,peca,fogão,resistência do forno fogão compativel,alternativa de terceiro
+13,peca,fogão,como trocar resistência do forno fogão,auto-servico de peca
+13,peca,fogão,vidro da porta fogão original,atributo de peca original
+13,peca,fogão,vidro da porta fogão compativel,alternativa de terceiro
+13,peca,fogão,como trocar vidro da porta fogão,auto-servico de peca
+13,peca,cooktop,vidro cooktop original,atributo de peca original
+13,peca,cooktop,vidro cooktop compativel,alternativa de terceiro
+13,peca,cooktop,como trocar vidro cooktop,auto-servico de peca
+13,peca,cooktop,queimador cooktop original,atributo de peca original
+13,peca,cooktop,queimador cooktop compativel,alternativa de terceiro
+13,peca,cooktop,como trocar queimador cooktop,auto-servico de peca
+13,peca,cooktop,botão cooktop original,atributo de peca original
+13,peca,cooktop,botão cooktop compativel,alternativa de terceiro
+13,peca,cooktop,como trocar botão cooktop,auto-servico de peca
+13,peca,forno elétrico,resistência forno elétrico original,atributo de peca original
+13,peca,forno elétrico,resistência forno elétrico compativel,alternativa de terceiro
+13,peca,forno elétrico,como trocar resistência forno elétrico,auto-servico de peca
+13,peca,forno elétrico,termostato forno elétrico original,atributo de peca original
+13,peca,forno elétrico,termostato forno elétrico compativel,alternativa de terceiro
+13,peca,forno elétrico,como trocar termostato forno elétrico,auto-servico de peca
+13,peca,forno elétrico,vidro da porta forno elétrico original,atributo de peca original
+13,peca,forno elétrico,vidro da porta forno elétrico compativel,alternativa de terceiro
+13,peca,forno elétrico,como trocar vidro da porta forno elétrico,auto-servico de peca
+13,peca,micro-ondas,prato giratório micro-ondas original,atributo de peca original
+13,peca,micro-ondas,prato giratório micro-ondas compativel,alternativa de terceiro
+13,peca,micro-ondas,como trocar prato giratório micro-ondas,auto-servico de peca
+13,peca,micro-ondas,suporte do prato micro-ondas original,atributo de peca original
+13,peca,micro-ondas,suporte do prato micro-ondas compativel,alternativa de terceiro
+13,peca,micro-ondas,como trocar suporte do prato micro-ondas,auto-servico de peca
+13,peca,micro-ondas,lâmpada micro-ondas original,atributo de peca original
+13,peca,micro-ondas,lâmpada micro-ondas compativel,alternativa de terceiro
+13,peca,micro-ondas,como trocar lâmpada micro-ondas,auto-servico de peca
+13,peca,micro-ondas,porta micro-ondas original,atributo de peca original
+13,peca,micro-ondas,porta micro-ondas compativel,alternativa de terceiro
+13,peca,micro-ondas,como trocar porta micro-ondas,auto-servico de peca
+13,peca,lava louças,filtro lava louças original,atributo de peca original
+13,peca,lava louças,filtro lava louças compativel,alternativa de terceiro
+13,peca,lava louças,como trocar filtro lava louças,auto-servico de peca
+13,peca,lava louças,hélice lava louças original,atributo de peca original
+13,peca,lava louças,hélice lava louças compativel,alternativa de terceiro
+13,peca,lava louças,como trocar hélice lava louças,auto-servico de peca
+13,peca,lava louças,mangueira lava louças original,atributo de peca original
+13,peca,lava louças,mangueira lava louças compativel,alternativa de terceiro
+13,peca,lava louças,como trocar mangueira lava louças,auto-servico de peca
+13,peca,lava louças,cesto lava louças original,atributo de peca original
+13,peca,lava louças,cesto lava louças compativel,alternativa de terceiro
+13,peca,lava louças,como trocar cesto lava louças,auto-servico de peca
+13,peca,ar condicionado,filtro ar condicionado original,atributo de peca original
+13,peca,ar condicionado,filtro ar condicionado compativel,alternativa de terceiro
+13,peca,ar condicionado,como trocar filtro ar condicionado,auto-servico de peca
+13,peca,ar condicionado,controle remoto ar condicionado original,atributo de peca original
+13,peca,ar condicionado,controle remoto ar condicionado compativel,alternativa de terceiro
+13,peca,ar condicionado,como trocar controle remoto ar condicionado,auto-servico de peca
+13,peca,ar condicionado,capacitor ar condicionado original,atributo de peca original
+13,peca,ar condicionado,capacitor ar condicionado compativel,alternativa de terceiro
+13,peca,ar condicionado,como trocar capacitor ar condicionado,auto-servico de peca
+13,peca,ar condicionado,gás refrigerante ar condicionado original,atributo de peca original
+13,peca,ar condicionado,gás refrigerante ar condicionado compativel,alternativa de terceiro
+13,peca,ar condicionado,como trocar gás refrigerante ar condicionado,auto-servico de peca
+13,peca,ar condicionado,hélice ar condicionado original,atributo de peca original
+13,peca,ar condicionado,hélice ar condicionado compativel,alternativa de terceiro
+13,peca,ar condicionado,como trocar hélice ar condicionado,auto-servico de peca
+13,peca,air fryer,cesto air fryer original,atributo de peca original
+13,peca,air fryer,cesto air fryer compativel,alternativa de terceiro
+13,peca,air fryer,como trocar cesto air fryer,auto-servico de peca
+13,peca,air fryer,cesto antiaderente air fryer original,atributo de peca original
+13,peca,air fryer,cesto antiaderente air fryer compativel,alternativa de terceiro
+13,peca,air fryer,como trocar cesto antiaderente air fryer,auto-servico de peca
+13,peca,air fryer,resistência air fryer original,atributo de peca original
+13,peca,air fryer,resistência air fryer compativel,alternativa de terceiro
+13,peca,air fryer,como trocar resistência air fryer,auto-servico de peca
+13,peca,aspirador de pó,filtro hepa aspirador de pó original,atributo de peca original
+13,peca,aspirador de pó,filtro hepa aspirador de pó compativel,alternativa de terceiro
+13,peca,aspirador de pó,como trocar filtro hepa aspirador de pó,auto-servico de peca
+13,peca,aspirador de pó,saco aspirador de pó original,atributo de peca original
+13,peca,aspirador de pó,saco aspirador de pó compativel,alternativa de terceiro
+13,peca,aspirador de pó,como trocar saco aspirador de pó,auto-servico de peca
+13,peca,aspirador de pó,escova aspirador de pó original,atributo de peca original
+13,peca,aspirador de pó,escova aspirador de pó compativel,alternativa de terceiro
+13,peca,aspirador de pó,como trocar escova aspirador de pó,auto-servico de peca
+13,peca,aspirador de pó,mangueira aspirador de pó original,atributo de peca original
+13,peca,aspirador de pó,mangueira aspirador de pó compativel,alternativa de terceiro
+13,peca,aspirador de pó,como trocar mangueira aspirador de pó,auto-servico de peca
+13,peca,aspirador de pó,bocal aspirador de pó original,atributo de peca original
+13,peca,aspirador de pó,bocal aspirador de pó compativel,alternativa de terceiro
+13,peca,aspirador de pó,como trocar bocal aspirador de pó,auto-servico de peca
+13,peca,robô aspirador,escova robô aspirador original,atributo de peca original
+13,peca,robô aspirador,escova robô aspirador compativel,alternativa de terceiro
+13,peca,robô aspirador,como trocar escova robô aspirador,auto-servico de peca
+13,peca,robô aspirador,filtro robô aspirador original,atributo de peca original
+13,peca,robô aspirador,filtro robô aspirador compativel,alternativa de terceiro
+13,peca,robô aspirador,como trocar filtro robô aspirador,auto-servico de peca
+13,peca,robô aspirador,bateria robô aspirador original,atributo de peca original
+13,peca,robô aspirador,bateria robô aspirador compativel,alternativa de terceiro
+13,peca,robô aspirador,como trocar bateria robô aspirador,auto-servico de peca
+13,peca,purificador de água,refil purificador de água original,atributo de peca original
+13,peca,purificador de água,refil purificador de água compativel,alternativa de terceiro
+13,peca,purificador de água,como trocar refil purificador de água,auto-servico de peca
+13,peca,purificador de água,filtro purificador de água original,atributo de peca original
+13,peca,purificador de água,filtro purificador de água compativel,alternativa de terceiro
+13,peca,purificador de água,como trocar filtro purificador de água,auto-servico de peca
+13,peca,purificador de água,válvula purificador de água original,atributo de peca original
+13,peca,purificador de água,válvula purificador de água compativel,alternativa de terceiro
+13,peca,purificador de água,como trocar válvula purificador de água,auto-servico de peca
+13,peca,bebedouro,filtro bebedouro original,atributo de peca original
+13,peca,bebedouro,filtro bebedouro compativel,alternativa de terceiro
+13,peca,bebedouro,como trocar filtro bebedouro,auto-servico de peca
+13,peca,bebedouro,refil bebedouro original,atributo de peca original
+13,peca,bebedouro,refil bebedouro compativel,alternativa de terceiro
+13,peca,bebedouro,como trocar refil bebedouro,auto-servico de peca
+13,peca,bebedouro,torneira bebedouro original,atributo de peca original
+13,peca,bebedouro,torneira bebedouro compativel,alternativa de terceiro
+13,peca,bebedouro,como trocar torneira bebedouro,auto-servico de peca
+13,peca,coifa,filtro de carvão coifa original,atributo de peca original
+13,peca,coifa,filtro de carvão coifa compativel,alternativa de terceiro
+13,peca,coifa,como trocar filtro de carvão coifa,auto-servico de peca
+13,peca,coifa,filtro de alumínio coifa original,atributo de peca original
+13,peca,coifa,filtro de alumínio coifa compativel,alternativa de terceiro
+13,peca,coifa,como trocar filtro de alumínio coifa,auto-servico de peca
+13,peca,coifa,lâmpada coifa original,atributo de peca original
+13,peca,coifa,lâmpada coifa compativel,alternativa de terceiro
+13,peca,coifa,como trocar lâmpada coifa,auto-servico de peca
+13,peca,depurador de ar,filtro de carvão depurador de ar original,atributo de peca original
+13,peca,depurador de ar,filtro de carvão depurador de ar compativel,alternativa de terceiro
+13,peca,depurador de ar,como trocar filtro de carvão depurador de ar,auto-servico de peca
+13,peca,depurador de ar,filtro depurador de ar original,atributo de peca original
+13,peca,depurador de ar,filtro depurador de ar compativel,alternativa de terceiro
+13,peca,depurador de ar,como trocar filtro depurador de ar,auto-servico de peca
+13,peca,ventilador,hélice ventilador original,atributo de peca original
+13,peca,ventilador,hélice ventilador compativel,alternativa de terceiro
+13,peca,ventilador,como trocar hélice ventilador,auto-servico de peca
+13,peca,ventilador,grade ventilador original,atributo de peca original
+13,peca,ventilador,grade ventilador compativel,alternativa de terceiro
+13,peca,ventilador,como trocar grade ventilador,auto-servico de peca
+13,peca,ventilador,motor ventilador original,atributo de peca original
