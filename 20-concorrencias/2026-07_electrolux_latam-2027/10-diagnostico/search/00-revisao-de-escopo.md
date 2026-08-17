@@ -94,6 +94,49 @@ Nada foi apagado: `00-raw/` e o zip original permanecem intactos, e o pipeline �
 
 ---
 
+## 3B. A forma exata da lacuna — corrigido
+
+Registro de uma correção. Eu vinha descrevendo a limitação como "todos os seeds são de marca,
+logo o dado é cego para o ecossistema". Isso está **errado na letra**: existe um arquivo
+não-branded, e ele não é pequeno em peso. A descrição correta é outra, e é mais útil.
+
+**Composição branded × não-branded no dataset limpo (4.965 keywords, 12,87M de volume):**
+
+| Origem | Keywords | Volume | % do volume | Branded? |
+|---|---:|---:|---:|---|
+| `genericas` | 65 | 6.869.800 | **53,4%** | 0% branded |
+| `electrolux` | 900 | 711.670 | 5,5% | 100% branded |
+| `brastemp` | 1.998 | 2.949.270 | 22,9% | 100% branded |
+| `consul` | 1.064 | 1.483.110 | 11,5% | 100% branded |
+| `midea` | 101 | 552.800 | 4,3% | 99% branded |
+| `hisense` | 493 | 172.660 | 1,3% | 100% branded |
+| `samsung` | 300 | 125.460 | 1,0% | 100% branded |
+| `haier` | 44 | 4.480 | 0,03% | 100% branded |
+
+Os arquivos de marca **não contêm termo genérico nenhum** — uma única keyword não-branded em
+todos eles somados. E o arquivo de genéricas é composto exclusivamente de **cabeças de
+categoria**: `air fryer` (823.000), `geladeira` (823.000), `ar condicionado` (673.000),
+`microondas` (550.000). Mediana de 3 palavras; 11 das 65 têm uma palavra só.
+
+**O dataset tem dois quadrantes de quatro:**
+
+|  | Cabeça | Cauda longa |
+|---|---|---|
+| **Não-branded** | presente — 65 kw, 105k de volume médio | **ausente** |
+| **Branded** | presente | presente — 4.899 kw, 1.224 de volume médio |
+
+O quadrante ausente é a **cauda não-branded**, e é exatamente onde vive a demanda de serviço,
+uso, defeito e como-fazer — ninguém digita "assistência técnica" em duas palavras.
+
+**Consequência para a leitura.** A composição de vida com o produto mede 4,41% no branded e
+0,26% no não-branded. A razão de 16,7x entre os dois **não deve ser citada**: ela é artefato do
+não-branded ser uma amostra só de cabeças, que por construção não pode conter cauda de serviço.
+O 0,26% não é evidência de ausência de demanda — é evidência de que cabeça é cabeça.
+
+A comparação legítima da mesma natureza é a do corpus de IA — 12,1% no branded contra 5,7% na
+categoria —, porque lá os dois recortes têm a mesma forma. É essa razão, de 2,1x, que sustenta
+H1'. A de busca entra apenas como direção coerente, nunca como número.
+
 ## 4. O que o job entrega com o pacote fechado
 
 **Entrega:**
