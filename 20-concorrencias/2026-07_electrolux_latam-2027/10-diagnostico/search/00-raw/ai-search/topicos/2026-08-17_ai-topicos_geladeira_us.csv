@@ -1,0 +1,1001 @@
+name,prompts_count,volume,volume_trend,intents
+Geladeiras e Refrigeradores no Brasil,20,1534,29;28;28;29;57;43;52;100;32;38;40;42,task:3;informational:45;navigational:3;commercial:41;transactional:8
+Geladeiras Electrolux,16,3010,8;9;8;8;8;26;20;17;15;21;18;100,informational:37;navigational:21;commercial:23;transactional:19
+Geladeiras Pequenas e Promoções,16,3086,10;14;11;9;9;9;29;53;30;100;81;82,task:10;informational:22;navigational:7;commercial:46;transactional:15
+Geladeiras Brastemp,16,1617,9;9;9;12;13;12;11;22;10;10;94;100,task:3;informational:35;navigational:35;commercial:8;transactional:19
+Geladeiras para Carro,15,71,15;100;92;68;16;13;10;17;13;15;13;13,task:7;informational:25;navigational:3;commercial:47;transactional:18
+Geladeiras Duas Portas,15,2163,26;16;19;21;98;62;41;69;64;100;88;97,task:2;informational:43;navigational:22;commercial:24;transactional:9
+Conserto de Geladeiras,16,370,44;43;35;47;47;54;51;100;82;28;21;39,task:2;informational:49;navigational:4;commercial:36;transactional:9
+Geladeiras Consul,15,49,2;3;2;25;25;100;59;21;16;2;2;3,task:3;informational:56;navigational:18;commercial:19;transactional:4
+Geladeiras na Magazine Luiza,15,145,5;6;5;100;100;97;30;59;81;4;4;7,task:1;informational:18;navigational:65;commercial:4;transactional:12
+Máquinas de Gelo,17,173,23;30;86;63;100;84;83;100;52;57;56;64,task:4;informational:44;navigational:1;commercial:31;transactional:20
+Geladeiras de 3 portas,15,6104,30;20;29;24;24;14;21;50;40;100;69;92,task:10;informational:29;commercial:53;transactional:8
+Eletrodomésticos Brasil,16,3860,5;5;6;4;10;10;17;54;39;100;80;87,task:2;informational:51;navigational:9;commercial:31;transactional:7
+Elettrodomestici Frigorifero e Congelatore,16,3974,4;4;34;44;44;38;26;58;53;100;74;86,task:2;informational:37;navigational:9;commercial:43;transactional:9
+Produtos de Cuidados Pessoais e Alimentação,16,51,47;39;42;52;49;80;68;100;85;4;4;4,task:3;informational:48;navigational:4;commercial:32;transactional:13
+Congeladores y Freezers,17,5522,56;41;48;14;27;32;26;9;95;100;52;63,task:5;informational:52;navigational:4;commercial:28;transactional:11
+Geladeiras Samsung com Tela,15,3611,70;41;67;67;55;43;32;95;70;100;71;59,task:3;informational:35;navigational:17;commercial:27;transactional:18
+Geladeiras e Ar Condicionado Casas Bahia,15,114,2;3;3;100;100;14;11;6;7;4;4;6,task:3;informational:18;navigational:64;commercial:10;transactional:5
+Ledničky a chladničky,16,1664,59;45;53;46;46;34;39;100;75;66;54;57,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Ímãs de Geladeira Personalizados,17,271,81;78;78;81;100;93;74;72;64;60;59;62,task:10;informational:43;navigational:4;commercial:32;transactional:11
+Secadores e centrifugadoras de salada,16,578,100;69;18;21;22;27;16;52;51;63;31;29,task:5;informational:60;navigational:5;commercial:15;transactional:15
+Refrigeradores y Neveras,56,8769,77;78;95;100;96;88;89;99;79;79;79;79,task:3;informational:45;navigational:7;commercial:34;transactional:11
+Congeladores y refrigeradores para helados y paletas,16,597,6;7;8;7;39;100;61;87;70;22;16;28,task:10;informational:32;navigational:4;commercial:36;transactional:18
+Chaleiras Elétricas,18,327,50;51;53;92;88;100;95;100;93;84;66;76,task:5;informational:42;navigational:4;commercial:37;transactional:12
+Tábua de Frios e Petiscos,18,4223,13;14;14;30;26;26;26;27;28;100;77;99,task:5;informational:65;navigational:5;commercial:16;transactional:9
+Frigidere și electrocasnice de răcire,15,6494,33;18;23;45;45;32;23;59;64;44;39;100,task:5;informational:55;navigational:2;commercial:30;transactional:8
+Heladeras y precios,17,5540,65;40;46;21;32;38;38;61;49;100;96;99,task:3;informational:42;navigational:1;commercial:45;transactional:9
+Prática e Equipamentos de Cozinha,16,599,100;71;63;19;15;98;88;88;77;41;37;62,task:7;informational:55;navigational:13;commercial:14;transactional:11
+Batedeiras e Utensílios de Cozinha,18,333,49;50;54;94;66;64;100;57;36;39;39;43,informational:60;navigational:4;commercial:26;transactional:10
+Ar Condicionado LG,15,338,34;30;43;29;5;6;48;9;5;100;14;8,task:3;informational:28;navigational:32;commercial:18;transactional:19
+Refrigerator and Fridge Terminology,20,694,28;43;90;100;31;31;32;32;37;37;37;37,task:8;informational:73;navigational:5;commercial:11;transactional:3
+Eletrodomésticos Samsung,15,5820,64;36;45;28;28;22;25;100;74;50;42;70,task:3;informational:28;navigational:32;commercial:11;transactional:26
+Frigoriferi Combi,15,4595,8;5;40;36;36;19;11;19;42;59;80;100,task:3;informational:48;navigational:4;commercial:37;transactional:8
+Gabinetes de Cozinha,15,19,12;7;6;14;14;13;13;73;100;1;1;1,task:10;informational:35;navigational:3;commercial:47;transactional:5
+Electrodomésticos de neveras y frigoríficos,23,2586,42;42;37;52;88;85;71;100;63;73;51;52,task:2;informational:45;navigational:2;commercial:41;transactional:10
+Hieleras y Enfriadores Portátiles,19,797,20;17;17;16;17;16;38;54;78;100;72;18,task:8;informational:50;navigational:3;commercial:26;transactional:13
+sanduicheiras eletricas,15,2567,2;3;3;3;4;3;17;90;100;46;42;48,task:5;informational:30;navigational:2;commercial:58;transactional:5
+banheiras de gelo infláveis e para banho de gelo,16,187,8;6;6;6;6;100;74;2;2;13;10;11,task:3;informational:48;navigational:1;commercial:37;transactional:11
+pipoqueiras elétricas,16,223,17;15;64;79;100;76;32;31;16;18;16;15,informational:43;navigational:1;commercial:45;transactional:11
+Refrigeradoras LG,16,900,21;17;18;15;14;63;73;27;25;100;84;30,task:1;informational:46;navigational:14;commercial:17;transactional:22
+Calendários Magnéticos para Geladeira,17,317,29;80;21;11;15;13;12;100;47;53;39;49,task:2;informational:58;navigational:5;commercial:15;transactional:20
+Kitchenaid Brasil,16,81,63;100;37;29;29;29;39;37;86;88;26;27,task:3;informational:17;navigational:48;commercial:8;transactional:24
+faqueiros e talheres,16,172,12;12;76;79;100;85;53;7;8;8;11;11,task:3;informational:47;navigational:9;commercial:33;transactional:8
+Italian Vocabulary: Refrigerator,17,260,48;59;62;60;58;59;45;45;47;47;47;100,task:27;informational:64;navigational:1;commercial:7;transactional:1
+Fritadeiras Elétricas e Air Fryers,15,188,27;27;60;49;13;12;16;18;85;100;22;18,task:10;informational:41;navigational:1;commercial:34;transactional:14
+Guarda-Roupas e Móveis de Armazenamento,16,2277,26;25;25;27;43;49;62;100;33;36;64;83,task:8;informational:29;navigational:3;commercial:52;transactional:8
+Refrigeradores e Filtros de Água Brastemp B Blend,17,324,15;16;16;15;61;100;15;14;13;15;15;19,task:5;informational:43;navigational:11;commercial:35;transactional:6
+Celeiro Loja e Serviços,16,753,29;42;44;55;55;91;78;65;60;61;62;100,task:2;informational:33;navigational:45;commercial:9;transactional:11
+Cafeteiras Elétricas,15,448,3;4;100;77;35;8;5;17;48;50;31;30,task:10;informational:28;navigational:3;commercial:47;transactional:12
+Armários de Cozinha,15,185,25;29;29;28;26;26;85;95;67;92;100;23,task:3;informational:39;navigational:5;commercial:40;transactional:13
+Gelato e Pans,15,90,30;26;92;73;100;21;20;16;17;17;16;16,task:8;informational:48;navigational:9;commercial:31;transactional:4
+Torradeiras Elétricas,15,188,18;33;85;75;75;86;23;47;100;94;37;41,task:10;informational:41;navigational:4;commercial:28;transactional:17
+Hűtőszekrények és hűtőgépek,16,105,52;28;34;28;51;63;46;82;100;4;4;4,task:7;informational:54;navigational:14;commercial:18;transactional:7
+utensílios de cozinha,16,1642,22;42;49;50;57;49;42;63;57;55;63;100,task:2;informational:55;navigational:4;commercial:31;transactional:8
+Lixeiras de Cozinha,15,314,9;8;9;60;100;92;71;52;36;16;11;13,task:5;informational:57;navigational:4;commercial:22;transactional:12
+Máquinas de Lavar Roupas,22,5512,28;22;23;43;33;31;25;29;41;51;100;87,task:8;informational:44;navigational:2;commercial:41;transactional:5
+Réfrigérateurs et Congélateurs,15,4691,58;36;14;12;28;26;18;39;80;100;83;93,task:2;informational:43;navigational:6;commercial:40;transactional:9
+Productos y mantenimiento de refrigeradores,21,1291,28;28;19;34;40;46;45;88;100;55;49;60,task:2;informational:56;navigational:5;commercial:24;transactional:13
+Home Appliances and Freezers,18,7638,41;16;15;10;13;45;29;3;6;7;88;100,task:5;informational:27;navigational:7;commercial:17;transactional:44
+Ar Condicionado Portátil,19,1809,10;13;14;14;20;34;27;32;88;100;34;34,task:4;informational:49;navigational:4;commercial:35;transactional:8
+Congeladores Verticales,15,4121,24;14;25;21;20;4;3;67;78;100;60;82,task:6;informational:38;navigational:6;commercial:30;transactional:20
+Secadoras de Roupas no Brasil,17,4101,4;4;31;29;23;17;25;4;35;45;75;100,task:3;informational:46;navigational:4;commercial:42;transactional:5
+Máquinas de Sorvete e Equipamentos para Sorveterias,16,308,13;58;41;38;82;100;74;55;10;10;11;11,task:2;informational:40;navigational:2;commercial:40;transactional:16
+Climatisation et appareils électroménagers Frigidaire,16,2553,7;4;38;32;32;5;7;1;100;100;65;80,task:3;informational:49;navigational:18;commercial:12;transactional:18
+Secadores de cabelo,17,1398,73;47;40;49;100;67;55;83;56;57;55;77,task:2;informational:48;navigational:7;commercial:34;transactional:9
+Mini Fridge and Freezer Appliances,17,1366,94;62;68;62;54;100;63;3;71;75;42;53,task:3;informational:44;navigational:8;commercial:26;transactional:19
+Neveras portátiles y mini refrigeradores,21,430,9;28;38;33;26;25;13;5;89;100;9;10,task:10;informational:41;navigational:2;commercial:27;transactional:20
+Móveis e acessórios para penteadeiras,15,1971,12;8;5;4;5;80;67;34;74;94;72;100,task:10;informational:37;navigational:4;commercial:35;transactional:14
+Temperatura de Refrigeradores y Congeladores,48,9529,61;48;55;58;70;56;44;69;88;100;72;85,task:8;informational:75;navigational:6;commercial:5;transactional:6
+Jogo de Panelas e Panelas de Cerâmica,15,1653,26;26;26;26;22;54;47;66;61;100;83;85,task:8;informational:29;navigational:3;commercial:45;transactional:15
+aventais de cozinha,16,324,53;77;64;57;57;51;14;100;74;38;25;35,task:10;informational:25;navigational:4;commercial:43;transactional:18
+Gabinetes para Computadores Gamer e Mid Tower,16,624,100;77;59;53;100;79;39;30;22;29;33;62,informational:34;navigational:3;commercial:57;transactional:6
+modelo mini fridge and refrigerator,15,5572,6;20;11;9;13;12;10;6;93;100;50;69,task:3;informational:42;navigational:7;commercial:40;transactional:8
+Gelato Makers and Equipment,16,265,57;41;27;27;21;25;100;92;67;41;38;40,task:8;informational:52;navigational:2;commercial:32;transactional:6
+Refrigeratori e componenti per RV,15,12,9;7;13;16;5;5;3;100;5;3;1;1,task:7;informational:60;navigational:5;commercial:18;transactional:10
+Torneiras de Cozinha,17,160,19;29;15;17;41;38;32;87;87;100;7;8,task:7;informational:32;navigational:4;commercial:41;transactional:16
+Transporte Refrigerado de Alimentos,17,336,53;99;100;72;68;61;58;31;46;46;47;46,task:2;informational:53;navigational:2;commercial:36;transactional:7
+Refrigeration and Freezing Devices,17,4621,46;31;36;34;29;23;25;93;100;56;45;64,task:1;informational:71;navigational:5;commercial:18;transactional:5
+Refrigeradores para bebidas y sodas,15,3726,10;20;71;73;24;20;48;2;2;2;82;100,task:7;informational:39;navigational:4;commercial:30;transactional:20
+Aquecedores de Água a Gás e Elétricos,15,543,11;11;11;10;12;12;12;9;5;100;68;15,task:4;informational:34;navigational:1;commercial:47;transactional:14
+Máquinas de helados y nieve,28,2776,86;81;41;30;21;22;53;100;47;46;56;59,task:2;informational:60;navigational:5;commercial:26;transactional:7
+Armazenamento NAS Orico,16,699,43;61;70;89;59;75;72;71;49;77;64;100,task:3;informational:18;navigational:30;commercial:40;transactional:9
+Empilhadeiras e Máquinas de Movimentação,17,68,40;39;59;49;48;19;17;17;100;99;16;17,task:2;informational:53;navigational:11;commercial:20;transactional:14
+exhibidor nevera,15,303,18;16;17;51;77;79;67;61;100;52;44;36,task:10;informational:47;navigational:4;commercial:31;transactional:8
+Frigidaire Wine and Beverage Coolers,24,1640,71;95;100;88;98;81;82;75;77;76;75;76,task:4;informational:22;navigational:22;commercial:36;transactional:16
+Refrigeración y Electrodomésticos Sub Zero,15,1109,100;43;65;32;32;19;6;5;5;19;5;56,informational:70;navigational:11;commercial:12;transactional:7
+frigidaire stove and oven,164,32657,58;58;61;69;85;86;85;90;100;100;97;99,informational:54;navigational:17;commercial:15;transactional:14
+frigidaire appliances,15,5090,7;18;10;12;13;11;6;48;7;7;92;100,task:2;informational:58;navigational:28;commercial:10;transactional:2
+Mixeurs Frigidaire,15,596,33;100;65;51;51;6;4;16;33;38;36;42,task:7;informational:28;navigational:17;commercial:40;transactional:8
+Refrigeradores Frigidaire FRTE1622AS,15,53,78;82;79;91;100;84;82;86;84;84;79;87,task:3;informational:57;navigational:18;commercial:15;transactional:7
+Maquinaria y Equipos de Hielo,32,4609,63;95;100;73;75;35;30;48;89;95;68;68,task:3;informational:50;navigational:5;commercial:24;transactional:18
+Fondue e utensílios de fondue,15,1488,17;16;22;63;90;72;78;97;89;100;73;97,task:10;informational:40;navigational:8;commercial:28;transactional:14
+Spanish for Refrigerator and Fridge,47,11656,99;100;38;83;57;57;57;46;80;74;73;74,task:10;informational:80;navigational:2;commercial:8
+GE and Refrigerator Models,16,721,22;12;15;12;11;39;58;5;100;89;20;30,task:3;informational:51;navigational:15;commercial:18;transactional:13
+Refrigeradores de puerta de cristal y vidrio,15,418,4;4;6;11;11;11;67;100;94;3;36;27,task:1;informational:48;navigational:4;commercial:36;transactional:11
+Quentão e Vinho Quente,19,633,56;68;68;68;58;58;58;100;100;100;100;100,task:5;informational:78;navigational:6;commercial:7;transactional:4
+Barzinhos para Sala e Casa,15,2794,5;6;8;6;6;7;34;46;45;62;49;100,task:8;informational:47;navigational:4;commercial:32;transactional:9
+heladas y bares,15,480,100;85;62;58;58;42;51;7;24;20;17;20,task:3;informational:42;navigational:10;commercial:8;transactional:37
+Kühlschränke und Gefrierfächer,16,589,50;25;28;27;34;24;35;100;88;72;52;14,task:3;informational:42;navigational:7;commercial:37;transactional:11
+Réfrigérateurs Frigidaire,15,2260,100;37;56;48;48;43;33;9;14;97;75;86,task:3;informational:43;navigational:24;commercial:26;transactional:4
+Relevadores para Refrigeradores,16,1497,8;6;46;42;39;30;44;100;13;16;32;54,task:5;informational:43;navigational:4;commercial:31;transactional:17
+Áreas Gourmet e Lazer,16,190,86;88;65;65;87;87;88;88;86;86;92;100,task:3;informational:65;navigational:15;commercial:9;transactional:8
+Móveis e Painéis para TV e Sala de Estar,15,5403,6;6;6;40;39;28;22;15;29;27;24;100,task:8;informational:32;navigational:4;commercial:28;transactional:28
+Refrigerators and Freezers,23,4262,75;35;41;43;41;38;44;17;84;100;81;90,task:5;informational:40;navigational:4;commercial:37;transactional:14
+Aquecedores Elétricos e Portáteis,17,1200,17;15;17;100;100;97;14;68;83;74;67;62,task:3;informational:36;navigational:4;commercial:37;transactional:20
+Recipientes Stanley e Acessórios Térmicos,16,316,57;42;35;31;100;85;67;89;92;81;86;26,informational:60;navigational:12;commercial:20;transactional:8
+Congélateurs Coffre,15,6535,16;10;54;52;21;38;25;51;3;4;100;96,task:5;informational:35;navigational:15;commercial:37;transactional:8
+Buzdolabı ve Fiyatları,21,4164,45;46;44;35;35;31;42;29;23;100;75;97,task:2;informational:39;navigational:5;commercial:47;transactional:7
+Máquinas de fazer salgados e coxinhas,16,96,15;23;17;17;68;100;81;79;63;59;46;17,task:3;informational:46;navigational:6;commercial:25;transactional:20
+helados y gelados,16,822,100;100;100;80;86;84;78;80;83;77;77;78,task:2;informational:75;navigational:5;commercial:13;transactional:5
+Repuestos y Piezas para Refrigeradores,17,1986,50;37;97;81;83;84;27;21;100;97;64;66,task:3;informational:33;navigational:4;commercial:45;transactional:15
+Norcold DE0051 Refrigeratori,17,102,8;8;32;27;88;100;52;21;10;11;10;10,task:2;informational:49;navigational:6;commercial:39;transactional:4
+Monitores e Babás Eletrônicas,16,185,31;46;28;98;34;33;32;100;95;30;31;33,task:5;informational:56;navigational:4;commercial:31;transactional:4
+Secador de Esmalte em Gel,15,16,1;14;93;100;17;7;39;48;35;44;2;2,task:3;informational:40;navigational:5;commercial:35;transactional:17
+Grade de grade de crio EM,17,565,9;32;9;9;15;17;22;96;100;39;34;54,task:2;informational:75;navigational:7;commercial:8;transactional:8
+Neveras de playa,16,265,45;100;56;42;48;5;5;27;40;38;25;26,task:3;informational:42;navigational:11;commercial:28;transactional:16
+congeladores industriales,16,28,21;21;20;98;100;77;67;12;14;14;14;13,task:7;informational:38;navigational:4;commercial:40;transactional:11
+Prateleiras e Organização de Espaços,16,115,13;15;14;54;77;100;98;13;13;13;13;13,task:17;informational:50;navigational:4;commercial:25;transactional:4
+Climatizadores de Ar,16,275,29;33;27;39;60;62;74;95;100;14;10;13,task:8;informational:65;navigational:5;commercial:12;transactional:10
+Mini Fridge Appliances,15,17538,2;2;11;11;10;13;7;1;2;2;89;100,task:5;informational:50;navigational:5;commercial:25;transactional:15
+Receitas e Culinária,18,1038,36;36;37;37;37;36;35;18;100;100;100;100,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Refrigeradores Mabe,19,6543,9;10;10;9;13;38;20;11;14;16;89;100,task:2;informational:49;navigational:9;commercial:33;transactional:7
+Frigidaire Refrigerator Models and Reviews,27,2689,12;18;23;28;30;17;20;14;82;100;45;53,task:2;informational:64;navigational:4;commercial:25;transactional:5
+Garrafa Térmica Stanley,15,978,5;4;52;39;40;39;35;100;65;55;67;73,task:3;informational:22;navigational:17;commercial:46;transactional:12
+Refrigerator Model and Parts,18,564,10;10;10;14;19;40;13;29;100;100;12;15,task:3;informational:54;navigational:11;commercial:17;transactional:15
+Frigidaire Refrigerators and Freezers,18,5479,60;13;14;14;19;28;18;11;76;92;94;100,task:1;informational:54;navigational:9;commercial:26;transactional:10
+Bombas de tirar leite e ordenha,17,575,56;46;73;52;24;25;100;24;27;27;57;61,task:2;informational:41;navigational:3;commercial:45;transactional:9
+licuadoras para hielo y frozen,16,203,6;5;6;6;9;21;19;100;12;13;10;10,task:2;informational:47;navigational:2;commercial:36;transactional:13
+Lava Louças e Máquinas de Lavar Louça,26,4147,38;36;100;70;72;31;26;57;64;78;61;100,task:2;informational:37;navigational:9;commercial:41;transactional:11
+Refrigeradores comerciales e industriales,19,3258,26;19;23;19;31;32;17;32;39;31;100;100,task:3;informational:37;navigational:3;commercial:45;transactional:12
+Churrasqueiras Elétricas,15,1677,5;4;52;60;54;10;9;100;26;22;85;91,task:3;informational:51;navigational:4;commercial:26;transactional:16
+frigidaire appliance models,15,91,61;32;34;60;100;48;29;26;57;100;24;25,task:3;informational:64;navigational:18;commercial:12;transactional:3
+Plaina elétrica,16,259,5;17;30;25;25;8;7;100;4;5;12;58,task:7;informational:46;navigational:5;commercial:12;transactional:30
+Refrigeradores para cerveza,16,2162,33;31;59;64;64;45;37;51;17;20;64;100,task:3;informational:52;navigational:5;commercial:18;transactional:22
+Cozinhas Modulares e Completas,16,136,8;10;9;26;26;26;27;100;100;10;10;10,task:7;informational:31;navigational:5;commercial:48;transactional:9
+Lojas e Componentes de Eletrônicos e Informática,23,1324,79;77;81;69;90;94;72;69;100;98;93;99,task:5;informational:25;navigational:18;commercial:40;transactional:12
+Refrigerators and Kitchen Appliances,17,3842,94;51;90;83;95;76;62;45;62;29;90;100,task:5;informational:61;navigational:7;commercial:19;transactional:8
+Secadores de cabelo para rolos e mesa,17,984,100;46;13;9;9;13;9;38;11;13;21;23,task:7;informational:64;navigational:5;commercial:17;transactional:7
+Frigidaire Fruf2020an,16,115,20;25;25;24;25;24;25;100;74;77;62;28,task:3;informational:63;navigational:22;commercial:12
+Chocadeiras de ovos,15,64,7;7;7;7;10;100;16;38;39;7;7;7,task:2;informational:51;navigational:4;commercial:33;transactional:10
+Mini and Small Freezers,31,20439,68;68;66;64;66;66;69;68;67;67;93;100,task:2;informational:36;navigational:11;commercial:26;transactional:25
+Fogões e Eletrodomésticos de Cozinha,16,826,16;14;7;15;14;26;33;25;91;100;86;18,task:7;informational:33;navigational:7;commercial:37;transactional:16
+Neverías y Paleterías Mexicanas,15,565,18;19;32;34;100;88;68;15;15;14;14;13,task:10;informational:37;navigational:18;commercial:23;transactional:12
+Prateleiras e Portas para Closet,15,3690,3;2;2;31;31;38;22;81;95;100;73;89,task:7;informational:32;navigational:1;commercial:46;transactional:14
+Climatisation et appareils Frigidaire,16,66,16;12;93;100;58;9;40;6;9;13;13;12,task:7;informational:60;navigational:4;commercial:14;transactional:15
+Ilhas na Cozinha,15,113,59;60;64;65;62;63;63;96;100;57;56;57,task:7;informational:50;navigational:6;commercial:23;transactional:14
+Gás de Cozinha e Botijão,25,1429,21;22;23;53;40;30;29;100;100;46;46;46,task:2;informational:67;navigational:5;commercial:16;transactional:10
+modelo coolers and accessories,15,1371,4;20;25;25;8;15;14;2;92;100;22;22,task:7;informational:26;navigational:18;commercial:36;transactional:13
+Fogões e Fogareiros Elétricos,18,603,14;15;15;16;40;48;55;100;82;61;50;22,task:2;informational:42;navigational:8;commercial:44;transactional:4
+Móveis e Decoração,19,4606,13;14;17;20;19;25;22;38;43;39;38;100,task:2;informational:48;navigational:7;commercial:34;transactional:9
+Freezers and Ice Makers,38,6680,21;39;49;45;63;60;42;30;92;100;71;81,task:2;informational:37;navigational:3;commercial:45;transactional:13
+Pão de Queijo Congelado,18,1352,7;7;35;32;29;9;7;9;91;100;100;66,task:5;informational:57;navigational:4;commercial:26;transactional:8
+Jogo de Jantar e Porcelanas,17,1210,17;11;11;10;34;29;22;100;92;49;40;55,task:8;informational:27;navigational:6;commercial:43;transactional:16
+Freezers and Cold Storage Solutions,447,163690,57;55;57;62;100;100;100;66;68;68;67;67,task:2;informational:38;navigational:5;commercial:36;transactional:19
+cozinhas de brinquedo para crianças,15,2095,50;32;34;28;73;49;44;100;79;90;69;78,task:7;informational:43;navigational:4;commercial:30;transactional:16
+Side by Side Refrigerators,556,120941,92;92;91;95;98;98;98;98;98;99;100;100,task:2;informational:60;navigational:5;commercial:23;transactional:10
+Bebidas y Máquinas de Hielo,19,1870,21;34;25;40;43;27;49;13;13;15;63;100,task:7;informational:48;navigational:5;commercial:22;transactional:18
+Gelato and Frozen Yogurt Equipment,19,578,27;20;20;25;67;85;25;100;29;29;31;33,task:3;informational:39;navigational:9;commercial:18;transactional:31
+Prateleiras de Quarto e Decoração,15,609,18;18;12;12;100;93;59;20;18;32;32;41,task:7;informational:45;navigational:1;commercial:35;transactional:12
+frigidaire gccg3048as,15,5219,2;2;21;18;4;12;18;2;2;4;79;100,task:3;informational:47;navigational:39;commercial:8;transactional:3
+Limpeza e Organização,16,70,39;52;29;34;32;26;25;24;24;100;70;25,task:17;informational:39;navigational:14;commercial:16;transactional:14
+Céu Eletrônico e Eletrônico,16,55,100;93;68;56;82;80;62;43;43;3;3;4,task:3;informational:67;navigational:11;commercial:12;transactional:7
+Fridge Parts and Accessories,16,2920,32;31;38;22;23;15;8;62;100;57;45;54,task:3;informational:64;navigational:5;commercial:18;transactional:10
+Congelados y alimentos congelados,18,1008,42;30;38;100;100;75;75;70;68;68;68;68,task:8;informational:52;navigational:6;commercial:30;transactional:4
+Chłodnik i przepisy na chłodnik,15,92,57;61;67;64;64;64;100;65;64;64;64;64,task:7;informational:68;navigational:5;commercial:5;transactional:15
+Fridge Accessories and Parts,16,376,100;51;55;45;61;53;2;60;42;22;16;25,task:7;informational:50;navigational:4;commercial:28;transactional:11
+Hieleras y su traducción en inglés,22,9151,31;34;25;94;99;100;100;100;100;100;100;100,task:22;informational:47;navigational:7;commercial:16;transactional:8
+Refrigeradores inteligentes con pantalla táctil,22,6840,38;23;29;24;36;31;25;63;84;92;87;100,task:7;informational:54;navigational:2;commercial:24;transactional:13
+Araras de roupas,15,1271,5;4;4;4;4;4;100;79;84;46;37;60,task:7;informational:43;navigational:1;commercial:32;transactional:17
+Fontes de alimentação para PC,21,666,100;100;92;68;80;72;78;74;76;55;53;53,task:2;informational:46;navigational:4;commercial:39;transactional:9
+gaming refrigerators and freezers,15,1648,83;34;38;44;37;41;42;99;100;19;60;76,task:5;informational:44;navigational:4;commercial:38;transactional:9
+Máquinas de Corte e Afeitar Wahl,20,376,64;87;100;85;54;59;52;28;29;29;23;24,task:5;informational:49;navigational:5;commercial:17;transactional:24
+Personal Chiller and Mini Fridge Devices,19,1231,100;47;54;39;39;68;52;11;9;10;38;36,task:5;informational:49;navigational:5;commercial:23;transactional:18
+Aire Acondicionado Portátil Frigidaire,17,132,26;34;27;21;16;13;99;100;85;24;21;21,task:5;informational:52;navigational:15;commercial:10;transactional:18
+Refrigerator Shelf Clips and Support Parts,17,2619,11;64;82;74;66;65;59;72;52;64;86;100,task:5;informational:48;navigational:5;commercial:22;transactional:20
+Termostatos de refrigerador,17,661,13;31;31;47;51;82;100;67;51;57;41;61,task:5;informational:63;navigational:5;commercial:5;transactional:22
+Cold Storage and Refrigeration Solutions,16,247,100;88;80;86;84;52;13;12;12;10;10;8,task:3;informational:53;navigational:7;commercial:28;transactional:9
+Refrigeradores en tiendas y en línea en México,21,6285,27;23;32;34;35;36;34;50;51;62;55;100,task:7;informational:23;navigational:34;commercial:10;transactional:26
+Puxadores de Gaveta e Armário de Cozinha,15,7456,1;1;1;1;1;1;12;33;36;100;75;92,task:10;informational:36;navigational:4;commercial:28;transactional:22
+Refrigerators and Cooling Appliances,16,5863,78;48;64;50;50;36;18;71;50;87;78;100,task:2;informational:70;navigational:5;commercial:15;transactional:8
+Componenti frigoriferi RV e ricambi Norcold,15,14,70;100;79;79;53;66;83;48;44;79;61;61,task:10;informational:57;navigational:1;commercial:28;transactional:4
+Indesit Appliances (Fridges & Freezers),15,482,35;71;59;59;41;23;20;71;22;23;100;95,task:2;informational:38;navigational:10;commercial:12;transactional:38
+Frigidaire Appliances and Parts,148,62804,75;77;82;91;98;98;98;100;97;95;95;95,task:2;informational:28;navigational:36;commercial:25;transactional:9
+Amazon Frigidaire Mini Fridge and Refrigerator,15,8463,7;7;1;1;1;16;12;26;2;2;90;100,task:7;informational:25;navigational:32;commercial:11;transactional:25
+Refrigerator Gadgets,15,4987,34;17;25;16;16;11;13;39;33;100;76;82,task:6;informational:23;navigational:3;commercial:58;transactional:10
+Relion Cryo-EM,16,1292,21;34;22;16;35;40;50;88;63;100;59;36,task:3;informational:56;navigational:26;commercial:11;transactional:4
+Gastronomia Caseira e Bem-Estar,16,98,6;100;75;30;30;92;79;62;59;4;4;4,task:7;informational:65;navigational:10;commercial:11;transactional:7
+paneleiro e paneleira,16,122,95;45;100;91;37;33;34;16;16;16;16;16,task:2;informational:80;navigational:6;commercial:6;transactional:6
+Refrigerators and Appliance Reviews,18,6258,40;22;27;22;37;32;25;6;27;29;83;100,task:2;informational:35;navigational:11;commercial:29;transactional:23
+Frigidaire Kegerators,15,65,8;17;18;24;23;68;61;95;100;2;2;2,task:7;informational:32;navigational:7;commercial:46;transactional:8
+Técnico de Electrodomésticos,15,1341,6;11;14;15;39;25;20;48;40;82;64;100,task:5;informational:72;navigational:8;commercial:10;transactional:5
+Cubos y recipientes de hielo,16,344,74;67;52;62;100;91;74;78;75;76;49;49,task:2;informational:71;navigational:5;commercial:13;transactional:9
+Processadores de alimentos e multiprocessadores,16,719,27;85;72;35;35;33;17;63;48;100;77;88,task:12;informational:30;navigational:3;commercial:35;transactional:20
+Armários para Vestiário,15,16,3;12;5;6;61;75;57;22;100;97;1;1,task:7;informational:26;navigational:4;commercial:46;transactional:17
+Refrigeration and Cooler Supplies,16,5222,54;46;55;52;56;35;31;100;25;24;80;87,task:4;informational:40;navigational:16;commercial:27;transactional:13
+Geradores de Energia Residencial e Elétricos,18,672,26;26;17;23;41;34;15;29;36;100;60;22,task:1;informational:57;navigational:4;commercial:28;transactional:10
+Love for Refrigerators,16,811,66;44;36;26;40;12;10;100;67;32;23;27,task:5;informational:54;navigational:12;commercial:14;transactional:15
+frigidaire refrigerators,141,43658,71;74;77;77;81;81;81;81;93;93;100;100,task:2;informational:41;navigational:11;commercial:24;transactional:22
+Frigidaire GRS2853AF Refrigerator,27,12236,12;12;13;15;15;15;15;13;40;43;97;100,task:2;informational:45;navigational:14;commercial:30;transactional:9
+Organizadores Giratórios e Giratórios,15,2062,3;3;61;54;54;25;18;13;7;7;69;100,task:3;informational:46;navigational:12;commercial:12;transactional:27
+Marcas de Refrigeradores y Neveras,27,3745,100;67;81;75;75;57;51;66;68;49;46;78,task:2;informational:62;navigational:4;commercial:28;transactional:4
+Problemas con máquinas de hielo en refrigeradores,21,7500,31;25;23;27;27;24;26;56;66;62;32;100,task:10;informational:66;navigational:2;commercial:10;transactional:12
+Beverage Coolers and Refrigerators,62,18699,54;58;62;47;69;67;68;86;90;92;92;100,task:5;informational:42;navigational:4;commercial:34;transactional:15
+Refrigerators and Appliances,17,1055,84;57;39;33;34;37;39;5;100;100;12;17,task:3;informational:39;navigational:13;commercial:18;transactional:27
+Frigidaire Refrigerator Parts and Models,15,135,2;4;5;5;13;9;4;2;87;100;3;3,task:3;informational:58;navigational:14;commercial:21;transactional:4
+Frigidaire Refrigerator Models and Manuals,24,940,21;23;23;24;100;100;100;34;30;42;24;25,task:3;informational:57;navigational:13;commercial:20;transactional:7
+Máquinas de Helados Ninja,20,402,100;60;62;54;39;19;91;47;33;56;37;34,task:8;informational:34;navigational:16;commercial:30;transactional:12
+Aparelhos de Barbear Elétricos,15,162,45;29;25;19;88;88;72;100;74;18;16;17,task:10;informational:39;navigational:8;commercial:32;transactional:11
+Mini Fridge Parts and Models,16,332,80;12;12;17;51;55;100;11;73;84;18;19,task:3;informational:58;navigational:5;commercial:21;transactional:13
+Smart Refrigerators and Freezers,16,6769,46;25;37;34;42;30;47;5;55;73;68;100,task:5;informational:41;navigational:4;commercial:38;transactional:12
+Receitas e Gastronomia,15,362,100;91;86;86;83;83;76;62;64;85;72;91,task:10;informational:53;navigational:16;commercial:11;transactional:10
+Xícaras e Canecas,16,416,41;80;100;85;61;39;23;98;71;26;26;26,task:5;informational:36;navigational:9;commercial:44;transactional:6
+Home Depot Freezers and Refrigerators,15,5203,56;56;79;66;42;28;37;2;45;64;83;100,task:1;informational:16;navigational:50;commercial:11;transactional:22
+heladería en inglés,17,121,69;100;77;29;20;20;20;8;9;9;9;9,task:28;informational:60;navigational:5;commercial:5;transactional:2
+Home Appliance Repair and Parts,539,369832,49;52;52;53;84;84;84;100;66;66;66;66,task:2;informational:41;navigational:10;commercial:27;transactional:20
+Parafusadeiras e Furadeiras,16,144,11;12;13;18;100;27;68;17;18;12;12;12,task:3;informational:39;navigational:3;commercial:47;transactional:8
+Mini Koel- en Vrieskasten,15,204,2;4;6;6;6;48;33;76;85;100;4;6,task:7;informational:31;navigational:4;commercial:32;transactional:26
+GE Side-by-Side Refrigerators and Ice Makers,71,10099,90;50;51;67;100;100;100;95;98;97;98;98,task:2;informational:47;navigational:4;commercial:37;transactional:10
+Cuscuzeiras e Utensílios de Cuscuz,15,105,77;87;97;99;100;96;87;100;77;77;76;77,task:10;informational:39;navigational:11;commercial:27;transactional:13
+Subzero Glass Door Refrigerators,16,319,33;12;13;12;11;68;58;8;57;100;20;21,task:7;informational:46;navigational:4;commercial:21;transactional:22
+Hieleras eléctricas y enfriadores en Walmart,18,267,53;65;91;100;98;34;35;25;27;27;26;27,task:3;informational:21;navigational:42;commercial:11;transactional:23
+Frigidaire FCCG3627AS Refrigerator,15,1232,3;3;5;6;46;36;20;58;58;100;71;85,task:3;informational:57;navigational:18;commercial:15;transactional:7
+Refrigeratoare și electrocasnice mari,15,757,100;81;82;69;13;33;30;40;8;8;58;52,task:13;informational:44;navigational:4;commercial:28;transactional:11
+Frigidaire Chest Freezers,16,583,39;47;7;11;15;8;19;2;90;100;17;21,task:3;informational:49;navigational:18;commercial:17;transactional:13
+Mesas e Escritorios em L,15,1112,20;53;55;51;85;76;48;4;4;100;71;85,task:7;informational:41;navigational:4;commercial:37;transactional:11
+Refrigeradores Frigidaire de Dos Puertas,15,7914,8;19;44;36;17;18;12;24;70;71;92;100,task:10;informational:49;navigational:5;commercial:26;transactional:10
+Refrigerator Testing and Reviews,15,2784,54;48;100;89;48;51;40;41;56;72;35;51,task:7;informational:39;navigational:11;commercial:32;transactional:11
+Armários Pequenos para Casa,15,1196,5;10;16;13;11;13;7;61;100;100;29;40,task:3;informational:46;navigational:11;commercial:25;transactional:15
+Frigidaire Kitchen Appliances and Packages,21,4726,52;64;77;71;72;74;65;67;100;96;64;64,task:2;informational:40;navigational:10;commercial:24;transactional:24
+Miniature and Countertop Freezers,21,2378,14;34;70;65;67;27;89;28;87;100;54;66,task:7;informational:36;navigational:4;commercial:35;transactional:18
+Tabelas de Medidas na Cozinha,51,2616,92;88;93;97;100;100;100;98;99;99;98;99,task:4;informational:77;navigational:5;commercial:10;transactional:4
+Gelato e Caffetteria Tasta,16,1784,22;89;62;47;67;72;53;100;67;85;86;85,task:7;informational:37;navigational:45;commercial:8;transactional:3
+Refrigerators and Appliance Storage,15,650,11;8;59;56;56;5;7;3;82;100;10;15,task:3;informational:59;navigational:5;commercial:15;transactional:18
+Dual Compartment Fridges and Freezers,25,3539,46;44;50;42;42;37;60;16;30;29;80;100,task:2;informational:51;navigational:9;commercial:28;transactional:10
+Conexión y accesorios para refrigeradores,18,3663,48;38;43;37;38;31;45;11;10;100;77;83,task:5;informational:64;navigational:6;commercial:18;transactional:7
+Assistência Técnica e Peças Electrolux,17,159,65;70;70;96;100;93;92;68;84;85;85;87,informational:39;navigational:37;commercial:8;transactional:16
+Cámaras Frigoríficas y Refrigeración,19,327,42;45;45;45;100;100;100;60;47;47;47;47,task:2;informational:49;navigational:2;commercial:35;transactional:12
+Built-in Refrigerators and Kitchen Appliances,15,395,100;63;83;65;68;10;59;18;14;14;14;20,task:7;informational:50;navigational:5;commercial:18;transactional:20
+Refrigerator Parts and Maintenance,16,2518,14;12;20;23;19;11;21;9;21;28;89;100,task:7;informational:61;navigational:5;commercial:20;transactional:7
+Gorenje Refrigerators and Freezers,17,1177,84;92;95;61;61;51;27;73;38;26;24;100,task:2;informational:50;navigational:15;commercial:8;transactional:25
+Meneghini La Cambusa Frigoriferi,20,256,20;20;21;32;33;34;34;100;87;36;35;36,task:2;informational:47;navigational:30;commercial:18;transactional:3
+Lojas e Grupos de Varejo no Brasil,15,1533,11;20;6;100;100;69;40;55;36;53;41;48,task:3;informational:44;navigational:24;commercial:11;transactional:18
+dessert display refrigerators and chillers,18,236,22;24;32;27;80;93;73;100;63;72;17;17,task:5;informational:51;navigational:4;commercial:28;transactional:12
+Maçarico e Ferramentas de Solda,18,351,10;27;25;37;66;62;32;82;100;27;27;27,task:8;informational:59;navigational:1;commercial:28;transactional:4
+Vitrinas y Refrigeradores para Postres y Pasteles,15,65,10;7;8;92;92;100;17;22;18;7;7;7,informational:27;navigational:5;commercial:50;transactional:18
+Organizadores de Roupas e Closet,15,6410,6;13;16;12;12;20;11;24;64;70;88;100,task:3;informational:49;navigational:5;commercial:18;transactional:25
+Lava Louça Portátil,16,3763,2;30;34;34;34;33;28;65;65;100;70;80,task:7;informational:39;navigational:4;commercial:27;transactional:23
+Armadilhas Elétricas para Mosquitos,16,1311,6;6;27;20;25;10;10;100;5;5;62;85,task:5;informational:47;navigational:4;commercial:34;transactional:10
+Frigidaire Appliances and Reviews,47,13270,65;55;45;51;58;67;62;66;78;80;97;100,task:2;informational:55;navigational:10;commercial:25;transactional:8
+Frigidaire GRS C2352AD Refrigerator,15,4155,4;4;8;10;22;18;3;1;47;57;83;100,task:3;informational:64;navigational:18;commercial:12;transactional:3
+Hieleras y Neveras Portátiles para Autos,17,303,100;66;61;63;86;41;69;31;50;61;47;55,task:6;informational:44;navigational:1;commercial:31;transactional:18
+Gás para Ar Condicionado Automotivo e Residencial,19,228,49;100;73;76;76;32;31;29;28;28;28;28,task:5;informational:56;navigational:2;commercial:22;transactional:15
+reparação e conserto,18,722,26;20;21;60;60;52;100;13;42;57;52;39,task:2;informational:63;navigational:15;commercial:15;transactional:5
+Balanças de Cozinha e Precisão,16,83,100;57;24;20;22;5;3;19;32;44;5;6,task:3;informational:45;navigational:3;commercial:40;transactional:9
+Réfrigérateurs Frigidaire GRSS2352AF,15,4710,17;2;3;2;2;20;4;2;3;5;98;100,task:3;informational:60;navigational:18;commercial:12;transactional:7
+Ferro de passar roupa e vaporizadores,15,177,35;34;36;20;20;17;100;21;19;20;21;19,task:8;informational:31;navigational:3;commercial:48;transactional:10
+Refrigerator Model and Size Queries,16,2446,5;5;6;17;16;11;3;11;4;100;83;70,task:3;informational:61;navigational:5;commercial:24;transactional:7
+Frigidaire Appliance Parts and Models,16,883,26;24;22;37;37;29;26;68;100;57;48;69,task:3;informational:46;navigational:32;commercial:12;transactional:7
+frigidaire beverage coolers and mini fridges,16,744,100;91;39;37;39;39;39;34;65;74;42;44,task:4;informational:54;navigational:15;commercial:12;transactional:15
+Modelos de Refrigeradores Frigidaire FCRE3083AS,17,107,41;34;49;47;40;20;100;15;15;15;15;16,informational:70;navigational:8;commercial:22
+Placas Mãe e Componentes de Computador,16,677,39;30;83;32;100;96;77;28;51;51;77;74,task:8;informational:41;navigational:3;commercial:37;transactional:11
+électroménager et appareils ménagers,16,3169,36;30;100;99;99;70;56;94;45;58;49;93,task:3;informational:48;navigational:2;commercial:38;transactional:9
+Escorredores de Louça,15,90,94;72;63;70;70;70;64;100;63;6;6;6,task:5;informational:50;navigational:8;commercial:22;transactional:15
+Calos e Tratamentos para Frieira nos Pés,23,1077,72;74;75;82;76;76;100;75;78;78;78;78,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Ar Condicionado Quatro Air,15,67,3;12;16;15;4;22;11;84;75;100;10;10,task:3;informational:33;navigational:12;commercial:15;transactional:37
+Refrigeradores en Elektra Guatemala,15,860,11;7;7;7;48;44;33;30;37;100;90;96,task:1;informational:34;navigational:46;commercial:11;transactional:8
+German Refrigerator Terminology,16,1339,56;28;89;79;79;91;100;46;48;78;57;72,task:5;informational:80;navigational:8;commercial:5;transactional:2
+Réfrigérateurs Frigidaire GRFS2853AD,16,9321,1;1;1;1;1;2;1;1;1;24;17;100,task:3;informational:50;navigational:39;commercial:5;transactional:3
+Heladerías y Gelaterías en Escondido,16,216,32;50;41;95;94;100;18;19;17;14;14;14,task:3;informational:42;navigational:31;commercial:11;transactional:13
+Armários de Quarto,15,947,23;12;7;47;55;55;35;100;97;97;63;52,task:7;informational:36;navigational:4;commercial:42;transactional:11
+Coolers and Ice Chests,1014,287967,73;80;80;92;94;94;94;100;100;100;98;98,task:8;informational:33;navigational:5;commercial:40;transactional:14
+Cavas para hielo,15,1914,9;7;21;24;24;44;37;5;40;60;78;100,task:3;informational:46;navigational:11;commercial:32;transactional:8
+Réfrigérateurs Économes et Fiables,20,2644,82;62;85;59;57;51;34;83;100;80;67;82,task:5;informational:39;navigational:3;commercial:44;transactional:9
+GE Freezer 7 Cu Ft,15,184,21;12;24;17;21;11;100;3;3;3;11;18,task:3;informational:49;navigational:23;commercial:17;transactional:8
+Cantinho Brasileiro e do Brasil,15,866,26;81;55;61;87;100;42;28;12;12;55;28,task:3;informational:51;navigational:12;commercial:12;transactional:22
+Freezer Size and Model Codes,18,2623,72;52;68;57;57;55;56;100;90;66;58;85,task:2;informational:57;navigational:2;commercial:33;transactional:6
+Forno e Fogão de Embutir Elétrico,18,1110,13;13;19;17;49;38;37;100;95;14;14;75,task:3;informational:37;navigational:11;commercial:27;transactional:22
+Aquecedores Portáteis para Carros,15,659,4;4;13;10;26;22;16;49;92;100;22;24,task:2;informational:47;navigational:2;commercial:33;transactional:16
+Ferramentas de corte de grama e jardim,84,12621,68;68;74;70;95;96;99;81;81;81;100;100,task:8;informational:51;navigational:3;commercial:31;transactional:7
+Lavatórios Portáteis,15,695,3;3;4;4;68;24;16;4;4;100;62;99,task:7;informational:48;navigational:5;commercial:18;transactional:22
+Frigidaire Fhwc054te1 Refrigerator,16,208,7;10;9;11;10;5;5;100;88;41;51;26,task:7;informational:32;navigational:25;commercial:11;transactional:25
+Secadores e Pranchas de Cabelo,15,565,89;42;14;12;100;76;55;85;14;15;72;61,task:10;informational:35;navigational:5;commercial:29;transactional:21
+Cômodas e Móveis de Quarto,22,8342,58;59;39;40;44;42;43;73;46;44;81;100,task:2;informational:37;navigational:15;commercial:39;transactional:7
+Máquinas de Água com Gás,16,421,33;100;54;42;57;17;17;37;8;8;28;28,task:2;informational:36;navigational:9;commercial:41;transactional:12
+Iluminação e Luminárias,17,615,25;37;37;40;29;28;28;34;34;100;89;37,task:4;informational:50;navigational:7;commercial:34;transactional:5
+Problemas con refrigeradores LG,15,198,100;84;84;75;53;52;41;46;49;59;64;88,task:2;informational:53;navigational:10;commercial:10;transactional:25
+Gelaterie e Dolci Italiani,17,1470,28;67;56;33;32;34;51;100;75;74;63;83,task:3;informational:40;navigational:35;commercial:13;transactional:9
+Estantes para Sala,15,1487,4;14;36;36;38;41;7;30;96;100;46;56,task:7;informational:44;navigational:7;commercial:28;transactional:14
+Lavadoras y Secadoras Frigidaire,15,8618,14;19;8;6;15;15;11;40;36;38;77;100,task:2;informational:50;navigational:28;commercial:10;transactional:10
+Liebherr Refrigerators and Freezers,17,4563,13;30;28;32;27;19;23;15;20;23;75;100,task:2;informational:33;navigational:8;commercial:42;transactional:15
+Jarras para Cafeteira,15,150,3;4;41;48;48;26;20;10;96;100;22;13,task:10;informational:38;navigational:4;commercial:28;transactional:20
+Organizadores de Cestos e Cestinhas,15,1696,11;8;25;22;76;68;52;65;68;86;54;100,task:10;informational:48;navigational:15;commercial:19;transactional:8
+Aparadores de sala de jantar e buffet,15,5451,3;7;22;25;16;16;16;23;20;24;76;100,task:3;informational:28;navigational:39;commercial:18;transactional:12
+Aesthetic and Stylish Refrigerators,15,2794,87;49;42;36;53;53;43;67;37;49;91;100,task:3;informational:51;navigational:5;commercial:24;transactional:17
+Dispensadores de hielo y agua,17,2571,17;11;10;14;40;24;6;85;72;79;76;100,task:3;informational:48;navigational:5;commercial:21;transactional:23
+Frigidaire Fhwc123tc1,15,47,17;100;68;11;11;9;10;15;13;11;15;16,task:7;informational:32;navigational:25;commercial:11;transactional:25
+Machines à glace et appareils pour faire glace,18,350,95;57;100;97;24;21;20;69;19;37;37;40,task:5;informational:47;navigational:1;commercial:43;transactional:4
+Transpaletes e Paleteiras Elétricas,16,63,26;57;51;47;100;92;52;41;27;26;23;23,task:8;informational:61;navigational:5;commercial:15;transactional:11
+Frigidaire Upright Freezer Model GLFH21F8HWG,15,75,20;26;87;100;47;80;62;24;56;99;24;26,task:3;informational:24;navigational:31;commercial:37;transactional:5
+frigidaire refrigerator model grfc2353ad,16,1434,8;5;7;3;3;3;3;18;9;100;75;80,task:7;informational:50;navigational:35;commercial:5;transactional:3
+Frigidaire FCFE308LAF Refrigerator,15,9412,1;1;12;11;10;9;6;3;53;55;90;100,task:1;informational:32;navigational:39;commercial:18;transactional:10
+Bebedouros de Água,16,2991,6;19;15;19;38;53;35;13;9;100;74;82,task:1;informational:62;navigational:4;commercial:27;transactional:6
+Frigidaire FRSG2115AV Refrigerator,19,8670,4;6;7;9;7;7;6;6;7;9;97;100,task:2;informational:42;navigational:29;commercial:21;transactional:6
+Motos e Lavadoras Semi-Automáticas,19,1464,57;31;30;44;82;83;84;86;85;70;66;100,task:2;informational:56;navigational:4;commercial:24;transactional:14
+coppe e contenitori per gelato,15,269,19;57;54;87;30;45;48;91;56;97;62;100,task:3;informational:59;navigational:1;commercial:26;transactional:11
+Ecrãs e Telas,17,3547,28;25;19;22;23;23;49;53;43;100;78;95,task:5;informational:61;navigational:19;commercial:9;transactional:6
+Armários e Gabinetes de Banheiro,15,5804,7;6;5;4;21;19;19;30;37;42;34;100,task:10;informational:14;navigational:12;commercial:47;transactional:17
+Cozinhas e Salas Integradas,15,61,86;88;99;99;100;100;100;99;97;97;97;97,task:15;informational:72;navigational:3;commercial:4;transactional:6
+Repuestos y bombillas para refrigeradores,18,560,8;6;4;4;8;8;7;50;100;18;19;15,task:5;informational:40;navigational:2;commercial:24;transactional:29
+Frigidaire Top Freezer Refrigerators,21,8729,10;11;11;10;10;11;30;14;16;16;95;100,task:2;informational:40;navigational:7;commercial:30;transactional:21
+Réfrigérateurs Frigidaire GCCG3648AS,15,2982,2;2;23;19;3;3;3;2;2;2;96;100,task:3;informational:46;navigational:32;commercial:12;transactional:7
+Maquinas de Assar Frango,15,29,6;5;6;7;7;6;100;92;65;3;3;3,task:3;informational:46;navigational:4;commercial:30;transactional:17
+refrigerators and mini fridges,18,3914,41;20;25;83;68;54;62;52;46;100;74;89,task:4;informational:65;navigational:3;commercial:18;transactional:10
+Modelos de Dispositivos Samsung,19,5516,30;24;33;32;41;28;28;61;100;89;64;69,informational:82;navigational:8;commercial:8;transactional:2
+Mini Fridges for Beverages,15,5138,3;4;47;35;43;96;68;82;5;5;81;100,task:3;informational:45;navigational:5;commercial:22;transactional:25
+Mini Freezers for Home and Office,15,94,2;28;23;22;30;2;2;67;93;100;2;3,task:7;informational:35;navigational:5;commercial:24;transactional:29
+Lavadoras de Alta Pressão,16,212,2;3;34;28;25;11;7;32;97;100;4;4,task:3;informational:30;navigational:17;commercial:39;transactional:11
+Acessórios Nespresso para Café,15,129,14;6;8;7;47;12;7;72;100;94;8;15,task:3;informational:42;navigational:12;commercial:18;transactional:25
+penteadeiras infantis,15,3181,1;4;3;7;22;36;39;21;10;100;78;97,task:7;informational:32;navigational:11;commercial:22;transactional:28
+Cortinas de Cozinha,15,1396,5;4;98;86;17;74;52;100;3;3;67;69,task:7;informational:49;navigational:4;commercial:26;transactional:14
+Chest Freezers and Refrigerators,197,41831,56;58;65;78;80;81;84;91;100;100;86;86,task:5;informational:42;navigational:3;commercial:42;transactional:8
+Ventiladores de Coluna e Pé,15,287,17;19;100;83;93;9;7;95;4;6;22;21,task:7;informational:42;navigational:3;commercial:40;transactional:8
+Refrigeradores para camiones y vehículos,15,41,39;100;70;63;35;17;14;16;12;4;4;6,task:1;informational:50;commercial:39;transactional:10
+Refrigeration and Cold Storage,18,5867,8;14;7;9;32;22;8;26;28;100;62;86,task:2;informational:74;navigational:5;commercial:13;transactional:6
+Commercial Kitchen Refrigeration and Freezers,15,34,35;96;100;97;100;41;45;37;66;63;38;40,task:7;informational:51;navigational:2;commercial:18;transactional:22
+Frigidaire GMBS3068AD Refrigerator,15,1520,17;25;2;3;4;2;26;2;4;4;99;100,task:3;informational:30;navigational:45;commercial:9;transactional:13
+Caixas Organizadoras para Armazenamento e Cozinha,15,4918,2;3;22;17;44;37;30;23;37;41;74;100,task:1;informational:53;navigational:1;commercial:32;transactional:13
+tooa gelato maker,17,854,11;13;29;25;21;15;8;41;32;37;70;100,task:3;informational:29;navigational:41;commercial:11;transactional:16
+Neveras pequeñas para cuarto,15,9632,51;25;24;23;2;2;1;34;6;15;90;100,task:4;informational:26;navigational:4;commercial:48;transactional:18
+Gabinetes de Aquário para Jogos e Decoração,15,416,19;24;37;35;82;100;38;14;31;29;27;39,task:10;informational:33;navigational:4;commercial:37;transactional:16
+frigidaire ice makers,128,41074,28;31;32;63;74;74;75;96;100;100;100;100,task:3;informational:53;navigational:11;commercial:20;transactional:13
+Frigidaire Appliance Parts and Repairs,17,180,36;35;24;9;34;100;75;10;12;12;11;17,task:1;informational:40;navigational:39;commercial:15;transactional:5
+Frigidaire FCRE3052BS Refrigerator,17,7551,5;4;5;4;4;9;13;4;4;30;22;100,task:3;informational:64;navigational:18;commercial:12;transactional:3
+Refrigerator Cabinets and Accessories,39,11423,86;80;81;83;91;100;94;99;86;85;92;97,task:5;informational:53;navigational:4;commercial:28;transactional:10
+Frigidaire Appliance Models and Compatibility,16,76,85;87;52;49;100;100;73;40;46;51;65;76,task:7;informational:70;navigational:8;commercial:12;transactional:3
+Mini Fridges and Beverage Coolers,15,2648,17;54;26;27;37;15;12;62;89;100;61;63,task:3;informational:41;navigational:11;commercial:25;transactional:20
+Purificadores e Filtros Electrolux,15,116,4;4;4;4;4;85;26;71;100;4;4;6,task:3;informational:45;navigational:14;commercial:20;transactional:18
+Garage-Ready Refrigerators and Basement Fridges,31,4879,49;54;67;59;60;56;44;68;98;100;67;67,task:2;informational:43;navigational:2;commercial:47;transactional:6
+Secadores de cabelo sem fio,15,96,17;9;51;32;86;100;87;22;7;7;10;11,informational:57;navigational:4;commercial:35;transactional:4
+Electrodomésticos Alkosto,15,924,12;9;11;46;66;52;24;100;87;62;70;50,task:3;informational:20;navigational:55;commercial:8;transactional:14
+Cafeteiras Oster,15,53,23;31;100;92;91;5;5;4;13;11;8;11,task:5;informational:38;navigational:20;commercial:22;transactional:15
+Congélateurs et congélateurs verticaux,18,5749,6;28;6;33;33;35;25;56;77;99;81;100,task:7;informational:35;navigational:10;commercial:40;transactional:8
+Smeg Koelkasten,15,660,39;10;12;11;76;96;78;73;19;29;96;100,task:3;informational:40;navigational:18;commercial:12;transactional:27
+Mini Fridges and Coolers,18,5002,47;39;41;37;31;35;55;6;6;6;99;100,task:2;informational:47;navigational:7;commercial:32;transactional:12
+"Acessórios, Calçados e Moda Infantil",16,1226,10;12;6;6;100;38;33;56;34;32;28;40,task:5;informational:44;navigational:31;commercial:13;transactional:7
+Secadores e escovas de cabelo Revlon e Dyson,16,1258,81;46;84;58;56;39;100;7;26;20;83;86,task:10;informational:32;navigational:5;commercial:32;transactional:21
+Refrigeratori Norcold NR751 per RV e Marine,17,53,14;46;93;69;100;24;9;8;8;8;11;11,task:10;informational:67;navigational:2;commercial:18;transactional:3
+Frigidaire FFTR2045VB Refrigerator,15,5081,1;6;2;1;5;4;22;1;7;7;98;100,task:3;informational:46;navigational:32;commercial:12;transactional:7
+Laboratorio di Gelato,15,82,68;89;88;100;68;70;54;52;52;51;51;51,task:10;informational:39;navigational:17;commercial:19;transactional:15
+Máquinas de Café Philips Série 5400,21,794,38;58;37;100;98;89;89;23;43;43;43;43,task:2;informational:34;navigational:16;commercial:38;transactional:10
+Penteadeiras com Espelho e LED,15,4856,2;11;2;2;39;10;12;42;63;82;100;98,task:7;informational:26;navigational:6;commercial:32;transactional:29
+Refrigeradores para flores y floristerías,16,17,13;11;6;5;64;100;31;2;2;2;2;2,task:3;informational:41;navigational:4;commercial:41;transactional:11
+Frigidaire Refrigerator Model Parts,16,99,13;13;17;58;18;100;38;18;9;11;16;19,task:3;informational:55;navigational:11;commercial:24;transactional:7
+balanças de pesagem e precisão,17,1106,86;78;96;38;41;37;28;34;82;91;87;100,task:2;informational:46;navigational:4;commercial:39;transactional:9
+frigidaire mini and retro refrigerators,62,11269,76;65;63;67;68;70;74;68;91;100;67;67,task:2;informational:54;navigational:5;commercial:21;transactional:18
+panelas Ninja,16,286,76;71;36;61;14;23;32;100;22;24;30;27,task:9;informational:33;navigational:2;commercial:42;transactional:14
+Refrigerators and Freezers Retail and Brands,15,5507,69;54;59;40;40;23;23;75;68;71;65;100,task:5;informational:35;navigational:15;commercial:27;transactional:18
+Cuartos Fríos y Refrigeración,16,220,17;17;19;100;100;19;19;60;71;52;52;52,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Aspiradores e Lavadoras de Estofados,15,905,22;11;9;9;13;13;100;24;21;67;61;58,task:10;informational:54;navigational:2;commercial:26;transactional:8
+Neveras de 7 pies,15,4627,18;15;20;17;20;17;25;11;100;68;53;91,task:3;informational:25;commercial:57;transactional:15
+Prateleiras para Banheiro,15,2193,2;2;2;2;2;43;30;63;50;100;77;85,task:13;informational:36;navigational:4;commercial:28;transactional:19
+Glass Door Refrigerators and Mini Fridges,41,9838,58;58;68;64;83;100;80;77;72;71;81;80,task:5;informational:33;navigational:3;commercial:40;transactional:19
+LG Refrigerators and Appliances,15,5321,71;39;57;31;31;31;15;51;78;80;67;100,task:3;informational:56;navigational:15;commercial:12;transactional:14
+Refrigeradores para maquillaje,15,1216,21;60;42;69;100;26;4;3;4;5;89;68,task:3;informational:56;navigational:2;commercial:22;transactional:17
+Plastificadoras e Laminadoras,16,51,6;6;30;21;28;15;18;100;19;17;5;5,task:3;informational:48;navigational:4;commercial:29;transactional:16
+Refrigeradores de dos puertas,31,1973,96;79;63;57;84;71;80;90;83;100;58;59,task:1;informational:59;navigational:2;commercial:29;transactional:9
+Compact Undercounter Refrigerators,62,15077,96;82;82;84;85;86;92;88;85;85;98;100,task:7;informational:44;navigational:4;commercial:36;transactional:9
+Réfrigérateurs Frigidaire Ffre0833u1,17,119,17;29;35;27;48;48;46;32;31;34;95;100,task:7;informational:46;navigational:38;commercial:2;transactional:7
+Cute and Aesthetic Mini Fridges,15,5063,25;39;49;46;44;37;36;58;40;44;99;100,task:10;informational:42;navigational:4;commercial:28;transactional:16
+Umidificadores de Ar,20,1118,62;96;18;70;67;68;72;47;71;100;48;48,task:2;informational:48;navigational:4;commercial:27;transactional:19
+Frigidaire Gallery Refrigerator GRQC2255BF,20,6099,28;21;29;28;32;30;13;11;66;89;91;100,task:2;informational:29;navigational:23;commercial:35;transactional:11
+Facas e Cutelaria,18,3584,36;28;57;64;38;17;17;21;100;100;99;100,task:6;informational:62;navigational:3;commercial:26;transactional:3
+Convertible Freezers and Refrigerators,39,3576,100;81;90;85;92;81;84;68;63;67;60;65,task:5;informational:50;navigational:4;commercial:33;transactional:8
+Freezer and Refrigerator Cold Retention,29,3568,60;60;59;74;75;62;63;69;100;74;67;73,task:8;informational:80;navigational:3;commercial:9
+Mini Fridges and Small Refrigerators,17,8303,71;32;44;41;39;36;35;6;94;100;94;100,task:1;informational:60;navigational:4;commercial:23;transactional:12
+Larder Fridge and Freezer Options,16,1580,65;50;31;28;100;94;31;19;15;17;45;78,task:5;informational:47;navigational:4;commercial:40;transactional:4
+Hieleras Igloo,15,7084,6;27;11;16;3;3;2;17;61;72;88;100,task:3;informational:44;navigational:18;commercial:18;transactional:17
+Integrated Fridge Freezers,15,2041,32;88;100;97;51;35;15;4;39;53;44;59,task:2;informational:30;navigational:7;commercial:32;transactional:29
+Crosso e Crossos,16,3276,8;8;3;3;8;6;3;100;75;17;16;14,task:5;informational:50;navigational:9;commercial:27;transactional:9
+Garrafas de Água e Acessórios,15,2147,26;12;33;27;37;19;33;4;80;74;79;100,task:7;informational:32;navigational:11;commercial:32;transactional:18
+hieleras grandes y hileras grandes,15,2754,35;44;45;46;81;32;50;45;55;96;73;100,task:3;informational:58;navigational:4;commercial:24;transactional:11
+Mini Fridges and Freezers,17,3058,100;63;48;41;45;9;12;85;51;64;52;61,task:5;informational:44;navigational:4;commercial:32;transactional:15
+Small Freezers,16,5329,26;18;25;23;23;8;1;37;65;68;92;100,task:3;informational:35;navigational:3;commercial:47;transactional:12
+Cozinhas Planejadas e Modernas,18,432,22;23;100;77;22;22;23;22;42;44;31;33,task:10;informational:59;navigational:5;commercial:19;transactional:7
+Commercial Refrigerators and Freezers,26,3629,28;30;31;38;63;68;67;100;69;68;66;67,task:4;informational:40;navigational:4;commercial:39;transactional:13
+Máquinas de fazer pão,20,557,84;100;47;42;42;36;18;65;17;17;26;29,task:2;informational:47;navigational:7;commercial:33;transactional:11
+American Style American Fridge Freezers,18,1622,92;59;57;50;100;72;57;24;86;93;81;80,task:8;informational:42;navigational:4;commercial:38;transactional:8
+tan refrigerator,17,1041,100;65;94;80;85;71;47;5;5;42;37;39,task:7;informational:18;navigational:17;commercial:46;transactional:12
+Mini Refrigerators,15,6957,76;71;41;36;36;5;40;2;6;7;90;100,task:7;informational:38;navigational:5;commercial:18;transactional:32
+Requeijão Caseiro,17,266,77;77;78;78;100;100;100;15;18;18;18;18,task:5;informational:78;navigational:5;commercial:10;transactional:2
+Grocery and Supermarket Refrigeration Equipment,27,1086,37;100;77;60;21;21;26;43;93;71;44;45,task:5;informational:44;navigational:1;commercial:40;transactional:10
+Refrigerator Reviews and Comparisons,15,6765,41;24;29;22;25;22;23;36;38;98;78;100,task:2;informational:32;commercial:58;transactional:8
+Scooters e Mobilidade Elétrica,15,55,4;8;100;81;70;52;51;12;51;43;6;6,task:5;informational:39;navigational:21;commercial:14;transactional:21
+TVs Grundig,18,1815,8;11;27;22;23;29;22;46;75;100;49;68,task:2;informational:45;navigational:10;commercial:16;transactional:27
+frigidaire appliances and branding,15,1904,16;22;13;12;17;18;45;50;95;100;47;76,informational:39;navigational:17;commercial:31;transactional:13
+Réfrigérateurs Frigidaire GRMN2872AF,16,308,100;100;6;6;90;86;17;6;8;9;22;24,task:7;informational:46;navigational:18;commercial:12;transactional:17
+Freezer Shelves and Racks,17,3992,19;22;22;23;26;22;13;13;15;16;79;100,task:2;informational:52;navigational:5;commercial:30;transactional:11
+LG 42-inch Refrigerators,16,350,12;20;41;34;100;85;28;9;7;7;21;22,task:1;informational:65;navigational:10;commercial:15;transactional:9
+caixa de ferramentas,15,1653,2;5;19;19;18;18;15;100;100;92;39;45,task:7;informational:41;navigational:4;commercial:32;transactional:16
+Smeg Kühlschränke,15,3242,4;3;11;8;8;33;25;53;77;100;80;94,task:3;informational:33;navigational:39;commercial:11;transactional:14
+Conservas de Lisboa e Tuna,16,83,66;62;67;60;41;45;44;100;93;35;35;35,informational:62;navigational:11;commercial:23;transactional:4
+Laboratory Freezers and Cold Storage Equipment,23,441,21;21;21;22;22;23;29;19;100;83;23;24,task:3;informational:43;navigational:4;commercial:30;transactional:20
+Nevería Roxy en Condesa,16,86,15;100;61;10;9;9;58;7;6;6;6;6,task:1;informational:28;navigational:35;commercial:33;transactional:3
+Crushed and Shaved Ice Makers and Dispensers,25,6576,45;30;30;26;25;13;30;12;30;40;81;100,task:1;informational:60;navigational:4;commercial:29;transactional:6
+Armarinhos e Aviamentos,20,1624,21;23;56;28;52;43;41;69;69;100;85;93,task:2;informational:45;navigational:25;commercial:20;transactional:8
+Mini Fridge Reviews and Buying Tips,15,8352,18;45;9;8;9;4;3;26;7;7;96;100,task:3;informational:48;navigational:2;commercial:22;transactional:25
+kitchen cooling solutions,15,594,29;19;17;43;15;44;22;15;92;100;75;15,task:3;informational:38;navigational:17;commercial:22;transactional:20
+Freezer and Frozen Food Storage,18,632,11;23;22;26;14;25;18;26;100;14;12;14,task:5;informational:62;navigational:5;commercial:24;transactional:4
+Refrigerator Buying Guide,20,5447,22;45;26;47;47;49;12;64;57;86;71;100,task:5;informational:72;navigational:3;commercial:18;transactional:2
+freezerless refrigerators,144,25779,64;64;68;100;95;94;95;85;85;85;85;85,task:8;informational:56;navigational:2;commercial:29;transactional:5
+Balanças de Peso,15,60,53;37;50;40;40;15;2;100;90;67;6;5,task:3;informational:41;navigational:11;commercial:37;transactional:8
+Small Refrigerators and Mini Fridges,23,789,27;91;72;64;53;46;100;27;41;42;31;32,task:10;informational:38;navigational:3;commercial:40;transactional:9
+Air Fryer Ninja Brasil,17,179,17;14;11;11;11;11;20;64;100;20;20;19,task:2;informational:31;navigational:21;commercial:37;transactional:9
+DeMuller Small Freezers and Fridges,17,1838,26;56;58;61;100;73;78;5;79;91;28;54,task:2;informational:48;navigational:25;commercial:10;transactional:15
+Farberware Chest Freezers,15,2967,19;37;20;21;35;41;30;66;86;100;72;69,task:1;informational:53;navigational:5;commercial:25;transactional:16
+Refrigerator and Shop Chillers,16,4965,2;2;4;5;5;16;15;54;26;18;18;100,task:2;informational:69;navigational:5;commercial:13;transactional:11
+Termómetros para refrigeradores,15,579,58;100;60;50;51;22;16;44;87;88;27;25,task:3;informational:57;navigational:5;commercial:15;transactional:20
+Organizadores para refrigerador y nevera,16,2287,63;25;34;30;27;14;10;43;84;96;89;100,task:10;informational:35;navigational:5;commercial:37;transactional:13
+GE Eterna Series Refrigerator,17,157,55;52;56;40;100;45;53;42;17;19;16;16,task:2;informational:51;navigational:17;commercial:26;transactional:4
+Freezer Temperature Control Systems,20,637,39;83;72;91;68;59;47;67;100;100;81;81,task:8;informational:56;navigational:2;commercial:19;transactional:15
+Churrasqueiras e Churrasqueiras Portuguesas,15,3875,20;22;18;18;22;22;19;71;85;30;29;100,task:5;informational:64;navigational:7;commercial:16;transactional:8
+Receitas de Brigadeiro,29,2738,34;35;40;39;34;34;35;87;100;100;100;100,task:8;informational:72;navigational:2;commercial:12;transactional:6
+Três Corações e Café,22,557,44;59;71;92;98;100;83;29;24;29;29;29,task:5;informational:52;navigational:15;commercial:22;transactional:6
+Koldfront Ice Makers,16,1278,3;2;4;9;20;27;15;68;100;10;7;10,task:3;informational:25;navigational:17;commercial:47;transactional:8
+Massa Folhada,18,288,55;57;70;90;93;100;40;40;79;79;79;79,task:5;informational:65;navigational:5;commercial:16;transactional:9
+Fridge and Freezer Defrosting Guide,146,24293,82;77;86;86;90;88;88;100;98;98;98;98,task:6;informational:68;navigational:5;commercial:17;transactional:4
+Computer and Beverage Storage in Refrigerators,20,424,28;100;86;79;40;45;47;63;50;42;42;44,task:6;informational:63;navigational:5;commercial:20;transactional:6
+Cold Storage Containers,15,15,73;58;79;98;28;20;2;100;27;100;2;2,task:3;informational:64;navigational:5;commercial:18;transactional:10
+Refrigerator Care and Related Media,20,5269,43;60;58;33;34;32;31;37;41;44;38;100,task:10;informational:68;navigational:6;commercial:10;transactional:6
+Frigidaire PRFS2883AF Refrigerator,16,12873,1;2;11;10;14;14;5;1;2;3;91;100,task:3;informational:47;navigational:35;commercial:12;transactional:3
+Refrigerator and Freezer Configurations,26,1054,50;66;83;90;89;70;69;49;76;100;48;48,task:2;informational:52;navigational:1;commercial:33;transactional:12
+Silver Freezers,15,5013,55;54;35;35;48;40;29;81;29;31;76;100,task:7;informational:46;navigational:11;commercial:23;transactional:13
+Coolers and Ice Bins,16,1242,18;19;45;49;58;59;100;15;56;58;47;53,task:5;informational:48;navigational:5;commercial:24;transactional:18
+Varais de Roupa,15,2248,4;23;26;24;41;47;31;64;50;81;59;100,task:3;informational:52;navigational:5;commercial:18;transactional:22
+Cuscuzeiras Tramontina,15,25,65;60;67;98;100;53;53;58;53;55;55;60,task:4;informational:40;navigational:28;commercial:18;transactional:10
+Decoração de Casa,19,783,25;20;17;84;100;96;73;53;50;72;66;57,task:10;informational:61;navigational:4;commercial:19;transactional:6
+Frigidaire Freezer Manuals and Parts,17,189,39;87;100;52;49;76;62;37;37;48;44;44,task:2;informational:53;navigational:30;commercial:12;transactional:3
+Ice Cream Chillers and Containers,15,310,50;30;21;20;22;29;100;7;29;41;18;29,task:7;informational:47;navigational:4;commercial:20;transactional:22
+Garage Ready and Compact Refrigerators,19,766,55;33;47;43;54;53;60;11;83;100;26;27,task:1;informational:36;commercial:52;transactional:11
+Liebherr Integrated Fridge and Freezer,15,480,4;12;21;15;15;79;72;71;14;16;52;100,task:3;informational:30;navigational:12;commercial:18;transactional:37
+Kitchen Appliances and Refrigerators Reviews,29,6372,79;63;69;57;81;76;69;100;78;90;79;83,informational:37;navigational:12;commercial:42;transactional:9
+Geradores AP5000 e SUA5000,18,777,2;1;1;3;3;3;11;67;100;15;13;13,task:3;informational:50;navigational:8;commercial:35;transactional:4
+hieleras recargables y de batería,15,220,23;13;12;11;11;13;19;100;71;18;18;17,task:3;informational:23;navigational:5;commercial:37;transactional:32
+cadeiras e móveis de assento,15,2587,21;16;15;9;30;35;44;23;22;85;73;100,task:3;informational:51;navigational:4;commercial:34;transactional:8
+Tazze e accessori per bevande fredde,15,349,79;41;53;69;100;79;20;71;13;15;57;62,task:3;informational:18;navigational:32;commercial:18;transactional:29
+Crianças e Crianças,17,2226,44;40;42;50;82;40;40;80;90;100;76;98,task:5;informational:64;navigational:15;commercial:10;transactional:6
+Haier Freezers and Refrigeration Appliances,28,2233,53;61;61;30;30;49;31;48;92;100;60;67,task:4;informational:47;navigational:6;commercial:31;transactional:12
+Secadores de cabelo profissionais e melhores,19,1422,30;15;70;80;100;99;54;27;62;69;83;95,informational:47;navigational:4;commercial:40;transactional:9
+Cafeteiras Italianas Moka,15,303,45;60;50;75;70;63;57;100;91;56;56;56,task:1;informational:49;navigational:5;commercial:15;transactional:30
+Ice Cream Freezers and Refrigeration Equipment,42,3905,82;81;81;84;90;94;95;98;100;99;82;90,task:2;informational:42;navigational:4;commercial:32;transactional:20
+Churrasqueiras a Gás,16,4013,5;5;20;20;20;13;12;50;4;4;79;100,task:5;informational:22;navigational:3;commercial:60;transactional:10
+Panelas de Pressão Elétricas,19,916,30;40;44;100;100;61;49;32;30;34;31;64,task:3;informational:57;navigational:1;commercial:23;transactional:16
+Whynter Refrigerators and Freezers,20,1547,35;24;63;64;29;37;30;29;34;34;78;100,task:2;informational:45;navigational:9;commercial:24;transactional:20
+Leite Condensado e suas Marcas,17,516,16;17;29;46;100;93;92;38;75;68;26;25,task:5;informational:54;navigational:2;commercial:26;transactional:13
+Babás eletrônicas Motorola,15,280,21;46;31;38;9;8;9;12;36;84;100;85,informational:34;navigational:18;commercial:26;transactional:22
+Berços para Bebês,17,4936,7;7;7;7;7;7;7;31;27;23;19;100,task:2;informational:35;navigational:3;commercial:51;transactional:9
+Locker Refrigerators and Mini Fridges,16,4728,3;3;36;26;27;27;29;2;95;100;54;62,task:7;informational:47;navigational:1;commercial:30;transactional:15
+Escrivaninhas e Mesas de Quarto,15,1900,9;14;11;9;63;60;73;85;85;89;83;100,task:2;informational:31;navigational:3;commercial:54;transactional:10
+Lavadoras de Carros,17,1218,6;8;13;12;4;27;17;100;30;35;22;31,task:7;informational:43;navigational:6;commercial:22;transactional:22
+Lacador e Login Online,20,452,36;67;55;100;24;23;22;32;32;31;32;31,task:2;informational:45;navigational:33;commercial:10;transactional:10
+Commercial Chest Freezers and Equipment,15,663,8;7;76;80;82;15;11;12;9;8;88;100,task:3;informational:42;navigational:5;commercial:28;transactional:22
+Refrigerator Parts and Shelves,39,7805,69;68;64;61;65;62;61;62;91;100;91;95,task:2;informational:53;navigational:4;commercial:32;transactional:9
+Escovas de cabelo elétricas e rotativas,17,527,35;29;29;29;100;93;86;44;47;46;40;41,task:2;informational:58;navigational:5;commercial:20;transactional:15
+Mini Refrigerators and Coolers at Walmart,16,7664,13;23;32;28;59;53;29;3;43;51;91;100,task:3;informational:28;navigational:27;commercial:16;transactional:26
+Forno Refrigerators and Ice Makers,20,7150,44;33;42;35;39;39;25;17;39;46;89;100,task:2;informational:46;navigational:4;commercial:32;transactional:16
+frigidaire gcwd2767af,15,9386,1;1;1;8;8;2;1;23;30;1;1;100,task:3;informational:47;navigational:42;commercial:5;transactional:3
+frigidaire freezer repair and parts,19,254,54;47;43;53;100;63;58;28;52;55;36;37,task:12;informational:52;navigational:10;commercial:22;transactional:4
+Upright Freezers and Refrigerators,20,8120,7;16;21;16;17;23;19;4;53;57;97;100,task:5;informational:38;navigational:5;commercial:40;transactional:12
+Brinquedos e Móveis para Crianças,15,3072,28;26;33;6;6;6;31;42;30;84;58;100,task:2;informational:32;commercial:58;transactional:8
+Frigidaire Refrigerator Parts and Repairs,20,317,48;41;95;80;100;37;27;17;14;14;15;15,task:8;informational:61;navigational:2;commercial:15;transactional:14
+Dos Frios e Comunidades Online,19,179,96;97;100;84;88;89;90;91;88;89;88;90,task:10;informational:35;navigational:40;commercial:10;transactional:5
+Montagem e Personalização de PCs Gamer,15,1349,84;74;77;74;69;75;52;74;62;95;80;100,task:13;informational:60;navigational:6;commercial:18;transactional:3
+Frutas Melancia,17,144,100;95;97;97;91;91;91;16;16;16;16;16,task:5;informational:75;navigational:3;commercial:5;transactional:12
+Laboratory Refrigeration Equipment,39,3484,28;33;36;44;56;58;58;100;95;96;90;91,task:8;informational:49;navigational:1;commercial:38;transactional:4
+Frigidaire FCRG3062AB Refrigerator,15,1377,9;5;6;8;8;12;10;62;100;8;48;59,task:7;informational:46;navigational:32;commercial:8;transactional:7
+frigidaire fcfe3062as,16,13933,1;2;2;6;1;6;4;3;3;36;24;100,task:1;informational:43;navigational:33;commercial:21;transactional:2
+Instalações e Instalação,18,3589,23;24;25;21;76;76;75;65;73;71;82;100,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Peças e Acessórios Automotivos,19,1961,25;24;38;49;51;42;43;50;47;48;48;100,task:3;informational:42;navigational:3;commercial:43;transactional:9
+Maquinas de cortar cabelo Gama,15,584,3;3;16;14;14;50;34;7;6;6;100;84,task:7;informational:25;navigational:18;commercial:32;transactional:18
+Pozzetti e Gelato Artigianale,17,88,10;14;11;14;14;16;100;13;13;13;13;13,task:4;informational:31;navigational:10;commercial:47;transactional:8
+Expressões de Música e Moda,16,568,45;72;74;76;100;99;97;74;74;74;88;88,task:12;informational:45;navigational:5;commercial:23;transactional:15
+Table and Desktop Freezers,15,897,5;6;14;13;19;1;1;5;97;100;11;15,task:10;informational:45;navigational:4;commercial:26;transactional:15
+Mini and Small Refrigerators Buying Guide,2002,791127,71;75;79;83;88;88;88;100;93;93;94;94,task:5;informational:46;navigational:1;commercial:40;transactional:8
+Cerâmica Bordallo Pinheiro e Claudia Schiffer,15,551,18;56;41;24;8;7;4;11;9;10;66;100,task:10;informational:45;navigational:5;commercial:18;transactional:22
+Refrigerator Ice Bin and Replacement Parts,30,4061,22;17;22;26;46;45;37;14;73;100;60;68,task:8;informational:38;navigational:9;commercial:28;transactional:17
+Frigidaire Side-by-Side Refrigerators,41,3701,34;44;53;49;33;34;36;40;100;84;42;42,task:6;informational:45;navigational:12;commercial:25;transactional:12
+Fri Jado y Equipos de Rotisserie,16,153,62;68;42;42;46;59;57;85;82;92;100;63,task:6;informational:35;navigational:17;commercial:20;transactional:22
+Mini Fridges and Compact Refrigerators,151,36718,70;69;91;97;100;100;95;91;87;87;87;87,task:6;informational:36;navigational:6;commercial:39;transactional:13
+ตู้เย็นและตู้แช่แข็ง,17,2898,62;38;45;12;12;34;26;76;100;98;78;88,task:8;informational:72;navigational:5;commercial:12;transactional:3
+Gelato per tutti,16,184,61;70;80;82;100;99;100;98;97;97;96;97,task:7;informational:38;navigational:30;commercial:13;transactional:12
+Mini Fridges for Beverages and Gaming Rooms,24,10140,14;24;27;28;10;10;25;10;72;79;86;100,task:3;informational:48;navigational:4;commercial:29;transactional:16
+hieleras Yeti,17,1898,49;37;68;64;65;34;27;52;78;97;100;89,task:3;informational:55;navigational:5;commercial:15;transactional:22
+Mini Fridges with Ice Makers,20,1545,100;72;51;45;25;24;84;27;35;36;36;57,task:2;informational:36;navigational:3;commercial:50;transactional:9
+Máquinas de Café Expresso e Cápsulas,17,369,71;51;51;44;44;48;100;35;42;42;43;43,task:6;informational:36;navigational:8;commercial:27;transactional:23
+Cafeteiras de cápsulas Nespresso,23,717,51;57;68;68;68;57;100;41;41;41;42;42,task:2;informational:57;navigational:8;commercial:17;transactional:16
+Réfrigérateurs Frigidaire GRSN2620AF,16,3424,7;8;11;10;8;8;20;30;72;84;93;100,task:2;informational:65;navigational:18;commercial:10;transactional:5
+roupas masculinas de frio,16,2165,69;45;58;70;70;45;39;67;46;100;71;82,task:10;informational:46;navigational:7;commercial:31;transactional:6
+Impressoras e Acessórios,17,1286,100;76;72;50;38;56;38;29;13;60;52;69,task:12;informational:20;navigational:3;commercial:54;transactional:11
+Liebherr Kühlschrank Modelle und Ersatzteile,15,476,1;1;12;10;10;100;99;50;21;26;36;94,task:3;informational:55;navigational:8;commercial:12;transactional:22
+bombril,17,1076,46;54;54;51;100;100;62;61;56;56;56;56,task:2;informational:73;navigational:10;commercial:10;transactional:5
+Helado de Chocolate,16,124,92;100;88;18;18;18;18;18;18;18;18;18,task:3;informational:69;navigational:5;commercial:12;transactional:11
+Frosh Mini Coolers and Fridges,17,2597,7;31;34;11;15;14;26;96;100;78;75;73,task:3;informational:56;navigational:10;commercial:19;transactional:12
+Problemas y soluciones con refrigeradores,52,3791,65;68;65;64;63;63;62;60;66;67;98;100,task:8;informational:73;navigational:2;commercial:7;transactional:10
+Réfrigérateurs Frigidaire FDPC4221AB,15,1757,2;3;3;54;54;71;2;68;100;77;59;55,task:3;informational:54;navigational:18;commercial:12;transactional:13
+Iluminação LED Residencial,17,363,5;5;10;16;19;19;26;4;91;100;11;12,task:2;informational:49;navigational:1;commercial:32;transactional:16
+Cooler with Shelves,15,591,5;29;100;99;99;62;10;1;9;13;15;18,task:7;informational:42;navigational:4;commercial:30;transactional:17
+Pièces et pièces détachées Frigidaire,15,38,3;6;4;7;3;7;5;70;100;2;2;2,task:3;informational:39;navigational:28;commercial:26;transactional:4
+Limpieza y mantenimiento de refrigeradores,17,176,80;75;68;59;43;43;100;82;82;48;60;47,task:4;informational:81;navigational:5;commercial:6;transactional:4
+Frigidaire Appliance Parts and Accessories,15,253,21;18;18;17;18;32;19;39;100;72;7;5,task:1;informational:45;navigational:33;commercial:11;transactional:10
+Commercial and Laboratory Refrigerator Freezer Combos,19,4904,33;29;24;18;19;21;19;9;23;29;93;100,task:2;informational:27;navigational:1;commercial:61;transactional:9
+Cestos de Roupa e Organização,16,42,25;20;47;51;5;5;3;100;2;2;2;2,task:17;informational:40;navigational:7;commercial:32;transactional:4
+Galanz Appliances and Refrigerators,16,1142,38;95;100;80;100;95;94;2;2;2;40;48,task:3;informational:42;navigational:18;commercial:15;transactional:22
+Chest Freezers,27,5281,40;21;22;23;23;24;31;10;100;83;50;59,task:5;informational:38;navigational:4;commercial:30;transactional:23
+Refrigeration and Cooling Mechanisms,177,66119,90;88;86;84;82;82;82;85;91;91;93;100,task:2;informational:79;navigational:8;commercial:8;transactional:3
+Culinária Brasileira,18,467,80;86;81;100;77;84;80;96;100;100;100;100,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Electrodomésticos y Muebles en Curazao,15,841,52;62;65;91;78;51;17;100;53;43;54;72,task:4;informational:28;navigational:39;commercial:24;transactional:5
+Caneleiras de Peso e Inglesas,16,89,23;24;12;100;100;8;8;14;8;8;8;8,task:2;informational:51;navigational:10;commercial:18;transactional:19
+Ice Maker and Freezer Functionality,88,9684,65;68;71;79;84;80;78;100;88;77;77;77,task:1;informational:79;navigational:5;commercial:11;transactional:4
+Dyson no Brasil,16,151,76;86;71;88;88;100;90;84;80;55;55;55,task:5;informational:25;navigational:33;commercial:32;transactional:5
+Freezimer Ice Makers,16,138,63;100;57;50;34;31;30;35;24;30;31;29,task:1;informational:56;navigational:9;commercial:31;transactional:3
+Frigidaire FFHT2045VW,15,232,14;17;34;53;13;15;13;100;70;13;32;63,task:3;informational:61;navigational:24;commercial:9;transactional:3
+countertop refrigeration appliances,19,359,78;57;59;55;56;99;57;48;97;100;46;47,task:3;informational:41;navigational:4;commercial:36;transactional:16
+Ice Makers and Parts,17,2687,43;9;14;15;24;18;18;4;73;100;51;56,task:1;informational:56;navigational:8;commercial:27;transactional:8
+brigadeirão receitas e dicas,16,191,98;100;92;90;98;98;99;59;54;55;55;55,task:5;informational:77;navigational:5;commercial:8;transactional:5
+Cajas Térmicas y Enfriadoras,15,594,8;8;10;20;19;12;41;100;67;81;60;61,task:7;informational:44;navigational:7;commercial:20;transactional:22
+roupa de mesa e acessórios,16,931,5;4;5;100;100;39;53;20;13;50;38;68,task:7;informational:30;navigational:5;commercial:43;transactional:15
+pan congelado para padaria e supermercado,17,386,17;17;17;16;100;98;30;22;21;21;23;24,task:3;informational:40;navigational:4;commercial:27;transactional:26
+LG Side-by-Side Refrigerators,19,4953,25;17;20;19;50;51;32;48;33;34;82;100,task:2;informational:62;navigational:10;commercial:12;transactional:14
+Heladerías Santa Rita,16,2933,1;16;2;2;39;49;38;51;41;80;95;100,task:7;informational:11;navigational:60;commercial:17;transactional:5
+emileexo e emelliexo nude,15,1054,83;68;56;43;43;85;67;100;87;67;38;38,task:40;informational:34;navigational:4;commercial:18;transactional:4
+Thermador T24IF905SP Refrigerator,15,58,100;51;26;25;27;24;24;23;22;23;28;35,task:3;informational:54;navigational:18;commercial:8;transactional:17
+Serviços e Atividades,15,172,70;69;87;100;11;11;11;15;31;24;24;24,task:10;informational:73;navigational:6;commercial:7;transactional:4
+bachelor fridge,15,13547,33;16;27;24;20;23;16;16;58;57;80;100,task:10;informational:47;navigational:4;commercial:28;transactional:11
+Country Freezers and Ice Cream Freezers,15,437,43;46;63;35;67;68;56;86;100;16;28;12,task:7;informational:39;navigational:23;commercial:23;transactional:8
+Refrigerator Combos and Appliances,15,485,76;57;70;57;57;56;37;85;100;9;7;8,task:10;informational:60;navigational:5;commercial:18;transactional:7
+Cafeteiras Philips Walita,15,52,52;14;15;14;34;41;100;92;50;11;14;12,task:3;informational:41;navigational:10;commercial:41;transactional:5
+LG Ice Plus Mini Freezers,17,10486,10;24;23;5;20;32;26;6;5;73;55;100,task:2;informational:73;navigational:10;commercial:10;transactional:5
+Réfrigérateurs Frigidaire EFR492,15,4556,2;6;10;8;8;3;3;1;65;100;68;97,task:3;informational:63;navigational:12;commercial:12;transactional:10
+Refrigeradores en Amazon y Mercado Libre,16,1360,23;49;36;8;35;40;36;92;76;100;69;72,task:3;informational:18;navigational:42;commercial:15;transactional:22
+Divisórias de Ambientes e Quartos,16,269,30;27;26;49;47;48;100;88;92;40;40;40,task:5;informational:43;navigational:4;commercial:34;transactional:14
+cooler for groceries,15,1199,64;32;34;33;27;27;34;80;100;32;23;37,task:3;informational:30;navigational:11;commercial:46;transactional:10
+Casacos e Blusões,16,104,64;35;35;23;100;71;48;43;38;7;7;7,task:5;informational:44;navigational:9;commercial:30;transactional:12
+Koler og Kølere,17,107,93;87;91;100;82;83;83;89;88;88;87;88,task:3;informational:59;navigational:19;commercial:11;transactional:8
+GE Side-by-Side Refrigerators,31,6277,21;22;24;24;23;23;22;25;84;61;83;100,task:5;informational:46;navigational:7;commercial:35;transactional:7
+Productos congelados para hostelería y distribución,19,1644,100;96;95;94;94;68;54;72;69;68;68;71,task:8;informational:44;navigational:4;commercial:36;transactional:8
+Panasonic Refrigerators and Freezers,19,2566,15;20;32;32;18;51;52;6;72;94;72;100,task:3;informational:31;navigational:11;commercial:30;transactional:25
+Popsicle Freezers and Displays,15,2911,12;14;13;13;82;93;50;61;7;4;72;100,task:5;informational:52;navigational:3;commercial:25;transactional:15
+Futuristic and Bio Refrigerators,21,17385,26;18;16;13;13;20;18;83;61;67;46;100,task:2;informational:59;navigational:5;commercial:26;transactional:8
+Refrigerator Synonyms and Slang,21,217,24;56;100;84;32;29;33;30;30;30;34;33,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Frigidaire FFTR2045VW Refrigerator,17,4592,3;13;18;16;9;7;16;2;5;7;96;100,task:3;informational:58;navigational:18;commercial:12;transactional:9
+Quebra-Gelo em Células e Grupos,22,501,30;97;100;89;78;78;78;82;31;31;30;31,task:20;informational:53;navigational:9;commercial:10;transactional:8
+LG冰箱相关信息,15,2411,82;64;77;45;48;51;60;75;76;89;75;100,task:3;informational:55;navigational:18;commercial:11;transactional:13
+冰淇淋机,17,301,28;61;51;44;49;37;16;100;73;44;30;35,task:10;informational:57;navigational:5;commercial:18;transactional:10
+Frigidaire FFRH0822R1 Refrigerator Model,15,1964,3;2;3;3;2;4;3;3;5;100;76;85,task:3;informational:70;navigational:12;commercial:12;transactional:3
+frigidaire refrigerator model fmbs2227ab,16,36,10;12;15;25;57;17;10;100;100;9;9;11,task:3;informational:50;navigational:39;commercial:5;transactional:3
+Automação Residencial,18,563,88;64;64;75;94;100;52;67;63;52;44;50,task:8;informational:67;navigational:5;commercial:15;transactional:5
+frigobares Indurama en Perú,16,1176,79;70;70;100;100;100;66;75;75;78;74;78,task:2;informational:48;navigational:18;commercial:28;transactional:4
+Home Depot Refrigerators and Freezers,19,9816,94;56;62;58;53;52;55;52;65;72;92;100,informational:32;navigational:32;commercial:18;transactional:18
+Peças e componentes de máquinas agrícolas e ferramentas,17,51,75;77;52;50;100;88;79;53;52;50;54;55,task:3;informational:52;navigational:5;commercial:18;transactional:22
+Refrigeration and Cold Storage Panels,35,2502,45;37;37;42;53;55;61;90;100;99;94;96,task:8;informational:44;navigational:5;commercial:27;transactional:16
+Midea Freezers,17,7382,11;13;14;13;11;12;11;6;13;13;94;100,task:2;informational:40;navigational:9;commercial:13;transactional:36
+Tên do Grupo: Tên của nhóm,15,237,89;100;31;29;29;17;41;3;3;3;10;12,task:30;informational:11;navigational:21;commercial:10;transactional:28
+Spanish Vocabulary: Refrigerator in English,17,142,76;100;84;71;36;36;36;46;22;22;22;22,task:32;informational:58;navigational:3;commercial:5;transactional:2
+GE Chest Freezers,29,9628,19;20;20;22;36;37;35;24;69;42;95;100,task:7;informational:44;navigational:2;commercial:37;transactional:10
+Paneles y Panel Frigorífico,16,102,50;64;50;49;49;50;100;50;49;49;49;49,task:3;informational:71;navigational:4;commercial:18;transactional:4
+Doces de Leite,22,804,61;65;75;78;87;87;84;93;100;100;100;100,task:8;informational:72;navigational:8;commercial:10;transactional:2
+Deep Freezers 3.5 Cu Ft,27,7512,27;26;25;26;25;26;34;24;32;30;96;100,task:2;informational:44;navigational:9;commercial:32;transactional:13
+nostalgia mini fridges,17,11160,39;31;23;23;35;30;36;1;76;81;81;100,task:3;informational:39;navigational:12;commercial:21;transactional:25
+Frigidaire 22.6 cu ft Refrigerator,15,13563,6;4;3;3;3;5;4;1;7;21;19;100,task:3;informational:53;navigational:18;commercial:19;transactional:7
+Impressoras Portáteis e Térmicas,16,1276,23;24;44;39;55;100;64;68;55;58;75;87,task:4;informational:55;navigational:4;commercial:31;transactional:6
+abraçadeiras de metal e aço inox,16,767,14;17;34;32;41;23;23;64;48;45;77;100,task:5;informational:50;navigational:7;commercial:26;transactional:12
+Idylis Freezers,16,12240,12;12;16;13;37;41;28;66;100;95;66;94,task:3;informational:39;navigational:32;commercial:22;transactional:4
+Maquinas de Cortar Cabelo JRL,15,20,3;4;100;74;74;6;7;6;20;28;6;6,task:3;informational:18;navigational:38;commercial:27;transactional:14
+GE and Similar Brand Refrigerators,16,10879,18;10;15;16;20;17;16;3;64;67;84;100,task:3;informational:45;navigational:11;commercial:29;transactional:12
+Bares e Restaurantes Brasileiros,15,659,31;100;88;94;51;46;45;49;40;83;72;70,task:3;informational:54;navigational:12;commercial:12;transactional:19
+Estufas y Hornos Frigidaire,17,190,8;71;100;75;69;62;14;9;13;15;13;13,task:3;informational:35;navigational:31;commercial:15;transactional:16
+冷藏冷冻柜,18,906,19;70;100;93;94;68;58;12;13;73;67;34,task:2;informational:68;navigational:5;commercial:17;transactional:8
+Trituradores e Batedores de Alho,15,332,100;23;24;40;40;24;6;50;28;17;15;17,task:7;informational:53;navigational:2;commercial:18;transactional:20
+Armas de Gel e Bolinha,15,89,16;16;11;10;7;7;9;97;100;6;6;6,task:6;informational:54;navigational:6;commercial:23;transactional:11
+Fridge Control and Management,18,4456,55;40;45;42;38;45;49;100;76;64;46;87,task:7;informational:54;navigational:4;commercial:24;transactional:11
+Frigidaire 17 Cubic Foot Refrigerator Model FRQG1721AV,16,11270,1;1;1;2;2;7;5;4;3;14;12;100,task:3;informational:55;navigational:18;commercial:20;transactional:4
+Freezer and Refrigerator Repair & Maintenance,20,2948,18;21;49;48;39;22;21;51;18;18;87;100,task:8;informational:55;navigational:4;commercial:20;transactional:13
+Frigidaire Counter Depth Refrigerator GRFC2353AF,16,1944,18;17;24;30;28;18;20;17;30;43;95;100,task:2;informational:38;navigational:14;commercial:26;transactional:20
+Metalfrio Refrigerators and Parts,16,53,6;6;6;6;7;14;9;100;28;37;33;5,task:3;informational:41;navigational:26;commercial:11;transactional:19
+Fechaduras Eletrônicas e Digitais,19,2010,27;19;24;20;20;11;100;8;11;9;67;96,task:3;informational:45;navigational:3;commercial:31;transactional:18
+Baterias de Gel para Veículos e Painéis Solares,17,362,19;19;20;19;19;19;50;62;96;100;48;48,task:2;informational:55;navigational:2;commercial:32;transactional:9
+Electrodomésticos Thermador,15,2372,4;5;3;3;4;3;3;3;3;3;98;100,task:7;informational:52;navigational:8;commercial:18;transactional:15
+Abridores elétricos de vinho,15,979,21;14;50;64;76;11;10;100;36;52;82;55,task:5;informational:41;navigational:2;commercial:38;transactional:14
+Frigidaire FCFG3083AS Refrigerator Model,15,5838,4;5;5;5;5;4;10;2;4;4;83;100,task:7;informational:63;navigational:4;commercial:19;transactional:7
+Doces de Goiaba,19,527,21;18;19;100;100;100;99;57;59;43;43;43,task:10;informational:73;navigational:5;commercial:10;transactional:2
+Koelkasten en Koelvriescombinaties,18,2837,47;28;37;44;66;33;19;64;40;98;84;100,task:5;informational:38;navigational:3;commercial:42;transactional:12
+Frestec Mini Fridge,17,88,57;61;100;71;47;29;24;23;22;21;22;20,task:2;informational:55;navigational:10;commercial:15;transactional:18
+King Fridge,17,4699,34;29;51;46;44;30;23;1;68;77;73;100,task:5;informational:41;navigational:27;commercial:24;transactional:3
+gaufrier,16,411,6;6;37;51;100;42;30;39;87;94;41;39,task:1;informational:63;navigational:4;commercial:26;transactional:6
+Materiais Elétricos,17,20172,3;3;11;9;10;12;10;6;24;23;18;100,task:2;informational:30;navigational:11;commercial:45;transactional:12
+Pornografia Incestuosa Mãe e Filho,15,3943,46;49;45;57;57;57;39;7;7;95;73;100,task:7;informational:44;navigational:28;commercial:11;transactional:10
+Ferramentas e Ferramentaria,17,4154,12;12;12;12;19;39;33;15;15;74;61;100,task:2;informational:55;navigational:12;commercial:27;transactional:4
+domestic fridge market,17,2563,100;67;73;63;36;60;41;92;74;84;69;85,task:2;informational:71;navigational:5;commercial:8;transactional:14
+Frigidaire FFHT1822UW Refrigerator,16,142,9;10;17;17;23;13;7;6;75;100;7;7,task:1;informational:62;navigational:24;commercial:12;transactional:1
+Porta Joias e Organizadores,16,1368,41;28;41;50;50;22;48;100;97;65;68;87,task:3;informational:27;navigational:31;commercial:25;transactional:14
+Réfrigérateurs Américains,16,2963,40;28;52;53;94;81;42;98;75;100;77;100,task:3;informational:42;navigational:3;commercial:44;transactional:8
+frigidaire appliance model gcws2438af,15,93,32;32;50;42;100;50;37;34;42;44;77;83,task:1;informational:40;navigational:53;commercial:5;transactional:1
+Electrolux Appliances and Models,16,2709,35;16;50;46;46;61;11;3;10;20;82;100,task:3;informational:62;navigational:12;commercial:12;transactional:11
+Expressões Informais e Gírias,15,129,99;100;99;99;93;95;92;92;35;33;33;33,task:12;informational:70;navigational:4;commercial:5;transactional:9
+Iluminação para Closet,15,2910,9;23;90;78;68;39;26;52;91;100;50;72,task:3;informational:47;navigational:5;commercial:21;transactional:24
+Vidro e Vidros,17,3544,100;87;100;87;81;81;82;60;60;60;59;60,task:2;informational:67;navigational:8;commercial:12;transactional:11
+Conserto de Máquinas de Lavar,15,626,14;14;15;90;30;100;72;14;14;71;75;90,task:15;informational:41;navigational:2;commercial:10;transactional:32
+Freezing Containers and Equipment,20,547,33;34;35;57;67;63;57;100;70;67;58;64,task:8;informational:51;navigational:14;commercial:21;transactional:6
+Thermador CIT367YG Refrigerator,16,33,4;4;75;85;91;100;68;33;6;6;7;7,informational:68;navigational:18;commercial:12;transactional:2
+Coldtainer Refrigeration Solutions,16,43,7;7;100;79;77;8;69;9;9;9;9;9,task:1;informational:27;navigational:50;commercial:8;transactional:14
+Enxoval de Bebê,22,1462,72;71;75;83;88;100;90;93;98;97;83;89,task:10;informational:54;navigational:4;commercial:26;transactional:6
+Escovas de Dente Elétricas,17,214,100;88;74;20;20;15;61;100;67;53;50;9,task:3;informational:41;navigational:10;commercial:35;transactional:11
+Absocold Refrigeration and Mini Fridges,21,1062,18;19;50;78;100;86;70;45;72;74;69;72,task:2;informational:38;navigational:22;commercial:21;transactional:17
+Frigidaire Air Conditioners and Appliances,17,6242,7;25;21;18;19;18;5;1;6;7;99;100,task:3;informational:43;navigational:17;commercial:29;transactional:8
+Painéis de LED e Iluminação Digital,15,311,35;21;22;26;20;53;92;67;51;100;66;38,task:2;informational:36;navigational:3;commercial:48;transactional:11
+Electrolux Refrigerators and Freezers,40,5405,42;37;38;99;99;100;100;45;36;36;63;72,task:2;informational:41;navigational:10;commercial:24;transactional:23
+Chuveiros Elétricos e de Parede,18,271,12;13;15;49;100;92;82;41;17;13;13;13,task:2;informational:58;navigational:4;commercial:31;transactional:5
+Refrigerators 13.9 cu ft Frigidaire Models,16,6798,17;6;6;6;6;6;14;9;54;57;86;100,task:2;informational:58;navigational:7;commercial:29;transactional:4
+Esfiha e Receitas Brasileiras,24,821,47;45;75;100;66;68;53;30;27;26;26;26,task:2;informational:80;navigational:6;commercial:8;transactional:4
+Refrigerator Cleaning and Buying Tips,15,690,100;59;88;77;77;4;2;39;38;29;21;22,task:3;informational:52;navigational:16;commercial:18;transactional:11
+Refrigerators with Craft Ice,35,6309,100;82;59;61;67;65;65;47;77;75;80;76,task:2;informational:50;navigational:2;commercial:33;transactional:13
+Zerofeud e Acessórios Compactos,15,103,19;100;52;45;18;18;21;14;14;14;14;14,task:10;informational:26;navigational:28;commercial:17;transactional:19
+Limpeza e Higienização de Ar Condicionado,17,154,88;100;89;93;92;93;87;87;88;87;87;87,task:12;informational:65;navigational:3;commercial:5;transactional:15
+Refrigerator and Freezer Temperature Issues,23,1438,24;22;23;21;21;18;18;100;20;19;19;20,task:2;informational:78;navigational:5;commercial:12;transactional:3
+Saunas e Tendas Morzh,15,62,23;21;15;14;15;100;19;13;14;14;14;14,task:3;informational:26;navigational:41;commercial:8;transactional:22
+Cafe and GE Side-by-Side Refrigerators,15,195,11;73;100;82;82;70;84;7;10;11;10;10,task:3;informational:36;navigational:8;commercial:34;transactional:19
+Compact Refrigerators and Outdoor Grills,15,2783,1;1;5;6;1;2;24;1;4;4;80;100,task:1;informational:51;navigational:4;commercial:32;transactional:12
+frigidaire upright freezers,59,5341,86;87;85;87;99;100;98;100;100;87;88;88,task:2;informational:38;navigational:15;commercial:25;transactional:20
+Climatiseurs Frigidaire Fhwc064wb1,15,671,16;13;21;15;4;5;3;84;60;100;70;66,task:1;informational:32;navigational:39;commercial:22;transactional:6
+montagem de móveis,16,1324,18;13;12;35;35;31;26;15;16;86;72;100,task:10;informational:62;navigational:5;commercial:8;transactional:15
+Vevor Refrigerators and Coolers,23,1901,100;97;98;91;81;82;82;77;83;82;85;82,task:6;informational:34;navigational:22;commercial:21;transactional:17
+Mesas de Cabeceira,15,4994,33;26;8;7;7;14;22;2;20;24;77;100,task:3;informational:46;navigational:4;commercial:33;transactional:14
+Sears Freezers,16,447,40;39;52;72;44;32;100;16;46;44;29;32,task:8;informational:40;navigational:16;commercial:15;transactional:21
+Lowes Frigidaire Appliances,15,13003,34;14;20;18;20;18;13;3;100;76;44;45,task:4;informational:17;navigational:40;commercial:12;transactional:27
+Lego Mini Fridge Collectibles,15,745,26;63;42;73;59;25;26;26;69;100;73;77,task:3;informational:58;navigational:4;commercial:28;transactional:7
+Criados Mudos,16,251,25;25;25;37;38;40;52;100;94;23;23;23,task:5;informational:57;navigational:5;commercial:21;transactional:12
+LG Top Freezer Refrigerators,21,2040,36;36;37;40;41;49;42;52;79;100;52;53,task:2;informational:51;navigational:9;commercial:34;transactional:4
+Discos de Arado para Cozinhar e Agricultura,15,62,36;35;34;23;23;23;100;22;19;19;18;19,task:2;informational:56;navigational:2;commercial:36;transactional:4
+Angeloni Supermercados,15,29,9;16;10;10;49;100;65;26;26;3;3;3,task:3;informational:18;navigational:53;commercial:11;transactional:15
+Réfrigérateurs Frigidaire EFR323,15,3404,8;25;52;44;16;14;12;1;4;8;87;100,task:7;informational:53;navigational:18;commercial:12;transactional:10
+Panelas elétricas de arroz,17,1482,18;21;24;25;25;14;49;11;14;13;79;100,task:3;informational:44;navigational:2;commercial:37;transactional:14
+Luminárias de Mesa,15,4469,24;14;13;8;61;32;22;24;24;26;78;100,task:3;informational:53;navigational:4;commercial:32;transactional:8
+Insignia Freezers and Refrigerators,18,122,10;18;42;45;34;21;100;5;13;14;17;13,task:3;informational:43;navigational:22;commercial:20;transactional:12
+Ice Makers for Home Use,15,218,67;59;60;32;37;51;55;100;3;4;5;8,task:3;informational:35;navigational:7;commercial:47;transactional:8
+Grista Refrigeration and Freezers,19,114,31;98;100;77;35;37;35;47;50;82;42;40,task:1;informational:44;navigational:35;commercial:12;transactional:8
+Ice Lined Refrigerators in Medical and Laboratory Equipment,16,1073,46;33;27;38;35;55;53;35;30;100;65;30,task:8;informational:53;navigational:4;commercial:31;transactional:4
+Forminhas para Doces Finos e Brigadeiro,17,756,54;58;54;28;28;26;26;100;100;99;97;98,task:2;informational:48;navigational:9;commercial:29;transactional:12
+Refrigeración líquida para PC,17,601,37;42;97;64;64;36;18;100;60;62;41;42,task:5;informational:46;navigational:4;commercial:39;transactional:6
+Refrigerators with Ice Makers,144,42335,63;64;64;90;85;85;84;94;99;100;93;93,task:5;informational:38;navigational:4;commercial:43;transactional:10
+ثلاجات وفريزرات,16,452,70;6;7;5;9;32;47;82;100;12;11;13,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Refrigeradores usados en venta,16,508,34;30;30;9;12;14;14;52;100;46;16;10,task:10;informational:12;navigational:3;commercial:47;transactional:28
+Esteiras de Academia e Exercício,19,363,53;95;54;87;96;100;96;61;64;64;60;74,task:3;informational:60;navigational:4;commercial:25;transactional:8
+Commercial Freezers and Refrigeration Equipment,21,1369,72;78;88;80;91;95;96;92;100;98;90;91,task:8;informational:30;navigational:3;commercial:41;transactional:18
+Frigidaire Appliance Parts and Filters,16,1638,6;6;97;85;100;48;6;2;2;2;62;77,task:3;informational:47;navigational:39;commercial:8;transactional:3
+Refrigeradoras en Honduras,18,3402,44;28;33;38;36;32;29;49;28;79;67;100,task:2;informational:59;navigational:5;commercial:26;transactional:8
+Liquidificadores Ninja no Brasil,18,370,70;32;32;43;82;81;100;46;50;45;46;45,task:2;informational:38;navigational:5;commercial:50;transactional:5
+Frigidaire Microwaves and Appliances,81,13046,69;73;79;78;80;77;77;75;100;100;75;76,task:2;informational:38;navigational:15;commercial:27;transactional:18
+Bebbia e Bebbia Juncea,15,49,14;15;8;7;7;48;38;85;100;10;3;2,task:7;informational:70;navigational:12;commercial:3;transactional:8
+Roupas femininas de inverno,17,560,38;32;28;30;100;32;31;98;58;53;46;39,task:3;informational:37;navigational:3;commercial:48;transactional:9
+Koolatron Freezers,15,10719,6;16;18;16;31;25;18;31;51;58;84;100,task:2;informational:32;navigational:14;commercial:37;transactional:15
+Refrigerator and Freezer Temperature Monitoring,171,37635,39;37;38;46;56;56;56;80;100;100;100;100,task:8;informational:54;navigational:2;commercial:30;transactional:6
+Ventiladores con hielo y aire frío,16,4156,2;9;5;4;4;6;2;2;2;2;76;100,task:3;informational:48;navigational:4;commercial:31;transactional:14
+LG Kühlschrank Modelle,15,4156,25;22;33;21;22;11;8;26;9;11;13;100,task:3;informational:80;navigational:5;commercial:9;transactional:3
+frigidaire freezer defrosting,26,647,98;95;100;95;94;95;94;87;90;96;88;90,task:8;informational:62;navigational:7;commercial:16;transactional:7
+Refrigeradoras en Guatemala,19,794,25;24;25;91;100;78;78;40;42;62;60;87,task:2;informational:54;navigational:4;commercial:26;transactional:14
+Cozinha das Flores,15,150,7;100;56;69;64;66;54;5;5;5;9;10,task:3;informational:45;navigational:33;commercial:8;transactional:11
+Frigidaire GCRE3060BF Refrigerator Model,17,9857,3;2;3;3;4;3;7;2;36;38;100;100,task:3;informational:47;navigational:18;commercial:16;transactional:16
+Balanças e suas traduções e usos,17,1495,31;30;44;65;66;68;70;50;93;96;95;100,task:3;informational:63;navigational:5;commercial:10;transactional:19
+Frio Coolers and Ice Chests,16,201,38;38;100;79;82;57;48;13;10;11;12;47,task:10;informational:21;navigational:25;commercial:18;transactional:26
+Sacos e Estojos de Garrafas,15,65,26;23;93;67;90;100;86;9;11;12;9;9,task:5;informational:18;navigational:2;commercial:33;transactional:42
+Electrodomésticos para Cocina,16,738,33;23;23;21;32;32;7;100;89;36;31;37,task:2;informational:50;navigational:4;commercial:33;transactional:11
+Frigidaire Freezer Troubleshooting and Parts,24,2196,31;32;31;45;48;100;83;100;97;97;98;99,task:10;informational:74;navigational:3;commercial:9;transactional:4
+Electrodomésticos Thermador T24UR905DP,15,75,35;41;49;47;54;52;43;100;48;52;60;99,task:3;informational:56;navigational:12;commercial:12;transactional:17
+Leiturinha e Livraria Leiturinha,15,31,92;100;100;89;89;89;89;92;89;89;89;89,informational:18;navigational:67;commercial:10;transactional:5
+Equipamentos de Academia e Exercícios em Casa,27,921,87;79;80;86;86;82;82;94;99;100;100;100,task:2;informational:55;navigational:5;commercial:27;transactional:11
+LG LRYKS3106S Refrigerator,15,6414,7;8;27;21;22;16;11;1;12;13;81;100,task:3;informational:56;navigational:12;commercial:12;transactional:17
+Cômodas Castanho e Camaflexi,15,10167,16;15;34;33;31;34;24;23;35;39;86;100,task:3;informational:22;navigational:48;commercial:16;transactional:11
+Frigidaire FFHT1835VB Refrigerator,15,102,5;22;26;27;27;24;15;71;100;5;5;5,task:7;informational:43;navigational:25;commercial:14;transactional:11
+Cadeiras e Mesas de Jantar,15,1977,16;34;37;15;15;34;40;79;69;98;81;100,task:3;informational:40;navigational:4;commercial:39;transactional:14
+Kühlschrankmodelle und Ersatzteile,23,1240,62;69;71;71;53;41;42;48;82;100;37;38,task:7;informational:57;navigational:2;commercial:30;transactional:4
+Macchine da caffè Nespresso U e D50,16,175,5;5;76;73;73;31;18;100;7;9;9;10,informational:72;navigational:5;commercial:18;transactional:5
+Wooden Refrigerators and Mini Fridges,15,9700,3;15;34;28;23;44;31;2;56;60;82;100,task:7;informational:51;navigational:4;commercial:29;transactional:9
+Freezers and Their Types,31,1151,82;72;100;28;28;28;28;26;100;24;24;24,task:2;informational:69;navigational:5;commercial:21;transactional:3
+Refrigerator Deals and Offers,17,5140,100;81;76;74;72;70;31;91;61;91;81;99,task:2;informational:24;navigational:15;commercial:40;transactional:19
+Garotas e Cultura,17,3282,33;32;28;31;31;43;37;68;66;100;84;100,task:7;informational:73;navigational:6;commercial:9;transactional:5
+Refrigerantes y gases para aire acondicionado y refrigeradores,23,679,28;31;35;56;44;48;47;58;100;73;56;47,task:2;informational:65;navigational:5;commercial:17;transactional:11
+Frigidaire Refrigerator Model Parts and Manuals,19,329,34;32;28;74;28;45;34;100;70;74;75;76,task:2;informational:65;navigational:10;commercial:15;transactional:8
+IDOS e suas variações,18,1586,27;27;27;24;24;24;23;100;80;31;28;31,task:8;informational:60;navigational:2;commercial:13;transactional:17
+Pizzas Congeladas,16,45,98;100;66;74;91;90;98;12;71;54;14;13,task:7;informational:32;navigational:3;commercial:46;transactional:12
+Electrolux Freezers and Commercial Freezers,15,301,8;48;49;46;8;8;81;6;87;100;19;22,task:3;informational:52;navigational:11;commercial:19;transactional:15
+Frigidaire Gallery Refrigerators,46,18191,33;34;37;36;37;36;37;63;67;72;91;100,task:2;informational:47;navigational:15;commercial:21;transactional:15
+Frigidaire Refrigerator Model Support,17,237,19;18;100;90;92;12;11;11;7;7;7;8,task:2;informational:68;navigational:15;commercial:12;transactional:3
+Refrigerator Brand Comparisons,85,15496,95;87;87;85;86;88;86;88;92;95;94;100,task:3;informational:45;navigational:4;commercial:44;transactional:4
+car and portable mini fridges,16,372,30;25;24;23;21;19;100;13;13;13;50;46,task:3;informational:40;navigational:4;commercial:39;transactional:14
+Vintage and Retro Freezers,18,1146,45;10;42;35;100;100;60;3;3;3;36;55,task:7;informational:59;navigational:2;commercial:26;transactional:6
+Refrigeradoras en El Salvador,16,5208,18;12;14;24;30;19;19;68;37;35;33;100,task:7;informational:46;navigational:4;commercial:32;transactional:11
+Midea Compact Refrigerators,15,10018,1;1;4;3;3;12;17;7;31;41;86;100,task:5;informational:68;navigational:2;commercial:18;transactional:7
+Bodega Coolers and Refrigerators,23,765,86;99;100;48;48;45;40;44;46;46;45;46,task:5;informational:50;navigational:7;commercial:26;transactional:12
+11.5 Cubic Foot Refrigerators,16,4424,14;5;4;6;36;41;24;3;33;39;84;100,task:10;informational:43;navigational:4;commercial:30;transactional:13
+Férias com o Ex Diretoria,15,735,18;25;17;17;69;64;29;15;36;100;78;93,task:10;informational:67;navigational:5;commercial:11;transactional:7
+Blusas femininas de frio,15,893,30;14;13;14;84;40;28;31;100;82;37;42,task:3;informational:28;commercial:60;transactional:9
+Ice Maker Appliances,15,97,99;62;80;100;77;5;56;8;8;4;4;4,task:7;informational:68;navigational:5;commercial:15;transactional:5
+Babá eletrônica Taktark,15,17,15;13;100;65;6;6;5;3;7;8;3;3,task:7;informational:37;navigational:18;commercial:24;transactional:14
+Réfrigérateurs Frigidaire GCRE3060AF,17,8470,3;3;3;3;13;16;9;9;9;10;9;100,task:2;informational:65;navigational:15;commercial:10;transactional:8
+Caixas para Brigadeiro,15,239,10;10;10;9;9;13;48;100;68;41;28;50,task:6;informational:30;navigational:5;commercial:32;transactional:27
+Lixadeiras Elétricas e Orbital,15,530,8;7;100;90;41;72;54;46;63;79;27;61,task:7;informational:44;navigational:5;commercial:19;transactional:25
+Dolce & Gabbana Refrigerator,15,264,100;63;13;13;28;23;18;9;8;9;6;12,task:3;informational:39;navigational:3;commercial:47;transactional:8
+Lixeiras para Banheiro,15,3306,4;18;21;21;21;46;64;85;55;82;67;100,task:3;informational:42;navigational:1;commercial:43;transactional:11
+Frullatori e Elettrodomestici da Cucina,16,2222,16;12;13;12;100;53;36;93;68;100;86;81,task:3;informational:35;navigational:3;commercial:47;transactional:12
+Frigidarium e Gelato a Roma,18,1220,100;70;69;68;69;69;69;66;66;45;45;44,task:2;informational:73;navigational:10;commercial:10;transactional:5
+Refrigerators with Bottom Freezer and Specific Models,21,2144,65;22;66;73;53;55;43;14;94;100;45;61,task:8;informational:48;navigational:5;commercial:22;transactional:17
+frigidaire dryers,20,3515,18;34;10;10;14;17;38;8;39;15;87;100,task:3;informational:35;navigational:18;commercial:19;transactional:25
+Medidores de Pressão Arterial,19,304,73;47;36;54;72;65;86;100;8;8;8;9,task:5;informational:41;navigational:4;commercial:41;transactional:9
+Frigidaire FFHT2022AS Refrigerator,15,7292,2;2;2;6;5;3;2;2;2;37;33;100,task:3;informational:60;navigational:18;commercial:15;transactional:4
+Patinação no Gelo,29,4452,31;13;14;58;69;69;74;65;67;100;87;88,task:10;informational:72;navigational:4;commercial:6;transactional:8
+Appareils électroménagers et outils de cuisine,16,235,1;4;14;15;14;15;13;19;76;100;8;8,task:10;informational:39;navigational:1;commercial:44;transactional:6
+Galanz Freezers and Refrigerators,21,630,100;68;62;64;58;59;69;33;37;41;68;77,task:3;informational:43;navigational:10;commercial:26;transactional:18
+frigidaire retro mini fridges,15,2470,10;15;9;8;5;3;1;38;96;100;31;29,task:1;informational:35;navigational:18;commercial:23;transactional:23
+Frigidaire Gmos1964af Appliances,15,790,31;48;72;78;50;60;66;26;45;50;98;100,task:3;informational:45;navigational:40;commercial:7;transactional:5
+Frigidaire Refrigerator Model FRFN2823AS,16,1826,3;3;6;13;10;3;24;2;2;8;89;100,task:1;informational:53;navigational:33;commercial:8;transactional:5
+Morango e Derivados,17,935,75;88;88;88;97;100;96;52;52;66;59;42,task:2;informational:68;navigational:5;commercial:10;transactional:15
+Réfrigérateurs Frigidaire FCFE2425AS,15,163,28;29;34;40;40;32;32;70;84;31;91;100,task:3;informational:57;navigational:35;commercial:5
+Produtos de Limpeza e Higiene,17,3287,26;22;19;23;22;23;22;23;22;100;85;89,task:2;informational:50;navigational:4;commercial:38;transactional:6
+Midea Freezers and Refrigeration,30,8938,39;37;36;36;37;38;35;46;76;67;97;100,task:8;informational:47;navigational:5;commercial:24;transactional:16
+Energia elétrica e eletricidade,20,458,77;85;80;62;55;55;100;59;41;41;45;47,task:2;informational:70;navigational:5;commercial:13;transactional:10
+frigidaire refrigerator model efrrf5003,16,284,27;70;100;75;72;20;58;9;33;36;32;51,task:3;informational:47;navigational:39;commercial:8;transactional:3
+Gelato e Dolci a Lisbona,15,105,13;15;15;14;18;100;47;13;12;12;12;12,informational:61;navigational:11;commercial:16;transactional:12
+Jarras de Água e Filtragem,17,550,100;62;81;78;75;69;77;36;45;44;45;47,task:4;informational:56;navigational:2;commercial:25;transactional:13
+Hisense Chest Freezers,28,12931,8;13;18;18;16;24;21;7;45;51;91;100,task:2;informational:46;navigational:10;commercial:34;transactional:8
+Comfee Mini Fridge and Refrigerator,15,2921,2;23;73;69;28;28;22;34;92;100;81;87,task:3;informational:46;navigational:5;commercial:24;transactional:22
+Casinhas de Cerâmica,15,27,11;10;12;38;38;100;19;11;9;7;7;7,task:3;informational:49;navigational:5;commercial:18;transactional:25
+gaming and LED mini fridges,19,2508,49;44;45;35;45;45;43;25;69;67;94;100,task:3;informational:48;navigational:11;commercial:25;transactional:13
+Churrasqueiras Brasileiras,15,19,1;1;5;4;21;29;22;36;87;100;1;1,task:3;informational:70;navigational:5;commercial:15;transactional:7
+licuadoras Delicio,16,257,13;58;54;100;94;57;46;36;36;63;61;62,task:2;informational:47;navigational:25;commercial:20;transactional:6
+Groselha e seus usos,18,104,88;91;96;99;99;100;100;100;99;98;98;98,task:3;informational:72;navigational:5;commercial:5;transactional:15
+Banheiras e Hidromassagem,17,4544,6;6;6;28;28;30;38;5;5;32;27;100,task:3;informational:49;navigational:4;commercial:31;transactional:13
+Fazer Mint,16,900,4;4;5;5;5;5;5;5;5;100;77;89,task:7;informational:48;navigational:8;commercial:19;transactional:18
+Frigidaire Mini-Fridge Troubleshooting,20,856,83;100;98;60;62;64;64;60;60;63;62;65,task:8;informational:72;navigational:5;commercial:7;transactional:8
+Aspiradores de Pó e Água,16,7139,41;31;32;29;20;33;27;16;16;16;100;100,task:3;informational:36;navigational:7;commercial:41;transactional:13
+Small Frost-Free Refrigerators,16,2619,4;36;58;49;37;14;19;100;65;72;72;80,task:4;informational:45;navigational:6;commercial:40;transactional:5
+Climatisation Frigidaire Ffre083wa1,17,2464,3;3;3;2;2;6;4;67;100;68;54;57,task:3;informational:29;navigational:38;commercial:14;transactional:16
+Frigidaire 22-Pint Dehumidifier,15,356,11;8;8;9;100;94;4;3;20;20;14;20,task:7;informational:52;navigational:11;commercial:17;transactional:13
+Réfrigérateurs Frigidaire FFHT1835VW,16,3700,1;2;2;7;1;1;1;3;3;100;72;73,task:3;informational:57;navigational:32;commercial:5;transactional:3
+Réfrigérateurs Amazon et appareils électroménagers,17,2276,100;55;56;60;60;50;47;53;33;91;67;87,informational:32;navigational:29;commercial:21;transactional:18
+Golden Refrigerators and Freezers,17,2200,6;6;28;27;37;34;16;100;51;45;65;69,task:3;informational:45;navigational:7;commercial:34;transactional:11
+Chest Freezer and Refrigerator Conversions,24,962,43;86;100;88;94;48;48;43;41;41;40;40,task:5;informational:68;navigational:4;commercial:18;transactional:5
+Midea Refrigerators,15,210,5;2;3;3;10;8;10;18;71;100;2;2,task:1;informational:43;navigational:11;commercial:27;transactional:18
+Ferro a vapor e vaporizadores de roupas,15,83,100;60;75;70;70;88;50;8;4;5;9;7,task:5;informational:49;navigational:1;commercial:25;transactional:20
+Kenwood Refrigerators and Freezers,18,1567,19;15;52;41;40;37;14;2;2;2;81;100,task:3;informational:52;navigational:4;commercial:36;transactional:5
+Haushaltsgeräte und Elektronik,15,3134,10;8;7;7;40;47;33;19;13;100;90;80,task:10;informational:64;navigational:6;commercial:15;transactional:5
+Programas y electrodomésticos Thermador,15,39,90;59;100;80;40;40;44;48;72;89;41;34,task:3;informational:55;navigational:5;commercial:12;transactional:25
+Termos relacionados a banheiros,16,244,13;92;83;100;84;80;38;8;8;8;8;8,task:8;informational:84;navigational:3;commercial:3;transactional:2
+Climatisation Frigidaire Ffre063wae,17,32,3;9;8;100;100;3;2;28;26;2;2;2,task:3;informational:42;navigational:26;commercial:12;transactional:17
+Caixas para Mudança,15,2150,2;2;2;73;73;81;56;87;90;100;68;76,task:7;informational:22;navigational:3;commercial:53;transactional:15
+Termogênicos e Emagrecedores,17,598,16;100;79;46;37;71;53;43;37;30;30;30,task:2;informational:69;navigational:2;commercial:19;transactional:8
+Heladerías Grido,17,623,28;29;63;63;68;68;100;17;49;45;45;45,task:2;informational:42;navigational:48;commercial:4;transactional:4
+Fulgor Milano Refrigerators,16,276,11;13;62;46;100;76;12;11;24;49;36;34,task:3;informational:37;navigational:18;commercial:26;transactional:16
+Amazon Freezers and Freezing Appliances,16,5972,17;31;19;18;18;13;30;40;99;100;69;83,informational:35;navigational:18;commercial:18;transactional:29
+Tvs de Grande Polegada,17,4948,58;31;38;20;20;20;24;100;91;58;49;100,task:8;informational:52;navigational:2;commercial:38
+Холодильники и их покупка,20,11409,25;22;28;24;21;15;13;2;2;98;100;97,task:5;informational:43;navigational:7;commercial:31;transactional:14
+Mesinhas de centro e decoração para salas,15,3311,9;33;6;5;5;7;4;19;39;46;62;100,task:3;informational:54;navigational:5;commercial:27;transactional:11
+Dollhouse Miniature Refrigerators,15,77,22;22;64;64;54;39;93;100;100;62;27;27,task:5;informational:52;navigational:2;commercial:24;transactional:17
+Refrigeradores y servicios para Cuba,19,2398,9;9;7;7;29;25;28;31;24;21;17;100,task:3;informational:55;navigational:4;commercial:27;transactional:11
+Thermador Refrigerators,39,8271,88;82;80;79;82;83;83;98;100;100;100;100,task:2;informational:43;navigational:7;commercial:25;transactional:23
+DeLonghi Gelato and Ice Cream Machines,19,331,44;44;22;21;23;23;100;17;17;20;44;55,task:5;informational:48;navigational:1;commercial:29;transactional:17
+Kitchen Food Prep and Storage,26,1522,78;79;78;86;100;100;91;84;85;85;86;86,task:10;informational:75;navigational:2;commercial:8;transactional:5
+Dometic Mini Fridges and Minibars,16,158,84;100;92;70;72;72;68;69;69;69;70;71,task:5;informational:54;navigational:7;commercial:15;transactional:19
+Best Buy Freezers,16,914,100;96;66;53;53;41;21;7;8;9;17;22,informational:23;navigational:18;commercial:40;transactional:19
+Granadina para helado y postres,15,168,60;53;47;64;63;36;19;15;15;48;100;37,task:7;informational:36;navigational:2;commercial:32;transactional:23
+Iceco Portable Refrigerators and Freezers,15,125,35;38;40;40;34;74;100;9;9;10;9;10,task:2;informational:32;navigational:12;commercial:18;transactional:36
+Teami Skincare Fridge,15,103,9;22;27;27;100;79;56;73;50;15;12;7,task:6;informational:31;navigational:18;commercial:26;transactional:19
+GE Refrigerator Parts and Repairs,17,101,56;63;51;33;6;100;76;33;31;7;5;6,task:17;informational:54;navigational:5;commercial:11;transactional:13
+Appareils de cuisine sous vide et hydroponie,15,2508,18;13;1;2;10;66;52;19;5;4;51;100,task:3;informational:59;navigational:4;commercial:26;transactional:8
+frigidaire garbage disposal,16,176,78;69;68;43;100;67;57;26;84;91;30;32,informational:60;navigational:22;commercial:8;transactional:10
+Frigidaire Professional Counter-Depth Refrigerators,20,6940,15;10;10;10;10;11;11;9;25;29;96;100,task:2;informational:40;navigational:9;commercial:32;transactional:17
+Vibradores e Uso Pessoal,19,413,100;30;30;27;27;27;28;13;24;23;23;23,task:2;informational:69;navigational:6;commercial:17;transactional:6
+Maquinas de Sublimação,16,107,11;13;11;9;12;14;100;36;29;12;10;16,task:10;informational:38;commercial:47;transactional:5
+Refrigerators and Appliance Codes,15,4625,21;13;13;14;33;29;21;2;14;11;75;100,task:7;informational:62;navigational:12;commercial:15;transactional:4
+Spanish for Freezer and Freezing Terms,23,845,100;41;38;30;54;55;55;36;37;37;37;37,task:8;informational:77;navigational:2;commercial:8;transactional:5
+Galaxy Refrigerators and Mini Fridges,16,9814,40;26;22;22;22;19;33;1;68;96;82;100,task:3;informational:38;navigational:7;commercial:41;transactional:11
+Cucas de Banana e Farofa,19,272,85;85;88;89;89;89;89;51;100;100;100;100,task:2;informational:80;navigational:5;commercial:8;transactional:5
+Portable Coolers and Freezers,16,360,42;40;99;89;100;79;52;61;92;96;38;51,task:3;informational:48;navigational:9;commercial:15;transactional:25
+Big Frig Coolers and Tumblers,16,1540,70;71;70;74;74;74;72;71;99;98;100;100,task:5;informational:52;navigational:22;commercial:14;transactional:7
+Lanchonetes e Restaurantes no Brasil,17,1302,17;26;23;22;74;82;28;16;50;95;100;64,task:2;informational:78;navigational:8;commercial:10;transactional:2
+Universal Refrigerators and Coolers,15,6377,47;28;25;19;6;35;22;1;47;50;60;100,task:7;informational:47;navigational:17;commercial:23;transactional:6
+Thermador Wine and Beverage Refrigeration,16,415,52;60;63;54;53;60;64;50;65;100;57;63,task:7;informational:53;navigational:7;commercial:11;transactional:22
+Compact Mini Fridges and Small Appliances,15,4450,47;38;55;48;39;42;52;2;75;90;100;89,task:10;informational:36;navigational:4;commercial:40;transactional:10
+Refrigerator and Freezer Temperature Fluctuations,28,1286,62;56;59;62;97;100;81;63;60;61;63;66,task:2;informational:82;navigational:3;commercial:8;transactional:5
+Mini Fridge Size and Reviews,16,6786,76;51;56;50;31;10;29;4;31;40;78;100,task:2;informational:39;navigational:4;commercial:47;transactional:8
+Mini Fridges (1-3.1 cu ft),18,543,16;89;100;95;26;24;97;13;15;16;18;20,task:3;informational:39;navigational:4;commercial:39;transactional:15
+Mariana Ximenes,15,294,93;98;96;47;83;100;47;41;40;31;31;31,task:5;informational:72;navigational:10;commercial:5;transactional:8
+Supera Refrigeration Equipment,18,225,17;42;35;21;21;50;45;93;100;27;28;37,task:2;informational:41;navigational:29;commercial:24;transactional:4
+Frigidaire FRSG1915AV Refrigerator,16,108,43;60;69;45;100;91;6;5;10;22;14;16,informational:47;navigational:32;commercial:18;transactional:3
+LG Studio Refrigerators,15,8136,9;30;37;31;19;23;26;4;70;75;90;100,task:3;informational:51;navigational:13;commercial:17;transactional:16
+Coolers and Blender Tech,30,8602,76;24;36;100;84;85;90;92;88;87;87;88,task:2;informational:48;navigational:5;commercial:38;transactional:7
+Refrigerator and Freezer Parts and Anatomy,19,595,42;100;98;100;65;65;65;58;47;47;47;47,task:2;informational:68;navigational:4;commercial:22;transactional:4
+Frigidaire Electric Ranges and Ovens,40,8035,35;23;25;27;43;43;46;32;98;100;68;77,informational:51;navigational:15;commercial:26;transactional:8
+GE Side-by-Side Refrigerator Manuals and Reviews,23,5763,15;11;14;15;12;20;24;33;22;22;93;100,task:2;informational:66;navigational:10;commercial:16;transactional:6
+Banheiras para Bebês e Acessórios,16,712,24;25;25;96;100;81;56;63;55;76;61;36,informational:52;navigational:3;commercial:39;transactional:6
+GE Quad Door Refrigerators,19,1263,24;14;16;16;30;24;13;8;95;100;19;23,task:2;informational:23;navigational:17;commercial:42;transactional:16
+Inter Fridge and Refrigeration Solutions,16,2009,47;37;50;51;55;40;31;97;100;17;16;46,task:4;informational:48;navigational:27;commercial:17;transactional:4
+Philips Portable Refrigerators,16,53,33;34;25;54;42;100;47;43;24;29;23;20,task:3;informational:42;navigational:12;commercial:18;transactional:25
+Sub Zero Freezer Parts and Repairs,15,77,67;75;90;85;84;72;64;47;65;100;70;66,task:2;informational:59;navigational:10;commercial:23;transactional:6
+Hieleras Coleman con Ruedas,15,2495,6;35;7;5;8;6;4;24;11;14;85;100,task:3;informational:27;navigational:41;commercial:15;transactional:14
+Bolsas y loncheras térmicas para niños y adultos,16,198,35;94;84;89;90;63;100;21;40;37;31;37,task:10;informational:43;navigational:4;commercial:36;transactional:7
+Prodotti e Servizi di Gel e Tecnologia PreGel,16,215,75;100;85;80;85;92;91;80;78;78;77;78,task:7;informational:15;navigational:56;commercial:14;transactional:8
+Clima frio em Lisboa,16,81,71;74;80;79;100;98;70;62;61;61;61;61,task:3;informational:70;navigational:5;commercial:9;transactional:13
+Hot Dog Brasileiro,26,2799,38;39;39;76;63;63;71;63;100;99;98;99,task:5;informational:70;navigational:6;commercial:10;transactional:9
+Amazon Rubbermaid Products and Fridge Logic,15,51,36;21;55;64;67;70;50;100;4;4;3;3,task:6;informational:36;navigational:23;commercial:18;transactional:17
+Frigidaire Refrigerator Troubleshooting,220,25383,97;96;96;96;96;97;97;100;100;100;100;100,task:10;informational:74;navigational:2;commercial:6;transactional:8
+Gladiator Appliances and Refrigeration,32,2819,19;17;17;18;21;22;19;22;90;100;35;35,task:2;informational:45;navigational:14;commercial:31;transactional:8
+Frigidaire French Door Refrigerators,20,456,28;27;27;25;94;85;34;23;83;100;27;27,task:5;informational:60;navigational:4;commercial:19;transactional:12
+Reidainer Food Storage Solutions,15,2188,10;21;2;4;4;2;1;8;1;1;93;100,task:7;informational:35;navigational:14;commercial:26;transactional:18
+Camiones Refrigerados y Frigoríficos,16,158,83;73;73;53;48;48;73;100;93;87;93;82,task:5;informational:73;navigational:3;commercial:15;transactional:4
+Midea Refrigerators and Freezers,20,4589,9;27;74;71;72;41;15;5;73;100;75;84,task:7;informational:54;navigational:1;commercial:26;transactional:12
+Pressurizadores de Água,16,152,84;93;72;75;85;84;84;100;93;93;97;98,task:2;informational:62;navigational:2;commercial:20;transactional:14
+Supermarket Refrigeration Equipment,16,1703,2;5;56;47;29;13;100;1;33;24;23;44,task:3;informational:61;navigational:4;commercial:28;transactional:4
+Cócteles de Margarita Congelada,20,1037,18;78;71;100;70;45;48;53;53;53;53;54,task:12;informational:71;navigational:3;commercial:10;transactional:4
+PlayStation-themed Mini Fridges,15,2174,20;20;30;12;22;25;13;42;41;100;80;78,task:3;informational:49;navigational:1;commercial:36;transactional:11
+Gilati Ice Makers,16,3393,9;10;19;17;15;10;11;13;16;91;73;100,task:2;informational:65;navigational:15;commercial:10;transactional:8
+Telhas Sanduíche e Isolamento Térmico,21,822,33;36;37;47;47;47;47;100;100;100;100;100,task:5;informational:68;navigational:3;commercial:20;transactional:4
+Gelato Gilberto,15,147,9;14;9;9;85;100;9;12;10;13;12;9,task:5;informational:26;navigational:48;commercial:10;transactional:11
+Ferramentas Gerais e Serviços Relacionados,15,878,7;7;6;5;8;56;43;75;100;26;20;28,task:3;informational:39;navigational:15;commercial:27;transactional:16
+Kenmore Freezers and Storage Solutions,20,2869,64;51;61;52;66;31;32;28;88;100;50;60,task:3;informational:54;navigational:9;commercial:26;transactional:8
+Tramontina Mini Fridges and Beverage Coolers,18,892,12;38;35;36;38;41;19;39;100;98;85;23,task:6;informational:58;navigational:5;commercial:24;transactional:7
+Arctic King Freezers and Refrigerators,33,4486,46;51;50;98;98;100;100;92;45;45;75;84,task:2;informational:43;navigational:9;commercial:34;transactional:12
+Casacos e Jaquetas Femininas para Inverno,16,2245,46;33;54;50;100;60;40;20;22;22;60;59,task:5;informational:30;navigational:4;commercial:44;transactional:17
+Máquina de Fazer Bolha de Sabão,15,840,64;11;23;26;45;21;20;27;13;18;83;100,task:10;informational:25;navigational:10;commercial:47;transactional:8
+Liebherr Appliances and Equipment,43,26216,20;20;21;92;41;41;41;100;97;97;97;97,informational:39;navigational:30;commercial:20;transactional:11
+Telha Norte e Telhanorte - Materiais de Construção,15,102,10;11;11;10;20;100;66;15;12;14;15;19,task:3;informational:12;navigational:73;commercial:7;transactional:5
+GE Top Freezer Refrigerators,36,6455,23;26;28;28;37;36;39;54;100;80;77;87,task:2;informational:52;navigational:9;commercial:36;transactional:1
+Presentes para Namorada,17,298,31;32;33;63;100;67;51;76;60;58;43;44,task:5;informational:40;navigational:1;commercial:45;transactional:9
+Midea Coolers,15,11390,10;6;41;33;29;1;5;2;48;51;88;100,task:3;informational:49;navigational:18;commercial:12;transactional:18
+Commercial Refrigeration and Freezers,300,70324,37;38;40;46;63;63;63;100;89;89;89;89,task:2;informational:42;navigational:1;commercial:38;transactional:17
+Icecasa Refrigeration and Cooling Solutions,16,24,45;57;100;60;60;22;20;6;2;2;1;1,task:3;informational:24;navigational:61;commercial:7;transactional:5
+Tủ lạnh Samsung,16,4785,71;28;30;25;30;26;24;47;26;92;72;100,task:3;informational:39;navigational:18;commercial:18;transactional:22
+Refrigeradores Thermador T36BB925SS,15,20,45;46;38;18;20;19;17;100;76;15;15;14,task:3;informational:32;navigational:32;commercial:11;transactional:22
+Home Depot Freezers,15,16,100;63;4;4;34;26;17;3;2;4;3;3,task:3;informational:27;navigational:42;commercial:11;transactional:17
+Protetor térmico Truss,15,49,25;25;28;28;100;100;87;27;28;30;27;27,task:3;informational:23;navigational:23;commercial:40;transactional:11
+Climatisation Frigidaire Ffra062wa1,17,361,15;31;23;29;23;7;7;11;15;100;67;65,task:4;informational:29;navigational:41;commercial:22;transactional:4
+Refrigerants and English Terminology,19,2568,29;33;33;18;18;18;23;88;88;95;95;100,task:2;informational:69;navigational:4;commercial:21;transactional:4
+Retro and Antique Refrigerators,17,565,8;7;72;82;40;30;29;5;94;100;37;26,task:7;informational:48;navigational:7;commercial:24;transactional:14
+GE Refrigerators and Monogram Appliances,133,31213,68;74;76;82;86;86;86;100;99;100;98;99,task:5;informational:31;navigational:18;commercial:32;transactional:14
+Wine and Beverage Refrigerators,15,2143,10;14;17;19;81;74;12;11;21;60;45;100,task:5;informational:56;navigational:5;commercial:15;transactional:19
+Big Chill Appliances and Retro Refrigerators,18,1975,59;75;78;77;100;49;40;33;50;65;76;97,task:2;informational:35;navigational:17;commercial:35;transactional:11
+Consolas Portáteis e Videogames,16,288,100;55;51;38;57;39;24;61;47;39;19;14,task:3;informational:52;navigational:4;commercial:33;transactional:8
+Atosa Commercial Freezers and Refrigeration Equipment,16,80,49;52;63;78;77;78;75;63;63;63;83;100,task:1;informational:45;navigational:30;commercial:12;transactional:12
+Freezer Organization and Storage Solutions,121,27299,70;62;64;79;88;88;88;100;85;84;84;84,task:5;informational:52;navigational:4;commercial:29;transactional:10
+Mini Fridges and Appliance Parts,15,9305,2;13;16;15;15;30;18;6;73;84;87;100,task:7;informational:45;navigational:5;commercial:18;transactional:25
+LG French Door Refrigerators 23.5 Cu. Ft.,15,1470,31;21;24;20;36;33;29;1;80;100;30;42,task:4;informational:32;navigational:28;commercial:16;transactional:20
+Kitchenaid Side-by-Side Refrigerators,22,2394,77;43;43;76;91;100;97;87;93;89;95;98,task:5;informational:48;navigational:13;commercial:14;transactional:20
+Guarda-Roupa com Espelho de Correr,15,26,3;3;3;9;8;55;41;83;100;1;1;1,task:3;informational:18;navigational:24;commercial:40;transactional:15
+Deicer Products,15,8976,3;3;28;23;12;10;5;9;32;31;74;100,task:7;informational:38;navigational:4;commercial:37;transactional:14
+Fiche d'appareil Frigidaire FFRE123WA1,17,691,3;3;4;10;42;42;29;13;15;100;77;85,task:3;informational:67;navigational:11;commercial:12;transactional:7
+Refrigeration and Appliance Parts and Services,20,1302,41;39;30;31;37;34;36;44;99;100;36;42,task:3;informational:37;navigational:16;commercial:28;transactional:16
+Réfrigérateurs Frigidaire FFBN1721TV,15,676,13;13;10;100;100;6;5;5;4;69;59;66,task:7;informational:54;navigational:12;commercial:12;transactional:15
+Estantes de Livros,15,2770,10;9;6;23;23;29;59;40;33;96;79;100,task:3;informational:60;navigational:9;commercial:18;transactional:10
+Lowes Refrigerators,86,38634,57;51;58;55;55;55;55;54;100;95;73;74,task:2;informational:24;navigational:30;commercial:24;transactional:20
+Decida e Sentar no Sofá,16,1215,21;14;12;5;5;6;6;5;5;97;63;100,task:27;informational:65;navigational:3;commercial:5
+Frigidaire FFTR1814WB Refrigerator,16,2571,6;6;3;3;3;35;2;2;96;100;67;77,task:3;informational:47;navigational:28;commercial:18;transactional:4
+Riparazioni Elettrodomestici,29,3212,62;58;63;58;62;56;56;100;79;62;62;62,task:8;informational:47;navigational:14;commercial:20;transactional:11
+Wooden Freezers and Refrigerators,21,7252,4;2;2;2;31;31;34;2;29;31;81;100,task:3;informational:45;commercial:41;transactional:11
+Refrigerator and Meat Thawing Solutions,141,19980,33;34;38;50;71;71;71;100;93;93;93;93,task:6;informational:63;navigational:2;commercial:23;transactional:6
+Conos y Barquillos de Helado,18,361,90;73;92;43;100;93;44;45;58;51;39;40,task:3;informational:64;navigational:8;commercial:20;transactional:5
+Electrolux ERFG2393AS Refrigerator,16,122,6;15;51;40;73;44;9;6;78;100;20;23,task:3;informational:49;navigational:33;commercial:11;transactional:4
+Linguagem e Expressões Relacionadas a Intimidade e Prazer,15,1398,77;19;77;60;77;58;100;32;31;53;39;64,task:13;informational:58;navigational:2;commercial:8;transactional:19
+Coolers and Insulated Drink Containers,30,2986,59;56;49;56;84;68;95;45;80;88;92;100,task:2;informational:40;navigational:4;commercial:42;transactional:12
+Avantco Commercial Refrigeration Equipment,15,90,63;83;100;80;90;93;100;19;31;33;37;50,task:3;informational:18;navigational:41;commercial:24;transactional:14
+Ellegant Fashion and Lifestyle,17,48,100;96;81;63;61;51;37;57;48;10;10;10,task:7;informational:60;navigational:11;commercial:15;transactional:7
+Instalação e Manutenção de Ar Condicionado,19,195,54;46;48;48;37;48;45;58;48;100;78;48,task:8;informational:69;navigational:5;commercial:10;transactional:8
+Electrodomésticos y artículos para el hogar en Walmart,15,272,53;31;30;41;14;18;12;100;73;8;12;10,task:2;informational:28;navigational:39;commercial:7;transactional:24
+Abafadores de Ruído,15,1141,19;19;22;22;22;63;51;95;100;40;37;39,task:7;informational:35;navigational:3;commercial:43;transactional:12
+Freezers and Meat Storage Market,16,473,100;79;75;65;65;52;13;50;19;21;18;20,task:2;informational:60;navigational:6;commercial:26;transactional:6
+wine coolers and chillers,15,275,20;100;86;93;18;30;19;13;18;21;21;31,task:3;informational:43;navigational:11;commercial:23;transactional:20
+Vitara Refrigerators and Appliances,18,503,11;100;70;17;25;39;31;83;57;49;49;38,task:3;informational:19;navigational:34;commercial:34;transactional:10
+LG Refrigerator Parts and Filters,24,2387,36;39;39;36;46;100;45;28;38;36;52;55,task:2;informational:34;navigational:26;commercial:21;transactional:17
+Commercial Cool Upright Freezers,15,6869,2;2;2;2;4;4;22;1;22;27;86;100,task:3;informational:38;navigational:4;commercial:41;transactional:14
+Thermador Counter Depth Refrigerators,17,1020,21;24;24;23;23;24;23;22;23;23;100;98,task:5;informational:39;navigational:21;commercial:15;transactional:20
+Frigidaire Appliance Reviews,16,2844,100;63;44;48;62;59;56;47;23;84;59;67,task:2;informational:56;navigational:2;commercial:34;transactional:6
+Frigidaire Refrigerator Parts and Manuals,16,56,4;3;100;93;100;50;2;2;2;3;3;3,informational:45;navigational:41;commercial:13;transactional:1
+Gelato Dolcezza e Ricette di Gelato,15,196,40;40;33;17;10;10;13;84;100;11;11;11,task:8;informational:58;navigational:4;commercial:8;transactional:22
+Vintage and Retro Refrigerators,102,24740,100;100;84;82;82;82;82;88;86;86;86;86,task:2;informational:46;navigational:4;commercial:35;transactional:13
+Frigidaire Professional PCFE3078AF,15,129,36;41;84;100;14;12;12;4;16;27;11;15,task:3;informational:33;navigational:46;commercial:6;transactional:12
+Köksapparater och vitvaror,15,2629,40;25;30;39;51;33;31;100;81;77;56;81,task:7;informational:67;navigational:8;commercial:15;transactional:3
+frigidaire gallery gcri3058af refrigerator,16,5143,6;6;2;2;12;16;7;8;6;11;81;100,task:7;informational:40;navigational:45;commercial:5;transactional:3
+Under Counter Fridge,15,1088,7;20;20;22;25;79;100;79;52;44;46;51,task:3;informational:37;navigational:2;commercial:18;transactional:40
+Réfrigérateurs Frigidaire PMBD3080AF,15,3670,2;2;3;3;4;4;2;2;3;5;93;100,task:7;informational:60;navigational:18;commercial:12;transactional:3
+Torra e Marcas Associadas,15,232,73;76;76;100;98;88;74;48;49;47;48;48,task:5;informational:65;navigational:17;commercial:10;transactional:3
+Refrigerator and Freezer Power Consumption,49,6612,84;89;89;95;94;92;93;100;97;92;93;91,task:2;informational:77;navigational:5;commercial:11;transactional:5
+Fechaduras de Portão,15,531,12;12;71;61;61;47;34;100;26;33;32;36,task:3;informational:55;navigational:5;commercial:22;transactional:15
+Nessa Lingerie,15,255,3;4;12;18;100;35;31;33;15;12;19;16,task:3;informational:17;navigational:37;commercial:32;transactional:11
+Bancos e Móveis para Vanities,15,8534,1;1;19;18;12;16;12;22;29;34;78;100,task:7;informational:32;navigational:11;commercial:29;transactional:21
+Cabela's Coolers and Ice Chests,25,1320,100;100;100;91;88;89;86;79;82;82;84;85,task:1;informational:16;navigational:38;commercial:23;transactional:22
+Gelato Uli,15,310,2;86;55;10;11;7;100;98;48;12;15;17,task:1;informational:30;navigational:60;commercial:5;transactional:4
+Gaggenau Refrigerators and Freezers,15,243,70;93;82;88;100;84;95;87;88;94;88;88,task:3;informational:43;navigational:12;commercial:15;transactional:27
+Retro Mini Fridges and Refrigerators,21,6634,40;30;32;29;28;31;33;26;94;100;45;51,task:2;informational:34;navigational:6;commercial:46;transactional:12
+Adegas e Vinícolas,18,214,99;100;100;46;46;52;53;52;57;56;53;51,task:1;informational:55;navigational:9;commercial:28;transactional:7
+Friggitrice ad aria grandi,16,213,50;33;100;91;91;14;10;42;10;10;14;14,task:2;informational:27;navigational:3;commercial:47;transactional:21
+Mobiliário e Valores Mobiliários,21,2609,24;25;25;33;33;34;33;33;100;100;97;97,task:8;informational:66;navigational:7;commercial:16;transactional:3
+Mini Fridges on Amazon,19,1408,33;24;23;22;47;50;60;100;22;22;21;21,task:4;informational:20;navigational:32;commercial:17;transactional:27
+Machines à glaçons professionnelles et domestiques,15,2314,16;9;24;17;16;42;29;71;8;9;97;100,task:5;informational:36;navigational:3;commercial:47;transactional:9
+Fridge Air and Gallery Features,17,1075,80;61;51;48;100;76;69;81;63;75;27;34,task:3;informational:57;navigational:5;commercial:12;transactional:23
+White Freezers and Refrigerators,15,1218,100;48;61;48;61;50;77;2;10;11;25;35,task:5;informational:49;navigational:1;commercial:37;transactional:8
+Emerson Freezers,16,104,14;14;18;59;37;100;28;41;67;6;5;5,task:4;informational:34;navigational:31;commercial:27;transactional:4
+Réfrigérateurs Frigidaire FFEC3025US,16,5069,1;1;4;4;2;1;15;1;3;5;86;100,task:3;informational:57;navigational:18;commercial:12;transactional:10
+Coolers and Ice Chests for Outdoors and Travel,26,2775,39;40;45;50;53;48;57;38;84;100;59;61,task:2;informational:30;navigational:10;commercial:44;transactional:14
+Equipamentos e treinos para exercícios em casa,19,3190,10;36;9;26;26;27;26;9;11;100;87;99,task:12;informational:61;navigational:2;commercial:17;transactional:8
+LG Refrigerator Model LRFXC2406S,15,5022,5;5;17;15;11;4;2;58;45;58;82;100,task:3;informational:32;navigational:35;commercial:12;transactional:18
+loiras gostosas,17,1040,100;84;73;54;54;58;71;60;56;37;32;34,task:2;informational:52;navigational:32;commercial:7;transactional:7
+Smart Refrigerators with Digital Displays,16,3369,72;49;33;30;62;49;37;92;76;100;64;89,task:8;informational:58;navigational:4;commercial:22;transactional:8
+Refrigeradores industriales para restaurantes,17,88,38;42;40;100;100;27;4;10;22;11;10;11,task:3;informational:46;navigational:1;commercial:33;transactional:17
+Guitarras Elétricas,16,46,41;42;100;100;84;31;20;35;16;15;39;25,task:3;informational:48;navigational:4;commercial:37;transactional:8
+Mesas gamers acessíveis e de qualidade,15,3187,67;53;44;82;81;100;52;75;56;81;73;100,task:3;informational:42;navigational:2;commercial:23;transactional:30
+mochilas con hielera,15,2519,28;25;18;19;19;16;6;49;10;13;88;100,task:3;informational:36;navigational:4;commercial:44;transactional:13
+Freezer Storage Solutions,16,5782,11;23;19;19;18;15;3;10;94;100;46;59,task:3;informational:48;navigational:5;commercial:22;transactional:22
+Miele KFN15943DE Refrigerator,15,31,87;53;46;73;9;8;100;7;46;97;7;10,task:7;informational:41;navigational:24;commercial:24;transactional:4
+relojoaria,17,215,17;26;26;26;24;100;81;21;19;22;20;22,task:8;informational:57;navigational:15;commercial:10;transactional:10
+pão de queijo de liquidificador,20,1132,56;56;43;33;43;43;44;60;100;100;100;100,task:8;informational:82;navigational:3;commercial:5;transactional:2
+Leites Culinária and Culinary Content,17,2330,46;46;46;70;70;59;77;100;89;89;66;79,task:10;informational:57;navigational:16;commercial:7;transactional:10
+Amor em Pedaços e Gastronomia,16,63,76;79;80;84;97;100;88;79;68;65;65;65,task:13;informational:51;navigational:13;commercial:11;transactional:12
+Instrumentos Musicais e Lojas,17,282,92;100;88;41;41;53;41;37;28;33;26;41,task:2;informational:58;navigational:9;commercial:27;transactional:4
+Compresores y Motores de Refrigeradores,19,876,100;63;43;43;51;45;47;60;31;33;33;46,task:8;informational:72;navigational:2;commercial:15;transactional:3
+Réfrigérateurs Frigidaire PCFI3670AF,15,59,10;9;10;10;100;90;29;10;11;11;10;10,task:3;informational:57;navigational:18;commercial:12;transactional:10
+Higiene e Banho,16,541,13;12;12;11;100;54;23;21;20;13;13;17,task:8;informational:67;navigational:5;commercial:15;transactional:5
+Target Freezers,15,1818,6;23;18;16;16;3;3;3;95;100;20;22,task:3;informational:16;navigational:40;commercial:12;transactional:29
+Refrigerator and Freezer Drawers,141,21519,66;65;68;80;84;85;85;100;97;97;98;98,task:2;informational:57;navigational:3;commercial:28;transactional:10
+Refrigeration and Storage Solutions,18,225,86;100;81;20;25;24;22;32;39;37;24;26,task:10;informational:41;navigational:27;commercial:14;transactional:8
+Roçadeiras a gasolina e marcas populares,18,858,6;6;7;25;24;6;12;16;20;100;76;71,task:10;informational:41;commercial:31;transactional:18
+Frigidaire FFHT2022AW Refrigerator,16,9645,1;1;1;1;2;1;1;2;1;2;2;100,informational:44;navigational:45;commercial:8;transactional:3
+Black & Decker Freezers,16,10238,8;33;28;23;29;27;22;8;46;49;89;100,task:1;informational:44;navigational:11;commercial:32;transactional:12
+Gelato al cioccolato e stracciatella,26,3854,73;89;88;98;99;100;100;51;47;46;46;46,task:2;informational:70;navigational:10;commercial:12;transactional:6
+Holiday Freezers,17,58,3;3;3;4;2;25;1;17;100;3;1;1,task:10;informational:35;navigational:3;commercial:47;transactional:5
+Laka Coolers,15,61,100;70;22;20;20;14;11;15;11;12;10;11,task:3;informational:44;navigational:23;commercial:14;transactional:16
+Sangria Casal Garcia,15,35,2;3;5;100;94;5;5;5;5;10;7;9,task:3;informational:45;navigational:12;commercial:18;transactional:22
+Refrigeradoras Samsung RF217ACWP,16,3310,17;15;41;41;47;43;43;3;25;43;84;100,task:1;informational:34;navigational:40;commercial:22;transactional:3
+Przenośne chłodnice i klimatyzatory,15,4195,13;30;33;25;25;24;26;1;30;27;98;100,task:10;informational:56;navigational:5;commercial:12;transactional:17
+mexerica e suas variações,18,247,82;100;70;50;50;50;50;55;55;55;54;55,task:8;informational:69;navigational:5;commercial:10;transactional:8
+Double Door Freezers,16,382,8;8;36;36;53;49;30;39;97;100;12;14,task:3;informational:38;navigational:4;commercial:33;transactional:22
+frosty ice chests and coolers,15,138,29;25;28;22;100;92;80;89;81;9;8;8,task:3;informational:35;navigational:3;commercial:50;transactional:9
+Stackable Refrigerators and Freezers,22,2621,7;8;63;57;61;62;42;9;25;30;76;100,task:5;informational:53;navigational:4;commercial:32;transactional:6
+Lowe's GE Refrigerators and Appliances,15,15917,26;19;29;25;25;35;21;1;92;94;87;100,task:3;informational:27;navigational:22;commercial:15;transactional:33
+Mini Fridges (Cooluli and Similar Brands),16,1838,92;32;41;44;62;82;100;30;46;66;56;76,task:2;informational:27;navigational:13;commercial:40;transactional:18
+Mini Fridge Recommendations,16,7528,93;71;82;33;33;45;37;42;38;100;78;90,task:5;informational:27;navigational:41;commercial:13;transactional:14
+Refrigeradores de 4 puertas,15,3295,39;25;35;43;43;25;16;64;100;47;41;57,task:3;informational:46;navigational:1;commercial:39;transactional:11
+Senninha e Produtos Relacionados,16,109,38;66;76;100;100;41;48;40;29;38;36;41,task:3;informational:38;navigational:18;commercial:22;transactional:19
+Walk-In Cooler and Refrigerator Shelving,25,1542,80;100;82;81;89;81;80;68;77;74;79;83,task:5;informational:45;navigational:4;commercial:38;transactional:8
+Kitchen and Home Gadgets,16,4394,73;50;45;45;54;41;22;57;69;89;75;100,task:10;informational:45;navigational:12;commercial:18;transactional:15
+pagriddles Thermador,15,84,28;22;37;55;28;22;22;24;24;54;54;100,task:7;informational:46;navigational:18;commercial:12;transactional:17
+Frigidaire HVAC Systems and Appliances,17,170,100;69;70;68;33;33;37;22;45;47;37;38,task:5;informational:44;navigational:12;commercial:10;transactional:29
+Compact 20-Liter Refrigerators,15,1949,14;28;80;66;93;100;82;2;6;3;51;62,task:3;informational:49;navigational:1;commercial:25;transactional:22
+Refrigerator Exterior and Interior Features,17,2048,7;11;7;6;10;10;10;60;47;97;78;100,task:5;informational:80;navigational:3;commercial:10;transactional:2
+یخچال و فریزرهای ساید و دوقلو,31,3359,56;58;67;55;55;50;48;100;98;61;53;71,task:2;informational:70;navigational:3;commercial:15;transactional:10
+Kismile Mini Freezers and Fridges,15,38,45;29;63;70;60;15;15;39;94;100;45;47,task:3;informational:38;navigational:25;commercial:12;transactional:22
+Frigidaire Refrigerator and Ice Maker Manuals,76,15007,46;56;57;70;76;75;75;100;98;98;97;98,task:2;informational:53;navigational:36;commercial:6;transactional:3
+Menards Compact Refrigerators and Freezers,16,9047,10;9;7;7;13;12;9;100;10;9;76;83,task:4;informational:28;navigational:34;commercial:17;transactional:17
+Barbie Mini Fridges and Refrigerators,16,856,61;70;67;68;79;86;100;55;68;49;41;36,informational:57;navigational:4;commercial:30;transactional:9
+Repuestos y Partes de Electrodomésticos y Hogar,15,1491,8;5;11;8;10;10;6;96;14;21;82;100,task:3;informational:70;navigational:8;commercial:12;transactional:7
+Frigidaire Appliance Parts and Troubleshooting,15,48,9;6;4;6;8;100;75;5;20;36;3;4,task:3;informational:70;navigational:8;commercial:12;transactional:7
+Refrigeration Parts and Hardware,33,2347,45;59;62;61;82;66;62;65;95;100;98;97,task:4;informational:48;navigational:5;commercial:38;transactional:5
+Medidores de Glicose e Açúcar,17,2439,100;88;63;62;77;79;49;5;55;54;41;49,task:5;informational:70;navigational:5;commercial:12;transactional:8
+Kenmore Freezers and Refrigerators,68,6042,57;74;87;97;70;73;78;100;93;84;80;80,task:5;informational:51;navigational:8;commercial:29;transactional:7
+Milk Coolers and Refrigerators,26,2077,5;8;8;7;12;10;21;32;95;100;25;27,task:8;informational:34;navigational:4;commercial:38;transactional:16
+Beer Fridges and Beverage Coolers,18,812,36;52;96;100;90;90;73;39;39;39;50;55,task:2;informational:28;navigational:2;commercial:58;transactional:10
+modular fridge,17,5868,42;30;32;27;47;32;1;55;65;99;63;100,task:2;informational:60;navigational:10;commercial:22;transactional:6
+Mesas de Escritório e Estudo,15,3210,25;18;17;15;38;34;28;23;34;43;88;100,task:7;informational:18;navigational:3;commercial:60;transactional:12
+Ultra Low Temperature Freezers,56,4192,35;36;34;41;47;48;50;100;86;84;84;84,task:2;informational:47;navigational:4;commercial:37;transactional:10
+GE Energy Star 19.2 Cu Ft Top Freezer Refrigerator,15,3030,2;2;3;29;29;24;4;60;84;94;86;100,task:7;informational:54;navigational:21;commercial:11;transactional:7
+Accucold Refrigerators and Freezers,15,180,78;32;31;31;33;42;39;26;86;100;26;27,task:3;informational:44;navigational:20;commercial:20;transactional:13
+espelhos com LED embutido,15,885,1;10;2;6;6;9;6;72;100;22;25;33,task:2;informational:51;navigational:3;commercial:22;transactional:22
+Black Freezers and Stainless Steel Chest Freezers,18,2695,23;47;39;37;48;96;54;61;85;96;85;100,task:2;informational:62;navigational:4;commercial:24;transactional:8
+Gordão da XJ,15,128,95;100;88;82;86;88;91;73;80;72;72;72,task:10;informational:43;navigational:17;commercial:11;transactional:19
+Whirlpool Refrigerators,451,131341,74;78;81;87;95;95;94;100;99;99;98;98,task:5;informational:49;navigational:10;commercial:23;transactional:13
+Top Freezer Refrigerators,112,15507,63;66;66;77;84;95;91;98;87;87;99;100,task:5;informational:44;navigational:3;commercial:38;transactional:10
+Lockable Freezers and Security Features,28,4382,83;49;56;52;51;48;52;69;69;66;92;100,task:2;informational:45;navigational:4;commercial:33;transactional:16
+Frigidaire Refrigerator Model FRSS26L3AF,20,6329,9;10;10;7;5;5;4;4;42;52;83;100,task:2;informational:35;navigational:29;commercial:30;transactional:4
+Televisores de diferentes tamanhos,19,4448,63;40;56;52;28;23;39;5;37;33;100;95,task:2;informational:50;navigational:1;commercial:41;transactional:6
+Polar AI e Tecnologia,16,89,25;20;25;37;37;26;48;32;22;96;100;12,task:7;informational:53;navigational:16;commercial:11;transactional:13
+LG Refrigerator Models and Features,17,4511,17;17;18;16;16;37;35;13;32;32;65;100,task:7;informational:52;navigational:6;commercial:21;transactional:14
+Relógios de Parede e Decoração,15,166,17;59;15;13;13;100;67;100;89;98;10;15,task:1;informational:54;navigational:4;commercial:35;transactional:6
+Hisense Refrigerators and Freezers,33,25942,16;16;16;63;64;68;70;71;83;80;96;100,task:2;informational:46;navigational:4;commercial:42;transactional:6
+Refrigeration and Cooling Equipment Parts,15,231,100;70;58;57;57;13;8;5;5;11;13;16,task:10;informational:55;navigational:5;commercial:23;transactional:7
+Freidoras eléctricas de aceite,18,2440,25;73;79;62;50;52;49;76;28;25;84;100,task:7;informational:28;navigational:4;commercial:40;transactional:21
+Paçoquinha Santa Helena,15,116,6;6;9;9;9;9;9;100;9;9;54;58,task:3;informational:56;navigational:12;commercial:12;transactional:17
+Wet Bar with Fridge and Microwave,15,283,100;55;51;25;26;26;31;36;25;26;20;20,task:5;informational:64;navigational:4;commercial:24;transactional:3
+Enxadas e Hosting,17,1234,16;16;15;16;100;91;7;32;35;60;50;65,task:7;informational:53;navigational:10;commercial:11;transactional:19
+Frigidaire Microwave FMV157GC,15,32,36;48;100;11;11;31;45;29;49;12;9;6,informational:57;navigational:11;commercial:26;transactional:6
+DJ Khaled Ice Cream Refrigeration,19,557,91;77;77;86;51;35;78;27;100;29;30;43,task:2;informational:70;navigational:10;commercial:10;transactional:8
+Frigidaire 11.6 Cu Ft Refrigerator,15,10180,1;3;2;1;2;2;6;1;2;2;86;100,task:3;informational:54;navigational:18;commercial:15;transactional:10
+Tempero Sofrito Publix,15,132,21;27;46;55;36;58;57;93;22;65;100;15,task:3;informational:15;navigational:49;commercial:11;transactional:22
+Home Appliances and Electronics,16,5310,87;54;46;49;55;28;24;53;41;88;74;100,task:3;informational:57;navigational:12;commercial:18;transactional:10
+Compresores para Refrigeradores LG,16,192,48;100;82;83;91;65;36;45;41;39;54;80,task:3;informational:48;navigational:1;commercial:28;transactional:20
+Apeiro e Design,17,291,100;85;77;22;26;26;26;27;26;26;26;26,task:7;informational:64;navigational:9;commercial:13;transactional:7
+Repuestos y reparación de electrodomésticos Thermador,15,22,18;34;24;100;23;19;22;22;20;17;17;20,task:3;informational:62;navigational:5;commercial:12;transactional:18
+Frigidaire and Embraco Appliance Parts,15,35,61;53;74;100;94;20;16;11;8;8;7;8,task:3;informational:53;navigational:18;commercial:22;transactional:4
+Ice Cream Batch Freezers and Equipment,21,826,78;89;84;81;46;46;72;96;100;100;99;100,informational:52;navigational:7;commercial:35;transactional:6
+Freezer Troubleshooting and Food Safety,560,103877,89;90;88;88;93;93;93;98;100;100;100;100,task:2;informational:74;navigational:5;commercial:11;transactional:8
+Heladerías y postres en Nebraska,16,1209,7;37;29;37;46;77;52;100;51;58;73;39,task:2;informational:67;navigational:12;commercial:16;transactional:3
+Frigidaire Fruf2020AW Appliances,17,45,5;3;3;4;4;10;2;67;100;2;2;2,task:3;informational:47;navigational:39;commercial:8;transactional:3
+Enfriadores de Aire y Ventiladores de Agua,39,3524,15;15;16;16;30;31;33;47;99;100;45;45,task:8;informational:52;navigational:5;commercial:26;transactional:9
+Bosch Freezers and Refrigeration Appliances,17,1479,100;50;47;45;65;56;96;6;37;42;39;62,task:3;informational:34;navigational:11;commercial:38;transactional:14
+Commercial Glass Door Refrigerators,18,468,1;2;13;9;13;15;31;33;97;100;7;8,task:10;informational:41;navigational:4;commercial:30;transactional:15

@@ -226,6 +226,169 @@ for nome, pat in FAMT:
                   "maiores": sorted(m.items(), key=lambda i:-i[1])[:4]}
 out["ai"]["topicos"] = {"total_topicos": len(apar), "volume_total": T, "familias": tops,
                         "vazamento_pct": round(100*(len(uni)-len(apar))/len(uni))}
+# ================================================================ PANORAMA DE IA
+# Base propria, normalizada por 20-normalizado/normalizar_ai.py. Nao se soma com a
+# base de busca: mede outra coisa, com outra unidade.
+TOP = list(csv.DictReader(open(NORM/"topicos.csv", encoding="utf-8")))
+PRO = list(csv.DictReader(open(NORM/"prompts.csv", encoding="utf-8")))
+def i(x):
+    try: return int(float(x or 0))
+    except: return 0
+
+CATBR = [r for r in TOP if r["pais"] == "br" and r["eh_categoria"] == "1"]
+VT = sum(i(r["volume"]) for r in CATBR)
+pan = {"universo": {
+    "topicos_exportados": len(TOP), "topicos_br": sum(1 for r in TOP if r["pais"] == "br"),
+    "topicos_us": sum(1 for r in TOP if r["pais"] == "us"), "topicos_categoria": len(CATBR),
+    "volume": VT, "prompts_declarados": sum(i(r["prompts"]) for r in CATBR),
+    "seeds": sorted({r["seed"] for r in TOP}), "teto_por_export": 1000,
+    "prompts_lidos": len(PRO), "prompts_distintos": len({r["prompt"] for r in PRO}),
+    "provedores": sorted({r["provedor"] for r in PRO})}}
+
+# --- eixo 1: cobertura pelo NOME do topico (sem vies de seed) ---------------
+NUC = ["electrolux","brastemp","consul","samsung","midea","hisense","haier"]
+NOMES = {"electrolux":"Electrolux","brastemp":"Brastemp","consul":"Consul","samsung":"Samsung",
+         "midea":"Midea","hisense":"Hisense","haier":"Haier"}
+def bloco(rows):
+    v = sum(i(r["volume"]) for r in rows)
+    return {"topicos": len(rows), "volume": v, "pct": round(100*v/VT, 2),
+            "exemplos": [[r["topico"], i(r["volume"]), r["estagio"]]
+                         for r in sorted(rows, key=lambda r: -i(r["volume"]))[:5]]}
+pan["cobertura_nome"] = {m: dict(bloco([r for r in CATBR if m in r["marcas_nucleo"].split("|")]),
+                                 nome=NOMES[m]) for m in NUC}
+pan["cobertura_nome"]["outras_marcas"] = dict(
+    bloco([r for r in CATBR if r["eh_branded"] == "1" and not r["marcas_nucleo"]]), nome="Outras marcas")
+pan["sem_marca"] = dict(bloco([r for r in CATBR if r["eh_branded"] == "0"]), nome="Sem marca nenhuma")
+
+# --- eixo 2: jornada, e quanto de cada estagio esta sem marca --------------
+EST = ["exploracao de categoria", "descoberta", "escolha", "posse"]
+pan["estagios"] = {}
+for e in EST:
+    s = [r for r in CATBR if r["estagio"] == e]
+    v = sum(i(r["volume"]) for r in s)
+    sm = [r for r in s if r["eh_branded"] == "0"]
+    fam = collections.Counter()
+    for r in s: fam[r["familia"]] += i(r["volume"])
+    pan["estagios"][e] = {
+        "topicos": len(s), "volume": v, "pct": round(100*v/VT, 1),
+        "prompts": sum(i(r["prompts"]) for r in s),
+        "sem_marca_pct": round(100*sum(i(r["volume"]) for r in sm)/v, 1),
+        "familias": [[f, c, round(100*c/v, 1)] for f, c in fam.most_common(6)],
+        "exemplos": [[r["topico"], i(r["volume"]), r["familia"]]
+                     for r in sorted(s, key=lambda r: -i(r["volume"]))[:6]],
+        "exemplos_sem_marca": [[r["topico"], i(r["volume"]), r["familia"]]
+                               for r in sorted(sm, key=lambda r: -i(r["volume"]))[:6]]}
+
+# intent agregado, ponderado por volume — a leitura da propria ferramenta
+ints = collections.Counter()
+for r in CATBR:
+    for k in ("informational","commercial","transactional","navigational","task"):
+        ints[k] += i(r["volume"]) * float(r.get(f"int_{k}") or 0)
+TI = sum(ints.values()) or 1
+pan["intents"] = {k: round(100*v/TI, 1) for k, v in ints.most_common()}
+
+# --- eixo 3: familias de necessidade, transversais aos estagios -------------
+fam = collections.defaultdict(lambda: {"volume": 0, "topicos": 0, "sem_marca": 0, "ex": []})
+for r in CATBR:
+    d = fam[r["familia"]]; v = i(r["volume"])
+    d["volume"] += v; d["topicos"] += 1
+    if r["eh_branded"] == "0": d["sem_marca"] += v
+    d["ex"].append([r["topico"], v])
+pan["familias"] = {f: {"volume": d["volume"], "topicos": d["topicos"],
+                       "pct": round(100*d["volume"]/VT, 1),
+                       "sem_marca_pct": round(100*d["sem_marca"]/d["volume"], 1),
+                       "exemplos": sorted(d["ex"], key=lambda x: -x[1])[:4]}
+                   for f, d in fam.items()}
+
+# --- eixo 4: ocupacao real por dominio (visibility x volume) ---------------
+# presenca = a marca aparece no topico. ocupacao = presenca ponderada pela
+# visibilidade que ela tem la dentro. As duas medem coisas diferentes e a
+# distancia entre elas e o diagnostico.
+CATIX = {r["topico"]: r for r in CATBR}
+pan["ocupacao"] = {}
+for fp in sorted(glob.glob(str(RAW/"ai-search"/"brand-topics"/"*.csv"))):
+    dom = re.sub(r"^.*_ai-brand-topics_|\.csv$", "", os.path.basename(fp))
+    bt = list(csv.DictReader(open(fp, encoding="utf-8-sig")))
+    ov = [(r, CATIX[r["name"].strip()]) for r in bt if r["name"].strip() in CATIX]
+    pres = sum(i(c["volume"]) for _, c in ov)
+    ocup = sum(i(c["volume"]) * i(b["visibility"])/100 for b, c in ov)
+    nomes = {r["name"].strip() for r in bt}
+    porest = {}
+    for e in EST:
+        s = [r for r in CATBR if r["estagio"] == e]
+        tv = sum(i(r["volume"]) for r in s) or 1
+        pv = sum(i(r["volume"]) for r in s if r["topico"] in nomes)
+        ov_e = sum(i(r["volume"]) * i(dict((x["name"].strip(), x) for x in bt)[r["topico"]]["visibility"])/100
+                   for r in s if r["topico"] in nomes)
+        porest[e] = {"presenca": round(100*pv/tv, 1), "ocupacao": round(100*ov_e/tv, 1),
+                     "descoberto": round(100*(tv-pv)/tv, 1)}
+    pan["ocupacao"][dom] = {
+        "dominio": dom.replace("-com-br", ".com.br").replace("-", "."),
+        "linhas": len(bt), "topicos_no_universo": len(ov),
+        "fora_do_universo": sum(1 for r in bt if r["name"].strip() not in CATIX),
+        "presenca_pct": round(100*pres/VT, 1), "ocupacao_pct": round(100*ocup/VT, 1),
+        "visibility_mediana": round(st.median([i(b["visibility"]) for b, _ in ov])) if ov else None,
+        "por_estagio": porest,
+        "maiores": [[c["topico"], i(c["volume"]), i(b["visibility"]), i(b["mentions"]), c["estagio"]]
+                    for b, c in sorted(ov, key=lambda x: -i(x[1]["volume"])*i(x[0]["visibility"]))[:6]]}
+pan["ocupacao_pendente"] = [d for d in
+    ["loja.electrolux.com.br","consul.com.br","midea.com.br","samsung.com.br","hisense","haier"]]
+
+# --- eixo 5: os prompts, com o vies de seed declarado ----------------------
+mres = collections.Counter()
+for r in PRO:
+    for m in r["marcas_na_resposta"].split("|"):
+        if m: mres[m] += 1
+N = len(PRO)
+SEEDS = sorted({s for r in PRO for s in r["seeds"].split("|")})
+pan["prompts"] = {
+    "n": N, "distintos": len({r["prompt"] for r in PRO}), "seeds": SEEDS,
+    "seeds_de_marca": [s for s in SEEDS if s not in ("geladeira",)],
+    "sem_seed": [m for m in NUC if m not in [s.replace("eletrolux","electrolux") for s in SEEDS]],
+    "por_provedor": {p: sum(1 for r in PRO if r["provedor"] == p) for p in sorted({r["provedor"] for r in PRO})},
+    "mencao_na_resposta": [[m, c, round(100*c/N, 1)] for m, c in mres.most_common(10)],
+    "marcas_por_resposta": round(st.mean([i(r["n_marcas_declarado"]) for r in PRO]), 1),
+    "fontes_por_resposta": round(st.mean([i(r["n_fontes"]) for r in PRO]), 1),
+    "sem_fonte_pct": round(100*sum(1 for r in PRO if i(r["n_fontes"]) == 0)/N),
+    "familias": [[f, c] for f, c in collections.Counter(r["familia"] for r in PRO).most_common(8)]}
+# Em que necessidades a IA responde nomeando um fabricante — e em quais ela responde
+# sem nenhum. Calculado SO sobre o seed nao-branded: e o unico recorte em que a
+# pergunta nao carrega marca, logo o unico em que a resposta nomear uma marca e
+# decisao do modelo e nao eco do prompt.
+def taxa_marca(rows):
+    d = {}
+    for f in {r["familia"] for r in rows}:
+        s = [r for r in rows if r["familia"] == f]
+        if len(s) < 20: continue
+        c = sum(1 for r in s if any(m in NUC for m in r["marcas_na_resposta"].split("|") if m))
+        d[f] = {"n": len(s), "com_marca": round(100*c/len(s), 1), "sem_marca": round(100*(len(s)-c)/len(s), 1)}
+    return d
+CATP = [r for r in PRO if r["eh_categoria"] == "1"]
+LIMPO = [r for r in CATP if r["seeds"] == "geladeira"]
+pan["prompts"]["marca_por_familia"] = taxa_marca(LIMPO)
+pan["prompts"]["marca_por_familia_contaminado"] = taxa_marca(CATP)
+pan["prompts"]["n_limpo"] = len(LIMPO)
+c = sum(1 for r in LIMPO if any(m in NUC for m in r["marcas_na_resposta"].split("|") if m))
+pan["prompts"]["taxa_marca_geral"] = round(100*c/len(LIMPO), 1)
+pan["prompts"]["exemplos_limpos"] = {}
+for f in pan["prompts"]["marca_por_familia"]:
+    vistos, sel = set(), []
+    for r in sorted([r for r in LIMPO if r["familia"] == f], key=lambda r: -i(r["relevancia"])):
+        if r["prompt"] in vistos: continue     # o mesmo prompt vem uma vez por provedor
+        vistos.add(r["prompt"]); sel.append(r)
+        if len(sel) == 3: break
+    pan["prompts"]["exemplos_limpos"][f] = [
+        [r["prompt"][:150], r["provedor"],
+         "|".join(m for m in r["marcas_na_resposta"].split("|") if m in NUC)] for r in sel]
+pan["prompts"]["exemplos"] = {}
+for f in ("assistencia e conserto","defeito e problema","manutencao e limpeza","peca e filtro",
+          "instalacao","uso e receita","comparacao e modelo","preco e compra","produto e categoria"):
+    sel = sorted([r for r in PRO if r["familia"] == f and r["eh_categoria"] == "1"],
+                 key=lambda r: -i(r["relevancia"]))[:4]
+    if sel: pan["prompts"]["exemplos"][f] = [[r["prompt"][:190], r["provedor"],
+                                              r["marcas_na_resposta"]] for r in sel]
+out["panorama"] = pan
+
 out["meta"] = {"kw_total": len(kws), "kw_cauda": len(cauda), "perguntas_ia": 150,
                "prompts_ia": 4000, "meses_referrals": len(meses)}
 

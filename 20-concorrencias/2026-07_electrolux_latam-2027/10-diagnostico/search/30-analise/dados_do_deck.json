@@ -2815,13 +2815,13 @@
    }
   },
   "topicos": {
-   "total_topicos": 2324,
-   "volume_total": 18180792,
+   "total_topicos": 2671,
+   "volume_total": 19967886,
    "familias": {
     "uso e receita": {
-     "n": 18,
-     "volume": 410094,
-     "pct": 2.3,
+     "n": 19,
+     "volume": 418940,
+     "pct": 2.1,
      "maiores": [
       [
        "Air Fryer: Receitas e Usos",
@@ -2842,10 +2842,14 @@
      ]
     },
     "limpeza e manutencao": {
-     "n": 34,
-     "volume": 343758,
-     "pct": 1.9,
+     "n": 38,
+     "volume": 516764,
+     "pct": 2.6,
      "maiores": [
+      [
+       "Robo Aspirador e Limpeza",
+       167007
+      ],
       [
        "Limpeza de Ar Condicionado",
        80659
@@ -2857,17 +2861,13 @@
       [
        "Limpeza de Ar Condicionado Automotivo",
        40690
-      ],
-      [
-       "Limpeza de Air Fryer",
-       32739
       ]
      ]
     },
     "comparacao e modelo": {
      "n": 15,
      "volume": 275956,
-     "pct": 1.5,
+     "pct": 1.4,
      "maiores": [
       [
        "Melhores Ar Condicionado",
@@ -2888,9 +2888,9 @@
      ]
     },
     "peca e filtro": {
-     "n": 41,
-     "volume": 227250,
-     "pct": 1.2,
+     "n": 50,
+     "volume": 256794,
+     "pct": 1.3,
      "maiores": [
       [
        "Ar condicionado: peças e funcionamento",
@@ -2913,7 +2913,7 @@
     "consumo e energia": {
      "n": 14,
      "volume": 174403,
-     "pct": 1.0,
+     "pct": 0.9,
      "maiores": [
       [
        "Consumo de energia de ventiladores e climatizadores",
@@ -2936,7 +2936,7 @@
     "instalacao": {
      "n": 20,
      "volume": 155850,
-     "pct": 0.9,
+     "pct": 0.8,
      "maiores": [
       [
        "Instalação de Ar Condicionado",
@@ -2957,8 +2957,8 @@
      ]
     },
     "defeito e problema": {
-     "n": 12,
-     "volume": 100904,
+     "n": 15,
+     "volume": 112515,
      "pct": 0.6,
      "maiores": [
       [
@@ -2970,19 +2970,19 @@
        30560
       ],
       [
-       "Erros e manuais da lava e seca Midea",
-       4656
+       "Brastemp geladeiras que não gelam",
+       5955
       ],
       [
-       "Lavadoras: problemas comuns e soluções",
-       3846
+       "Erros e manuais da lava e seca Midea",
+       4656
       ]
      ]
     },
     "assistencia e conserto": {
-     "n": 38,
-     "volume": 66860,
-     "pct": 0.4,
+     "n": 42,
+     "volume": 69342,
+     "pct": 0.3,
      "maiores": [
       [
        "Conserto de Geladeiras e Assistência Técnica",
@@ -3003,8 +3003,8 @@
      ]
     },
     "preco e compra": {
-     "n": 7,
-     "volume": 12991,
+     "n": 8,
+     "volume": 13958,
      "pct": 0.1,
      "maiores": [
       [
@@ -3020,13 +3020,13 @@
        977
       ],
       [
-       "Bemol: promoções e eletrodomésticos",
-       923
+       "Hyla Aspiradores: Preços e Avaliações",
+       967
       ]
      ]
     }
    },
-   "vazamento_pct": 61
+   "vazamento_pct": 64
   }
  },
  "meta": {
@@ -4028,5 +4028,1544 @@
    "secadora de roupas electrolux nao liga",
    0
   ]
- ]
+ ],
+ "panorama": {
+  "universo": {
+   "topicos_exportados": 9175,
+   "topicos_br": 7445,
+   "topicos_us": 1730,
+   "topicos_categoria": 3056,
+   "volume": 22608981,
+   "prompts_declarados": 82919,
+   "seeds": [
+    "air_fryers",
+    "airfryer",
+    "ar_condicionado",
+    "aspirador",
+    "climatizador",
+    "fog_es_e_eletrodom_sticos_de_cozinha",
+    "forno",
+    "freezer",
+    "geladeira",
+    "geladeiras_e_refrigeradores_no_brasil",
+    "lava_lou_a",
+    "liquidificador",
+    "m_quinas_de_lavar_roupas"
+   ],
+   "teto_por_export": 1000,
+   "prompts_lidos": 4987,
+   "prompts_distintos": 3410,
+   "provedores": [
+    "chatgpt",
+    "gemini",
+    "google_ai_mode",
+    "google_ai_overview"
+   ]
+  },
+  "cobertura_nome": {
+   "electrolux": {
+    "topicos": 200,
+    "volume": 1286687,
+    "pct": 5.69,
+    "exemplos": [
+     [
+      "Electrolux no Brasil: Geladeiras, Serviços e Lojas",
+      217538,
+      "descoberta"
+     ],
+     [
+      "Aspiradores Electrolux",
+      112803,
+      "exploracao de categoria"
+     ],
+     [
+      "Lavadoras Electrolux",
+      82842,
+      "exploracao de categoria"
+     ],
+     [
+      "lava-louças Electrolux com 8 a 14 serviços",
+      56910,
+      "exploracao de categoria"
+     ],
+     [
+      "Micro-ondas Electrolux",
+      54346,
+      "descoberta"
+     ]
+    ],
+    "nome": "Electrolux"
+   },
+   "brastemp": {
+    "topicos": 112,
+    "volume": 431319,
+    "pct": 1.91,
+    "exemplos": [
+     [
+      "Lava-louças Brastemp",
+      51660,
+      "exploracao de categoria"
+     ],
+     [
+      "Lavadoras Brastemp 13kg e 15kg",
+      32892,
+      "escolha"
+     ],
+     [
+      "Lavadoras Brastemp 12kg",
+      27681,
+      "escolha"
+     ],
+     [
+      "Brastemp Micro-ondas",
+      22880,
+      "exploracao de categoria"
+     ],
+     [
+      "Brastemp Retrô: Frigobar e Geladeira",
+      20987,
+      "descoberta"
+     ]
+    ],
+    "nome": "Brastemp"
+   },
+   "consul": {
+    "topicos": 75,
+    "volume": 265013,
+    "pct": 1.17,
+    "exemplos": [
+     [
+      "Lavadoras Consul 12kg e similares",
+      29801,
+      "descoberta"
+     ],
+     [
+      "Ar Condicionado Consul",
+      21940,
+      "escolha"
+     ],
+     [
+      "Frigobares Consul",
+      21522,
+      "descoberta"
+     ],
+     [
+      "Geladeiras frost free Consul 300–342 L",
+      16502,
+      "exploracao de categoria"
+     ],
+     [
+      "Geladeiras Consul com gelo seco",
+      15804,
+      "exploracao de categoria"
+     ]
+    ],
+    "nome": "Consul"
+   },
+   "samsung": {
+    "topicos": 39,
+    "volume": 292360,
+    "pct": 1.29,
+    "exemplos": [
+     [
+      "Ar-condicionado Samsung: Wind-Free e Inverter",
+      88552,
+      "posse"
+     ],
+     [
+      "Lavadoras Samsung Eco Bubble",
+      22776,
+      "exploracao de categoria"
+     ],
+     [
+      "Geladeiras Samsung no Brasil",
+      21652,
+      "exploracao de categoria"
+     ],
+     [
+      "Manuais e símbolos Samsung Eco Bubble Lava e Seca",
+      16381,
+      "exploracao de categoria"
+     ],
+     [
+      "ar condicionado Samsung 12.000 BTU",
+      11058,
+      "exploracao de categoria"
+     ]
+    ],
+    "nome": "Samsung"
+   },
+   "midea": {
+    "topicos": 49,
+    "volume": 354286,
+    "pct": 1.57,
+    "exemplos": [
+     [
+      "ar condicionado Midea",
+      48554,
+      "exploracao de categoria"
+     ],
+     [
+      "Lavadoras e secadoras Midea",
+      45773,
+      "exploracao de categoria"
+     ],
+     [
+      "Geladeiras Midea",
+      36637,
+      "exploracao de categoria"
+     ],
+     [
+      "Controles de ar condicionado (Midea & Springer)",
+      26420,
+      "exploracao de categoria"
+     ],
+     [
+      "Midea Brasil: Eletrodomésticos e Logotipos",
+      22926,
+      "descoberta"
+     ]
+    ],
+    "nome": "Midea"
+   },
+   "hisense": {
+    "topicos": 8,
+    "volume": 57379,
+    "pct": 0.25,
+    "exemplos": [
+     [
+      "Ar Condicionado Hisense",
+      34834,
+      "exploracao de categoria"
+     ],
+     [
+      "Lavadoras e Lava-Louças Hisense",
+      11699,
+      "exploracao de categoria"
+     ],
+     [
+      "Geladeiras Hisense",
+      5552,
+      "exploracao de categoria"
+     ],
+     [
+      "Ar condicionado portátil Hisense",
+      3580,
+      "exploracao de categoria"
+     ],
+     [
+      "ar condicionado Hisense 18000 BTU",
+      1005,
+      "escolha"
+     ]
+    ],
+    "nome": "Hisense"
+   },
+   "haier": {
+    "topicos": 2,
+    "volume": 2994,
+    "pct": 0.01,
+    "exemplos": [
+     [
+      "Haier Eletrodomésticos Brasil",
+      2318,
+      "descoberta"
+     ],
+     [
+      "Ar Condicionado Haier Portátil",
+      676,
+      "exploracao de categoria"
+     ]
+    ],
+    "nome": "Haier"
+   },
+   "outras_marcas": {
+    "topicos": 308,
+    "volume": 1597615,
+    "pct": 7.07,
+    "exemplos": [
+     [
+      "Ar Condicionado Elgin",
+      105783,
+      "exploracao de categoria"
+     ],
+     [
+      "Ar Condicionado LG Inverter",
+      89177,
+      "posse"
+     ],
+     [
+      "Ar Condicionado Gree",
+      80136,
+      "exploracao de categoria"
+     ],
+     [
+      "Fritadeiras Mondial",
+      60802,
+      "escolha"
+     ],
+     [
+      "Philco Ar Condicionado",
+      51831,
+      "exploracao de categoria"
+     ]
+    ],
+    "nome": "Outras marcas"
+   }
+  },
+  "sem_marca": {
+   "topicos": 2275,
+   "volume": 18370167,
+   "pct": 81.25,
+   "exemplos": [
+    [
+     "Ar condicionado e refrigeração",
+     739015,
+     "escolha"
+    ],
+    [
+     "Geladeiras e Refrigeradores Frost Free e Inox",
+     715796,
+     "escolha"
+    ],
+    [
+     "Fritadeiras Elétricas (Air Fryers)",
+     584548,
+     "escolha"
+    ],
+    [
+     "Tortas de Liquidificador",
+     582698,
+     "exploracao de categoria"
+    ],
+    [
+     "Cooktops e Fogões de Indução",
+     417452,
+     "escolha"
+    ]
+   ],
+   "nome": "Sem marca nenhuma"
+  },
+  "estagios": {
+   "exploracao de categoria": {
+    "topicos": 1691,
+    "volume": 11220497,
+    "pct": 49.6,
+    "prompts": 45050,
+    "sem_marca_pct": 75.7,
+    "familias": [
+     [
+      "produto e categoria",
+      11220497,
+      100.0
+     ]
+    ],
+    "exemplos": [
+     [
+      "Tortas de Liquidificador",
+      582698,
+      "produto e categoria"
+     ],
+     [
+      "Micro-ondas e Fornos de Micro-ondas",
+      378717,
+      "produto e categoria"
+     ],
+     [
+      "Ar condicionado: dicas, controles e símbolos",
+      294003,
+      "produto e categoria"
+     ],
+     [
+      "Ar Condicionado Portátil",
+      240029,
+      "produto e categoria"
+     ],
+     [
+      "Lava-louças: guias e marcas",
+      204827,
+      "produto e categoria"
+     ],
+     [
+      "Batata na Airfryer",
+      181112,
+      "produto e categoria"
+     ]
+    ],
+    "exemplos_sem_marca": [
+     [
+      "Tortas de Liquidificador",
+      582698,
+      "produto e categoria"
+     ],
+     [
+      "Micro-ondas e Fornos de Micro-ondas",
+      378717,
+      "produto e categoria"
+     ],
+     [
+      "Ar condicionado: dicas, controles e símbolos",
+      294003,
+      "produto e categoria"
+     ],
+     [
+      "Ar Condicionado Portátil",
+      240029,
+      "produto e categoria"
+     ],
+     [
+      "Lava-louças: guias e marcas",
+      204827,
+      "produto e categoria"
+     ],
+     [
+      "Batata na Airfryer",
+      181112,
+      "produto e categoria"
+     ]
+    ]
+   },
+   "descoberta": {
+    "topicos": 488,
+    "volume": 1584710,
+    "pct": 7.0,
+    "prompts": 9873,
+    "sem_marca_pct": 54.1,
+    "familias": [
+     [
+      "produto e categoria",
+      1004370,
+      63.4
+     ],
+     [
+      "marca e loja",
+      580340,
+      36.6
+     ]
+    ],
+    "exemplos": [
+     [
+      "Electrolux no Brasil: Geladeiras, Serviços e Lojas",
+      217538,
+      "marca e loja"
+     ],
+     [
+      "Lojas Cem Brasil: móveis e eletrodomésticos",
+      201445,
+      "marca e loja"
+     ],
+     [
+      "Eletrodomésticos e outlets no Brasil",
+      65997,
+      "marca e loja"
+     ],
+     [
+      "Micro-ondas Electrolux",
+      54346,
+      "produto e categoria"
+     ],
+     [
+      "Ar condicionado Agratto Brasil",
+      54171,
+      "produto e categoria"
+     ],
+     [
+      "Frigelar Brasil: Refrigeração e Ar Condicionado",
+      37243,
+      "produto e categoria"
+     ]
+    ],
+    "exemplos_sem_marca": [
+     [
+      "Lojas Cem Brasil: móveis e eletrodomésticos",
+      201445,
+      "marca e loja"
+     ],
+     [
+      "Eletrodomésticos e outlets no Brasil",
+      65997,
+      "marca e loja"
+     ],
+     [
+      "Ar condicionado Agratto Brasil",
+      54171,
+      "produto e categoria"
+     ],
+     [
+      "Frigelar Brasil: Refrigeração e Ar Condicionado",
+      37243,
+      "produto e categoria"
+     ],
+     [
+      "Dufrio ar condicionado Brasil",
+      27312,
+      "produto e categoria"
+     ],
+     [
+      "Air Fryer WAP Brasil",
+      21503,
+      "produto e categoria"
+     ]
+    ]
+   },
+   "escolha": {
+    "topicos": 552,
+    "volume": 6688851,
+    "pct": 29.6,
+    "prompts": 16948,
+    "sem_marca_pct": 93.3,
+    "familias": [
+     [
+      "produto e categoria",
+      6133550,
+      91.7
+     ],
+     [
+      "comparacao e modelo",
+      295915,
+      4.4
+     ],
+     [
+      "preco e compra",
+      259386,
+      3.9
+     ]
+    ],
+    "exemplos": [
+     [
+      "Ar condicionado e refrigeração",
+      739015,
+      "produto e categoria"
+     ],
+     [
+      "Geladeiras e Refrigeradores Frost Free e Inox",
+      715796,
+      "produto e categoria"
+     ],
+     [
+      "Fritadeiras Elétricas (Air Fryers)",
+      584548,
+      "produto e categoria"
+     ],
+     [
+      "Cooktops e Fogões de Indução",
+      417452,
+      "produto e categoria"
+     ],
+     [
+      "Climatizadores de Ar",
+      339623,
+      "produto e categoria"
+     ],
+     [
+      "Purificadores de Água",
+      220775,
+      "produto e categoria"
+     ]
+    ],
+    "exemplos_sem_marca": [
+     [
+      "Ar condicionado e refrigeração",
+      739015,
+      "produto e categoria"
+     ],
+     [
+      "Geladeiras e Refrigeradores Frost Free e Inox",
+      715796,
+      "produto e categoria"
+     ],
+     [
+      "Fritadeiras Elétricas (Air Fryers)",
+      584548,
+      "produto e categoria"
+     ],
+     [
+      "Cooktops e Fogões de Indução",
+      417452,
+      "produto e categoria"
+     ],
+     [
+      "Climatizadores de Ar",
+      339623,
+      "produto e categoria"
+     ],
+     [
+      "Purificadores de Água",
+      220775,
+      "produto e categoria"
+     ]
+    ]
+   },
+   "posse": {
+    "topicos": 325,
+    "volume": 3114923,
+    "pct": 13.8,
+    "prompts": 11048,
+    "sem_marca_pct": 89.4,
+    "familias": [
+     [
+      "consumo e energia",
+      1088945,
+      35.0
+     ],
+     [
+      "manutencao e limpeza",
+      608652,
+      19.5
+     ],
+     [
+      "peca e filtro",
+      498001,
+      16.0
+     ],
+     [
+      "uso e receita",
+      433609,
+      13.9
+     ],
+     [
+      "defeito e problema",
+      201163,
+      6.5
+     ],
+     [
+      "instalacao",
+      155567,
+      5.0
+     ]
+    ],
+    "exemplos": [
+     [
+      "Ar condicionado 9000 BTU (split/inverter)",
+      263219,
+      "consumo e energia"
+     ],
+     [
+      "Air Fryer: Receitas e Usos",
+      189428,
+      "uso e receita"
+     ],
+     [
+      "Robo Aspirador e Limpeza",
+      167007,
+      "manutencao e limpeza"
+     ],
+     [
+      "Ar condicionado 12000 BTU com inverter",
+      143732,
+      "consumo e energia"
+     ],
+     [
+      "Ar condicionado: peças e funcionamento",
+      93398,
+      "peca e filtro"
+     ],
+     [
+      "Ar Condicionado Inverter e Split",
+      92193,
+      "consumo e energia"
+     ]
+    ],
+    "exemplos_sem_marca": [
+     [
+      "Ar condicionado 9000 BTU (split/inverter)",
+      263219,
+      "consumo e energia"
+     ],
+     [
+      "Air Fryer: Receitas e Usos",
+      189428,
+      "uso e receita"
+     ],
+     [
+      "Robo Aspirador e Limpeza",
+      167007,
+      "manutencao e limpeza"
+     ],
+     [
+      "Ar condicionado 12000 BTU com inverter",
+      143732,
+      "consumo e energia"
+     ],
+     [
+      "Ar condicionado: peças e funcionamento",
+      93398,
+      "peca e filtro"
+     ],
+     [
+      "Ar Condicionado Inverter e Split",
+      92193,
+      "consumo e energia"
+     ]
+    ]
+   }
+  },
+  "intents": {
+   "informational": 53.2,
+   "commercial": 24.1,
+   "transactional": 10.6,
+   "navigational": 8.3,
+   "task": 3.9
+  },
+  "familias": {
+   "produto e categoria": {
+    "volume": 18358417,
+    "topicos": 2637,
+    "pct": 81.2,
+    "sem_marca_pct": 79.9,
+    "exemplos": [
+     [
+      "Ar condicionado e refrigeração",
+      739015
+     ],
+     [
+      "Geladeiras e Refrigeradores Frost Free e Inox",
+      715796
+     ],
+     [
+      "Fritadeiras Elétricas (Air Fryers)",
+      584548
+     ],
+     [
+      "Tortas de Liquidificador",
+      582698
+     ]
+    ]
+   },
+   "comparacao e modelo": {
+    "volume": 295915,
+    "topicos": 15,
+    "pct": 1.3,
+    "sem_marca_pct": 99.2,
+    "exemplos": [
+     [
+      "Melhores Ar Condicionado",
+      119140
+     ],
+     [
+      "Ventiladores: guia de compra e avaliações",
+      62532
+     ],
+     [
+      "Lava e Seca: Melhores Máquinas 2024",
+      52918
+     ],
+     [
+      "Ventilação vs. ar condicionado: saúde respiratória",
+      15737
+     ]
+    ]
+   },
+   "preco e compra": {
+    "volume": 259386,
+    "topicos": 23,
+    "pct": 1.1,
+    "sem_marca_pct": 100.0,
+    "exemplos": [
+     [
+      "Promoções de Casa: liquidificadores e móveis",
+      90737
+     ],
+     [
+      "Frigobar: Preços e Promoções",
+      70598
+     ],
+     [
+      "Melhores Air Fryers: Custo-Benefício",
+      24858
+     ],
+     [
+      "Geladeiras: melhores marcas e custo-benefício",
+      24218
+     ]
+    ]
+   },
+   "peca e filtro": {
+    "volume": 498001,
+    "topicos": 105,
+    "pct": 2.2,
+    "sem_marca_pct": 80.7,
+    "exemplos": [
+     [
+      "Ar condicionado: peças e funcionamento",
+      93398
+     ],
+     [
+      "Termostatos de Geladeira",
+      47539
+     ],
+     [
+      "Compressores de Ar Condicionado",
+      35790
+     ],
+     [
+      "Peças de máquina de lavar",
+      27921
+     ]
+    ]
+   },
+   "uso e receita": {
+    "volume": 433609,
+    "topicos": 23,
+    "pct": 1.9,
+    "sem_marca_pct": 99.7,
+    "exemplos": [
+     [
+      "Air Fryer: Receitas e Usos",
+      189428
+     ],
+     [
+      "Arroz de Forno: Receitas e Dicas",
+      62196
+     ],
+     [
+      "Receitas de peixe na airfryer",
+      56520
+     ],
+     [
+      "Airfryer: carnes e receitas",
+      31143
+     ]
+    ]
+   },
+   "garantia e suporte": {
+    "volume": 46540,
+    "topicos": 18,
+    "pct": 0.2,
+    "sem_marca_pct": 97.8,
+    "exemplos": [
+     [
+      "Suportes para micro-ondas e forno elétrico",
+      9076
+     ],
+     [
+      "Suportes para ar condicionado",
+      6952
+     ],
+     [
+      "Móveis e suportes para cooktop",
+      6056
+     ],
+     [
+      "Pés e Suportes para Geladeira",
+      5569
+     ]
+    ]
+   },
+   "consumo e energia": {
+    "volume": 1088945,
+    "topicos": 44,
+    "pct": 4.8,
+    "sem_marca_pct": 81.5,
+    "exemplos": [
+     [
+      "Ar condicionado 9000 BTU (split/inverter)",
+      263219
+     ],
+     [
+      "Ar condicionado 12000 BTU com inverter",
+      143732
+     ],
+     [
+      "Ar Condicionado Inverter e Split",
+      92193
+     ],
+     [
+      "Ar Condicionado LG Inverter",
+      89177
+     ]
+    ]
+   },
+   "assistencia e conserto": {
+    "volume": 82446,
+    "topicos": 48,
+    "pct": 0.4,
+    "sem_marca_pct": 98.0,
+    "exemplos": [
+     [
+      "Conserto de Geladeiras e Assistência Técnica",
+      21060
+     ],
+     [
+      "Conserto de Eletrodomésticos",
+      10588
+     ],
+     [
+      "Geladeiras GE e assistência (General Electric)",
+      7034
+     ],
+     [
+      "Suggar: Eletrodomésticos e Assistência",
+      6120
+     ]
+    ]
+   },
+   "manutencao e limpeza": {
+    "volume": 608652,
+    "topicos": 38,
+    "pct": 2.7,
+    "sem_marca_pct": 98.9,
+    "exemplos": [
+     [
+      "Robo Aspirador e Limpeza",
+      167007
+     ],
+     [
+      "Limpeza de Ar Condicionado",
+      80659
+     ],
+     [
+      "Limpeza de Máquina de Lavar",
+      58643
+     ],
+     [
+      "Frost Free e Degelo em Geladeiras",
+      44476
+     ]
+    ]
+   },
+   "marca e loja": {
+    "volume": 580340,
+    "topicos": 56,
+    "pct": 2.6,
+    "sem_marca_pct": 62.0,
+    "exemplos": [
+     [
+      "Electrolux no Brasil: Geladeiras, Serviços e Lojas",
+      217538
+     ],
+     [
+      "Lojas Cem Brasil: móveis e eletrodomésticos",
+      201445
+     ],
+     [
+      "Eletrodomésticos e outlets no Brasil",
+      65997
+     ],
+     [
+      "Ricardo Eletro e lojas de eletrodomésticos",
+      18242
+     ]
+    ]
+   },
+   "instalacao": {
+    "volume": 155567,
+    "topicos": 23,
+    "pct": 0.7,
+    "sem_marca_pct": 99.5,
+    "exemplos": [
+     [
+      "Instalação de Ar Condicionado",
+      60532
+     ],
+     [
+      "Instalação de Cooktop",
+      18213
+     ],
+     [
+      "Instalação elétrica de ar condicionado",
+      16793
+     ],
+     [
+      "Lava-louças Compactas e Instalação",
+      12635
+     ]
+    ]
+   },
+   "defeito e problema": {
+    "volume": 201163,
+    "topicos": 26,
+    "pct": 0.9,
+    "sem_marca_pct": 90.0,
+    "exemplos": [
+     [
+      "Geladeira Não gela: Vazamento de gás e falhas",
+      53308
+     ],
+     [
+      "limpeza de ferro de passar",
+      47535
+     ],
+     [
+      "Ar Condicionado: Não Gelando",
+      30560
+     ],
+     [
+      "Geladeiras: barulhos e falhas comuns",
+      16378
+     ]
+    ]
+   }
+  },
+  "ocupacao": {
+   "brastemp-com-br": {
+    "dominio": "brastemp.com.br",
+    "linhas": 1000,
+    "topicos_no_universo": 621,
+    "fora_do_universo": 379,
+    "presenca_pct": 19.2,
+    "ocupacao_pct": 8.2,
+    "visibility_mediana": 35,
+    "por_estagio": {
+     "exploracao de categoria": {
+      "presenca": 18.6,
+      "ocupacao": 8.2,
+      "descoberto": 81.4
+     },
+     "descoberta": {
+      "presenca": 15.5,
+      "ocupacao": 7.7,
+      "descoberto": 84.5
+     },
+     "escolha": {
+      "presenca": 23.2,
+      "ocupacao": 9.8,
+      "descoberto": 76.8
+     },
+     "posse": {
+      "presenca": 14.5,
+      "ocupacao": 4.9,
+      "descoberto": 85.5
+     }
+    },
+    "maiores": [
+     [
+      "Geladeiras e Refrigeradores Frost Free e Inox",
+      715796,
+      43,
+      283,
+      "escolha"
+     ],
+     [
+      "Micro-ondas e Fornos de Micro-ondas",
+      378717,
+      33,
+      99,
+      "exploracao de categoria"
+     ],
+     [
+      "Lava-louças: guias e marcas",
+      204827,
+      61,
+      241,
+      "exploracao de categoria"
+     ],
+     [
+      "Forno de Embutir Elétrico",
+      111086,
+      52,
+      40,
+      "exploracao de categoria"
+     ],
+     [
+      "Lava-louças Brastemp",
+      51660,
+      97,
+      151,
+      "exploracao de categoria"
+     ],
+     [
+      "Fornos Elétricos",
+      147415,
+      30,
+      63,
+      "escolha"
+     ]
+    ]
+   }
+  },
+  "ocupacao_pendente": [
+   "loja.electrolux.com.br",
+   "consul.com.br",
+   "midea.com.br",
+   "samsung.com.br",
+   "hisense",
+   "haier"
+  ],
+  "prompts": {
+   "n": 4987,
+   "distintos": 3410,
+   "seeds": [
+    "brastemp",
+    "eletrolux",
+    "geladeira",
+    "hisense",
+    "midea"
+   ],
+   "seeds_de_marca": [
+    "brastemp",
+    "eletrolux",
+    "hisense",
+    "midea"
+   ],
+   "sem_seed": [
+    "consul",
+    "samsung",
+    "haier"
+   ],
+   "por_provedor": {
+    "chatgpt": 840,
+    "gemini": 884,
+    "google_ai_mode": 888,
+    "google_ai_overview": 2375
+   },
+   "mencao_na_resposta": [
+    [
+     "brastemp",
+     1026,
+     20.6
+    ],
+    [
+     "midea",
+     984,
+     19.7
+    ],
+    [
+     "electrolux",
+     939,
+     18.8
+    ],
+    [
+     "consul",
+     163,
+     3.3
+    ],
+    [
+     "hisense",
+     129,
+     2.6
+    ],
+    [
+     "panasonic",
+     38,
+     0.8
+    ],
+    [
+     "lg",
+     31,
+     0.6
+    ],
+    [
+     "samsung",
+     22,
+     0.4
+    ],
+    [
+     "whirlpool",
+     13,
+     0.3
+    ],
+    [
+     "continental",
+     10,
+     0.2
+    ]
+   ],
+   "marcas_por_resposta": 2.8,
+   "fontes_por_resposta": 7.4,
+   "sem_fonte_pct": 20,
+   "familias": [
+    [
+     "produto e categoria",
+     2924
+    ],
+    [
+     "comparacao e modelo",
+     742
+    ],
+    [
+     "preco e compra",
+     502
+    ],
+    [
+     "consumo e energia",
+     238
+    ],
+    [
+     "peca e filtro",
+     152
+    ],
+    [
+     "garantia e suporte",
+     152
+    ],
+    [
+     "assistencia e conserto",
+     112
+    ],
+    [
+     "marca e loja",
+     52
+    ]
+   ],
+   "marca_por_familia": {
+    "preco e compra": {
+     "n": 235,
+     "com_marca": 33.2,
+     "sem_marca": 66.8
+    },
+    "produto e categoria": {
+     "n": 363,
+     "com_marca": 21.2,
+     "sem_marca": 78.8
+    },
+    "comparacao e modelo": {
+     "n": 189,
+     "com_marca": 22.2,
+     "sem_marca": 77.8
+    },
+    "peca e filtro": {
+     "n": 34,
+     "com_marca": 8.8,
+     "sem_marca": 91.2
+    },
+    "consumo e energia": {
+     "n": 76,
+     "com_marca": 11.8,
+     "sem_marca": 88.2
+    }
+   },
+   "marca_por_familia_contaminado": {
+    "preco e compra": {
+     "n": 373,
+     "com_marca": 54.7,
+     "sem_marca": 45.3
+    },
+    "produto e categoria": {
+     "n": 1530,
+     "com_marca": 79.3,
+     "sem_marca": 20.7
+    },
+    "marca e loja": {
+     "n": 28,
+     "com_marca": 50.0,
+     "sem_marca": 50.0
+    },
+    "comparacao e modelo": {
+     "n": 444,
+     "com_marca": 58.6,
+     "sem_marca": 41.4
+    },
+    "peca e filtro": {
+     "n": 90,
+     "com_marca": 63.3,
+     "sem_marca": 36.7
+    },
+    "manutencao e limpeza": {
+     "n": 25,
+     "com_marca": 68.0,
+     "sem_marca": 32.0
+    },
+    "garantia e suporte": {
+     "n": 84,
+     "com_marca": 85.7,
+     "sem_marca": 14.3
+    },
+    "assistencia e conserto": {
+     "n": 26,
+     "com_marca": 80.8,
+     "sem_marca": 19.2
+    },
+    "instalacao": {
+     "n": 36,
+     "com_marca": 83.3,
+     "sem_marca": 16.7
+    },
+    "consumo e energia": {
+     "n": 184,
+     "com_marca": 62.0,
+     "sem_marca": 38.0
+    }
+   },
+   "n_limpo": 943,
+   "taxa_marca_geral": 23.6,
+   "exemplos_limpos": {
+    "preco e compra": [
+     [
+      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais são as melhores geladeiras com boa eficiência energética e custo-benefício?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais são as melhores opções de geladeira para famílias de 4 a 5 pessoas dentro de faixas de preço comuns no varejo online?",
+      "gemini",
+      ""
+     ]
+    ],
+    "produto e categoria": [
+     [
+      "Geladeiras de Luxo",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Geladeiras para Chopp",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais marcas de geladeiras de luxo vocês recomendam para uma cozinha moderna?",
+      "gemini",
+      ""
+     ]
+    ],
+    "comparacao e modelo": [
+     [
+      "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais marcas oferecem as melhores opções de geladeira para área gourmet no Brasil?",
+      "gemini",
+      ""
+     ],
+     [
+      "Como escolher uma geladeira de luxo que combine com meu estilo de decoração e orçamento?",
+      "gemini",
+      ""
+     ]
+    ],
+    "peca e filtro": [
+     [
+      "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
+      "gemini",
+      ""
+     ],
+     [
+      "Como escolher peças compatíveis com meu modelo de geladeira ao comprar pela internet?",
+      "gemini",
+      ""
+     ],
+     [
+      "Peças de Geladeira",
+      "chatgpt",
+      ""
+     ]
+    ],
+    "consumo e energia": [
+     [
+      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
+      "gemini",
+      ""
+     ],
+     [
+      "geladeiras inverter inox",
+      "google_ai_overview",
+      "electrolux|brastemp|midea"
+     ],
+     [
+      "Como comparar preços e consumo entre geladeiras com freezer embaixo e modelos tradicionais?",
+      "chatgpt",
+      ""
+     ]
+    ]
+   },
+   "exemplos": {
+    "assistencia e conserto": [
+     [
+      "Geladeiras GE e assistência (General Electric)",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Onde posso encontrar peças ou assistência para geladeiras Hisense no Brasil?",
+      "gemini",
+      "hisense"
+     ],
+     [
+      "Existe suporte de peças e assistência técnica disponível para geladeiras Prosdocimo no Brasil?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais fatores considerar (garantia, entrega, assistência) ao escolher uma geladeira na Americanas?",
+      "google_ai_mode",
+      ""
+     ]
+    ],
+    "defeito e problema": [
+     [
+      "Como resolver problemas de conexão entre o app Midea e o ar condicionado?",
+      "gemini",
+      "midea"
+     ],
+     [
+      "Como resolver problemas de conexão entre o app Midea e o ar condicionado?",
+      "chatgpt",
+      "midea"
+     ],
+     [
+      "Como resolver problemas de conexão entre o app Midea e o ar condicionado?",
+      "google_ai_mode",
+      "midea"
+     ],
+     [
+      "quero vender microondas com defeito",
+      "google_ai_overview",
+      ""
+     ]
+    ],
+    "manutencao e limpeza": [
+     [
+      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais dicas você me daria para manter uma geladeira comercial com baixa necessidade de manutenção e maior durabilidade?",
+      "gemini",
+      ""
+     ]
+    ],
+    "peca e filtro": [
+     [
+      "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Como escolher peças compatíveis com meu modelo de geladeira ao comprar pela internet?",
+      "gemini",
+      ""
+     ]
+    ],
+    "instalacao": [
+     [
+      "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
+      "gemini",
+      ""
+     ],
+     [
+      "Como instalar uma geladeira de embutir sem comprometer a ventilação e a eficiência?",
+      "google_ai_mode",
+      ""
+     ]
+    ],
+    "uso e receita": [
+     [
+      "Quais receitas rápidas você recomendaria para uma air fryer Midea?",
+      "gemini",
+      "midea"
+     ],
+     [
+      "Quais receitas rápidas você recomendaria para uma air fryer Midea?",
+      "chatgpt",
+      "midea"
+     ],
+     [
+      "Quais receitas rápidas você recomendaria para uma air fryer Midea?",
+      "google_ai_mode",
+      "midea"
+     ],
+     [
+      "Quais são as melhores configurações de temperatura para uma geladeira Midea 411 litros para economizar energia?",
+      "gemini",
+      "midea"
+     ]
+    ],
+    "comparacao e modelo": [
+     [
+      "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais marcas oferecem as melhores opções de geladeira para área gourmet no Brasil?",
+      "gemini",
+      ""
+     ],
+     [
+      "Como escolher uma geladeira de luxo que combine com meu estilo de decoração e orçamento?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
+      "google_ai_mode",
+      ""
+     ]
+    ],
+    "preco e compra": [
+     [
+      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais são as melhores geladeiras com boa eficiência energética e custo-benefício?",
+      "chatgpt",
+      ""
+     ]
+    ],
+    "produto e categoria": [
+     [
+      "Geladeiras de Luxo",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Geladeiras para Chopp",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais marcas de geladeiras de luxo vocês recomendam para uma cozinha moderna?",
+      "gemini",
+      ""
+     ],
+     [
+      "Refrigeração e Eletrodomésticos",
+      "chatgpt",
+      ""
+     ]
+    ]
+   }
+  }
+ }
 }

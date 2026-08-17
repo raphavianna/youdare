@@ -1,0 +1,1001 @@
+name,prompts_count,volume,volume_trend,intents
+Refrigerators & Fridges,28,17961,39;44;46;46;54;55;55;78;100;100;100;100,task:2;informational:51;navigational:1;commercial:37;transactional:9
+Amazon Freezers,15,178,10;15;19;25;25;26;28;15;24;100;15;16,task:3;informational:30;navigational:25;commercial:21;transactional:21
+Chest Freezers & Freezer Appliances,16,188,14;29;34;30;32;38;53;100;71;31;29;29,task:7;informational:45;navigational:4;commercial:28;transactional:16
+Commercial Refrigeration & Freezers,15,182,79;90;98;96;92;95;100;95;92;92;97;96,task:3;informational:44;navigational:4;commercial:35;transactional:14
+Cooling and Freezing Tech,16,1757,11;15;19;20;17;18;18;12;12;14;12;100,task:2;informational:58;navigational:22;commercial:9;transactional:9
+Freezers para gelo,16,426,44;78;100;76;74;56;47;62;62;73;85;89,task:3;informational:51;navigational:1;commercial:34;transactional:11
+Freezers e Geladeiras,152,113169,66;67;70;78;88;88;88;99;100;100;100;100,task:5;informational:45;navigational:4;commercial:31;transactional:15
+Frozen Food Essentials,16,676,24;11;27;22;22;16;12;41;87;95;91;100,task:2;informational:55;navigational:5;commercial:18;transactional:20
+Freezers usados,19,4374,48;66;70;80;99;100;100;81;84;84;84;83,task:5;informational:42;navigational:5;commercial:31;transactional:17
+Frozen Fruits & Berries,16,269,55;58;58;65;63;63;66;100;73;73;73;73,task:8;informational:50;navigational:2;commercial:35;transactional:5
+Freezers Artico,15,275,37;51;51;48;68;77;100;49;39;41;52;52,task:1;informational:53;navigational:18;commercial:22;transactional:6
+Cold Rooms & Refrigeration,18,658,83;85;85;84;100;100;100;100;59;59;59;63,task:8;informational:76;navigational:2;commercial:12;transactional:2
+Freezers Inox,16,538,49;71;72;100;96;68;76;71;66;65;65;65,task:3;informational:45;navigational:4;commercial:37;transactional:11
+Freezers Esmaltec,19,1321,45;59;60;63;70;76;70;85;92;100;72;72,task:8;informational:40;navigational:20;commercial:22;transactional:10
+Freeze Drying & Lyophilization,20,758,30;32;31;41;97;100;100;45;37;37;37;37,task:2;informational:63;navigational:3;commercial:12;transactional:20
+Sub Zero Refrigerators,16,95,32;34;34;34;34;100;86;32;32;48;35;37,task:3;informational:46;navigational:23;commercial:20;transactional:8
+Ice Bags and Coolers,18,1086,51;54;54;54;35;37;41;100;93;93;95;95,task:8;informational:53;navigational:10;commercial:25;transactional:4
+LG Refrigerators,15,354,7;16;19;17;23;25;45;9;9;100;27;32,task:7;informational:30;navigational:23;commercial:18;transactional:22
+Freezers Philco,22,1876,65;97;100;95;89;94;97;83;93;98;97;91,task:7;informational:26;navigational:27;commercial:21;transactional:19
+Freezers Portáteis para Carro,20,2603,85;100;96;48;58;61;62;60;61;61;61;60,task:8;informational:43;navigational:4;commercial:35;transactional:10
+Freezers Metalfrio,30,4061,63;86;94;93;87;89;90;91;95;100;96;95,task:2;informational:45;navigational:15;commercial:25;transactional:13
+Freezers de bebidas Skol/Ambev,17,817,60;77;55;79;78;79;78;84;71;89;97;100,task:5;informational:33;navigational:1;commercial:40;transactional:21
+Freezers Industriais,18,939,87;100;61;58;53;56;56;60;60;60;56;55,task:2;informational:53;navigational:4;commercial:34;transactional:7
+Locação de Freezers,21,4683,44;50;35;43;56;58;58;59;100;100;100;100,task:8;informational:44;navigational:4;commercial:30;transactional:14
+Freezers com Ponto Frio,15,1015,13;30;29;42;36;45;44;63;37;42;35;100,task:1;informational:19;navigational:48;commercial:12;transactional:20
+Freezers com gavetas,15,839,45;67;68;65;64;66;66;68;90;100;68;68,task:3;informational:53;navigational:4;commercial:31;transactional:9
+Freezers Gelopar com tampas de vidro,15,210,59;71;75;67;60;62;62;100;60;60;60;60,task:3;informational:25;navigational:14;commercial:40;transactional:18
+Freezers de 100 litros,15,1258,47;67;73;69;68;73;74;80;74;75;91;100,task:7;informational:43;navigational:6;commercial:34;transactional:10
+Wine Coolers & Refrigerators,17,1716,70;83;83;80;96;100;100;91;95;94;100;100,task:2;informational:47;navigational:4;commercial:31;transactional:16
+"Freezer: tradução, plural e diferenças com congelador",35,7650,64;69;68;68;99;100;100;62;70;70;70;70,task:2;informational:79;navigational:2;commercial:9;transactional:8
+Ice Makers and Ice Machines,20,1990,63;72;73;51;90;92;92;100;82;82;78;78,task:5;informational:46;navigational:4;commercial:31;transactional:14
+Refrigeração: Freezers Refrimate,16,112,30;63;45;40;53;51;32;100;78;32;32;32,task:3;informational:64;navigational:10;commercial:16;transactional:7
+Arctic Liquid Freezers and Water Coolers,16,832,28;48;47;48;50;51;53;64;64;64;100;88,task:3;informational:36;navigational:16;commercial:37;transactional:8
+Freezers para carnes,20,1212,45;47;49;55;73;59;59;65;90;91;99;100,task:5;informational:49;navigational:2;commercial:36;transactional:8
+Freezers para Sorvete,17,2158,87;100;53;59;57;61;65;67;63;63;63;62,task:8;informational:55;navigational:1;commercial:32;transactional:4
+freezers Midea,26,11699,72;79;82;97;42;42;43;44;100;100;100;99,task:3;informational:42;navigational:16;commercial:17;transactional:22
+Freezers Electrolux pt,38,15490,92;97;100;46;44;46;46;46;97;97;98;98,task:2;informational:19;navigational:31;commercial:15;transactional:33
+Mini Fridges & Compact Refrigerators,15,587,51;86;100;84;77;81;81;75;74;83;81;88,task:1;informational:56;navigational:5;commercial:21;transactional:17
+Vertical Freezers 220V/127V,15,699,51;74;75;73;63;77;67;61;73;78;93;100,task:3;informational:51;navigational:4;commercial:38;transactional:4
+Freezers para Açaí,17,289,37;49;48;70;76;100;81;40;40;36;35;82,task:3;informational:57;navigational:1;commercial:28;transactional:11
+Organizadores de Freezer,16,566,52;85;100;84;55;56;58;60;57;57;73;73,task:2;informational:62;navigational:2;commercial:24;transactional:10
+freezers 311 litros,16,950,9;21;29;16;16;22;40;34;33;100;92;90,task:3;informational:56;navigational:4;commercial:28;transactional:9
+Walk-In Coolers & Freezers,18,1272,27;30;32;52;65;68;68;100;76;76;72;72,task:2;informational:65;navigational:10;commercial:18;transactional:5
+Geladeiras e Freezers,24,13701,18;23;24;44;80;81;81;90;100;100;100;100,task:6;informational:69;navigational:4;commercial:16;transactional:5
+Freezers com chave 419 litros,16,155,41;89;100;42;38;39;54;94;81;86;72;80,task:13;informational:31;navigational:1;commercial:44;transactional:11
+Freezers nas Lojas Americanas,15,327,17;60;82;36;36;63;70;59;80;100;38;48,task:3;informational:27;navigational:34;commercial:11;transactional:25
+Ultracongeladores e Freezers,24,2491,15;21;21;45;98;99;100;42;39;39;39;39,task:3;informational:52;navigational:4;commercial:28;transactional:13
+Super Coolers,16,364,54;78;82;74;100;84;82;89;91;85;84;86,task:10;informational:39;navigational:20;commercial:18;transactional:13
+Freezers Verticais Gelopar,15,655,21;11;11;10;9;10;9;9;9;100;85;90,task:2;informational:64;navigational:5;commercial:22;transactional:7
+Cryogenics,17,1013,70;79;82;75;63;63;63;100;97;81;70;80,task:5;informational:73;navigational:5;commercial:12;transactional:5
+Dry Ice Resources,16,6561,25;27;28;99;99;100;100;100;100;100;100;100,task:5;informational:75;navigational:5;commercial:10;transactional:5
+Freezers e Conservadores Verticais,17,396,39;67;74;49;68;97;100;59;51;52;52;94,task:3;informational:59;navigational:4;commercial:28;transactional:6
+Freezers e Geladeiras Brastemp/Electrolux,21,1385,87;100;100;65;63;64;64;81;70;70;70;71,task:2;informational:50;navigational:9;commercial:30;transactional:9
+Ice Makers,16,1231,82;91;92;67;67;73;73;68;97;98;100;100,task:2;informational:50;navigational:4;commercial:36;transactional:8
+Freezers de 400 litros,21,923,43;61;63;59;58;61;61;56;90;100;70;66,task:10;informational:39;navigational:4;commercial:34;transactional:13
+Câmaras frias para gelo,16,84,79;89;91;87;87;100;96;90;84;84;84;84,task:7;informational:49;navigational:4;commercial:32;transactional:8
+Freezers do Magazine Luiza,17,652,73;96;98;93;82;87;87;100;89;87;87;87,task:4;informational:24;navigational:30;commercial:19;transactional:23
+Cool Box Coolers,18,3446,28;32;32;19;18;19;21;100;97;95;95;95,task:4;informational:49;navigational:2;commercial:36;transactional:9
+Freezers Verticais e Mini Freezers,32,11943,96;100;48;51;54;54;54;52;53;53;53;53,task:5;informational:46;navigational:1;commercial:37;transactional:11
+Geladeiras e freezers para bares e restaurantes,17,617,70;98;100;89;85;87;96;92;83;82;92;91,task:3;informational:30;navigational:1;commercial:55;transactional:11
+Refrigeração e Equipamentos Big Frio,15,137,55;63;68;73;76;79;77;79;100;100;100;100,task:3;informational:29;navigational:41;commercial:13;transactional:14
+Electrolux Freezer H400,19,300,28;39;43;36;44;37;34;47;39;100;87;56,task:3;informational:45;navigational:18;commercial:21;transactional:13
+Suportes para Freezers,15,322,15;60;71;100;56;70;53;62;58;70;61;70,task:7;informational:47;navigational:5;commercial:27;transactional:14
+Freezers de 150 litros,15,1485,29;37;36;33;41;43;47;56;62;73;93;100,task:7;informational:36;navigational:4;commercial:36;transactional:17
+Refrigeração e Eletrodomésticos,17,1089,13;38;41;43;43;42;36;56;49;63;57;100,task:8;informational:72;navigational:5;commercial:15
+Freezers 530–534 litros,16,956,17;24;34;31;31;28;58;61;38;89;68;100,task:3;informational:46;navigational:11;commercial:32;transactional:8
+Freezers Brastemp 228 litros,15,999,6;13;14;12;13;26;16;60;53;100;89;89,task:3;informational:53;navigational:12;commercial:25;transactional:7
+Freezers e Geladeiras Self-Service,15,479,4;6;8;10;32;38;27;10;8;100;87;95,task:8;informational:35;navigational:25;commercial:26;transactional:6
+Caixas Térmicas e Freezers,15,339,53;84;100;65;72;65;76;79;81;63;63;64,task:2;informational:53;navigational:4;commercial:35;transactional:6
+Freezers de 500 litros,17,688,64;89;91;86;86;91;100;87;90;89;86;88,task:3;informational:51;navigational:7;commercial:32;transactional:7
+Freezers Mercado Livre pt,19,1965,85;99;100;95;51;56;56;73;69;84;75;68,task:2;informational:13;navigational:50;commercial:9;transactional:26
+Freezers Consul 2 portas,42,8604,71;80;86;97;98;100;100;100;100;100;100;100,task:5;informational:40;navigational:7;commercial:29;transactional:19
+Freezers de cerveja usados,16,211,38;46;50;84;80;40;38;100;89;35;35;35,task:5;informational:50;navigational:5;commercial:25;transactional:15
+Freezers e refrigeradores de 1 porta,19,5523,87;97;100;100;99;100;100;49;51;51;51;51,task:2;informational:50;navigational:1;commercial:38;transactional:9
+Mastercool Refrigeration & HVAC,15,639,31;51;56;54;49;48;48;44;43;47;47;100,task:3;informational:18;navigational:58;commercial:8;transactional:13
+Frio e Refrigeração,15,159,100;44;45;45;43;44;44;45;46;63;58;55,task:8;informational:63;navigational:4;commercial:17;transactional:8
+Geladeiras e Freezers Prosdocimo,26,6718,48;52;57;58;89;91;91;100;98;98;98;97,task:2;informational:57;navigational:19;commercial:19;transactional:3
+Freezers de 250 litros,15,995,5;11;13;9;9;9;25;17;21;100;80;80,task:3;informational:49;navigational:4;commercial:33;transactional:11
+Freezers: melhores preços e marcas,24,2330,23;31;30;73;96;99;100;83;100;100;97;100,task:5;informational:24;navigational:4;commercial:57;transactional:10
+Coleman Ice Coolers,15,255,51;70;63;74;74;82;96;99;100;100;100;100,task:3;informational:43;navigational:11;commercial:32;transactional:11
+Freezers Electrolux FE26,27,2688,33;38;37;36;37;43;45;45;85;86;100;100,task:5;informational:54;navigational:15;commercial:16;transactional:10
+Geladeiras com freezer embaixo,60,26686,98;100;46;51;64;64;64;77;75;75;75;75,task:5;informational:39;navigational:4;commercial:42;transactional:10
+Frigoestrela e Alimentos,16,623,58;79;84;81;94;98;96;83;85;100;100;84,task:7;informational:26;navigational:45;commercial:12;transactional:10
+Freezers com tampa de vidro,29,3581,74;96;100;99;93;97;97;94;98;98;98;97,task:3;informational:54;navigational:1;commercial:31;transactional:11
+Frigobares Magalu,15,357,65;84;84;81;74;73;68;80;89;99;100;91,task:3;informational:30;navigational:34;commercial:12;transactional:21
+Termostatos para Freezers,26,2587,23;29;32;60;82;82;82;96;99;100;100;99,informational:64;navigational:2;commercial:19;transactional:15
+Freezers Fricon 503 litros,18,585,37;45;46;44;37;47;46;41;88;100;46;46,task:3;informational:43;navigational:18;commercial:26;transactional:10
+Máquinas de Frozen Drinks,17,1754,70;82;83;85;56;60;57;98;100;97;98;97,task:2;informational:63;navigational:5;commercial:24;transactional:6
+Freezers Carrefour Brasil,16,1076,29;57;62;57;55;52;61;72;98;100;66;73,task:1;informational:31;navigational:36;commercial:12;transactional:20
+Freezers Expositor para Supermercados,16,970,67;93;95;94;90;97;94;100;100;98;97;97,task:7;informational:22;navigational:1;commercial:59;transactional:11
+Frost Free e Degelo em Geladeiras,99,44476,65;81;84;95;88;89;89;99;100;100;100;100,task:5;informational:78;navigational:5;commercial:7;transactional:5
+freezers de 200 litros,28,3266,82;98;100;98;97;100;100;65;56;56;55;55,task:3;informational:45;navigational:4;commercial:28;transactional:20
+Magazine do Frio e Refrigeração,15,262,14;21;26;26;26;45;100;22;22;21;22;23,task:3;informational:45;navigational:24;commercial:11;transactional:17
+Expositores e Freezers para Cerveja,19,2831,71;97;100;99;87;93;94;90;92;92;92;91,task:5;informational:46;navigational:2;commercial:32;transactional:15
+Freezers Fricon 411 litros,15,1030,11;27;36;29;40;30;23;75;73;100;92;85,task:7;informational:46;navigational:5;commercial:27;transactional:15
+Frigobar e adega,16,1446,84;99;100;68;78;79;81;77;88;83;80;76,task:2;informational:60;navigational:2;commercial:26;transactional:10
+Freezers e Cervejeiras Metalfrio,31,6833,93;99;100;44;42;43;43;45;43;43;43;42,task:2;informational:49;navigational:24;commercial:20;transactional:5
+Freezers 180 L Consul,19,498,42;25;28;24;23;23;24;100;50;77;63;43,task:10;informational:50;navigational:2;commercial:25;transactional:13
+Coolers de gelo,16,391,31;42;46;43;53;64;65;99;100;83;83;83,task:4;informational:60;navigational:2;commercial:26;transactional:8
+Frigoríficas e Frigeração,17,48,15;51;55;44;32;32;25;100;79;11;11;11,task:3;informational:77;navigational:5;commercial:12;transactional:3
+Prateleiras e divisórias para freezer,18,1031,38;60;76;45;56;55;59;74;60;100;86;96,task:8;informational:23;navigational:1;commercial:54;transactional:14
+Frigobares Monster Energy,20,702,43;65;66;61;68;84;79;100;81;81;81;80,task:3;informational:45;navigational:18;commercial:26;transactional:8
+Geladeiras para área gourmet,16,1657,23;76;78;100;86;80;77;45;34;35;60;76,task:5;informational:56;navigational:4;commercial:26;transactional:9
+Refrigeradores e Freezers Fricon,20,2464,71;95;98;90;88;94;93;98;100;100;100;99,task:5;informational:40;navigational:20;commercial:26;transactional:9
+Geladeiras com Ice Maker,18,1152,27;20;21;40;39;26;24;92;60;82;71;100,task:3;informational:63;navigational:2;commercial:22;transactional:10
+Rubbermaid Coolers,16,860,11;16;20;23;21;20;16;16;17;90;100;64,task:3;informational:41;navigational:18;commercial:25;transactional:13
+Freezers Casas Bahia,15,2003,62;88;91;88;81;86;89;79;89;91;100;94,task:3;informational:22;navigational:43;commercial:15;transactional:17
+Freezers 205 litros Midea,16,522,66;86;86;78;80;79;66;83;70;100;90;96,task:3;informational:33;navigational:17;commercial:34;transactional:13
+Frigobares Consul,41,21522,97;100;45;50;63;63;63;97;97;99;98;98,informational:38;navigational:30;commercial:23;transactional:9
+Refrisat Refrigeração,17,157,69;75;76;75;75;77;77;77;96;100;80;81,task:1;informational:37;navigational:40;commercial:5;transactional:17
+Freezers verticais Electrolux 162 L,21,766,43;52;55;53;65;60;54;99;100;86;84;93,task:2;informational:41;navigational:15;commercial:16;transactional:26
+Refrigeração e frigobares,16,69,9;53;62;49;39;31;100;72;61;21;21;20,task:7;informational:48;navigational:2;commercial:18;transactional:25
+Refrigeração Laboratorial,16,254,82;83;88;89;92;100;98;90;82;82;87;86,task:2;informational:60;navigational:4;commercial:28;transactional:6
+Freezers e Geladeiras Verticais com Porta de Vidro,20,1628,85;99;100;97;95;98;100;55;52;52;52;51,task:2;informational:60;navigational:4;commercial:22;transactional:12
+Freezers Inox Verticais Frost Free,24,2996,85;99;100;51;43;46;47;51;52;52;55;54,task:5;informational:32;navigational:9;commercial:37;transactional:17
+Geladeiras Comerciais,15,96,44;45;54;48;42;43;100;52;51;44;44;53,task:1;informational:51;navigational:4;commercial:32;transactional:12
+Freezers de 199 litros,15,1180,13;22;23;20;19;19;17;63;51;37;46;100,task:3;informational:49;navigational:8;commercial:36;transactional:4
+Container Store & Home Organization,16,397,41;46;49;81;78;47;51;75;100;72;68;98,task:7;informational:27;navigational:35;commercial:14;transactional:17
+Ice packs and ice bags,18,1590,17;20;24;24;52;50;47;47;47;58;98;100,task:2;informational:72;navigational:3;commercial:15;transactional:8
+Freezers verticais Consul,40,5560,77;91;100;99;83;84;85;88;92;93;92;92,task:3;informational:55;navigational:19;commercial:14;transactional:9
+Coolers para Geladeiras,17,1063,85;98;96;94;77;80;100;81;81;86;85;85,task:5;informational:59;navigational:5;commercial:24;transactional:7
+Fechaduras e Travas para Freezer,16,367,16;37;39;38;38;41;42;100;80;46;42;45,task:10;informational:55;navigational:1;commercial:30;transactional:4
+Geladeira Organizada,23,3936,89;100;100;86;63;65;65;62;81;81;83;82,task:2;informational:74;navigational:5;commercial:11;transactional:8
+Geladeiras e Refrigeradores Frost Free e Inox,829,715796,27;27;29;35;100;100;100;48;46;46;46;46,task:2;informational:43;navigational:6;commercial:37;transactional:12
+Geladeiras e Freezers EOS Ecogelo,16,740,39;58;59;78;95;97;92;100;100;100;98;97,task:6;informational:57;navigational:15;commercial:14;transactional:8
+Armazenagem frigorífica e serviços de frio,15,216,81;97;100;96;96;100;100;96;99;98;99;98,task:3;informational:44;navigational:4;commercial:41;transactional:8
+Freezers que não gelam,20,660,46;19;41;41;43;44;44;44;93;93;100;100,task:4;informational:76;navigational:8;commercial:7;transactional:5
+Ice Cream Makers & Machines,20,689,88;100;99;55;73;75;74;48;67;67;70;70,task:2;informational:56;navigational:2;commercial:26;transactional:14
+Garrafa Frozen,16,402,31;60;57;64;64;67;72;37;38;72;100;85,task:7;informational:34;navigational:11;commercial:31;transactional:17
+Freezers horizontais 100L,16,1561,34;49;52;46;44;46;48;50;56;100;72;76,task:3;informational:31;navigational:5;commercial:46;transactional:15
+Refrigeração Comercial Imbera,19,2131,85;99;100;53;49;53;54;53;52;51;52;51,task:2;informational:36;navigational:22;commercial:32;transactional:8
+Refrigeração Real,15,95,86;90;100;99;95;96;97;90;96;96;96;96,task:3;informational:49;navigational:18;commercial:25;transactional:5
+Geladeiras para Chopp,18,701,22;83;91;73;73;71;54;66;52;75;74;100,task:3;informational:38;navigational:4;commercial:38;transactional:17
+Capas para Freezer,15,490,34;50;54;49;48;64;52;85;73;97;91;100,task:3;informational:46;navigational:5;commercial:29;transactional:17
+Cold Chain Logistics,17,1713,37;43;45;44;34;34;34;36;36;40;39;100,task:2;informational:72;navigational:3;commercial:15;transactional:8
+Vitrines Refrigeradas Gelopar,15,98,31;34;38;34;34;100;69;35;35;35;35;35,task:4;informational:38;navigational:25;commercial:20;transactional:13
+Frigelar Bebedouros,15,103,17;63;83;31;48;55;86;80;77;100;80;70,task:3;informational:31;navigational:26;commercial:18;transactional:22
+Mr. Frosty Ice Cream Makers,16,350,17;18;23;36;42;42;43;100;60;71;68;75,task:8;informational:72;navigational:8;commercial:10;transactional:2
+Frigo: Equipamentos de Cozinha Industrial,15,961,35;59;64;65;61;65;65;67;68;82;100;97,task:7;informational:18;navigational:30;commercial:30;transactional:15
+Freezers de 295 litros,16,384,41;51;63;50;47;49;100;30;30;73;85;98,task:3;informational:45;navigational:1;commercial:40;transactional:11
+Refrigerantes Gelados,18,387,96;100;98;59;59;66;65;70;65;71;79;70,task:5;informational:70;navigational:7;commercial:8;transactional:10
+Trane Chillers,17,261,41;42;100;100;99;99;99;100;100;100;100;100,task:2;informational:64;navigational:21;commercial:10;transactional:3
+Igloo Coolers,17,1213,60;88;94;89;93;100;100;93;98;90;91;89,task:3;informational:43;navigational:18;commercial:25;transactional:11
+Refrigeradores Visa Cooler,17,594,73;76;81;100;100;82;77;61;61;64;66;74,task:8;informational:58;navigational:5;commercial:23;transactional:6
+Sacos e embalagens para freezer,15,233,51;100;97;91;79;84;92;78;77;65;65;65,task:7;informational:57;navigational:4;commercial:25;transactional:7
+Containers Refrigerados,25,6143,20;20;20;48;81;81;82;92;100;100;100;100,task:8;informational:60;navigational:4;commercial:22;transactional:6
+Freezers 220V Consul 220L,18,3119,15;23;25;22;21;20;27;50;69;84;100;93,task:3;informational:36;navigational:7;commercial:39;transactional:15
+Refrigeração e Geladeiras DS Frio,15,718,11;16;14;13;22;35;39;100;28;36;46;52,task:10;informational:18;navigational:51;commercial:16;transactional:5
+Stanley Coolers,16,1073,65;98;100;97;90;98;98;93;98;95;95;96,task:7;informational:37;navigational:18;commercial:15;transactional:23
+Borrachas para Freezer,25,2309,36;19;20;53;68;71;71;83;97;100;100;100,task:2;informational:43;navigational:10;commercial:28;transactional:17
+Coolers e Caixas Térmicas,18,431,55;60;60;100;71;76;73;41;40;42;42;40,task:2;informational:60;navigational:4;commercial:28;transactional:6
+Gelopar Refrigeração e Expositores,18,4341,76;93;95;93;90;92;93;100;99;99;98;97,task:5;informational:28;navigational:38;commercial:10;transactional:19
+Geladeiras para skincare e cosméticos,17,2047,63;91;94;91;88;96;99;89;100;99;100;99,task:3;informational:46;navigational:5;commercial:31;transactional:15
+Ilhas de congelados e freezers (3 metros),16,610,40;49;52;53;55;55;54;45;46;100;92;96,task:7;informational:32;navigational:18;commercial:31;transactional:12
+Refrigeração Polo Frio,15,230,34;44;46;42;42;44;100;96;100;56;57;55,task:3;informational:48;navigational:34;commercial:10;transactional:5
+Ventiladores para Freezer,20,674,31;41;43;30;44;45;46;100;54;53;53;55,task:2;informational:64;navigational:5;commercial:20;transactional:9
+Freezers 145 litros Midea,16,568,91;99;100;66;65;73;79;86;80;82;77;79,task:2;informational:48;navigational:12;commercial:32;transactional:6
+Ice Melt Essentials,19,10768,9;13;13;13;42;43;42;93;100;100;100;100,task:8;informational:60;navigational:3;commercial:25;transactional:4
+Geladeiras e Freezers usados no Brasil,27,5463,56;72;76;88;90;91;91;100;100;99;99;98,task:2;informational:44;navigational:14;commercial:20;transactional:20
+Geladeiras Frost Free,20,1150,26;66;74;53;66;43;41;90;100;45;43;100,task:8;informational:53;navigational:3;commercial:35;transactional:1
+Refrigeração e Alimentos,16,534,31;40;41;39;41;46;46;100;85;48;48;54,task:3;informational:45;navigational:10;commercial:34;transactional:8
+Samsung Home Cooling & Refrigeration,21,2495,14;36;44;34;44;32;31;100;73;49;68;72,task:2;informational:52;navigational:21;commercial:10;transactional:15
+Refrigeração e Geladeiras,40,7211,89;92;90;93;97;98;99;96;98;98;98;100,task:8;informational:71;navigational:4;commercial:12;transactional:5
+Freezers CVU30 de 246 litros,17,988,5;23;33;27;28;18;14;72;81;100;74;89,task:7;informational:66;navigational:4;commercial:19;transactional:4
+Receitas para Congelar,35,4272,54;59;60;78;74;75;76;92;100;100;100;100,task:22;informational:58;navigational:5;commercial:13;transactional:2
+Frigobar: Preços e Promoções,80,70598,60;61;65;86;100;100;100;97;95;95;95;95,informational:50;navigational:2;commercial:34;transactional:14
+Home Appliances & Kitchen Gadgets,30,19836,30;100;56;87;75;75;75;51;92;92;100;93,task:10;informational:56;navigational:6;commercial:22;transactional:6
+Refrigeradores Frigocopa,15,612,8;12;15;44;44;15;15;21;16;100;97;78,task:3;informational:31;navigational:31;commercial:17;transactional:18
+Supercool Tech,18,988,74;88;100;67;84;73;68;68;93;91;78;79,task:4;informational:50;navigational:22;commercial:10;transactional:14
+Refrigeração RC,15,270,49;76;74;71;73;79;77;100;100;95;93;92,informational:53;navigational:23;commercial:20;transactional:4
+Geladeiras Brastemp com gelo,21,3933,36;40;29;39;88;89;89;40;80;79;94;100,task:2;informational:62;navigational:2;commercial:28;transactional:6
+Porta Frios e Organização de Geladeira,17,1276,64;88;91;88;87;95;99;96;99;100;98;97,task:7;informational:57;navigational:7;commercial:22;transactional:7
+Câmaras frias portáteis,16,260,79;100;98;96;91;95;92;77;77;77;77;77,task:3;informational:42;navigational:7;commercial:37;transactional:11
+Organizadores de Geladeira,20,5025,76;94;100;98;91;92;92;100;99;99;100;99,task:5;informational:52;navigational:4;commercial:30;transactional:9
+Freezers Consul 309 litros,17,662,36;53;58;54;51;50;55;77;89;100;62;69,task:3;informational:46;navigational:5;commercial:33;transactional:13
+Freezers verticais de dupla função,17,528,35;45;47;42;62;72;67;72;85;94;100;97,task:7;informational:52;navigational:4;commercial:36;transactional:1
+Alimentos Congelados,19,2471,42;60;68;77;75;71;67;88;100;98;90;92,task:1;informational:57;navigational:4;commercial:32;transactional:6
+Refrigeradores e freezers de 300 litros,22,2082,83;99;100;96;93;96;98;94;52;55;53;51,task:2;informational:50;navigational:4;commercial:27;transactional:17
+Coolers de lata,15,64,24;28;33;100;100;36;32;47;44;48;47;50,task:7;informational:49;navigational:1;commercial:32;transactional:11
+Rodas para Freezer,16,359,32;35;37;36;36;38;38;59;53;93;86;100,task:10;informational:27;navigational:2;commercial:40;transactional:21
+Freezer Electrolux HE150 143 L,15,1306,5;30;35;27;33;38;37;34;25;29;38;100,task:7;informational:59;navigational:5;commercial:19;transactional:10
+Geladeiras para Açougues,16,85,28;30;33;34;28;28;100;26;26;26;26;26,task:5;informational:32;navigational:1;commercial:50;transactional:12
+Frio Sul Refrigeração,15,98,14;15;16;15;15;16;16;100;62;15;15;15,task:3;informational:15;navigational:34;commercial:40;transactional:8
+Storage Boxes and Containers,23,2568,85;100;100;55;69;72;77;89;94;96;95;93,task:5;informational:48;navigational:2;commercial:33;transactional:12
+Freezers verticais frost free 121 litros,15,221,14;70;100;81;41;24;20;75;55;48;47;54,task:7;informational:48;navigational:5;commercial:30;transactional:10
+Freezers Verticais 300L,16,397,30;51;60;46;42;48;57;100;56;37;37;35,task:5;informational:62;navigational:10;commercial:20;transactional:3
+Eletrofrio Refrigeração,16,1220,64;96;96;100;88;95;94;95;94;94;90;89,task:2;informational:21;navigational:38;commercial:7;transactional:32
+Ice Pack Marketplace,20,1362,58;71;73;45;46;49;46;97;47;47;98;100,task:5;informational:39;navigational:15;commercial:18;transactional:23
+Freezers Metalfrio bivolt (543/546 litros),18,468,20;37;48;43;51;57;41;100;75;84;73;42,task:2;informational:56;navigational:9;commercial:23;transactional:10
+Brasfrio Refrigeração,15,137,65;70;73;72;72;100;96;76;76;76;77;76,task:3;informational:39;navigational:34;commercial:20;transactional:4
+English Freeze Terms,19,11828,16;20;20;59;15;16;16;64;100;100;100;100,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Congelamento incorreto em geladeiras,45,9237,91;91;95;96;97;98;98;100;99;100;100;100,task:8;informational:75;navigational:2;commercial:15
+Evaporative and Portable Air Coolers,20,818,40;43;46;49;100;99;99;65;57;57;60;59,task:2;informational:53;navigational:5;commercial:22;transactional:18
+Freezers verticais 231 L,16,503,14;83;97;74;71;46;38;97;95;100;36;51,informational:54;navigational:4;commercial:28;transactional:14
+Scroll Compressors & Refrigeration,19,3248,29;31;37;35;99;100;100;64;86;86;89;89,task:2;informational:59;navigational:5;commercial:13;transactional:21
+Freezers Electrolux H500,17,795,34;36;37;47;46;55;100;90;77;86;79;100,task:2;informational:45;navigational:14;commercial:33;transactional:6
+Geladeiras e Eletrodomésticos no Ponto Frio,17,3197,72;96;100;96;84;88;89;90;92;87;90;89,task:3;informational:11;navigational:66;commercial:5;transactional:15
+Freezers Verticais 197 Litros,18,1440,24;73;65;54;47;20;31;100;34;40;74;74,task:5;informational:60;navigational:5;commercial:20;transactional:10
+Geladeiras para restaurantes e lanchonetes,16,167,39;61;65;56;43;44;41;70;60;100;82;87,task:3;informational:53;navigational:4;commercial:32;transactional:8
+Frigoríficos Zimmer,16,1295,21;27;75;68;54;60;73;100;87;78;79;78,informational:55;navigational:39;commercial:4;transactional:2
+Frutas Congeladas,15,357,45;57;56;52;52;57;55;100;57;67;57;79,task:3;informational:61;navigational:8;commercial:20;transactional:8
+Freezers horizontais de duas portas,19,3986,93;98;100;46;46;47;47;40;41;41;42;42,task:4;informational:55;navigational:2;commercial:34;transactional:5
+Balcões Refrigerados Polar,15,343,20;21;22;19;18;18;18;19;19;100;87;92,task:3;informational:32;navigational:35;commercial:26;transactional:4
+Carrocerias frigoríficas,15,51,52;88;100;75;75;60;60;65;65;65;65;65,task:7;informational:46;navigational:14;commercial:27;transactional:6
+Expositores Refrigerados Usados,16,1060,83;99;100;100;68;73;73;55;49;49;49;49,task:5;informational:41;navigational:6;commercial:34;transactional:14
+Freezers Electrolux 314 L (H330),18,636,27;32;30;32;34;36;36;100;71;68;54;57,task:3;informational:43;navigational:24;commercial:22;transactional:8
+Hiperfrio Refrigeração,16,378,52;76;83;67;63;48;48;100;69;46;46;44,task:2;informational:46;navigational:32;commercial:17;transactional:3
+Freezers Electrolux de 200 L,18,435,95;62;66;100;55;55;53;73;80;99;84;96,task:2;informational:57;navigational:10;commercial:20;transactional:11
+Freezers Electrolux FE18/FE22,23,1492,32;39;43;38;37;37;38;50;61;100;72;72,task:2;informational:67;navigational:10;commercial:11;transactional:10
+Chiller e Refrigeração Industrial,38,18104,31;75;75;83;99;100;100;96;97;97;97;97,task:2;informational:68;navigational:6;commercial:18;transactional:6
+Salgados Congelados,45,6610,65;65;57;62;76;77;76;100;99;98;98;98,task:5;informational:68;navigational:8;commercial:10;transactional:9
+Friovix Refrigeração Comércio,16,636,33;100;97;100;43;48;80;94;94;97;96;96,task:5;informational:47;navigational:27;commercial:18;transactional:3
+Geladeiras Embutidas,19,1547,66;97;100;84;80;84;87;75;84;96;84;83,task:7;informational:54;navigational:6;commercial:24;transactional:9
+Refrigeração Refrimar,17,111,28;29;32;100;34;36;32;36;37;37;37;37,task:1;informational:40;navigational:39;commercial:18;transactional:2
+Gelo e Conservação de Gelo,47,8765,52;56;64;83;81;81;81;94;100;100;100;100,task:5;informational:82;navigational:5;commercial:6;transactional:2
+Geladeiras e Freezers Brastemp 400L,45,8915,97;100;48;49;49;50;51;50;52;53;52;52,task:2;informational:38;navigational:14;commercial:28;transactional:18
+Refrigeradores e freezers 450 litros,15,417,3;27;42;31;23;25;16;100;38;32;31;43,task:3;informational:49;commercial:40;transactional:8
+Bancadas Refrigeradas,15,87,26;68;100;89;85;98;30;58;64;31;31;31,task:10;informational:53;navigational:2;commercial:30;transactional:5
+Extra Space Storage Solutions,18,847,49;79;80;80;85;91;92;95;100;100;100;99,task:1;informational:36;navigational:37;commercial:17;transactional:9
+Máquinas de refrigeração,17,4554,14;19;20;20;20;20;20;98;98;98;100;100,task:2;informational:70;navigational:5;commercial:17;transactional:6
+Deep Freeze software,25,6570,87;87;87;85;63;64;64;100;98;99;99;97,task:2;informational:59;navigational:20;commercial:11;transactional:8
+Souza Refrigeração,15,69,88;90;99;99;99;100;100;92;94;94;94;94,task:4;informational:24;navigational:27;commercial:40;transactional:5
+Arte Frio Refrigeração,16,360,49;83;83;76;77;69;67;100;74;75;77;78,task:3;informational:24;navigational:46;commercial:20;transactional:7
+Prateleiras para Câmara Fria,15,139,46;57;60;70;73;63;65;55;56;100;87;56,task:7;informational:42;navigational:11;commercial:36;transactional:4
+Capital Refrigeração,16,450,78;98;88;87;84;91;89;88;98;100;100;98,task:3;informational:23;navigational:53;commercial:17;transactional:4
+Geladeiras e Freezers na Americanas,16,1182,69;96;98;94;90;96;97;94;90;90;90;100,task:3;informational:20;navigational:40;commercial:11;transactional:26
+Melhores Frigobares,24,1363,26;30;30;69;84;84;94;100;85;82;81;81,task:8;informational:22;navigational:2;commercial:58;transactional:10
+Refrigeração Cascadura,15,661,50;64;67;64;63;100;66;79;76;76;75;74,task:3;informational:25;navigational:37;commercial:25;transactional:10
+Veículos refrigerados à venda,16,242,60;96;100;94;50;48;51;48;49;51;50;49,task:8;informational:39;navigational:2;commercial:21;transactional:30
+Câmaras Frias e Refrigeração Comercial,89,29860,49;52;57;75;83;84;84;100;100;99;99;99,task:3;informational:59;navigational:4;commercial:28;transactional:6
+IQF Frozen Produce,16,770,100;100;93;93;93;93;93;93;87;87;87;87,task:6;informational:74;navigational:5;commercial:10;transactional:5
+Gamdias Boreas Air Coolers,15,434,9;18;18;16;15;15;16;22;53;100;78;17,task:3;informational:46;navigational:18;commercial:19;transactional:14
+Geladeiras automotivas,17,593,52;94;100;72;75;78;81;74;76;82;82;99,informational:54;navigational:1;commercial:25;transactional:20
+Temperatura da Geladeira,80,21710,94;97;100;99;92;92;92;94;94;94;94;94,task:5;informational:79;navigational:5;commercial:5;transactional:6
+Geladeiras Gazin,15,820,33;44;50;43;40;39;41;100;63;64;37;39,task:4;informational:41;navigational:19;commercial:18;transactional:18
+Geladeiras e freezers Coca‑Cola,30,6694,36;47;48;64;68;71;72;100;94;94;94;93,task:5;informational:56;navigational:5;commercial:26;transactional:8
+Câmaras frias para bares e cervejas,22,1078,73;40;40;84;96;99;100;60;55;55;54;54,task:5;informational:49;navigational:12;commercial:26;transactional:8
+geladeiras Zema,15,795,19;29;31;28;41;37;32;100;41;43;30;35,task:1;informational:11;navigational:49;commercial:17;transactional:22
+"Conjunto Geladeira e Freezer: Tipos, Configurações e Escolhas",17,1417,22;63;68;49;49;32;30;83;49;53;79;100,task:2;informational:66;navigational:4;commercial:24;transactional:4
+Geladeiras Continental,18,572,24;63;67;25;23;29;24;100;66;59;59;59,informational:50;navigational:30;commercial:17;transactional:3
+Chopp e Cooler,16,43,50;52;60;55;96;60;58;91;100;60;57;51,task:7;informational:57;navigational:11;commercial:25
+Geladeiras Brastemp Frost Free,28,4034,84;99;100;56;52;55;55;90;92;93;93;92,task:2;informational:51;navigational:7;commercial:29;transactional:11
+Comfrio Logística e Refrigeração,22,5691,61;72;81;100;98;100;100;97;92;92;94;94,task:2;informational:54;navigational:17;commercial:19;transactional:8
+Slushie Machines,22,2182,78;93;93;68;97;99;99;100;89;89;88;88,task:2;informational:63;navigational:5;commercial:20;transactional:10
+Geladeiras que congelam na parte de baixo,18,1288,73;94;94;83;73;72;71;77;70;74;92;100,task:8;informational:64;navigational:2;commercial:15;transactional:11
+Refrigeração Marechal,15,71,54;57;59;59;53;100;83;56;56;56;56;56,task:10;informational:70;navigational:5;commercial:12;transactional:3
+Geladeiras Frost Free Brasil,16,422,34;91;87;71;67;48;43;100;34;34;28;34,task:2;informational:39;navigational:12;commercial:31;transactional:16
+Geladeiras Expositoras de Bebidas,19,1610,85;99;100;64;57;60;61;55;47;50;47;46,task:5;informational:49;navigational:1;commercial:37;transactional:8
+Congelamento de Frutas,59,9792,91;92;92;94;94;95;95;97;100;100;100;100,task:8;informational:80;navigational:5;commercial:5;transactional:2
+Water Cooler Mancer PC Coolers,15,492,14;23;21;20;20;21;21;31;100;61;57;20,task:1;informational:49;navigational:5;commercial:27;transactional:18
+Freezers verticais Frost Free 234 litros,17,380,17;33;57;41;49;46;34;100;84;95;37;46,task:7;informational:39;navigational:6;commercial:31;transactional:17
+Geladeiras side by side,74,64112,76;76;35;64;100;100;100;98;94;94;94;94,task:2;informational:53;navigational:2;commercial:30;transactional:13
+Geladeiras para Caminhão,30,5844,90;97;100;100;45;46;46;47;44;43;43;43,task:3;informational:32;navigational:4;commercial:48;transactional:13
+Sealed Air & Cryovac Packaging,25,1950,69;79;57;59;93;100;100;72;73;73;73;73,task:2;informational:65;navigational:20;commercial:8;transactional:5
+Emergent Cold Logistics,16,248,56;100;79;78;80;83;83;95;98;97;98;97,task:2;informational:47;navigational:40;commercial:7;transactional:4
+Refrigeração Reconfrio,16,136,76;82;84;84;84;86;86;92;100;100;100;100,task:3;informational:12;navigational:67;commercial:10;transactional:8
+Freezers Imbera 560 litros,16,1334,12;31;37;26;22;16;24;47;62;77;93;100,task:3;informational:41;navigational:18;commercial:25;transactional:13
+Mini Coolers Portáteis,16,1331,63;96;98;94;88;92;94;93;95;100;96;96,task:3;informational:52;navigational:5;commercial:25;transactional:15
+Máquinas de Sorvete Fort Frio,15,123,70;85;92;79;79;81;82;100;94;92;88;75,task:3;informational:42;navigational:21;commercial:26;transactional:8
+Idlers Appliances,17,98,7;99;100;40;19;28;30;82;46;12;13;12,task:7;informational:43;navigational:25;commercial:11;transactional:14
+Coolers Retrô e Vintage,17,384,40;95;100;55;72;71;71;83;81;93;85;59,task:7;informational:40;navigational:4;commercial:33;transactional:16
+Computer Cooling Solutions,15,153,18;31;31;31;31;61;90;53;100;99;83;58,task:4;informational:55;navigational:1;commercial:24;transactional:16
+Geladeiras para cerveja,18,364,73;83;85;82;98;81;100;56;56;60;61;67,task:2;informational:49;navigational:5;commercial:36;transactional:8
+Peltier Thermoelectric Coolers,21,4424,28;30;30;62;99;100;100;94;85;85;85;85,task:2;informational:57;navigational:5;commercial:18;transactional:18
+Balcões Refrigerados e Expositores,15,4808,78;94;100;100;92;94;96;94;96;96;96;95,task:2;informational:55;navigational:1;commercial:30;transactional:12
+Refrigeração Monteiro,15,848,17;25;26;55;55;48;44;60;38;27;27;100,task:3;informational:47;navigational:39;commercial:8;transactional:3
+Vitrines e estufas para confeitaria,17,1444,89;100;61;60;64;68;64;59;62;61;60;59,task:5;informational:67;navigational:4;commercial:19;transactional:5
+Frigobares no Varejo Online Brasil,15,164,8;77;100;59;52;66;57;93;70;28;37;35,task:3;informational:38;navigational:19;commercial:18;transactional:22
+Máquinas de gelo portáteis,17,574,41;59;62;57;48;51;60;100;82;86;100;100,task:10;informational:45;navigational:4;commercial:31;transactional:10
+Coolers Corona,15,790,68;98;100;96;85;90;92;78;80;81;82;82,task:7;informational:46;navigational:4;commercial:32;transactional:11
+Refrigeração Multifrio Brasil,15,557,92;99;97;95;97;100;100;66;68;68;73;71,task:2;informational:37;navigational:42;commercial:11;transactional:8
+Adesivos e envelopamento de freezers,25,2247,35;46;47;64;84;87;87;100;89;89;90;89,task:8;informational:50;navigational:4;commercial:26;transactional:12
+Frigobares usados no Brasil,16,3270,65;90;87;87;86;91;92;100;94;94;92;91,task:2;informational:46;navigational:8;commercial:21;transactional:23
+Hitachi Chillers,16,55,73;77;91;91;99;99;99;99;100;100;100;100,task:3;informational:42;navigational:32;commercial:11;transactional:12
+Máquinas de gelo compactas,20,775,71;77;78;82;86;88;88;87;92;100;85;84,task:5;informational:45;navigational:4;commercial:35;transactional:11
+Geladeiras Dometic,15,152,43;61;63;62;61;100;87;66;70;83;79;74,task:7;informational:47;navigational:18;commercial:18;transactional:10
+Friotec Refrigeração e Climatização,17,398,61;91;93;88;74;80;79;100;97;100;77;76,task:3;informational:25;navigational:42;commercial:23;transactional:7
+Climatizadores com gelo,25,2651,26;29;18;44;64;67;66;95;96;100;87;88,task:5;informational:69;navigational:5;commercial:12;transactional:9
+Refrigeração Refricenter Brasil,15,343,41;72;75;100;58;71;69;72;70;79;81;81,task:3;informational:12;navigational:70;commercial:10;transactional:5
+Alimentos Congelados Brasileiros,17,1280,30;34;34;34;100;100;100;40;41;41;40;41,task:1;informational:68;navigational:9;commercial:14;transactional:8
+Potes para micro-ondas e freezer,20,1286,65;31;30;28;38;40;45;84;90;96;99;100,task:2;informational:54;navigational:2;commercial:32;transactional:10
+Refrigeração Banfrio,15,126,23;25;27;93;56;100;96;69;55;28;28;28,task:3;informational:18;navigational:60;commercial:10;transactional:9
+Coolers e caixas térmicas com rodas,16,4909,77;93;100;98;89;91;90;91;93;92;92;91,task:3;informational:61;navigational:5;commercial:27;transactional:4
+Temperature Control & Controllers,17,3679,36;38;37;84;85;86;86;70;100;100;100;100,task:2;informational:73;navigational:5;commercial:12;transactional:8
+Samsung Ice Makers,16,1402,16;34;33;26;27;25;24;63;80;100;39;61,task:2;informational:63;navigational:12;commercial:10;transactional:13
+Freezers Electrolux 513–550 litros,20,721,30;44;47;42;43;44;49;58;81;100;49;53,task:3;informational:55;navigational:11;commercial:20;transactional:11
+Maquinas de Gelo Impomac,17,235,57;95;100;88;73;75;62;54;55;55;55;55,task:2;informational:44;navigational:33;commercial:7;transactional:14
+Balcões Expositores Refrigerados,16,453,72;88;87;80;93;100;84;89;97;81;80;79,task:5;informational:51;navigational:6;commercial:28;transactional:10
+Home Storage Racks,15,277,23;65;100;92;36;34;92;59;49;74;69;72,task:7;informational:43;navigational:10;commercial:29;transactional:11
+CPU Cooling Solutions,19,3112,49;55;28;47;83;85;85;100;86;86;86;85,task:2;informational:48;navigational:1;commercial:40;transactional:9
+PC Cooling Solutions,17,4110,24;28;30;31;77;78;79;97;97;98;99;100,task:8;informational:41;navigational:2;commercial:39;transactional:10
+Glacial Refrigeração e Peças,15,112,21;22;23;21;35;20;20;20;24;24;100;27,task:3;informational:21;navigational:41;commercial:31;transactional:4
+Geladeiras compactas para apartamento,17,1029,22;86;92;88;91;94;93;79;100;70;69;72,task:3;informational:63;navigational:5;commercial:21;transactional:8
+Geladeiras Electrolux 240–260 litros,76,19852,53;48;54;57;96;97;97;95;100;100;100;100,task:2;informational:50;navigational:5;commercial:30;transactional:13
+"Geladeiras, freezers e móveis na Lojas Cem",27,6076,20;25;25;35;60;61;61;87;89;90;94;100,task:2;informational:32;navigational:33;commercial:14;transactional:19
+Refrigeração Gomes,15,146,72;79;79;83;82;80;80;92;90;83;83;100,task:3;informational:28;navigational:34;commercial:31;transactional:4
+Refrigeração Pinguim,15,181,79;90;96;94;94;97;97;98;96;100;100;100,task:3;informational:28;navigational:34;commercial:31;transactional:4
+Expositores e freezers de 2 portas,16,532,58;69;69;64;63;82;81;80;77;80;97;100,task:5;informational:29;navigational:4;commercial:54;transactional:8
+Geladeiras Dako,22,1821,82;100;100;96;73;76;76;86;89;90;90;90,task:3;informational:45;navigational:21;commercial:23;transactional:8
+Refrigeradores e Freezers 600 litros,15,894,12;59;100;66;49;37;33;94;46;39;56;84,task:5;informational:45;navigational:11;commercial:33;transactional:6
+Geladeiras Continental Frost Free,38,6346,90;97;100;86;51;52;52;48;48;48;48;47,task:2;informational:46;navigational:12;commercial:22;transactional:18
+Freezers horizontais Hisense 198 L,15,175,8;84;98;55;55;59;63;34;69;100;33;33,task:10;informational:57;navigational:2;commercial:18;transactional:13
+Geladeiras e Freezers Elettromec,15,599,59;74;87;85;85;81;88;100;100;100;83;82,task:5;informational:34;navigational:35;commercial:8;transactional:18
+Refrigeração Águias,19,382,96;99;100;79;42;43;43;60;46;66;60;51,task:2;informational:53;navigational:35;commercial:8;transactional:2
+Total Frio Refrigeração,16,161,78;86;90;88;90;93;100;86;88;88;88;88,task:3;informational:23;navigational:42;commercial:22;transactional:10
+Refrigeração Central,15,424,56;63;66;65;68;72;72;80;82;82;100;100,task:10;informational:59;navigational:1;commercial:26;transactional:4
+Coldres de arma e acessórios,24,17843,17;23;24;96;29;30;30;100;100;100;100;100,task:8;informational:60;navigational:8;commercial:16;transactional:8
+FG Refrigeração e Equipamentos,15,106,66;73;75;100;76;75;74;89;98;94;86;86,task:7;informational:21;navigational:37;commercial:27;transactional:8
+Geladeiras Smeg,17,1443,54;74;75;71;78;89;90;91;95;96;98;100,task:10;informational:53;navigational:6;commercial:18;transactional:13
+Refrigeração Comercial Videfrigo,15,80,62;64;67;70;70;71;71;100;90;69;69;69,informational:28;navigational:58;commercial:11;transactional:3
+Geladeiras e freezers 230 litros,16,615,8;22;28;16;26;36;14;100;82;52;44;42,task:3;informational:49;navigational:4;commercial:29;transactional:15
+Geladeiras Consul Inverse com Freezer embaixo,26,4031,56;63;65;98;99;100;100;99;34;33;33;33,task:2;informational:47;navigational:11;commercial:20;transactional:20
+Máquinas de gelo,83,49986,36;38;41;46;63;63;63;99;100;100;100;100,task:8;informational:42;navigational:4;commercial:34;transactional:12
+Freezers verticais usados no OLX,15,260,33;50;59;45;50;46;43;100;75;52;48;52,task:3;informational:16;navigational:64;commercial:7;transactional:10
+Geladeiras Electrolux,16,367,23;24;23;79;97;44;90;31;32;100;88;94,task:3;informational:50;navigational:18;commercial:15;transactional:14
+Budweiser Beer Coolers,15,64,8;49;53;58;50;55;45;59;100;69;8;8,task:10;informational:32;navigational:4;commercial:36;transactional:18
+Mobília e Suportes para Frigobar,16,689,47;76;77;82;88;98;100;88;89;77;76;82,task:7;informational:33;navigational:4;commercial:37;transactional:19
+Qualiterme Refrigeração e Serviços,15,59,89;92;97;97;97;97;97;99;99;99;100;99,task:2;informational:18;navigational:67;commercial:7;transactional:6
+Móveis para frigobar,16,1538,67;99;100;96;83;88;90;81;81;81;88;87,task:3;informational:53;navigational:4;commercial:29;transactional:11
+Coldres e Sabres,15,227,76;85;87;78;83;82;83;98;100;90;91;94,task:7;informational:47;navigational:12;commercial:14;transactional:20
+Coolers de cerveja,24,8518,89;97;100;49;79;80;80;84;84;84;84;83,task:5;informational:59;navigational:5;commercial:22;transactional:9
+Congel Contabilidade e Refrigeração,15,78,29;100;92;53;53;48;41;29;29;29;29;29,task:3;informational:28;navigational:43;commercial:20;transactional:6
+Geladeiras inverse frost free pretas,16,266,4;39;50;12;15;25;30;100;58;20;18;21,task:3;informational:28;navigational:11;commercial:47;transactional:11
+Brastemp Geladeiras,16,653,29;41;42;40;40;43;43;100;79;39;38;38,task:7;informational:52;navigational:18;commercial:12;transactional:11
+Câmaras Frias com Porta de Vidro,15,91,30;36;38;38;39;41;78;51;52;100;82;41,task:7;informational:45;navigational:1;commercial:33;transactional:14
+Frigobar Embutido e Inox,15,526,58;90;88;100;73;76;75;80;81;82;79;79,task:3;informational:50;navigational:11;commercial:28;transactional:8
+Caminhões e Baús Refrigerados,24,1644,44;52;53;71;98;100;100;97;78;77;79;78,task:5;informational:69;navigational:7;commercial:15;transactional:4
+Fatiadores de frios,37,11936,95;100;47;61;59;60;61;66;68;68;68;68,task:5;informational:45;navigational:1;commercial:30;transactional:19
+Geladeiras Esmaltec,32,6493,53;59;61;32;93;94;94;100;46;46;46;46,task:2;informational:53;navigational:14;commercial:22;transactional:9
+Refrigeração e Geladeiras no Brasil,17,1212,18;47;100;89;88;86;78;63;48;37;32;80,task:2;informational:71;navigational:5;commercial:14;transactional:8
+Self Storage & Storage Units,54,71570,56;51;62;82;94;94;94;100;91;91;91;91,task:3;informational:50;navigational:4;commercial:34;transactional:9
+Réfrigérateurs et congélateurs pas chers,17,1335,26;62;71;38;64;65;69;37;63;97;95;100,task:7;informational:44;navigational:2;commercial:34;transactional:13
+Duar Refrigeração,16,68,79;77;82;82;86;100;95;90;99;97;90;90,task:3;informational:25;navigational:45;commercial:22;transactional:5
+Melhores Geladeiras Side-by-Side,17,1010,12;45;51;26;38;34;39;100;73;55;53;55,task:5;informational:31;commercial:60;transactional:4
+Mini geladeiras para quarto,21,3007,84;99;100;61;54;57;58;62;65;65;65;64,task:8;informational:47;navigational:1;commercial:31;transactional:13
+Refrigeração JC,15,211,75;93;91;96;91;100;97;98;99;98;99;98,task:7;informational:18;navigational:27;commercial:40;transactional:8
+Geladeiras Frost Free - Buscapé,15,1047,13;26;35;41;40;25;16;100;63;18;16;98,task:3;informational:18;navigational:58;commercial:7;transactional:14
+Equipamentos e Refrigeração,15,147,43;47;50;97;100;59;55;68;63;53;54;53,task:3;informational:45;navigational:34;commercial:10;transactional:8
+freezers Consul 142 litros,21,3455,65;100;98;55;55;57;67;43;67;73;89;88,task:2;informational:53;navigational:2;commercial:25;transactional:18
+Home Lab Setup,17,1701,65;79;89;91;86;91;86;100;96;90;90;90,task:9;informational:65;navigational:6;commercial:13;transactional:7
+Geladeiras Slim Expositoras,17,312,53;72;79;66;59;60;59;86;90;100;53;53,task:7;informational:40;navigational:4;commercial:38;transactional:11
+Geladeiras Consul Frost Free,20,2685,85;99;100;97;93;96;97;47;50;48;50;50,task:3;informational:47;navigational:14;commercial:31;transactional:5
+Frigobar 45L e acessórios,15,867,59;84;87;83;73;77;76;100;84;84;86;85,task:3;informational:21;navigational:35;commercial:33;transactional:8
+Expositores e Freezers 3 Portas,16,457,45;62;64;62;57;61;70;93;93;100;58;59,task:10;informational:26;navigational:8;commercial:44;transactional:12
+Armazenamento de alimentos,39,5267,71;78;75;74;72;73;73;100;96;96;96;96,task:4;informational:79;navigational:5;commercial:9;transactional:3
+Peças de Chiller,15,195,62;71;75;83;86;77;78;91;95;99;97;100,task:7;informational:38;navigational:33;commercial:10;transactional:12
+Geladeiras Bosch,31,14193,27;30;32;70;79;80;82;99;100;100;100;100,task:2;informational:62;navigational:8;commercial:21;transactional:7
+Air Locker,17,193,46;67;82;56;67;68;75;71;70;99;98;100,task:7;informational:32;navigational:25;commercial:18;transactional:18
+Tecnofrio Refrigeração,15,187,55;65;65;66;73;100;96;100;91;80;81;80,task:3;informational:18;navigational:56;commercial:18;transactional:5
+Geladeiras Portáteis para Carros,42,11622,92;97;100;44;54;54;54;51;51;51;51;51,task:5;informational:57;navigational:5;commercial:20;transactional:13
+Refrigeração Comercial e Equipamentos,15,289,93;93;94;94;100;100;99;98;32;33;31;31,task:3;informational:65;navigational:4;commercial:22;transactional:6
+Geladeiras com gavetas,15,1259,24;68;68;60;59;36;36;80;98;71;74;100,task:7;informational:61;navigational:2;commercial:23;transactional:7
+Fatiadores elétricos de frios,17,468,36;39;21;21;89;90;100;17;17;20;20;21,task:2;informational:39;navigational:4;commercial:43;transactional:12
+Logística Friozem,17,1828,51;80;84;82;89;95;97;97;99;98;100;99,task:3;informational:51;navigational:19;commercial:13;transactional:14
+Coolers para cervejeiras,16,591,53;84;86;86;86;91;93;100;100;96;96;98,task:7;informational:49;navigational:9;commercial:27;transactional:8
+Geladeiras 420 litros,17,1095,13;20;23;20;18;33;32;58;34;76;75;100,task:7;informational:50;navigational:1;commercial:33;transactional:9
+Gelo e Placas para Caixas Térmicas,26,2864,43;50;50;49;78;80;79;96;100;100;100;100,task:2;informational:66;navigational:4;commercial:24;transactional:4
+Trituradores de gelo,19,853,88;100;100;99;55;60;63;70;71;71;71;70,task:5;informational:56;navigational:4;commercial:23;transactional:12
+geladeiras brancas frost free,15,228,17;90;92;30;47;46;50;100;77;31;29;36,informational:47;navigational:4;commercial:35;transactional:14
+Bandejas e Reservatórios de Geladeira,16,1176,51;58;59;58;58;55;55;74;52;53;88;100,task:2;informational:69;navigational:5;commercial:10;transactional:14
+Congelados Faleiro,16,374,77;90;97;89;93;93;94;100;100;98;98;99,task:3;informational:37;navigational:38;commercial:13;transactional:9
+Peças de Refrigeração,27,7894,67;97;100;92;64;65;65;69;72;72;72;71,task:8;informational:48;navigational:20;commercial:16;transactional:8
+Geladeiras Expositoras Usadas,17,689,59;86;100;91;72;77;78;75;78;80;72;71,task:3;informational:48;navigational:10;commercial:19;transactional:20
+Brastemp: Geladeiras e Eletrodomésticos,17,568,61;96;100;62;67;43;42;98;76;80;43;43,task:5;informational:24;navigational:27;commercial:36;transactional:8
+Zero Grau Refrigeração e Caixas Térmicas,19,2892,65;95;96;93;91;98;97;98;100;100;100;99,task:3;informational:29;navigational:54;commercial:5;transactional:9
+Frigobar com Termostato Digital,16,143,7;78;100;61;65;25;55;26;24;34;31;37,task:3;informational:70;navigational:5;commercial:19;transactional:3
+Frozen yogurt e iogurte congelado,24,6523,24;67;68;70;47;49;50;85;93;93;100;100,task:7;informational:68;navigational:5;commercial:12;transactional:8
+Peças de Geladeira,16,1243,41;43;44;63;71;74;59;100;98;99;100;100,task:2;informational:69;navigational:5;commercial:13;transactional:11
+Locação de Chillers,17,37,57;76;95;95;90;90;90;98;100;100;100;100,task:3;informational:46;navigational:4;commercial:33;transactional:14
+Refrigeração em Passo Fundo,15,169,12;100;100;60;70;48;18;15;16;24;24;38,task:3;informational:45;navigational:17;commercial:31;transactional:4
+Expositores de frigobar,16,551,48;65;66;66;66;70;84;100;100;84;85;84,task:10;informational:47;navigational:1;commercial:38;transactional:4
+Caixas Térmicas e Coolers Termolar,24,2929,84;99;100;51;51;54;56;54;56;55;56;55,task:2;informational:56;navigational:10;commercial:19;transactional:13
+Geladeiras compactas Multilaser,16,314,17;41;43;19;18;19;17;16;17;100;91;18,task:3;informational:57;navigational:1;commercial:26;transactional:13
+Water Cooling for PCs,17,3156,86;99;100;49;44;47;49;44;48;47;48;48,task:5;informational:49;navigational:2;commercial:38;transactional:6
+Fresh Food & Groceries,15,1870,8;8;21;32;23;26;21;50;46;26;29;100,task:4;informational:60;navigational:4;commercial:26;transactional:6
+Estufas refrigeradas para confeitaria,17,1004,91;100;85;92;78;80;81;88;91;90;88;88,task:2;informational:51;navigational:4;commercial:34;transactional:9
+Prateleiras de Geladeira,16,1225,27;57;71;35;31;34;40;37;44;100;84;95,task:4;informational:63;navigational:4;commercial:22;transactional:7
+Geladeiras/Frigobares Red Bull,20,3359,65;93;98;96;92;99;96;94;100;100;100;100,task:2;informational:45;navigational:7;commercial:36;transactional:10
+Frigobar Electrolux e Similares,24,6062,88;96;99;99;98;99;99;100;50;50;49;49,task:8;informational:39;navigational:2;commercial:22;transactional:29
+Geladeiras de Luxo,15,752,11;32;45;31;29;42;40;96;54;100;83;86,task:7;informational:36;navigational:4;commercial:35;transactional:18
+Compressores de Geladeira,30,8648,19;26;27;33;68;69;70;92;100;100;100;100,task:2;informational:65;navigational:2;commercial:21;transactional:10
+Geladeiras envelopadas,15,659,94;100;100;98;95;97;98;95;44;43;44;44,task:4;informational:76;navigational:3;commercial:13;transactional:4
+Coolers com Mesa,17,3010,67;96;100;97;92;98;99;98;99;99;100;99,task:7;informational:46;navigational:18;commercial:18;transactional:11
+Estrela Frios,15,218,59;65;66;65;83;86;85;91;100;89;90;89,task:3;informational:38;navigational:29;commercial:12;transactional:18
+Manutenção de Refrigeração,15,140,52;55;60;62;66;67;68;100;71;71;71;71,task:10;informational:38;commercial:40;transactional:12
+Geladeiras na Fast Shop,18,874,31;61;63;68;57;53;54;100;62;39;38;39,task:5;informational:32;navigational:19;commercial:23;transactional:21
+Unidades Condensadoras para Refrigeração,21,2735,21;25;26;44;99;100;100;97;97;97;97;97,task:5;informational:49;navigational:6;commercial:25;transactional:15
+Samsung RS65R Refrigerator Model,15,2313,2;23;39;20;20;14;14;95;69;100;40;68,task:3;informational:53;navigational:18;commercial:12;transactional:14
+Rack storage solutions,15,89,13;26;30;38;38;100;71;96;90;48;49;47,task:3;informational:54;navigational:15;commercial:14;transactional:14
+Geladeiras portáteis no Brasil,17,1371,57;84;71;69;72;78;78;89;93;100;100;99,task:10;informational:55;navigational:1;commercial:24;transactional:10
+Reparos de Refrigeração,16,568,58;79;80;77;85;95;75;84;100;100;89;89,task:17;informational:40;navigational:19;commercial:8;transactional:16
+Lanches Congelados,17,707,13;15;16;16;55;75;64;100;84;56;55;53,task:2;informational:63;navigational:5;commercial:13;transactional:17
+Gelo Electrolux: Formas e Máquinas,18,893,61;82;90;80;98;91;86;79;88;100;97;99,task:2;informational:57;navigational:10;commercial:13;transactional:18
+Maquinas de Refrigerante,28,2548,31;40;37;33;39;42;43;100;44;42;43;43,task:5;informational:55;navigational:3;commercial:28;transactional:9
+Geladeiras e Eletrodomésticos Brasil,16,304,17;58;62;44;37;33;33;100;65;17;17;18,task:2;informational:62;navigational:10;commercial:23;transactional:3
+Transporte Refrigerado,19,1417,94;88;54;45;77;77;77;100;100;100;100;100,task:8;informational:68;navigational:4;commercial:17;transactional:3
+Geladeiras Preto Inox,17,1004,20;67;72;57;53;42;42;100;68;76;49;71,task:3;informational:57;navigational:5;commercial:24;transactional:11
+Storage Box Solutions,16,146,44;67;68;67;66;77;100;50;85;85;51;50,task:3;informational:46;navigational:10;commercial:24;transactional:17
+eletrodomésticos de cozinha,19,1940,16;21;28;41;99;100;99;54;46;46;47;47,task:2;informational:59;navigational:5;commercial:22;transactional:12
+Balcões Refrigerados em Inox,15,250,78;90;94;92;94;92;94;88;93;91;98;100,task:7;informational:46;navigational:4;commercial:32;transactional:11
+Geladeiras Brastemp,211,116014,66;67;71;76;94;94;94;86;100;100;100;100,task:2;informational:37;navigational:23;commercial:16;transactional:22
+Maksell Refrigeração,15,32,39;42;45;45;45;45;45;45;100;83;46;46,informational:18;navigational:67;commercial:10;transactional:5
+Caixas térmicas e coolers,55,26472,68;69;72;80;90;90;90;100;100;100;100;100,task:2;informational:40;navigational:4;commercial:35;transactional:19
+Baldes térmicos de gelo,20,1030,85;100;100;97;51;51;51;82;66;67;56;56,task:5;informational:56;navigational:5;commercial:22;transactional:12
+Refrigeração e Expositores Refrimate,15,1010,61;84;86;82;87;93;94;96;96;97;100;100,task:3;informational:20;navigational:49;commercial:12;transactional:16
+Dimensões de frigobar,18,707,19;23;25;35;69;69;70;68;100;66;65;65,task:8;informational:63;navigational:4;commercial:22;transactional:3
+Air Tech & Platforms,17,347,17;24;31;32;31;20;21;55;60;92;91;100,task:3;informational:45;navigational:23;commercial:20;transactional:9
+Portas frigoríficas para câmaras frias,16,289,73;92;90;88;87;90;91;87;98;100;89;89,task:3;informational:43;navigational:5;commercial:48;transactional:1
+Coolers e caixas térmicas 24L,17,456,72;88;89;87;83;91;94;97;100;94;94;95,task:7;informational:34;navigational:20;commercial:20;transactional:19
+Geladeiras Inverter,25,3075,19;34;38;65;76;70;70;68;91;85;97;100,informational:67;navigational:4;commercial:21;transactional:8
+Geladeiras Comerciais e Industriais,17,3460,66;88;94;89;95;97;98;96;97;100;100;99,task:7;informational:43;navigational:1;commercial:38;transactional:11
+Refrigeração Amaral,16,196,28;30;33;57;57;33;32;100;96;42;42;41,task:3;informational:33;navigational:41;commercial:19;transactional:4
+Air Cooled Systems,18,3024,32;29;30;25;36;37;37;84;100;100;100;100,task:8;informational:72;navigational:5;commercial:10;transactional:5
+Refrigeração JR,16,1474,61;84;86;85;85;91;92;99;100;100;95;94,task:3;informational:21;navigational:44;commercial:27;transactional:5
+Organizadores de latas para geladeira,16,162,77;100;95;86;83;78;79;69;69;90;90;69,task:10;informational:40;navigational:5;commercial:26;transactional:19
+Etiquetas para Geladeira e Freezer,16,42,5;36;38;37;23;21;22;89;100;8;8;8,task:7;informational:52;navigational:4;commercial:28;transactional:9
+Geladeiras Portáteis para Caminhões,21,2652,85;99;100;99;53;57;56;50;55;55;53;53,task:4;informational:48;navigational:4;commercial:32;transactional:12
+Ar Condicionado Congelando,18,2607,22;27;25;25;98;99;99;100;100;100;100;100,task:10;informational:78;navigational:2;commercial:5;transactional:5
+Geladeiras Bemol e Electrolux,16,755,61;86;88;84;100;76;76;80;81;80;83;83,task:3;informational:38;navigational:18;commercial:18;transactional:23
+Máquinas de Geladinho,21,4035,44;55;62;78;93;96;96;94;100;100;100;100,task:2;informational:52;navigational:2;commercial:24;transactional:20
+Geladeiras 470 litros,23,1345,19;62;69;50;48;37;37;100;50;57;49;85,task:7;informational:39;navigational:4;commercial:32;transactional:18
+Freezers verticais 110/127V,16,303,20;67;75;48;47;40;57;100;76;51;49;47,task:3;informational:44;navigational:4;commercial:41;transactional:8
+Geladeiras Expositoras Pretas,15,803,4;11;16;16;16;20;58;7;5;100;85;91,task:7;informational:32;navigational:11;commercial:36;transactional:14
+Peças de Refrigeração Refriel,15,869,52;62;64;63;77;80;57;65;100;98;96;97,task:2;informational:42;navigational:43;commercial:9;transactional:4
+Condensadores de Geladeira,22,1993,33;39;39;39;47;48;49;100;93;96;95;97,task:3;informational:66;navigational:4;commercial:22;transactional:5
+Corsair Water Coolers,24,3373,43;64;67;64;66;68;71;72;100;72;74;71,task:3;informational:51;navigational:12;commercial:18;transactional:16
+Máquinas de Gelo Polar,19,1993,33;50;52;48;49;41;41;100;76;76;77;77,task:8;informational:55;navigational:4;commercial:28;transactional:5
+Heatsinks and Thermal Solutions,20,2129,22;26;26;25;61;61;61;79;100;93;80;81,task:8;informational:67;navigational:3;commercial:19;transactional:3
+Microwave Appliances & Terminology,16,2996,31;37;37;37;97;97;95;100;97;97;98;98,task:2;informational:61;navigational:1;commercial:32;transactional:4
+Refrigeração Poços de Caldas,15,78,71;79;92;94;86;88;85;88;86;85;85;100,task:4;informational:34;navigational:31;commercial:27;transactional:4
+Polar Refrigeração e Assitência Técnica,15,826,40;57;58;53;44;49;50;100;81;84;52;51,task:3;informational:23;navigational:51;commercial:15;transactional:8
+Geladeiras 430 litros Frost Free,17,372,30;91;100;80;73;58;58;92;72;90;38;48,task:3;informational:47;navigational:7;commercial:36;transactional:7
+Rodízios para Geladeira,17,628,28;38;38;82;82;58;100;87;79;75;76;75,task:2;informational:59;navigational:5;commercial:24;transactional:10
+Esfihas Congeladas,18,603,28;32;33;33;42;39;49;100;57;74;72;50,task:7;informational:62;navigational:5;commercial:15;transactional:11
+PC Water Cooling Systems,60,32157,59;61;65;68;77;77;77;100;80;80;80;80,task:4;informational:44;navigational:4;commercial:38;transactional:10
+Cuba de Gelo para Bar,15,78,24;38;81;73;73;57;100;25;25;33;30;30,task:10;informational:41;navigational:5;commercial:21;transactional:23
+Delfrio Refrigeração,15,120,36;36;39;42;100;64;55;57;55;43;43;43,task:3;informational:32;navigational:42;commercial:12;transactional:11
+Lab Equipment & Supplies,18,796,25;28;41;85;71;71;71;79;100;100;91;91,task:2;informational:65;navigational:10;commercial:15;transactional:8
+Geladeiras Hisense,28,5552,43;54;56;56;79;82;82;88;100;100;100;100,task:2;informational:50;navigational:12;commercial:19;transactional:17
+Geladeiras e Freezers 260 litros,15,280,11;92;100;43;36;25;42;41;29;32;27;34,task:3;informational:46;navigational:11;commercial:30;transactional:10
+Gelo em escama e máquinas de gelo,32,11091,21;54;55;94;99;100;100;99;99;99;99;99,task:5;informational:60;navigational:5;commercial:20;transactional:10
+Manutenção de Chillers,15,215,35;36;37;37;37;37;37;38;100;100;100;100,task:4;informational:80;navigational:5;commercial:7;transactional:4
+Geladeiras 370 litros Frost Free,22,1218,66;76;76;73;75;75;81;100;87;86;94;99,task:2;informational:44;navigational:5;commercial:33;transactional:16
+Refrigeração e Peças Refrilar,16,305,46;50;53;54;53;53;53;54;53;47;47;100,task:3;informational:29;navigational:41;commercial:22;transactional:5
+Brigadeiro e Docinhos Congelados,29,3150,69;56;56;60;94;94;95;84;98;100;98;98,task:10;informational:70;navigational:3;commercial:14;transactional:3
+Frigobar Brastemp Marsala,15,469,8;21;23;41;50;57;36;92;100;91;53;54,task:3;informational:51;navigational:18;commercial:16;transactional:12
+Câmaras frias usadas para açougues,15,1482,67;82;88;87;89;100;96;75;76;75;77;76,task:5;informational:28;navigational:4;commercial:45;transactional:18
+Frios e Embutidos,18,1977,46;52;59;64;70;71;71;94;97;98;100;100,task:5;informational:60;navigational:5;commercial:20;transactional:10
+Frigobar Midea Retrô,15,268,34;52;56;48;66;100;73;40;43;42;46;49,task:1;informational:45;navigational:20;commercial:20;transactional:14
+Geladeiras Midea,67,36637,38;45;46;69;88;89;89;87;100;100;100;100,task:2;informational:48;navigational:17;commercial:21;transactional:12
+Geladeira Solar,20,499,58;53;52;52;74;74;74;100;81;81;81;81,task:5;informational:59;navigational:2;commercial:30;transactional:4
+Geladeiras Consul,102,50804,80;79;82;88;89;89;89;98;100;100;100;100,task:3;informational:50;navigational:10;commercial:21;transactional:16
+Farm coolers e marmitas,17,4499,85;98;100;53;52;53;54;57;59;58;59;58,task:2;informational:60;navigational:6;commercial:21;transactional:11
+Geladeiras Brastemp Gourmand,15,1964,35;53;60;51;63;56;56;100;77;86;96;99,task:1;informational:55;navigational:15;commercial:20;transactional:9
+Freezers verticais Consul 66–100 L,16,348,37;52;87;62;59;100;89;35;35;91;43;46,task:7;informational:32;navigational:18;commercial:32;transactional:11
+Geladeiras com senha,15,467,4;87;88;49;40;76;59;100;57;72;58;59,task:3;informational:67;navigational:5;commercial:15;transactional:10
+Sistemas de água gelada e refrigeração,17,368,96;96;97;97;97;97;97;97;97;100;100;100,task:5;informational:83;navigational:5;commercial:5;transactional:2
+Geladeiras e freezers Budweiser,16,342,15;19;20;26;29;19;49;53;59;100;90;30,task:3;informational:33;navigational:1;commercial:52;transactional:11
+Centros de Frios e Pescados,15,415,19;41;38;36;23;24;24;100;28;28;27;26,task:3;informational:22;navigational:48;commercial:22;transactional:5
+Geladeiras 2 portas e side by side,38,14122,54;60;71;84;88;88;88;100;95;95;95;95,task:2;informational:54;navigational:2;commercial:32;transactional:10
+Túneles de congelación,17,1001,29;30;79;70;100;100;100;100;100;100;100;100,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Congelamento de Sopas,21,1080,40;40;98;94;100;65;65;57;64;64;64;64,task:2;informational:72;navigational:3;commercial:15;transactional:8
+Expositores de frios e laticínios,16,173,64;79;82;71;88;100;97;71;72;73;71;71,task:3;informational:60;navigational:8;commercial:23;transactional:6
+Frigobares 120 litros e similares,17,1079,33;100;100;85;71;64;58;85;89;97;67;77,task:1;informational:49;navigational:4;commercial:39;transactional:7
+Bananas Congeladas,36,11027,66;59;59;67;99;100;100;92;92;92;92;91,task:2;informational:79;navigational:5;commercial:10;transactional:4
+Clothes Drying Racks,15,253,24;27;28;28;43;31;30;49;95;100;31;32,task:1;informational:52;navigational:11;commercial:27;transactional:9
+Geladeiras Pretas Frost Free,15,695,40;61;73;97;96;89;85;96;63;100;86;82,task:2;informational:57;navigational:2;commercial:25;transactional:14
+Home Tech,18,610,36;54;54;30;61;61;55;100;35;37;37;36,task:2;informational:60;navigational:8;commercial:21;transactional:9
+Refrigeração e Eletroeletrônicos,16,132,31;35;34;29;29;32;32;26;26;100;28;27,task:5;informational:45;navigational:4;commercial:37;transactional:9
+Geladeiras 410 litros em inox,22,2901,88;100;100;97;44;47;48;42;43;41;60;61,task:5;informational:42;navigational:10;commercial:22;transactional:21
+Geladeiras 380 litros,20,1413,35;69;81;62;47;48;50;94;76;86;84;100,task:3;informational:54;navigational:4;commercial:28;transactional:11
+Frigoríficos de Peixe,15,101,13;14;15;100;100;16;16;23;23;16;16;16,task:3;informational:31;navigational:4;commercial:41;transactional:21
+Frigobar Electrolux Preto,15,863,10;25;28;27;26;21;63;28;23;100;91;91,task:7;informational:37;navigational:18;commercial:24;transactional:14
+Congelar Legumes,91,27340,86;82;81;85;94;94;94;93;100;100;100;100,task:2;informational:79;navigational:5;commercial:8;transactional:6
+Manutenção de Câmara Fria,16,253,79;100;100;99;79;65;65;68;65;65;74;78,task:12;informational:54;navigational:4;commercial:21;transactional:9
+Geladeiras de Inox,17,478,20;54;91;62;62;41;54;100;68;66;54;71,task:3;informational:51;navigational:4;commercial:31;transactional:11
+Churros Congelados,16,879,32;40;46;97;99;100;100;50;45;45;46;46,task:3;informational:54;navigational:7;commercial:20;transactional:16
+Geladeiras Electrolux 310L,41,5426,91;98;100;100;97;98;98;42;44;46;44;44,task:2;informational:48;navigational:10;commercial:20;transactional:20
+Stock Up Brazil,15,270,8;100;89;77;35;28;23;9;12;16;26;16,task:10;informational:38;navigational:24;commercial:10;transactional:18
+Geladeiras: preço e tamanho,17,548,15;58;65;42;47;45;42;100;57;29;26;30,informational:57;navigational:2;commercial:30;transactional:11
+Hotpoint Appliances,17,1338,75;80;81;92;100;94;94;91;92;93;93;95,informational:32;navigational:31;commercial:12;transactional:25
+Cold Air Intakes,16,633,72;99;100;99;84;90;91;81;92;92;84;85,task:5;informational:40;navigational:24;commercial:22;transactional:9
+Hot Containers,19,5326,53;60;59;59;55;56;58;94;99;99;100;100,task:3;informational:71;navigational:5;commercial:10;transactional:11
+Máquinas e Refrigeração no Brasil,15,144,42;74;76;86;70;100;90;51;43;25;25;28,task:7;informational:70;navigational:5;commercial:11;transactional:7
+Carrinhos com Cooler,15,1704,62;88;92;88;90;96;98;94;100;100;100;99,task:7;informational:50;navigational:5;commercial:25;transactional:13
+Samsung RS52 Side-by-Side Fridges,17,3780,7;27;100;25;23;18;19;76;58;49;35;68,task:3;informational:41;navigational:27;commercial:17;transactional:12
+Refrigeradores Electrolux Side by Side,32,2925,63;72;76;54;53;56;55;58;72;100;73;72,task:5;informational:59;navigational:2;commercial:24;transactional:10
+"Metalfrio: Refrigeração, Expositores e Peças",18,964,78;98;99;93;84;91;90;90;100;100;92;91,task:3;informational:33;navigational:32;commercial:19;transactional:13
+Foodz Online Shopping,16,100,20;96;100;70;70;89;38;20;20;19;19;19,task:4;informational:20;navigational:28;commercial:21;transactional:27
+Quibe Congelado,17,687,77;100;90;50;47;49;48;48;54;52;60;61,task:8;informational:70;navigational:5;commercial:10;transactional:7
+Geladeiras com Painel Digital,15,872,20;74;89;66;66;51;50;20;20;100;65;97,task:7;informational:66;navigational:3;commercial:21;transactional:3
+Refrigeração Vieira,15,81,78;91;99;100;96;93;95;85;97;97;97;97,task:7;informational:37;navigational:17;commercial:31;transactional:8
+Geladeiras Brastemp 443 L,24,4604,81;95;95;92;93;95;96;77;83;100;93;100,task:2;informational:59;navigational:15;commercial:18;transactional:6
+Refrigeração e Eletrodomésticos no Brasil,16,3913,15;24;76;78;19;18;18;93;89;90;89;100,task:5;informational:62;navigational:10;commercial:20;transactional:3
+Geladeiras Brastemp Inverse 3,19,1693,30;47;51;31;84;100;90;50;46;58;33;69,task:4;informational:49;navigational:25;commercial:12;transactional:10
+Thermometers,18,1462,20;22;23;54;64;65;53;100;89;68;68;65,informational:53;navigational:5;commercial:32;transactional:10
+Peças e Serviços de Refrigeração,15,196,46;59;57;79;85;94;100;88;73;50;50;50,task:5;informational:53;navigational:15;commercial:12;transactional:15
+Centro de Mesa Frozen,16,208,55;100;84;59;73;84;75;66;65;50;50;55,task:5;informational:35;navigational:39;commercial:16;transactional:5
+Bolsas térmicas e coolers,19,674,71;94;95;92;84;100;99;100;90;89;88;88,task:3;informational:52;navigational:1;commercial:31;transactional:13
+Geladeiras Novo Mundo,15,1290,56;73;77;76;100;76;76;41;46;39;66;82,task:5;informational:32;navigational:20;commercial:13;transactional:30
+Frigobares Consul Retrô,15,200,16;63;83;46;46;53;39;100;89;41;30;30,task:3;informational:52;navigational:18;commercial:12;transactional:15
+Eletrodomésticos no Zoom,22,2376,85;100;100;99;75;78;82;97;86;87;93;94,task:5;informational:33;navigational:27;commercial:10;transactional:25
+Geladeiras Brastemp 463L Frost Free,18,1809,18;41;45;33;33;32;37;90;72;100;93;83,task:7;informational:65;navigational:1;commercial:19;transactional:8
+Criogenia e criogênicos,22,1842,67;87;100;93;95;82;82;61;85;85;85;85,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Frigobares Inox 220V,15,627,7;34;38;27;26;32;14;59;43;100;89;87,task:3;informational:49;navigational:4;commercial:33;transactional:11
+Geladeiras usadas e seminovas,22,4232,54;67;82;74;87;90;90;86;98;100;98;97,task:5;informational:35;navigational:5;commercial:33;transactional:22
+Evaporadores de Geladeira,18,1201,31;40;40;37;48;48;33;75;66;100;92;100,task:5;informational:63;navigational:4;commercial:20;transactional:8
+Frost Pet Food,16,3523,92;94;94;98;98;98;98;100;100;100;100;100,task:2;informational:70;navigational:10;commercial:13;transactional:5
+Hoshizaki: Máquinas de gelo,17,403,49;54;57;50;49;58;62;53;100;96;96;96,task:2;informational:43;navigational:30;commercial:17;transactional:8
+Roupas Frozen,15,291,43;75;81;81;98;92;67;98;95;100;99;97,task:3;informational:45;navigational:18;commercial:30;transactional:4
+Tupperware porta frios,15,117,37;42;44;39;39;38;41;92;100;36;35;37,task:7;informational:30;navigational:18;commercial:28;transactional:17
+Peças e prateleiras Consul,22,1536,86;99;100;56;50;52;53;63;53;54;57;57,task:3;informational:50;navigational:23;commercial:13;transactional:11
+Geladeiras Havan e eletrodomésticos,22,3427,86;99;100;56;50;53;53;57;61;69;65;75,task:2;informational:35;navigational:24;commercial:19;transactional:20
+Ice Technology & Icetech,17,1583,32;42;43;44;98;99;100;60;61;61;61;64,task:5;informational:59;navigational:15;commercial:15;transactional:6
+Interfrio Refrigeração,15,265,36;42;45;43;43;44;44;45;92;100;50;49,informational:41;navigational:33;commercial:23;transactional:3
+Frigobar Philco 45L,15,534,9;38;45;28;12;12;12;100;90;50;45;45,task:3;informational:42;navigational:32;commercial:5;transactional:18
+Frigobar 70 litros,16,914,17;34;40;45;53;52;53;100;76;91;88;80,task:3;informational:44;navigational:4;commercial:33;transactional:16
+Box Containers,16,196,73;76;80;80;75;74;74;71;100;100;100;100,task:2;informational:51;navigational:4;commercial:34;transactional:9
+Ice Hotels,20,1765,65;67;67;96;96;97;97;92;100;100;100;100,task:5;informational:60;navigational:13;commercial:10;transactional:12
+Gelopar: refrigeração e expositores,16,72,41;43;44;46;43;43;42;98;100;41;41;41,task:3;informational:47;navigational:12;commercial:21;transactional:17
+Conservação de Alimentos na Geladeira,70,15494,89;91;97;98;96;97;97;95;100;100;100;100,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Legumes e Verduras Congelados,27,12653,17;84;85;99;98;99;99;99;100;100;100;100,task:2;informational:68;navigational:8;commercial:14;transactional:8
+Geladeiras Retrô e Vintage,15,3697,71;95;100;95;94;96;98;94;98;98;98;97,task:2;informational:44;navigational:2;commercial:44;transactional:8
+Expositores de Geladeira,22,24750,94;97;100;85;82;82;82;83;82;82;82;82,task:5;informational:43;navigational:4;commercial:38;transactional:10
+Appliance Repair Services,21,5183,78;67;62;66;59;60;60;82;98;98;100;100,task:5;informational:46;navigational:7;commercial:23;transactional:19
+Geladeiras de 350 litros,15,196,15;78;100;69;58;37;61;87;60;21;21;24,task:3;informational:45;commercial:47;transactional:5
+Etiquetas para congelados,18,430,57;61;63;99;97;100;100;49;68;69;71;73,task:8;informational:52;navigational:1;commercial:30;transactional:9
+Geladeiras 580 litros,16,709,18;80;100;66;49;45;46;85;49;73;57;86,task:3;informational:28;navigational:1;commercial:50;transactional:18
+Ilhas de congelados para supermercados,28,2093,53;71;89;100;91;95;97;88;79;78;79;78,task:8;informational:39;navigational:2;commercial:42;transactional:9
+Refrigeração e Armazéns Gerais,17,1192,68;92;93;89;93;100;100;45;53;52;53;47,task:5;informational:63;navigational:12;commercial:12;transactional:8
+Máquinas de gelo industriais,19,1996,41;51;51;50;48;50;49;78;100;100;96;96,task:4;informational:49;navigational:5;commercial:32;transactional:10
+Frigoríficos Mata Bem,15,99,24;48;51;27;25;100;85;28;28;27;27;27,task:7;informational:35;navigational:40;commercial:14;transactional:4
+Brastemp Retrô: Frigobar e Geladeira,46,20987,100;97;42;46;48;48;48;44;44;44;44;44,task:2;informational:41;navigational:26;commercial:17;transactional:14
+Wardrobe and Closet Furniture,17,2146,64;96;100;98;92;98;100;89;90;93;98;96,task:3;informational:62;navigational:5;commercial:22;transactional:8
+Embalagens para Marmitas Congeladas,45,9641,38;22;25;66;99;100;100;88;79;78;78;78,task:8;informational:50;navigational:1;commercial:32;transactional:9
+Estabilizadores e Nobreaks para Geladeiras,31,13513,33;39;37;40;75;76;77;99;100;100;100;100,task:5;informational:60;navigational:3;commercial:27;transactional:5
+Freezers Philco Verticais (201–232 L),23,734,60;100;84;65;51;42;41;57;51;61;61;60,task:2;informational:46;navigational:4;commercial:36;transactional:12
+Expositores e freezers 4 portas,16,58,23;32;39;49;45;48;100;91;65;22;22;22,task:4;informational:52;navigational:4;commercial:33;transactional:7
+Climatização de Geladeiras 40 Litros,17,402,24;89;100;76;72;22;22;25;27;33;46;47,task:7;informational:50;navigational:7;commercial:26;transactional:10
+Wine Preservation & Accessories,15,54,39;42;62;48;100;84;49;91;70;46;44;42,task:10;informational:32;navigational:33;commercial:17;transactional:8
+Refrigeração para navegantes,16,59,31;31;34;34;31;31;31;100;90;37;36;38,task:1;informational:58;navigational:4;commercial:31;transactional:6
+Conservação de Alimentos,15,430,76;85;85;84;80;82;83;94;100;100;100;100,task:1;informational:75;navigational:5;commercial:10;transactional:9
+Coolers para Celulares,28,9931,16;22;23;26;31;32;32;99;100;100;100;100,task:10;informational:44;navigational:1;commercial:30;transactional:15
+Decoração de Geladeira,24,1136,63;62;66;93;100;99;99;90;85;85;85;85,task:10;informational:68;navigational:5;commercial:12;transactional:5
+Caminhões com Câmara Fria,22,475,73;82;82;64;64;67;66;100;77;100;86;85,task:2;informational:72;navigational:5;commercial:16;transactional:5
+Refrigeração TemperFrio,15,433,63;77;80;74;73;77;77;86;99;100;98;99,task:3;informational:30;navigational:52;commercial:7;transactional:8
+Geladeiras Continental com Problemas de Resfriamento,16,69,100;41;47;47;47;65;68;49;50;50;50;50,task:12;informational:57;navigational:9;commercial:10;transactional:12
+Pichau CPU Coolers,16,483,12;33;15;13;13;13;13;13;92;74;100;13,task:3;informational:47;navigational:16;commercial:20;transactional:14
+Empadas Congeladas,17,608,9;9;10;27;27;29;100;100;66;38;39;38,task:5;informational:67;navigational:2;commercial:18;transactional:8
+Calendários e ímãs de geladeira,15,2013,52;68;74;98;96;99;100;56;62;62;58;57,task:2;informational:55;navigational:5;commercial:22;transactional:16
+Cortinas frigoríficas para câmaras frias,17,165,77;88;91;90;95;100;94;86;85;85;85;85,task:7;informational:44;navigational:4;commercial:31;transactional:14
+Refrigeração Mundial,17,626,92;100;39;31;33;36;31;37;40;40;42;42,task:2;informational:55;navigational:5;commercial:18;transactional:20
+Geladeiras TCL,19,1325,28;62;70;51;51;45;40;100;71;84;68;76,task:3;informational:59;navigational:13;commercial:13;transactional:12
+Gás de Geladeira,73,18106,69;68;71;83;92;93;93;100;100;100;100;100,task:2;informational:74;navigational:5;commercial:12;transactional:7
+Geladeiras de Brinquedo para Crianças,17,2370,73;97;100;95;78;84;86;74;81;89;80;79,task:7;informational:52;navigational:5;commercial:25;transactional:11
+Frigobar Electrolux RE80,17,466,37;66;78;61;59;70;55;97;100;96;55;57,task:3;informational:57;navigational:11;commercial:18;transactional:11
+Máquinas de gelo Philco,16,412,51;58;60;59;54;66;57;100;50;53;27;27,task:2;informational:43;navigational:15;commercial:16;transactional:24
+Sistemas de refrigeração e redes frigorígenas,22,2108,67;75;74;100;98;96;96;99;99;98;98;98,task:8;informational:78;navigational:2;commercial:10;transactional:2
+Geladeiras Ferreira Costa,16,744,16;56;64;40;40;39;60;100;64;74;66;79,task:1;informational:18;navigational:48;commercial:11;transactional:22
+Portable Storage Pods & Containers,18,2644,38;49;62;100;67;69;69;71;71;71;71;71,task:7;informational:46;navigational:9;commercial:26;transactional:12
+Acessórios de fixação e proteção para geladeiras,18,699,23;56;82;72;48;48;61;55;72;100;97;96,task:7;informational:46;navigational:7;commercial:35;transactional:5
+Geladeiras 360 litros,23,2144,23;36;42;45;42;43;47;60;92;100;88;94,task:2;informational:41;navigational:19;commercial:35;transactional:3
+Geladeiras frost free Consul 300–342 L,65,16502,41;46;50;50;100;100;100;86;87;87;87;87,task:2;informational:52;navigational:9;commercial:23;transactional:14
+Home Stock,15,138,6;12;23;58;64;100;99;88;67;69;35;31,task:3;informational:70;navigational:8;commercial:12;transactional:7
+Mini Geladeiras para Cerveja,15,550,47;67;69;65;45;47;57;100;80;52;52;52,task:7;informational:45;navigational:1;commercial:36;transactional:11
+Geladeiras Panasonic Frost Free 425L com vidro,19,1199,20;21;22;23;23;23;38;100;66;77;65;71,task:5;informational:60;navigational:5;commercial:22;transactional:8
+Linhas frias e quentes para cozinhas,17,503,77;93;92;87;87;96;95;96;100;100;100;99,task:7;informational:63;navigational:4;commercial:22;transactional:4
+Coolers da Brahma,15,190,16;37;42;46;46;98;87;26;37;100;100;98,task:5;informational:49;navigational:13;commercial:22;transactional:11
+Geladeiras de Tomate,16,62,14;89;90;51;51;39;100;15;16;16;16;16,task:3;informational:52;navigational:5;commercial:23;transactional:17
+Fatiadores de Frios Bermar,16,172,88;98;100;94;90;93;93;95;99;97;97;97,task:3;informational:18;navigational:34;commercial:29;transactional:16
+Polar Refrigeração e Caixas,17,765,52;65;68;69;97;100;93;75;74;74;75;75,task:3;informational:32;navigational:28;commercial:28;transactional:9
+Grundig Electronics,17,1269,20;25;25;35;89;89;89;100;68;80;72;54,task:2;informational:49;navigational:33;commercial:10;transactional:6
+Radiators and Heating Solutions,17,868,23;27;37;100;78;84;73;75;76;74;74;74,task:2;informational:65;navigational:10;commercial:15;transactional:8
+Geladeiras Consul 405 litros Frost Free,17,687,39;51;46;37;54;45;37;42;34;100;59;70,task:5;informational:60;navigational:5;commercial:17;transactional:13
+Bebedouros com motor de geladeira,17,874,80;84;85;83;81;90;93;81;89;95;100;100,informational:68;navigational:4;commercial:25;transactional:3
+Geladeiras para Vacinas,37,4889,52;58;61;96;99;100;100;88;89;89;92;92,task:5;informational:63;navigational:4;commercial:22;transactional:6
+Frigobar Electrolux 120–122 L,22,1003,37;52;53;53;60;63;63;90;88;100;65;65,task:3;informational:44;navigational:28;commercial:20;transactional:5
+Armários com Geladeira Embutida,25,2916,66;86;92;98;95;99;100;77;81;81;82;82,task:5;informational:48;navigational:10;commercial:29;transactional:8
+Storage Solutions & Warehouse Storage,16,923,30;33;33;33;100;100;100;83;55;56;55;55,task:2;informational:73;navigational:5;commercial:17;transactional:3
+Morango Congelado,23,10318,17;22;23;91;91;93;93;97;100;100;100;100,task:5;informational:60;navigational:10;commercial:16;transactional:9
+Refrigeração e Refrigigas no Brasil,16,832,63;91;92;89;67;79;70;91;95;100;88;88,task:3;informational:56;navigational:21;commercial:11;transactional:9
+Temperature Sensors,20,1509,31;38;39;54;72;71;71;100;80;80;80;81,task:2;informational:68;navigational:5;commercial:10;transactional:15
+Air Compressor Dryers,16,567,57;63;64;64;99;100;100;79;79;79;79;79,task:3;informational:60;navigational:3;commercial:23;transactional:11
+Frigobar 46/88 litros,17,750,13;47;51;40;41;34;24;83;63;100;46;50,task:10;informational:28;navigational:5;commercial:23;transactional:34
+Refrigeração Padock,15,708,85;98;87;66;66;78;77;100;79;80;85;84,task:3;informational:70;navigational:10;commercial:12;transactional:5
+Water Cooler para PCs,17,2061,56;82;85;80;79;85;86;89;100;100;93;88,task:3;informational:53;navigational:1;commercial:30;transactional:13
+Geladeiras GE e assistência (General Electric),32,7034,27;72;74;81;96;98;98;93;100;99;100;100,task:2;informational:60;navigational:9;commercial:22;transactional:7
+Geladeiras no GBarbosa,15,656,64;69;74;55;69;59;61;91;74;100;84;55,task:3;informational:23;navigational:26;commercial:10;transactional:38
+Air Conditioner Buying Guide,55,43303,18;21;26;53;75;75;75;91;100;100;100;100,task:5;informational:55;navigational:2;commercial:32;transactional:6
+Low-Profile CPU Coolers,15,195,32;38;36;36;39;42;50;72;100;35;35;34,task:10;informational:44;navigational:2;commercial:30;transactional:14
+Expositores de vidro para geladeiras,15,400,74;34;37;35;41;44;59;32;31;100;95;98,task:5;informational:48;navigational:5;commercial:29;transactional:13
+Trocadores de Calor e Chillers para Cerveja Caseira,17,267,39;40;44;60;59;59;59;100;100;100;100;100,task:3;informational:60;navigational:4;commercial:27;transactional:6
+Jet Frio Refrigeração,15,86,12;13;14;13;14;100;69;29;24;16;16;16,task:3;informational:18;navigational:70;commercial:4;transactional:5
+Deep Fryers,17,665,41;45;45;45;99;100;100;39;37;28;28;29,task:1;informational:52;navigational:4;commercial:34;transactional:9
+Expositores e vitrines para sorvete e gelato,16,117,25;27;30;31;36;70;100;47;45;26;27;26,task:3;informational:53;navigational:4;commercial:35;transactional:5
+Resfriadores de água e dosadores para uso comercial,17,248,100;48;49;48;44;52;49;43;49;51;52;49,task:5;informational:73;navigational:2;commercial:17;transactional:3
+Aigo Ice400SE Gadgets,15,102,15;24;24;20;20;19;23;100;69;26;30;24,task:7;informational:52;navigational:11;commercial:16;transactional:14
+Garrafas para Geladeira,27,8484,29;35;36;51;82;85;85;96;100;100;99;99,task:5;informational:42;navigational:4;commercial:40;transactional:9
+Refrigeração São Rafael,15,121,54;55;67;67;65;64;64;72;72;67;67;100,task:3;informational:23;navigational:58;commercial:9;transactional:7
+Refrigeração Industrial e Equipamentos,16,375,54;49;51;52;54;56;55;100;99;99;100;100,task:1;informational:52;navigational:8;commercial:33;transactional:6
+Gavetas de Geladeira Brastemp,21,1361,87;99;100;49;47;52;52;50;50;51;52;51,task:5;informational:42;navigational:4;commercial:37;transactional:12
+Geladeiras Consul Frost Free 342L,20,298,15;36;40;33;33;31;27;36;86;100;20;23,task:4;informational:37;navigational:28;commercial:25;transactional:6
+Friolar Peças e Refrigeração,15,357,54;69;68;67;70;96;93;91;99;100;94;93,task:3;informational:20;navigational:47;commercial:25;transactional:5
+Star Ar Condicionado e Refrigeração,15,297,53;53;53;55;35;36;36;41;94;100;38;37,task:3;informational:18;navigational:34;commercial:37;transactional:8
+Máquinas de gelo Springer,15,38,8;23;24;19;100;27;15;15;13;17;19;16,task:3;informational:63;navigational:12;commercial:15;transactional:7
+Adegas com Coolers,15,242,43;72;83;59;87;75;66;77;66;100;90;100,task:7;informational:53;navigational:5;commercial:23;transactional:12
+Travas e Fechaduras para Geladeira,17,1581,97;53;51;52;55;62;62;73;72;72;93;100,task:2;informational:62;navigational:5;commercial:20;transactional:11
+Geladeiras com Frete Grátis,16,1897,13;45;48;91;80;62;70;50;44;61;83;100,task:5;informational:39;navigational:4;commercial:38;transactional:14
+"Ponto Frio: Móveis, Guarda-roupas e Camas Box",15,1916,68;98;100;93;82;88;89;76;83;83;83;82,task:6;informational:30;navigational:27;commercial:18;transactional:19
+Refrigeradores Brastemp 461L,22,2717,64;80;80;48;52;53;49;68;52;64;91;100,task:2;informational:49;navigational:7;commercial:31;transactional:11
+Armazenamento Frigorífico no Brasil,17,874,93;94;95;59;100;95;93;99;99;91;91;94,task:2;informational:70;navigational:14;commercial:7;transactional:7
+Cozinha: fogão e geladeira,30,4756,85;93;94;95;96;97;98;89;100;100;100;100,task:2;informational:71;navigational:5;commercial:14;transactional:8
+Geladeiras Colombo,18,1317,86;100;100;67;69;72;72;65;64;65;66;65,task:2;informational:32;navigational:26;commercial:12;transactional:28
+AM4 CPU Coolers and Air Coolers,32,12428,90;97;100;51;86;87;87;100;100;100;99;99,task:2;informational:59;navigational:4;commercial:29;transactional:6
+Ice Globes Decor,19,2364,19;21;21;46;66;66;67;84;82;98;99;100,task:5;informational:60;navigational:2;commercial:27;transactional:6
+Frigobar Brastemp Rosa e Dourado,16,350,22;100;90;84;83;27;26;94;25;27;25;25,task:3;informational:41;navigational:18;commercial:27;transactional:11
+Geladeiras Electrolux no Brasil,121,46843,51;52;55;61;69;69;69;78;99;100;100;100,task:1;informational:54;navigational:15;commercial:15;transactional:15
+Resfriar e Climatização,17,2237,48;78;78;71;43;44;43;73;88;90;91;100,task:4;informational:53;navigational:7;commercial:22;transactional:14
+Coolers de PC,17,860,38;61;63;52;55;59;58;65;100;94;91;67,task:7;informational:40;navigational:1;commercial:38;transactional:14
+Congelados da Sonia,15,264,43;92;100;94;50;53;50;68;49;52;50;53,task:3;informational:30;navigational:56;commercial:7;transactional:4
+Balcões Refrigerados Usados,16,66,34;36;38;34;32;33;32;100;33;33;33;33,task:3;informational:44;navigational:11;commercial:18;transactional:24
+Conela Refrigeração,15,273,12;13;14;13;18;17;15;14;14;100;80;46,task:3;informational:18;navigational:67;commercial:7;transactional:5
+Geladeiras Vermelhas,16,1159,22;29;29;26;34;40;44;61;42;100;80;76,task:10;informational:40;navigational:7;commercial:32;transactional:11
+Refrigeração e Ar Condicionado em Cabo Frio,15,247,36;38;40;37;36;78;63;57;49;100;96;96,task:3;informational:24;navigational:29;commercial:35;transactional:9
+hand dryers,15,59,42;46;46;69;66;98;100;64;68;41;42;41,task:10;informational:44;navigational:5;commercial:27;transactional:14
+Rocket Espresso Home Machines,15,72,57;56;59;100;92;100;77;58;59;59;59;59,task:3;informational:47;navigational:25;commercial:15;transactional:10
+Frozen Margarita Recipes,22,2367,30;31;31;27;51;52;52;100;100;100;100;100,task:8;informational:83;navigational:3;commercial:5;transactional:1
+Geladeiras Koerich,17,1159,41;61;67;55;55;74;100;42;36;80;75;86,task:2;informational:19;navigational:30;commercial:10;transactional:39
+Geladeiras Inteligentes e Conectadas,24,3672,33;42;44;25;38;39;39;100;83;87;84;88,task:2;informational:69;navigational:5;commercial:21;transactional:3
+Vehicle Storage Solutions,30,23143,33;38;42;41;90;90;90;99;100;100;100;100,task:2;informational:62;navigational:6;commercial:18;transactional:12
+Coolers e caixas térmicas 35L,15,179,9;12;14;13;14;100;93;19;24;50;52;54,task:3;informational:49;navigational:4;commercial:33;transactional:11
+Geladeiras e Freezers Usados no OLX,15,1014,45;64;100;82;73;60;61;58;60;61;61;61,task:3;informational:21;navigational:48;commercial:11;transactional:17
+Refrigeração em Santa Maria,15,82,12;93;91;35;34;41;42;100;51;17;20;18,task:3;informational:58;navigational:4;commercial:30;transactional:5
+Ice Baths & Cold Plunge,17,1919,60;68;68;95;100;99;98;96;96;100;96;96,task:5;informational:49;navigational:4;commercial:38;transactional:4
+Pharma Cold Chain Logistics,18,790,81;94;100;93;77;77;77;70;70;66;66;68,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Prateleiras Brastemp,16,588,69;100;100;93;86;84;84;83;87;88;83;84,task:3;informational:31;navigational:38;commercial:15;transactional:13
+Refrigeradores com French Door,24,4001,49;70;74;76;75;79;80;66;100;100;100;100,task:2;informational:55;navigational:2;commercial:28;transactional:13
+Geladeiras de baixo consumo,43,7691,65;58;61;75;84;83;83;100;94;95;92;92,task:2;informational:64;navigational:4;commercial:24;transactional:6
+Frigobar Midea 93L,18,784,91;100;100;97;75;86;69;59;57;53;79;80,task:5;informational:49;navigational:7;commercial:14;transactional:25
+Hand Warmers,22,2646,40;45;47;30;99;100;100;71;68;68;69;69,task:3;informational:49;navigational:5;commercial:33;transactional:10
+Geladeiras Frigidaire Antigas,18,1027,73;87;88;53;98;100;100;54;55;55;54;54,task:2;informational:72;navigational:8;commercial:15;transactional:3
+Geladeiras 1 Porta,16,1789,66;98;100;86;85;91;94;98;99;99;100;99,task:3;informational:42;navigational:7;commercial:37;transactional:11
+Thermalright CPU Coolers,15,3055,74;88;92;92;92;95;95;97;100;97;97;96,task:7;informational:53;navigational:7;commercial:27;transactional:6
+Frigobar Philco: medidas e opções,16,830,3;31;40;26;30;32;41;100;100;76;85;75,task:3;informational:58;navigational:4;commercial:31;transactional:4
+Termômetros para Geladeira e Refrigeração,22,1610,50;61;57;62;82;84;84;100;94;89;90;90,task:5;informational:65;navigational:2;commercial:27;transactional:1
+frigobar nas Casas Bahia,15,1448,16;22;23;22;24;26;34;31;40;100;35;36,task:3;informational:24;navigational:48;commercial:8;transactional:17
+Cerveja gelada rapidamente,31,7900,59;63;67;98;62;63;63;100;69;69;69;69,task:12;informational:72;navigational:5;commercial:6;transactional:5
+Refrigeração de Fiorino,22,5393,100;32;30;29;26;27;27;100;100;100;100;100,task:13;informational:66;navigational:2;commercial:13;transactional:6
+Peças de geladeira Electrolux,22,2971,43;51;52;30;72;74;74;94;100;100;100;100,task:5;informational:50;navigational:4;commercial:26;transactional:15
+Garage Cabinet and Storage Solutions,19,1053,37;51;99;97;97;100;100;70;71;71;65;65,task:5;informational:60;navigational:4;commercial:28;transactional:3
+Geladeiras 450 litros,19,10298,79;89;91;87;83;84;84;82;99;100;99;100,task:5;informational:39;navigational:4;commercial:42;transactional:10
+Pasta térmica Cooler Master Cryofuze,18,416,54;100;75;59;66;71;65;70;59;86;78;53,task:2;informational:68;navigational:5;commercial:18;transactional:7
+Expositores Refrigerados Abertos,17,657,36;37;37;39;39;39;39;94;95;90;90;100,task:8;informational:61;navigational:7;commercial:19;transactional:5
+Baú Refrigerado para Strada,16,216,59;25;27;25;29;38;33;100;100;59;59;63,task:5;informational:65;navigational:5;commercial:15;transactional:10
+Refrigeração e Assistência Técnica (Refritec),16,555,89;97;98;97;94;96;97;100;91;93;80;80,task:5;informational:48;navigational:21;commercial:20;transactional:6
+Geladeiras Palito Consul,16,615,22;31;32;29;25;28;35;45;38;100;37;40,task:4;informational:45;navigational:11;commercial:24;transactional:16
+Estufas e vitrines comerciais,15,369,95;100;100;100;97;99;99;100;68;100;68;68,task:2;informational:53;navigational:4;commercial:31;transactional:10
+Geladeiras Bertazzoni,15,612,55;78;80;83;43;45;45;37;38;39;100;97,task:3;informational:49;navigational:7;commercial:37;transactional:4
+Coolers redondos para cerveja 24 latas,15,408,58;93;100;79;78;68;69;65;66;64;69;69,task:3;informational:36;navigational:1;commercial:45;transactional:15
+Geladeiras Portáteis de 18 Litros,16,171,32;100;98;37;36;38;43;36;36;53;46;32,task:3;informational:45;navigational:1;commercial:34;transactional:17
+AHT Cooling Systems,15,203,66;78;82;80;89;92;93;92;94;94;95;100,task:5;informational:39;navigational:32;commercial:10;transactional:14
+Chillers para Aquários,19,478,93;99;100;71;70;73;68;79;80;80;80;80,task:2;informational:51;navigational:2;commercial:33;transactional:12
+Geladeiras Electrolux 280L,16,1258,8;17;25;26;27;14;33;22;18;62;72;100,task:3;informational:43;navigational:18;commercial:32;transactional:4
+Food Box,16,177,14;41;40;52;53;45;41;17;100;94;18;40,task:3;informational:41;navigational:10;commercial:29;transactional:17
+Geladeiras comerciais 2 portas,15,100,40;43;46;45;45;100;78;81;70;41;41;41,task:3;informational:30;navigational:8;commercial:44;transactional:15
+Maçaricos para Refrigeração e Solda,17,521,28;38;38;100;35;35;32;37;52;51;51;48,task:2;informational:53;navigational:5;commercial:16;transactional:24
+peças para geladeira Brastemp,18,277,71;97;100;87;87;89;89;86;86;90;82;85,task:7;informational:32;navigational:8;commercial:23;transactional:30
+Congelamento de bolos,41,6622,71;76;79;83;87;88;88;91;100;100;100;100,task:10;informational:75;navigational:5;commercial:8;transactional:2
+Frigobar no Mercado Livre,15,548,29;83;100;71;58;65;56;64;53;57;52;53,task:1;informational:23;navigational:45;commercial:11;transactional:20
+Geladeiras de 290 litros,15,550,7;98;100;19;20;17;26;23;17;43;37;43,task:4;informational:29;navigational:4;commercial:40;transactional:23
+Hair Dryers & Styling Tools,19,1655,30;35;35;65;73;71;78;100;61;61;75;78,task:2;informational:33;navigational:3;commercial:48;transactional:14
+Shopping & Grocery Lists,23,3196,71;72;69;78;77;78;78;85;92;93;100;100,task:15;informational:58;navigational:7;commercial:10;transactional:10
+Water Cooler Superframes,16,1471,51;67;63;63;55;54;53;67;100;85;59;76,task:3;informational:64;navigational:5;commercial:16;transactional:12
+Pastéis Congelados para Revenda,28,2531,61;63;63;70;72;73;73;100;95;95;93;93,task:5;informational:54;navigational:5;commercial:28;transactional:8
+Maytag Home Appliances,15,297,43;71;99;89;100;95;94;77;66;67;87;88,task:3;informational:40;navigational:36;commercial:11;transactional:10
+Refrigeração e Refrigerar no Brasil,19,1002,58;38;35;31;99;100;100;52;32;35;37;36,task:4;informational:78;navigational:12;commercial:4;transactional:2
+Geladeiras Consul 360 litros,18,175,16;23;27;21;34;30;50;100;62;30;30;21,task:3;informational:38;navigational:23;commercial:31;transactional:5
+"Geladeiras: Potência, Voltagem e Frost Free",24,6235,42;71;69;74;99;100;100;94;96;96;95;95,task:2;informational:66;navigational:4;commercial:24;transactional:4
+Cooling Towers,17,601,81;93;94;94;100;100;100;89;89;89;89;90,task:2;informational:76;navigational:5;commercial:15;transactional:2
+Geladeiras de 270 litros,17,239,11;70;100;68;66;45;44;84;58;22;19;26,task:7;informational:42;navigational:4;commercial:36;transactional:11
+Gelo Seco: Compra e Uso,86,63039,30;32;33;35;85;85;85;100;96;96;96;96,task:5;informational:54;navigational:6;commercial:14;transactional:21
+Coolers de Vinho e Bebidas,32,28677,17;20;24;85;86;86;87;99;100;100;100;100,task:5;informational:61;navigational:4;commercial:22;transactional:8
+Frozen Yogurt Near Me,18,1899,100;89;90;94;76;76;76;87;88;76;77;77,task:2;informational:46;navigational:32;commercial:17;transactional:3
+Container de Lanches,18,1809,87;100;100;98;62;65;66;62;59;59;58;57,task:10;informational:33;navigational:6;commercial:42;transactional:9
+Ventiladores com gelo,17,1692,30;32;33;42;43;33;32;100;98;88;88;87,task:8;informational:78;navigational:2;commercial:10;transactional:2
+Gelopar: Geladeiras e cervejeiras 3 portas,17,1512,71;98;100;83;82;88;98;91;93;93;93;92,task:3;informational:39;navigational:6;commercial:36;transactional:16
+Geladeiras 440 litros,19,1018,25;60;69;50;49;34;37;100;37;41;46;73,task:3;informational:40;navigational:6;commercial:30;transactional:21
+Geladeiras Electrolux Frost Free 459L,38,6739,20;30;32;40;47;49;49;75;79;80;100;100,task:2;informational:58;navigational:10;commercial:20;transactional:10
+Geladeiras Brastemp no Amazon,16,350,27;37;38;100;100;90;87;53;49;49;47;47,informational:44;navigational:41;commercial:5;transactional:10
+Geladeiras 460 litros,17,1198,38;68;75;50;50;53;52;100;71;78;72;76,task:3;informational:44;navigational:8;commercial:32;transactional:13
+Refrigeração e Ar Condicionado no Brasil,15,659,71;90;91;83;79;85;91;96;89;85;95;100,task:3;informational:44;navigational:4;commercial:36;transactional:13
+Geladeiras pretas com porta de vidro,19,9379,81;92;100;100;98;99;99;99;100;100;100;100,task:3;informational:36;navigational:11;commercial:37;transactional:13
+Refrigeradores com adega,15,269,68;95;94;87;87;78;74;90;87;100;98;96,task:3;informational:61;navigational:1;commercial:31;transactional:4
+Geladeiras 240 litros,17,879,66;97;100;91;88;93;91;94;96;96;93;93,task:3;informational:46;navigational:4;commercial:37;transactional:10
+Portas de Geladeira,18,828,60;45;100;97;97;89;87;48;48;51;45;85,task:5;informational:63;navigational:5;commercial:13;transactional:14
+Geladeiras de 150 litros,15,578,67;74;79;100;89;79;78;99;81;73;71;77,task:3;informational:50;navigational:1;commercial:38;transactional:8
+AC Solutions & Air Conditioning,15,155,9;81;100;57;60;23;33;92;57;21;17;21,task:3;informational:45;navigational:27;commercial:14;transactional:11
+Nichos para Geladeira,15,234,76;93;100;77;76;78;78;81;79;79;79;78,task:3;informational:58;navigational:4;commercial:28;transactional:7
+Gelotech: Refrigeração e Tecnologia de Gelo,18,985,53;56;56;56;58;59;59;67;100;100;100;100,task:2;informational:54;navigational:34;commercial:7;transactional:3
+Aorus Water Cooling Solutions,15,520,60;81;80;77;75;78;97;87;100;86;83;79,task:3;informational:50;navigational:5;commercial:24;transactional:18
+Geladeiras e Cervejeiras Heineken,21,3453,44;59;61;70;97;100;100;99;97;97;96;95,task:2;informational:42;navigational:10;commercial:37;transactional:9
+Home Store & Supplies,16,1534,45;55;85;84;45;66;95;62;94;83;100;93,task:1;informational:45;navigational:28;commercial:20;transactional:6
+Air Fryers in Brazil,16,1540,1;6;8;6;7;3;8;100;37;63;34;38,task:3;informational:51;navigational:11;commercial:28;transactional:7
+Colder: English Comparatives,15,186,100;34;35;42;42;57;55;79;78;83;70;76,task:5;informational:82;navigational:2;commercial:6;transactional:5
+Frigobar Brastemp Retrô Dourado,15,190,8;24;24;100;29;17;12;77;67;38;26;26,task:3;informational:28;navigational:26;commercial:23;transactional:20
+Fan Coil Units (FCU),17,8501,59;52;53;100;44;44;45;93;93;93;93;93,informational:76;navigational:5;commercial:15;transactional:4
+Frigobares Brastemp com Porta de Vidro,16,1283,38;58;68;60;69;69;58;94;79;89;96;100,task:3;informational:55;navigational:5;commercial:26;transactional:11
+Geladeiras Mabe no Brasil,18,2526,27;28;28;35;57;54;58;62;85;100;94;100,task:2;informational:70;navigational:7;commercial:18;transactional:3
+Bebedouros de Água Gelada,19,5308,67;80;85;89;42;44;45;99;100;100;100;99,task:2;informational:56;navigational:9;commercial:27;transactional:6
+Heladerías,16,2399,95;100;100;82;58;54;53;86;74;74;73;73,task:5;informational:58;navigational:20;commercial:12;transactional:5
+Conserto de congelador furado de geladeira,21,1237,73;73;83;100;97;98;98;92;86;86;83;83,task:10;informational:48;navigational:3;commercial:8;transactional:31
+Lokring e Ferramentas para Refrigeração,17,553,89;100;94;93;92;95;95;88;49;50;45;44,task:3;informational:57;navigational:15;commercial:16;transactional:9
+Placas de Geladeira,32,8245,37;43;43;27;75;77;77;97;100;100;100;100,task:5;informational:52;navigational:5;commercial:22;transactional:16
+Fan Box & Fandom Merchandise,15,1633,62;88;89;87;77;83;84;93;100;98;95;95,task:3;informational:46;navigational:19;commercial:20;transactional:12
+Storage Units & Furniture Storage,16,227,43;50;59;56;58;80;100;63;62;62;62;97,task:10;informational:39;navigational:3;commercial:43;transactional:5
+Refrigeração Rocha & Barretos,15,99,9;52;46;55;16;16;12;14;11;10;100;15,informational:32;navigational:38;commercial:16;transactional:14
+Fors Refrigerantes e Água,17,1300,81;100;57;58;58;62;62;68;69;69;70;68,task:2;informational:59;navigational:13;commercial:15;transactional:11
+Vestuário térmico para câmaras frias,27,12766,30;36;36;20;36;38;39;100;100;100;100;100,task:2;informational:59;navigational:4;commercial:31;transactional:4
+Geladeiras Sam's Club,16,830,10;96;99;62;34;25;26;84;50;94;93;100,task:3;informational:49;navigational:24;commercial:11;transactional:13
+Carrinhos de controle remoto Frozen,15,146,36;87;100;78;72;83;74;40;39;41;41;39,task:10;informational:33;navigational:5;commercial:25;transactional:27
+Object Storage,17,1330,45;52;26;23;66;66;68;100;88;90;79;79,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Coldres Velados e Acessórios Militares,17,615,93;100;100;99;57;59;59;60;62;62;62;61,task:5;informational:57;navigational:8;commercial:20;transactional:10
+Geladeiras no Armazém Paraíba,18,454,46;95;100;51;42;48;48;100;65;48;48;49,task:2;informational:24;navigational:45;commercial:9;transactional:20
+Snack Box,15,178,22;23;24;24;22;22;22;17;41;100;16;16,task:8;informational:51;navigational:10;commercial:21;transactional:10
+Refrigeração Nacional,15,69,18;18;19;100;100;20;20;35;29;20;20;20,task:2;informational:49;navigational:23;commercial:20;transactional:6
+Itens personalizados Frozen,15,150,25;87;92;83;42;100;85;100;65;33;34;32,task:10;informational:34;navigational:7;commercial:28;transactional:21
+KitchenAid Appliances,15,155,33;37;40;100;98;81;37;48;47;54;51;51,task:3;informational:28;navigational:33;commercial:17;transactional:19
+Frigobar 67L Midea,16,720,27;70;76;60;57;60;65;49;80;100;45;61,task:3;informational:39;navigational:18;commercial:19;transactional:21
+Geladeiras LG 451 L,17,1800,10;34;37;32;41;36;31;54;83;100;73;84,task:3;informational:41;navigational:18;commercial:17;transactional:21
+Furnace and Heating Systems,17,2522,70;76;76;70;86;87;87;100;100;100;100;100,task:3;informational:71;navigational:5;commercial:10;transactional:11
+Geladeiras BB53 Panasonic Frost Free 425L,15,1190,7;35;40;28;24;28;26;67;45;100;76;71,task:7;informational:37;navigational:8;commercial:28;transactional:20
+Coolers com Caixa de Som,15,635,73;100;100;92;81;87;86;66;67;96;81;81,task:3;informational:65;navigational:5;commercial:20;transactional:7
+Refrigeração Refrisul,15,238,34;93;100;90;55;52;51;39;41;41;44;45,task:7;informational:31;navigational:34;commercial:16;transactional:12
+Geladeira Electrolux DF35A,21,1141,40;41;41;49;49;55;55;100;88;98;88;90,task:2;informational:59;navigational:15;commercial:14;transactional:10
+Refresqueiras e Suqueiras: Máquinas de Bebidas,15,319,68;89;95;87;98;100;78;82;90;90;91;87,task:3;informational:55;navigational:5;commercial:24;transactional:13
+Heat Exchangers,18,1505,59;62;62;83;82;83;83;100;100;100;100;100,task:5;informational:78;navigational:5;commercial:10;transactional:2
+Geladeiras com dispenser de água,18,1373,22;38;42;33;53;49;48;100;38;36;60;71,task:2;informational:60;navigational:4;commercial:28;transactional:6
+Crypto Ice,15,148,47;50;52;71;71;71;100;60;92;60;46;46,task:2;informational:75;navigational:10;commercial:10;transactional:3
+Micro-ondas Ponto Frio 30L,15,283,21;42;45;44;37;28;83;100;69;38;34;35,informational:38;navigational:35;commercial:11;transactional:16
+Armazenamento de Eletrodomésticos na Cozinha,16,714,70;84;100;58;41;37;37;45;35;35;40;40,task:8;informational:59;navigational:4;commercial:24;transactional:5
+União Refrigeração,15,53,22;25;30;29;37;27;27;28;100;97;41;26,task:1;informational:34;navigational:35;commercial:28;transactional:2
+Frigobar 90L e Refrigeradores Compactos,15,459,13;36;38;34;41;78;67;58;51;100;93;70,task:3;informational:51;navigational:2;commercial:42;transactional:2
+Friomaq Refrigeração e Máquinas de Frio,15,481,54;95;100;91;84;82;82;83;67;77;55;55,task:2;informational:40;navigational:46;commercial:9;transactional:3
+Tech Home,15,669,15;28;42;28;33;40;29;15;37;100;35;75,task:7;informational:55;navigational:12;commercial:11;transactional:15
+Geladeiras e Expositores 5 Portas,15,119,30;63;80;59;100;85;84;39;38;34;34;34,task:7;informational:44;navigational:1;commercial:39;transactional:9
+Portable Blenders,16,48,12;20;23;25;63;72;57;100;70;18;19;20,task:7;informational:34;navigational:11;commercial:28;transactional:20
+Climação e Refrigeração,15,130,82;76;80;79;95;100;99;51;52;52;52;52,task:4;informational:47;navigational:1;commercial:23;transactional:25
+Spectra 360 Water Coolers,16,542,9;35;15;13;20;20;19;16;72;72;100;23,task:7;informational:39;navigational:11;commercial:30;transactional:13
+Luggage Storage Solutions,21,6324,21;86;26;32;96;97;98;100;88;88;88;88,task:8;informational:48;navigational:6;commercial:30;transactional:8
+Game Station,16,8499,36;21;24;27;24;22;22;22;100;99;99;99,task:8;informational:38;navigational:27;commercial:13;transactional:14
+Geladeiras Consul 340 litros,38,6215,80;87;43;49;96;96;97;100;53;51;51;51,task:5;informational:56;navigational:5;commercial:18;transactional:16
+Refrigeradores Electrolux Frost Free RFE39,35,3077,71;83;85;56;55;58;59;74;89;99;79;100,task:2;informational:65;navigational:10;commercial:14;transactional:9
+Eletrodomésticos Gorenje,16,864,47;98;100;88;66;68;67;82;82;88;75;83,task:3;informational:27;navigational:42;commercial:16;transactional:12
+Frigo Express Brasil,15,800,54;68;70;68;78;83;83;100;95;95;95;95,task:4;informational:25;navigational:41;commercial:22;transactional:8
+Geladeiras Electrolux 410L,20,1034,42;58;61;55;55;65;62;45;67;100;52;48,task:7;informational:44;navigational:11;commercial:22;transactional:16
+Portable Air Conditioners,17,107,8;18;19;16;16;12;22;94;100;8;8;8,task:7;informational:39;navigational:4;commercial:32;transactional:18
+Be Quiet PC Components,17,630,44;57;63;58;53;52;52;65;100;60;60;56,task:3;informational:44;navigational:25;commercial:18;transactional:10
+Geladeiras Frost Free 275L Consul,17,257,20;27;29;26;26;27;26;100;90;49;39;29,task:7;informational:44;navigational:4;commercial:34;transactional:11
+Coldres para colete modular,16,232,77;87;89;87;85;89;89;100;100;93;93;96,task:10;informational:64;navigational:5;commercial:18;transactional:3
+Cooler Master H410R CPU Cooler,17,263,5;37;27;14;15;16;11;13;40;100;71;16,task:3;informational:46;navigational:18;commercial:15;transactional:18
+Geladeiras Consul com gelo seco,50,15804,23;29;32;67;81;82;82;99;100;100;100;100,task:5;informational:55;navigational:4;commercial:27;transactional:9
+Gelo e Suprimentos Gelados no Brasil,59,55541,17;20;95;100;31;31;31;99;100;100;100;100,task:10;informational:50;navigational:4;commercial:22;transactional:14
+Refrigeração Viena,15,114,75;79;86;86;89;87;87;100;100;100;100;100,task:7;informational:32;navigational:46;commercial:10;transactional:5
+Tabuas de frios,150,160656,58;49;58;87;100;100;100;90;91;91;91;91,task:12;informational:72;navigational:4;commercial:12
+PC CPU Fans & Cooling,17,3292,89;97;100;99;86;87;87;74;74;74;74;74,task:2;informational:67;navigational:2;commercial:19;transactional:10
+Mini Fans,18,841,42;49;51;56;70;80;72;100;94;88;88;84,task:2;informational:54;navigational:9;commercial:29;transactional:6
+Frigobar 220V – Branco e Preto,16,1883,59;86;79;74;71;76;77;79;80;100;97;93,task:3;informational:30;navigational:4;commercial:49;transactional:14
+Kuvings Juicers,16,106,30;34;35;35;34;34;34;100;37;37;37;37,task:3;informational:37;navigational:21;commercial:23;transactional:16
+Gabinetes Lian Li Lancool,15,358,10;21;20;18;26;16;21;18;100;37;30;17,informational:54;navigational:18;commercial:18;transactional:10
+Pizza Ovens,19,1769,84;100;100;99;84;88;89;83;89;89;86;86,task:1;informational:49;navigational:6;commercial:37;transactional:7
+Pakera Refrigerantes,17,443,26;36;37;36;44;48;50;100;72;58;44;43,task:8;informational:27;navigational:24;commercial:25;transactional:16
+Black & Decker Air Fryers,20,1076,73;98;100;99;76;82;83;81;84;84;80;78,task:4;informational:46;navigational:5;commercial:21;transactional:24
+Termostatos de Geladeira,46,47539,23;22;24;85;97;97;97;100;100;100;100;100,task:2;informational:69;navigational:5;commercial:14;transactional:10
+Frigobar 45L e Geladeiras 45L,16,146,5;10;13;10;29;30;24;100;79;14;13;14,task:1;informational:49;navigational:4;commercial:33;transactional:13
+Liebert Power and Cooling Solutions,18,454,37;39;63;64;93;100;91;65;65;66;66;62,task:2;informational:57;navigational:15;commercial:10;transactional:16
+Geladeiras Azuis Retrô,15,297,60;93;100;88;87;90;90;67;69;93;91;90,task:3;informational:47;navigational:11;commercial:29;transactional:10
+Bolos Frozen,23,5458,92;100;100;91;68;69;69;71;66;66;66;65,task:2;informational:65;navigational:5;commercial:20;transactional:8
+Geladeiras 320 litros,19,482,29;56;77;58;50;42;63;32;36;100;59;72,task:3;informational:38;navigational:4;commercial:49;transactional:6
+Geladeiras com Condensação,19,2375,59;73;75;73;65;61;60;67;57;57;95;100,task:8;informational:67;navigational:5;commercial:15;transactional:5
+Máquinas de gelo seco para festas,21,1448,18;20;21;28;28;28;28;100;79;82;79;78,task:2;informational:62;navigational:2;commercial:25;transactional:9
+Frigobar 47 litros,17,742,44;68;75;72;79;92;97;85;91;93;93;100,task:7;informational:35;navigational:4;commercial:34;transactional:20
+Fatiadores de frios manuais,15,561,87;100;88;94;94;97;98;50;52;51;52;51,task:3;informational:46;navigational:4;commercial:42;transactional:5
+Garbage Disposals,19,739,39;50;50;49;99;100;100;80;73;74;70;71,task:2;informational:51;navigational:7;commercial:26;transactional:14
+Dresser and Chest of Drawers,15,1094,50;71;72;72;71;75;78;88;94;100;99;93,task:5;informational:60;navigational:5;commercial:20;transactional:10
+Frigobar 127 litros,15,260,6;33;40;40;27;25;61;100;66;43;30;29,task:13;informational:40;navigational:4;commercial:35;transactional:8
+Refrigeração Industrial,25,4794,74;78;82;79;100;100;100;98;98;98;98;98,task:2;informational:79;navigational:7;commercial:8;transactional:4
+Calçados Frozen,16,980,72;99;99;86;83;88;88;100;85;86;74;74,task:1;informational:55;navigational:4;commercial:30;transactional:10
+Geladeiras em aço inox,25,6792,20;29;29;34;99;100;100;73;77;77;77;77,task:3;informational:54;navigational:4;commercial:35;transactional:4
+Refrigeração Turbo Set 90,15,134,76;77;79;99;98;98;98;96;97;99;100;98,task:5;informational:48;navigational:25;commercial:10;transactional:12
+Pressostatos de Refrigeração,17,285,41;42;43;54;100;96;96;95;49;52;52;52,informational:75;navigational:13;commercial:10;transactional:2
+Compressores e Peças de Refrigeradores,20,931,39;38;39;16;23;33;50;99;93;100;95;89,task:5;informational:58;navigational:4;commercial:25;transactional:8
+Coldres para G2C,15,273,77;92;95;93;96;100;97;98;98;98;98;98,task:13;informational:66;navigational:5;commercial:9;transactional:7
+Geladeiras Electrolux TF55S,19,757,26;95;100;90;82;68;61;54;61;72;59;64,task:1;informational:39;navigational:38;commercial:12;transactional:10
+Caixas Térmicas e Coolers 6 Litros,17,727,85;100;100;60;58;68;66;66;61;64;59;59,task:8;informational:49;navigational:10;commercial:20;transactional:13
+Cool Stuff & Gadgets,16,281,54;61;100;98;56;96;90;57;80;87;57;59,task:2;informational:60;navigational:18;commercial:14;transactional:6
+Geladeiras Philips,16,428,9;42;50;36;41;16;32;100;68;27;25;26,task:3;informational:44;navigational:12;commercial:18;transactional:23
+Marmita: conservação e congelamento,27,2191,96;96;100;96;100;100;100;99;96;96;96;96,task:2;informational:78;navigational:2;commercial:10;transactional:8
+Ar Condicionado: Resfriamento Rápido,21,4875,52;62;62;61;87;81;81;78;82;82;97;100,task:4;informational:65;navigational:5;commercial:20;transactional:6
+Resfriadores e Tanques de Leite,34,4603,45;54;33;51;88;89;89;100;93;93;95;94,task:2;informational:44;navigational:9;commercial:32;transactional:13
+Protetores de energia para geladeira,45,7637,19;27;33;76;79;81;81;100;97;97;99;98,task:2;informational:45;navigational:2;commercial:40;transactional:11
+Racks e painéis para Ponto Frio,15,858,18;29;30;24;21;23;25;35;26;100;75;73,task:3;informational:35;navigational:30;commercial:15;transactional:17
+Geladeiras Magazine Luiza,21,1292,83;96;61;77;97;98;100;84;48;47;48;47,task:2;informational:43;navigational:33;commercial:8;transactional:14
+Heat Guns,16,109,45;50;51;47;55;64;72;100;75;47;46;48,task:10;informational:50;navigational:2;commercial:32;transactional:6
+Gelomaq Refrigeração e Peças,15,268,53;74;80;82;92;93;85;100;94;89;89;89,task:3;informational:29;navigational:52;commercial:8;transactional:8
+Vagem congelada: guia de congelamento,16,870,58;59;59;80;100;100;100;86;86;86;86;86,task:5;informational:80;navigational:5;commercial:8;transactional:2
+HVAC Systems: Heating and Cooling Solutions,23,10205,40;93;91;100;91;93;93;71;73;72;73;72,task:8;informational:54;navigational:4;commercial:20;transactional:14
+Capacitores para Geladeira,21,1842,50;58;58;59;61;61;60;80;84;100;100;97,task:2;informational:73;navigational:3;commercial:10;transactional:12
+Entertainment Innovations and Ice Games,16,14225,20;23;23;80;83;84;84;85;100;100;100;99,task:5;informational:52;navigational:30;commercial:9;transactional:4
+Garrafas Térmicas para Água Gelada,24,3836,17;20;25;54;65;64;67;56;68;68;91;100,task:2;informational:50;navigational:2;commercial:36;transactional:10
+Relés e protetores térmicos para geladeiras,73,27756,15;19;29;56;79;79;79;99;100;100;100;100,task:10;informational:54;navigational:5;commercial:23;transactional:8
+Frios: atacado e varejo,15,1185,19;24;23;59;39;30;28;35;26;22;22;100,task:3;informational:38;navigational:2;commercial:32;transactional:25
+Situator Platform,15,1110,91;93;95;95;96;97;96;93;94;94;99;100,task:8;informational:59;navigational:15;commercial:10;transactional:8
+Laundry Baskets & Hampers,16,146,43;48;51;73;73;100;54;50;48;66;62;68,task:4;informational:44;navigational:4;commercial:30;transactional:18
+Fabricio Refrigeração e Utensílios,15,146,53;77;78;75;58;58;58;61;80;83;100;90,task:7;informational:11;navigational:67;commercial:10;transactional:5
+Aigo Water Coolers,15,354,16;21;20;18;16;18;17;17;100;99;43;16,task:3;informational:35;navigational:31;commercial:16;transactional:15
+Porta frios de inox,15,236,24;25;29;70;67;77;47;26;29;100;86;90,task:6;informational:51;navigational:6;commercial:27;transactional:10
+Stanley IceFlow Drinkware,17,129,64;30;31;82;100;86;33;33;35;38;37;38,task:2;informational:52;navigational:23;commercial:12;transactional:11
+Visoar Refrigeração e Ar Condicionado,15,68,24;24;26;27;24;33;100;34;30;25;25;26,task:7;informational:14;navigational:58;commercial:7;transactional:14
+Water Cooler para PC,32,5185,69;76;77;100;96;98;98;92;91;91;91;90,task:8;informational:64;navigational:2;commercial:20;transactional:6
+Gelo em Gel Reutilizável,41,14654,23;18;20;27;74;75;76;100;96;96;95;95,task:2;informational:72;navigational:6;commercial:11;transactional:9
+Guioza/Gyoza Congelados,22,3371,33;36;37;37;89;89;89;95;100;100;100;100,task:8;informational:62;navigational:5;commercial:15;transactional:10
+Geladeiras Frost Free de 400 Litros em Inox,16,1423,22;35;38;30;30;28;28;67;41;49;68;100,task:7;informational:27;navigational:4;commercial:48;transactional:14
+Christmas Gifts and Presents,29,20871,13;17;33;63;100;100;100;91;80;80;80;80,task:5;informational:55;navigational:4;commercial:27;transactional:9
+Hot Pack Packaging,17,742,12;13;13;13;13;13;13;100;72;27;26;47,task:10;informational:71;navigational:4;commercial:12;transactional:3
+Ponto Frio: lojas e promoções,83,59810,87;82;86;88;87;87;87;98;100;100;100;100,task:1;informational:41;navigational:34;commercial:9;transactional:15
+Air Conditioner Parts,17,969,27;34;38;36;67;65;57;100;45;46;45;80,task:2;informational:59;navigational:4;commercial:27;transactional:8
+CubeSmart Storage Solutions,18,1383,31;35;36;30;29;30;30;100;100;99;99;99,task:1;informational:29;navigational:56;commercial:8;transactional:6
+Geladeiras Instaview,18,1312,23;60;61;53;45;39;44;100;60;71;60;68,task:3;informational:59;navigational:5;commercial:18;transactional:15
+Comidas Congeladas no Brasil,21,9303,56;93;95;95;93;94;94;98;99;99;100;100,task:5;informational:71;navigational:5;commercial:15;transactional:4
+Frigobar Duplex: Philco e EOS,15,645,58;81;83;67;69;73;71;100;73;73;71;70,task:3;informational:52;navigational:4;commercial:30;transactional:11
+Paper Shredders,17,428,90;100;100;65;69;72;71;69;55;53;49;48,task:3;informational:39;navigational:3;commercial:46;transactional:9
+Fairfax Cryobank & Fertility Resources,17,105,87;93;100;88;88;90;91;85;86;86;86;86,task:3;informational:38;navigational:47;commercial:7;transactional:5
+Conservação de carne e alimentos congelados,78,18925,95;99;100;99;97;99;99;96;100;100;100;100,task:2;informational:80;navigational:3;commercial:13;transactional:2
+Guarda de Objetos e Armazenamento,16,137,54;64;59;64;73;59;59;100;96;59;59;59,task:5;informational:65;navigational:10;commercial:15;transactional:5
+Coolers e Caixas Térmicas Igloo,15,951,62;79;88;84;83;88;91;81;94;96;96;100,task:4;informational:50;navigational:16;commercial:26;transactional:4
+Geladeiras: Medidas e Dimensões,32,6111,33;40;48;73;99;100;100;91;92;93;90;90,task:2;informational:74;navigational:5;commercial:16;transactional:3
+Massas Congeladas para Revenda,17,1778,24;27;27;27;53;54;54;100;91;91;91;91,task:3;informational:45;navigational:4;commercial:35;transactional:13
+Geladeiras 80 cm de largura,18,1774,12;41;48;32;40;24;24;100;65;77;63;82,task:2;informational:56;navigational:2;commercial:31;transactional:9
+Juicers and Juicer Machines,19,828,57;59;59;59;48;50;54;100;94;86;86;98,task:5;informational:47;navigational:4;commercial:33;transactional:11
+Geladeiras LG,37,16014,93;96;100;46;48;48;48;53;64;64;64;64,task:2;informational:49;navigational:13;commercial:24;transactional:12
+Gavetas e tampas de geladeira Electrolux,18,748,70;83;86;85;85;88;88;94;95;96;100;99,task:3;informational:41;navigational:18;commercial:23;transactional:15
+Electric Ovens and Stoves,19,443,55;81;84;88;94;98;100;99;90;91;98;100,task:10;informational:50;navigational:1;commercial:30;transactional:9
+Geladeiras Electrolux de vidro preto,15,1697,6;20;25;7;36;24;24;71;59;100;89;91,task:3;informational:54;navigational:2;commercial:21;transactional:20
+Liquidificadores Spolu,16,179,17;73;100;53;49;42;31;42;33;23;23;22,task:3;informational:37;navigational:28;commercial:11;transactional:21
+PC Cooling Fans,38,23038,21;30;32;44;88;89;89;100;100;100;100;99,task:3;informational:54;navigational:2;commercial:31;transactional:10
+Shipping Containers for Sale,16,654,68;78;78;64;99;100;100;53;71;70;71;71,task:5;informational:29;navigational:4;commercial:44;transactional:18
+geladeira Electrolux IB54S,16,1223,11;52;61;41;29;30;50;100;67;85;59;75,task:3;informational:43;navigational:35;commercial:9;transactional:10
+Lian Li Lancool 216 PC Case,15,274,6;29;24;20;18;12;15;15;100;59;43;14,task:3;informational:34;navigational:28;commercial:31;transactional:4
+Geladeiras Brastemp Inverse,31,4416,56;77;81;89;82;86;87;98;100;100;100;99,task:2;informational:40;navigational:25;commercial:19;transactional:14
+FreezeNova Games,16,914,51;72;71;74;76;81;82;86;82;81;100;100,informational:47;navigational:32;commercial:14;transactional:7
+Ice Cream Shops,33,30239,86;90;91;100;89;90;90;81;93;93;93;93,task:8;informational:53;navigational:12;commercial:20;transactional:7
+Filizola - fatiadores e cortadores de frios,15,193,89;99;100;98;95;99;99;92;91;91;92;94,task:10;informational:31;navigational:25;commercial:25;transactional:9
+Refrigeração em São Gonçalo e Região,15,494,38;42;43;43;52;53;52;57;77;100;72;99,informational:41;navigational:17;commercial:32;transactional:10
+Toasters,17,2311,23;24;24;25;28;28;37;100;100;98;98;99,task:5;informational:48;navigational:4;commercial:34;transactional:9
+Geladeiras em Promoção Casas Bahia,17,6504,9;32;31;22;23;13;18;19;23;23;44;100,task:2;informational:25;navigational:19;commercial:22;transactional:32
+Garage Doors & Openers,29,4462,54;76;81;100;81;82;83;94;98;97;97;97,task:2;informational:53;navigational:6;commercial:22;transactional:17
+Rack Units & Server Racks,27,4417,51;57;69;94;99;100;100;82;86;86;86;86,task:2;informational:67;navigational:2;commercial:20;transactional:9
+Geladeiras de 60–75 cm de largura,18,1293,13;59;65;25;25;18;31;100;65;92;86;97,task:2;informational:45;navigational:4;commercial:40;transactional:9
+Geladeiras Consul CRM33,22,1089,23;34;42;37;45;41;57;69;57;69;61;100,task:1;informational:36;navigational:40;commercial:20;transactional:3
+Máquinas de gelo Suggar,15,1053,23;65;60;49;41;38;53;24;23;23;22;100,task:3;informational:47;navigational:5;commercial:25;transactional:20
+Portas de Frios de Vidro,15,797,68;83;80;70;81;74;75;97;95;79;79;100,task:10;informational:42;navigational:4;commercial:30;transactional:14
+Heat Pipe and Cooling Solutions,18,2093,47;49;23;55;99;100;100;78;96;94;76;76,task:2;informational:76;navigational:5;commercial:14;transactional:3
+Geladeiras Samsung RS50N,15,1822,2;34;38;19;19;15;14;58;57;100;57;73,task:7;informational:36;navigational:32;commercial:8;transactional:17
+Kitchen Design & Kitchens,29,24632,23;64;66;67;100;100;100;99;99;99;99;99,task:13;informational:64;navigational:5;commercial:15;transactional:3
+Frigobar 68 litros e Philco,16,942,10;42;50;26;23;32;21;85;74;97;100;84,task:3;informational:49;navigational:18;commercial:21;transactional:9
+Sensores de Geladeira,51,7015,38;50;52;67;82;85;85;100;96;96;96;96,task:5;informational:59;navigational:4;commercial:19;transactional:13
+Women's Winter Outfits,16,812,58;75;74;68;99;100;100;94;80;76;80;79,task:5;informational:59;navigational:5;commercial:23;transactional:8
+Air Conditioner Compressors,16,1833,23;27;28;31;55;56;55;99;99;100;100;100,task:5;informational:60;navigational:2;commercial:20;transactional:13
+Caixas Térmicas e Coolers 5L,17,339,60;100;97;82;79;64;63;65;66;82;67;67,task:3;informational:44;navigational:11;commercial:31;transactional:11
+Anticongelantes e Líquidos de Radiador,22,2832,24;27;38;68;99;100;100;99;81;83;82;81,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Inverter Compressor Tech,16,1363,37;43;86;100;100;92;90;99;100;96;94;94,task:4;informational:70;navigational:2;commercial:20;transactional:4
+Ice World & Ice Rink,15,294,18;27;30;24;24;21;20;15;97;96;93;100,task:3;informational:64;navigational:18;commercial:12;transactional:3
+Potes Herméticos Electrolux,35,8949,95;100;54;52;52;53;54;54;53;53;53;53,task:2;informational:41;navigational:13;commercial:21;transactional:23
+Geladeiras no Mercado Livre,16,4139,87;98;100;54;69;71;71;52;56;56;56;56,task:1;informational:24;navigational:37;commercial:12;transactional:26
+Geladeiras de 463 litros (Midea/Brastemp),19,1878,53;79;75;65;62;63;63;100;77;88;85;80,task:3;informational:29;navigational:5;commercial:32;transactional:31
+Pure Storage,17,219,35;62;64;60;59;63;42;100;75;72;96;84,task:3;informational:35;navigational:37;commercial:17;transactional:8
+Air Handling Units (AHU),17,732,44;49;51;49;89;89;89;100;95;95;95;95,task:8;informational:60;navigational:4;commercial:12;transactional:16
+Máquinas de gelo Benmax,16,490,44;60;58;56;51;100;69;61;62;52;53;52,task:3;informational:41;navigational:26;commercial:11;transactional:19
+Amazon Glacier,18,52,81;84;100;100;100;100;95;92;93;93;93;93,informational:47;navigational:36;commercial:7;transactional:10
+Congelamento de couve e sucos detox,38,7626,88;97;100;100;94;94;95;98;95;95;95;95,task:5;informational:76;navigational:5;commercial:5;transactional:9
+Tábua de Frios e Cestas de Presente,15,285,76;73;100;77;31;31;30;34;33;34;34;32,task:8;informational:50;navigational:2;commercial:36;transactional:4
+Logística Fria,17,877,65;81;84;82;77;81;81;96;99;100;98;97,task:3;informational:69;navigational:7;commercial:14;transactional:7
+Geladeiras Consul CRM45,19,1279,26;47;55;37;36;41;36;81;68;70;66;100,task:2;informational:44;navigational:30;commercial:17;transactional:7
+Geladeiras Panasonic no Brasil,95,32604,99;100;43;47;50;50;50;55;53;53;53;53,informational:50;navigational:9;commercial:28;transactional:13
+Motores de Geladeira,53,27302,18;22;25;36;98;98;98;100;99;99;99;99,task:2;informational:64;navigational:5;commercial:19;transactional:10
+Fritadeiras a ar VestCasa,16,109,33;74;91;96;100;78;60;73;80;50;46;46,task:3;informational:29;navigational:48;commercial:16;transactional:4
+Lian Li Water Coolers,15,1060,54;82;82;81;78;83;83;89;100;83;80;79,task:3;informational:47;navigational:18;commercial:23;transactional:9
+Geladeiras 250 litros,15,530,11;63;81;51;50;40;44;100;53;54;50;57,task:7;informational:43;navigational:4;commercial:35;transactional:11
+Gelo em gel para bolsas térmicas,19,1166,24;50;77;74;79;69;68;100;86;78;80;80,task:5;informational:57;navigational:5;commercial:20;transactional:13
+Hot Tub Time Machine,25,23833,27;26;27;30;78;78;78;90;100;100;100;100,task:2;informational:56;navigational:9;commercial:18;transactional:15
+Cooler Master Hyper H412R CPU Coolers,15,195,2;19;4;5;5;4;3;18;69;100;68;8,task:3;informational:60;navigational:9;commercial:18;transactional:10
+Frigoríficos e Carnes no Brasil,18,1772,30;35;36;36;41;42;41;100;99;99;99;98,task:2;informational:60;navigational:5;commercial:28;transactional:5
+Fresh House,15,317,15;16;17;53;53;59;62;100;65;20;23;32,task:7;informational:18;navigational:53;commercial:10;transactional:12
+Empório Frozen & Frohsinn Blumenau,15,359,88;96;99;96;96;100;99;73;69;66;66;69,task:5;informational:47;navigational:37;commercial:8;transactional:3
+Geladeiras de 550 litros e peso,19,3094,16;40;42;60;60;54;52;100;77;82;74;91,task:3;informational:71;navigational:4;commercial:16;transactional:6
+Geladeiras Electrolux com dispenser de água,35,3588,53;71;72;86;94;98;99;92;100;97;98;99,task:2;informational:58;navigational:7;commercial:21;transactional:12
+Pantry definitions & meanings,21,1636,83;96;96;95;92;95;95;100;69;69;69;69,task:2;informational:82;navigational:9;commercial:5;transactional:2
+Geladeiras na Angeloni,16,1060,19;77;82;70;33;29;38;100;70;80;73;93,informational:33;navigational:34;commercial:14;transactional:19
+Mochilas Frozen para Crianças,16,2921,67;96;100;99;95;99;100;83;85;85;90;89,task:3;informational:46;navigational:11;commercial:27;transactional:13
+Metal Lockers,15,50,33;100;100;70;45;24;46;23;22;22;22;22,task:3;informational:56;navigational:5;commercial:22;transactional:14
+Borges Eletrodomésticos,15,348,8;8;9;17;18;17;33;100;64;47;50;24,task:2;informational:18;navigational:53;commercial:22;transactional:5
+Eletrofrigor Brasil,15,819,39;56;57;55;53;57;57;100;68;63;64;60,task:3;informational:18;navigational:67;commercial:7;transactional:5
+Refrigeradores Electrolux DF51,33,3892,23;29;19;21;22;22;23;59;74;100;70;74,task:2;informational:53;navigational:15;commercial:24;transactional:6
+Prateleiras e peças para Geladeira Electrolux,17,2200,85;99;100;53;87;90;91;58;60;60;59;59,task:5;informational:35;navigational:4;commercial:33;transactional:23
+Geladeiras Brastemp Inox 375L,19,1248,62;84;87;79;47;53;56;70;66;100;93;79,task:2;informational:57;navigational:6;commercial:22;transactional:13
+Panquecas Congeladas,35,4984,26;23;28;55;89;90;91;99;100;100;98;98,task:8;informational:75;navigational:2;commercial:10;transactional:5
+Ventiladores e motores de refrigeração,17,283,56;81;85;74;75;83;79;68;66;100;72;85,task:10;informational:63;navigational:3;commercial:21;transactional:3
+Geladeiras com portas reversíveis,33,6626,29;36;33;49;93;93;93;97;100;100;100;100,task:5;informational:69;navigational:4;commercial:20;transactional:2
+Peças de Geladeira GE,15,48,40;44;47;84;100;47;45;41;42;42;42;42,task:7;informational:29;navigational:11;commercial:26;transactional:27
+Frutas Vermelhas Congeladas,17,8738,40;47;83;90;99;100;100;33;97;97;97;97,task:3;informational:53;navigational:5;commercial:22;transactional:17
+Maçaricos Turbo e Tóchas para Refrigeração,16,344,77;92;92;81;81;100;98;89;90;84;84;84,task:3;informational:59;navigational:8;commercial:18;transactional:12
+Fritadeiras Elétricas (Air Fryers),499,584548,17;16;18;25;100;100;100;30;39;39;39;39,task:5;informational:46;navigational:2;commercial:33;transactional:14
+Crioterapia: preços e aparelhos,20,1045,43;42;41;82;100;98;98;75;84;85;87;86,task:2;informational:64;navigational:5;commercial:15;transactional:14
+Centrifuges & Lab Equipment,18,795,31;41;43;61;55;55;60;79;100;100;100;100,task:2;informational:59;navigational:4;commercial:29;transactional:6
+SSD and Hard Drive Cases,25,1411,84;99;100;100;55;56;55;60;69;69;72;74,task:8;informational:44;navigational:4;commercial:30;transactional:14
+Geladeiras Velhas: ideias e usos,16,441,55;60;61;84;84;60;57;53;54;100;85;62,task:10;informational:70;navigational:5;commercial:12;transactional:3
+Pop Box Tupperware,18,159,42;50;54;57;85;96;83;100;86;89;66;71,task:7;informational:39;navigational:24;commercial:17;transactional:13
+Fatiadores de frios usados,15,71,68;72;82;72;72;72;100;71;72;72;72;74,task:3;informational:40;navigational:1;commercial:39;transactional:17
+Water Dispensers,18,1197,66;75;80;78;68;70;74;100;100;99;99;99,task:2;informational:49;navigational:9;commercial:26;transactional:14
+Cerveja Gelada,17,519,34;45;45;41;47;49;36;99;100;95;71;83,task:7;informational:44;navigational:7;commercial:31;transactional:11
+Cristais de Gelo,16,1133,46;49;49;35;68;69;69;58;100;100;100;100,task:5;informational:74;navigational:4;commercial:14;transactional:3
+Marinade Essentials,18,407,52;63;64;100;71;71;71;72;72;72;72;72,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Science Laboratories,18,892,95;100;92;85;82;68;68;68;69;69;69;69,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Cervejeiras e Geladeiras para Cerveja,59,41007,83;85;93;100;95;95;95;99;100;100;100;100,task:2;informational:46;navigational:2;commercial:39;transactional:11
+Clima e Refrigeração,15,303,78;36;40;41;41;42;43;48;49;100;67;70,task:2;informational:67;navigational:16;commercial:12;transactional:3
+Geladeiras Continental Copacabana,29,3771,86;100;52;65;78;82;80;77;76;76;77;76,task:2;informational:50;navigational:14;commercial:26;transactional:8
+Home and Garden Hub,16,530,50;55;57;73;73;78;85;57;100;79;83;83,task:2;informational:55;navigational:33;commercial:5;transactional:5
+Pés e suportes para frigobar,15,381,47;62;60;65;71;57;54;100;63;59;56;66,task:17;informational:33;navigational:1;commercial:38;transactional:11
+Iced Coffee Drinks,26,13782,15;18;19;18;99;100;100;93;84;84;84;83,task:2;informational:77;navigational:5;commercial:10;transactional:6
+Geladeiras Brastemp Antigas,15,822,66;87;89;85;84;90;91;94;97;97;100;99,task:3;informational:64;navigational:4;commercial:23;transactional:6
+Caixas térmicas e coolers 30L,15,412,65;81;81;80;90;96;100;82;82;89;82;83,task:10;informational:41;navigational:8;commercial:29;transactional:12
+Refrigeração RL no Brasil,15,167,59;66;72;69;69;77;69;71;70;99;98;100,task:3;informational:48;navigational:34;commercial:10;transactional:5
+Geladeiras Brastemp 490L,17,832,8;36;58;44;41;30;46;100;50;62;53;68,task:3;informational:45;navigational:11;commercial:31;transactional:10
+Dryers and Hair Dryers,19,2578,50;61;59;57;76;77;78;100;84;83;83;83,task:5;informational:51;navigational:2;commercial:32;transactional:10
+cafeteiras no Ponto Frio,15,210,12;28;42;34;46;61;100;73;50;64;57;56,task:3;informational:14;navigational:53;commercial:11;transactional:19
+Temperature Monitoring,16,262,72;100;100;73;71;71;71;47;75;63;40;40,task:8;informational:72;navigational:5;commercial:7;transactional:8
+Geladeiras com Autosense,26,3180,35;43;44;77;90;90;90;82;94;100;86;85,task:4;informational:68;navigational:3;commercial:20;transactional:5
+Refrigeração no Brasil,16,1051,22;27;28;27;26;31;30;30;31;30;83;100,task:1;informational:49;navigational:28;commercial:10;transactional:12
+Perfil Refrigeração,15,1158,16;54;46;40;40;48;48;42;32;50;91;100,task:3;informational:21;navigational:61;commercial:11;transactional:4
+Home Fitness,16,332,77;78;81;83;100;98;98;100;100;100;100;100,task:12;informational:59;navigational:5;commercial:21;transactional:3
+Black Friday Mixers,15,111,4;48;100;53;53;8;47;99;54;59;15;11,task:3;informational:47;navigational:4;commercial:35;transactional:11
+Descongelamento de carne rápido,86,65320,95;96;98;89;91;91;91;99;100;100;100;100,task:5;informational:81;navigational:5;commercial:8;transactional:1
+Rede de Frio e Cadeia de Vacinas,24,2592,69;68;72;72;68;68;68;76;68;64;100;90,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Geladeiras Consul 450-451 litros,35,12967,31;39;42;42;39;40;40;48;99;99;99;100,task:5;informational:42;navigational:4;commercial:33;transactional:16
+Light for You,15,131,14;22;23;21;21;86;100;30;32;43;21;30,task:3;informational:44;navigational:31;commercial:14;transactional:8
+Fogger devices,17,472,25;25;26;41;71;71;71;100;100;100;100;100,task:8;informational:51;navigational:4;commercial:31;transactional:6
+Brusfer Ferragens,15,213,16;18;19;44;44;49;20;100;83;41;40;26,task:1;informational:23;navigational:67;commercial:7;transactional:2
+Geladeiras Electrolux DF42,19,1746,58;39;48;87;91;100;95;99;93;100;97;100,task:3;informational:43;navigational:22;commercial:23;transactional:9
+Geladeiras Electrolux 480 litros,51,8543,71;80;45;100;48;49;50;52;55;55;55;55,task:2;informational:60;navigational:10;commercial:20;transactional:8
+Refrigeração Norte do Brasil,17,3131,62;88;93;91;92;97;98;99;100;100;100;100,task:3;informational:49;navigational:21;commercial:22;transactional:5
+Ar Condicionado e Refrigeração em Brusque,16,730,12;22;23;25;51;44;41;58;40;55;74;100,task:3;informational:53;navigational:4;commercial:35;transactional:5
+Geladeiras: melhores marcas e custo-benefício,67,24218,24;27;33;45;88;89;89;98;100;100;100;100,task:5;informational:42;navigational:1;commercial:48;transactional:4
+Refrigeração Teixeira — Volta Redonda,15,198,25;29;29;30;30;100;100;27;28;47;34;36,task:3;informational:21;navigational:40;commercial:31;transactional:5
+Ice Cubes & Chewing Gum,15,272,77;95;97;90;87;89;90;98;99;98;99;100,task:13;informational:55;navigational:4;commercial:24;transactional:4
+Playzone Gaming Gear,21,25126,9;46;47;55;91;91;91;100;99;99;99;99,task:8;informational:57;navigational:15;commercial:12;transactional:8
+Embalagens para Geladinho,34,6183,20;25;26;38;70;71;72;100;84;84;86;85,task:5;informational:64;navigational:4;commercial:18;transactional:9
+Shelf and Shelving Terminology,26,10526,22;28;26;53;30;31;31;100;63;63;63;63,task:4;informational:67;navigational:4;commercial:21;transactional:4
+Macarrão Cozido Congelado,29,6534,100;90;90;89;95;97;95;90;93;93;92;91,task:5;informational:70;navigational:5;commercial:11;transactional:9
+Gelo para Whisky,19,1071,41;43;44;50;63;82;79;100;83;84;86;83,task:8;informational:64;navigational:4;commercial:21;transactional:3
+Geladeiras Electrolux IW45S,15,1161,18;20;20;20;29;32;26;93;27;31;93;100,informational:63;navigational:11;commercial:17;transactional:9
+Containerized Gensets,17,614,23;23;24;43;43;43;43;100;83;80;80;79,task:5;informational:68;navigational:5;commercial:12;transactional:10
+Refrigeração Cacique,15,554,62;93;93;88;71;75;74;94;99;100;86;85,task:3;informational:15;navigational:67;commercial:10;transactional:5
+Frigobar Midea no Brasil,21,6713,90;97;100;45;43;44;45;51;52;52;52;51,task:2;informational:37;navigational:23;commercial:22;transactional:16
+Recipes and Dinner Ideas,48,36514,20;33;35;26;54;54;54;100;94;94;94;94,task:5;informational:69;navigational:6;commercial:12;transactional:8
+Garage Definitions & Buying Guides,16,221,61;84;90;86;93;100;98;83;100;98;83;83,task:4;informational:53;navigational:16;commercial:23;transactional:4
+Garde-manger: Cozinha Fria,21,3338,100;85;84;77;78;79;76;83;86;86;86;86,task:5;informational:79;navigational:3;commercial:3;transactional:10
+Geladeiras Midea Inverse,15,609,17;25;23;54;52;54;77;100;85;32;29;72,task:7;informational:39;navigational:22;commercial:11;transactional:21
+Coat Racks and Coat Storage,18,346,53;75;77;99;96;100;82;87;91;87;87;90,task:3;informational:52;navigational:4;commercial:31;transactional:10
+Coldres e Cintos Táticos,18,525,80;98;100;94;81;88;89;88;89;88;93;94,task:10;informational:58;navigational:5;commercial:20;transactional:7
+Resfriamento de quarto com ventilador e água,49,14001,82;82;81;84;82;83;83;89;100;100;100;100,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Food Waste Management,20,7590,20;22;22;28;27;27;27;100;100;100;100;100,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Lousas magnéticas para geladeira,17,282,46;100;93;57;52;56;64;48;47;88;82;44,task:1;informational:28;navigational:35;commercial:29;transactional:7
+Geladeiras Liebherr,15,352,10;12;14;22;100;80;53;30;21;62;45;84,task:3;informational:43;navigational:12;commercial:15;transactional:27
+Geladeiras Consul 334 L,44,7205,26;35;36;50;54;56;56;84;100;100;96;94,informational:59;navigational:10;commercial:22;transactional:9
+Miniature Food World,16,315,74;90;65;66;75;100;96;82;49;64;60;61,task:7;informational:60;navigational:7;commercial:14;transactional:12
+Industrial Air Fryers,17,387,86;91;92;87;60;62;100;63;63;66;65;77,task:2;informational:62;navigational:4;commercial:26;transactional:6
+Geladeiras Vazando Água,62,8859,98;100;100;99;93;94;94;96;92;92;92;92,task:5;informational:76;navigational:5;commercial:5;transactional:9
+Deepcool AG400 Air Cooler,27,8440,52;62;64;32;31;33;34;35;100;100;97;94,informational:61;navigational:15;commercial:14;transactional:10
+Glassware and Drinkware,17,1372,56;62;64;50;50;48;49;85;96;96;100;100,task:3;informational:57;navigational:4;commercial:29;transactional:7
+Caixas Térmicas e Hot Boxes,17,1951,84;87;87;25;92;92;93;96;96;96;100;100,task:8;informational:63;navigational:2;commercial:24;transactional:3
+Geladeiras Electrolux 371 litros Frost Free,38,5217,86;98;100;53;55;56;56;75;72;74;72;71,task:4;informational:56;navigational:2;commercial:21;transactional:17
+Dayhome: Homeware & Food Service,15,175,45;70;77;100;100;59;50;55;62;62;63;74,task:3;informational:38;navigational:33;commercial:18;transactional:8
+Geladeiras em Manaus,16,615,14;77;81;35;34;43;43;100;59;66;53;66,task:3;informational:28;navigational:14;commercial:47;transactional:8
+Congelamento de Brócolis e Couve-Flor,76,24996,71;75;77;79;76;77;77;100;100;100;100;100,task:7;informational:83;navigational:3;commercial:5;transactional:2
+Refrigeração Lucas,15,98,16;100;88;22;29;22;22;28;25;18;18;18,task:1;informational:41;navigational:32;commercial:21;transactional:5
+Rise Mode Water Coolers,23,1496,85;99;100;97;95;98;97;49;49;48;49;48,task:3;informational:61;navigational:10;commercial:16;transactional:10
+Heat Shrink Tubing,20,482,48;50;52;52;97;100;98;55;93;78;78;78,task:2;informational:63;navigational:4;commercial:22;transactional:9
+Câmaras frias para vacinas,24,1038,33;36;37;37;54;57;56;100;67;67;71;71,task:3;informational:59;navigational:4;commercial:29;transactional:5
+Small Kitchen Design Ideas,16,664,50;54;54;49;50;50;50;93;100;100;93;93,task:12;informational:73;navigational:3;commercial:10;transactional:2
+Winter Coats & Jackets,17,371,57;78;79;77;84;93;93;77;100;100;91;91,task:3;informational:39;navigational:11;commercial:30;transactional:17
+Kitchen Cabinets & Cabinetry,24,3249,62;96;90;89;94;99;100;92;97;96;94;93,task:4;informational:63;navigational:4;commercial:22;transactional:7
+Geladeiras Amarelas Retrô Brastemp,17,600,49;87;100;84;65;69;68;74;62;64;74;80,task:7;informational:37;navigational:17;commercial:31;transactional:8
+Notebooks e PCs em superaquecimento,21,3711,66;70;69;75;75;75;75;69;68;67;89;100,task:4;informational:78;navigational:5;commercial:10;transactional:3
+Geladeiras Electrolux 410 litros,41,3991,50;72;77;75;72;74;74;81;80;100;88;92,task:3;informational:42;navigational:12;commercial:23;transactional:20
+Termostatos de Geladeira Consul,32,8195,22;27;26;43;99;100;100;98;99;99;99;99,informational:65;navigational:5;commercial:20;transactional:10
+Protetores de raio para geladeira e freezer,20,3430,19;60;60;61;71;72;70;69;94;100;99;99,task:8;informational:53;navigational:2;commercial:27;transactional:10
+Geladeiras Elber para Caminhão,22,3592,84;96;97;95;94;98;100;59;62;62;60;60,task:2;informational:55;navigational:9;commercial:22;transactional:12
+Liquid Cooling for PCs,17,1106,37;46;46;59;100;99;92;88;89;86;87;87,task:2;informational:58;navigational:5;commercial:15;transactional:20
+Bocadinho Refeições Congeladas,15,272,47;55;56;56;49;100;74;61;62;54;55;54,task:3;informational:18;navigational:53;commercial:11;transactional:15
+Latas de Refrigerante,25,2893,55;68;79;89;96;98;99;99;99;100;97;96,task:5;informational:57;navigational:2;commercial:24;transactional:12
