@@ -5074,14 +5074,6 @@
     ]
    }
   },
-  "ocupacao_pendente": [
-   "loja.electrolux.com.br",
-   "consul.com.br",
-   "midea.com.br",
-   "samsung.com.br",
-   "hisense",
-   "haier"
-  ],
   "prompts": {
    "n": 4987,
    "distintos": 3410,
@@ -5199,37 +5191,62 @@
     ]
    ],
    "marca_por_familia": {
-    "preco e compra": {
-     "n": 235,
-     "com_marca": 33.2,
-     "sem_marca": 66.8
-    },
-    "produto e categoria": {
-     "n": 363,
-     "com_marca": 21.2,
-     "sem_marca": 78.8
-    },
-    "comparacao e modelo": {
-     "n": 189,
-     "com_marca": 22.2,
-     "sem_marca": 77.8
+    "consumo e energia": {
+     "n": 76,
+     "com_marca": 11.8,
+     "sem_marca": 88.2
     },
     "peca e filtro": {
      "n": 34,
      "com_marca": 8.8,
      "sem_marca": 91.2
     },
-    "consumo e energia": {
-     "n": 76,
-     "com_marca": 11.8,
-     "sem_marca": 88.2
+    "comparacao e modelo": {
+     "n": 189,
+     "com_marca": 22.2,
+     "sem_marca": 77.8
+    },
+    "produto e categoria": {
+     "n": 363,
+     "com_marca": 21.2,
+     "sem_marca": 78.8
+    },
+    "preco e compra": {
+     "n": 235,
+     "com_marca": 33.2,
+     "sem_marca": 66.8
     }
    },
    "marca_por_familia_contaminado": {
-    "preco e compra": {
-     "n": 373,
-     "com_marca": 54.7,
-     "sem_marca": 45.3
+    "garantia e suporte": {
+     "n": 84,
+     "com_marca": 85.7,
+     "sem_marca": 14.3
+    },
+    "consumo e energia": {
+     "n": 184,
+     "com_marca": 62.0,
+     "sem_marca": 38.0
+    },
+    "peca e filtro": {
+     "n": 90,
+     "com_marca": 63.3,
+     "sem_marca": 36.7
+    },
+    "comparacao e modelo": {
+     "n": 444,
+     "com_marca": 58.6,
+     "sem_marca": 41.4
+    },
+    "instalacao": {
+     "n": 36,
+     "com_marca": 83.3,
+     "sem_marca": 16.7
+    },
+    "manutencao e limpeza": {
+     "n": 25,
+     "com_marca": 68.0,
+     "sem_marca": 32.0
     },
     "produto e categoria": {
      "n": 1530,
@@ -5241,58 +5258,67 @@
      "com_marca": 50.0,
      "sem_marca": 50.0
     },
-    "comparacao e modelo": {
-     "n": 444,
-     "com_marca": 58.6,
-     "sem_marca": 41.4
-    },
-    "peca e filtro": {
-     "n": 90,
-     "com_marca": 63.3,
-     "sem_marca": 36.7
-    },
-    "manutencao e limpeza": {
-     "n": 25,
-     "com_marca": 68.0,
-     "sem_marca": 32.0
-    },
-    "garantia e suporte": {
-     "n": 84,
-     "com_marca": 85.7,
-     "sem_marca": 14.3
-    },
     "assistencia e conserto": {
      "n": 26,
      "com_marca": 80.8,
      "sem_marca": 19.2
     },
-    "instalacao": {
-     "n": 36,
-     "com_marca": 83.3,
-     "sem_marca": 16.7
-    },
-    "consumo e energia": {
-     "n": 184,
-     "com_marca": 62.0,
-     "sem_marca": 38.0
+    "preco e compra": {
+     "n": 373,
+     "com_marca": 54.7,
+     "sem_marca": 45.3
     }
    },
    "n_limpo": 943,
    "taxa_marca_geral": 23.6,
    "exemplos_limpos": {
-    "preco e compra": [
+    "consumo e energia": [
      [
-      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
       "gemini",
       ""
      ],
      [
-      "Quais são as melhores geladeiras com boa eficiência energética e custo-benefício?",
+      "geladeiras inverter inox",
+      "google_ai_overview",
+      "electrolux|brastemp|midea"
+     ],
+     [
+      "Como comparar preços e consumo entre geladeiras com freezer embaixo e modelos tradicionais?",
+      "chatgpt",
+      ""
+     ]
+    ],
+    "peca e filtro": [
+     [
+      "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
+      "gemini",
+      ""
+     ],
+     [
+      "Como escolher peças compatíveis com meu modelo de geladeira ao comprar pela internet?",
+      "gemini",
+      ""
+     ],
+     [
+      "Peças de Geladeira",
+      "chatgpt",
+      ""
+     ]
+    ],
+    "comparacao e modelo": [
+     [
+      "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
       "chatgpt",
       ""
      ],
      [
-      "Quais são as melhores opções de geladeira para famílias de 4 a 5 pessoas dentro de faixas de preço comuns no varejo online?",
+      "Quais marcas oferecem as melhores opções de geladeira para área gourmet no Brasil?",
+      "gemini",
+      ""
+     ],
+     [
+      "Como escolher uma geladeira de luxo que combine com meu estilo de decoração e orçamento?",
       "gemini",
       ""
      ]
@@ -5314,54 +5340,20 @@
       ""
      ]
     ],
-    "comparacao e modelo": [
+    "preco e compra": [
      [
-      "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
+      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais são as melhores geladeiras com boa eficiência energética e custo-benefício?",
       "chatgpt",
       ""
      ],
      [
-      "Quais marcas oferecem as melhores opções de geladeira para área gourmet no Brasil?",
+      "Quais são as melhores opções de geladeira para famílias de 4 a 5 pessoas dentro de faixas de preço comuns no varejo online?",
       "gemini",
-      ""
-     ],
-     [
-      "Como escolher uma geladeira de luxo que combine com meu estilo de decoração e orçamento?",
-      "gemini",
-      ""
-     ]
-    ],
-    "peca e filtro": [
-     [
-      "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
-      "gemini",
-      ""
-     ],
-     [
-      "Como escolher peças compatíveis com meu modelo de geladeira ao comprar pela internet?",
-      "gemini",
-      ""
-     ],
-     [
-      "Peças de Geladeira",
-      "chatgpt",
-      ""
-     ]
-    ],
-    "consumo e energia": [
-     [
-      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
-      "gemini",
-      ""
-     ],
-     [
-      "geladeiras inverter inox",
-      "google_ai_overview",
-      "electrolux|brastemp|midea"
-     ],
-     [
-      "Como comparar preços e consumo entre geladeiras com freezer embaixo e modelos tradicionais?",
-      "chatgpt",
       ""
      ]
     ]

@@ -331,8 +331,6 @@ for fp in sorted(glob.glob(str(RAW/"ai-search"/"brand-topics"/"*.csv"))):
         "por_estagio": porest,
         "maiores": [[c["topico"], i(c["volume"]), i(b["visibility"]), i(b["mentions"]), c["estagio"]]
                     for b, c in sorted(ov, key=lambda x: -i(x[1]["volume"])*i(x[0]["visibility"]))[:6]]}
-pan["ocupacao_pendente"] = [d for d in
-    ["loja.electrolux.com.br","consul.com.br","midea.com.br","samsung.com.br","hisense","haier"]]
 
 # --- eixo 5: os prompts, com o vies de seed declarado ----------------------
 mres = collections.Counter()

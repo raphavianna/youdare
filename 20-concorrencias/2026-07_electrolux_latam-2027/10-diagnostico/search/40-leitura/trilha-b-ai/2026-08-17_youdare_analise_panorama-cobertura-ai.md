@@ -12,16 +12,16 @@ Fontes: 16 exports de tópico (`00-raw/ai-search/topicos/`) · 9 exports de prom
 ## 1. A regra de leitura que vem antes de qualquer número
 
 **Todo export para em 1.000 linhas.** O universo é censurado por seed. Os percentuais deste
-documento descrevem **demanda mapeada**, não demanda total — e cada seed novo alarga o mapa.
-Isso não enfraquece a leitura: fixa o que ela é.
+documento descrevem **demanda mapeada**, não demanda total, e cada seed novo alarga o mapa.
+Isso não invalida a leitura; delimita o que ela mede.
 
 **Os 16 exports de tópico foram semeados só com termos de categoria.** Nenhum seed carrega
-nome de marca. Marca que aparece no nome de um tópico foi descoberta pela ferramenta, não
-plantada por nós — **por isso a cobertura por nome de tópico não tem viés de seed** e é a
-medida primária deste material.
+nome de marca, então marca que aparece no nome de um tópico foi descoberta pela ferramenta e
+não plantada por nós. **A cobertura por nome de tópico, portanto, não tem viés de seed**, e é a
+medida primária deste material. Ela é sempre calculada sobre o total da demanda da categoria.
 
 **Os exports de prompt, ao contrário, são semeados por marca.** Quatro dos cinco seeds são
-nomes de fabricante e três marcas do conjunto — Consul, Samsung e Haier — não têm seed nenhum.
+nomes de fabricante, e três marcas do conjunto (Consul, Samsung e Haier) não têm seed nenhum.
 Qualquer contagem de marca sobre o conjunto completo de prompts herda esse viés. Onde a leitura
 depende de citação de marca, ela usa **só o recorte do seed sem marca** (943 respostas).
 
@@ -33,19 +33,18 @@ depende de citação de marca, ela usa **só o recorte do seed sem marca** (943 
 |---|---:|---|
 | Exportados | 9.175 | 16 seeds de categoria |
 | Brasil | 7.445 | 1.730 tópicos dos Estados Unidos ficam fora de todo agregado |
-| **Sobre a categoria** | **3.056** | 59% do recorte Brasil é vazamento de clustering — não menciona aparelho |
+| **Sobre a categoria** | **3.056** | 59% do recorte Brasil é vazamento de clustering e não menciona aparelho |
 
 **22,6 milhões de volume** e **82.919 prompts** dentro desses tópicos. Dos prompts, 3.410 foram
 lidos um a um, em quatro provedores.
 
-Contra a leitura anterior — 2.324 tópicos e 18,2 milhões — é outro dataset. E a diferença muda
-uma conclusão: com a base ampliada, **a posse sobe de 8,4% para 13,8%** da demanda mediada.
-Ampliar o universo aumentou o peso do território de vida com o produto, que era exatamente o
-que se esperava e agora está medido.
+A leitura anterior trabalhava com 2.324 tópicos e 18,2 milhões de volume. Com a base ampliada,
+**a posse sobe de 8,4% para 13,8%** da demanda mediada: ampliar o universo aumentou o peso do
+território de vida com o produto, como se esperava, e agora isso está medido.
 
 ---
 
-## 3. Cobertura geral: quatro em cada cinco reais de atenção não têm dono
+## 3. Cobertura geral: 81,2% da demanda não nomeia fabricante
 
 | | Tópicos | Volume | % |
 |---|---:|---:|---:|
@@ -59,26 +58,27 @@ que se esperava e agora está medido.
 | Hisense | 8 | 57.379 | 0,3% |
 | Haier | 2 | 2.994 | 0,01% |
 
-**É o análogo direto do estágio 0 do deck de busca — e aqui ele é maior.** Em busca, 54,1% da
-demanda não nomeia fabricante. Em IA, 81,2%.
+É a mesma leitura do estágio 0 da parte de busca, em patamar mais alto: 54,1% da demanda de
+busca não nomeia fabricante, contra 81,2% em IA.
 
 Duas leituras que não estavam dadas:
 
-**A Electrolux é a marca mais presente da categoria em IA.** 5,7% do volume, três vezes a
-Brastemp. É liderança real, e é a segunda fonte independente a dizer isso — a leitura de
-cobertura em resposta já apontava a marca em primeiro.
+**A Electrolux é a marca mais presente da categoria em IA**, com 5,7% do volume total, três
+vezes a Brastemp. É a segunda fonte independente a apontar isso: a leitura de citação nas
+respostas já colocava a marca em primeiro.
 
-**As marcas fora do conjunto declarado somam mais que a líder.** 7,1% contra 5,7%. A categoria
-em IA é mais fragmentada do que a disputa entre as sete sugere, e o conjunto competitivo
-declarado no briefing não é o conjunto que a IA nomeia.
+**As marcas fora do conjunto declarado somam mais que a líder**, 7,1% contra 5,7%. O conjunto
+competitivo do briefing não cobre tudo que a IA nomeia, e a categoria em ambiente mediado é
+mais fragmentada do que a disputa entre as sete sugere.
 
 ---
 
 ## 4. A jornada, e onde o descoberto se concentra
 
 Estágio derivado por regra declarada: a família diz qual necessidade o tópico expressa, o
-intent da ferramenta diz com que disposição. `informational` é 53,2% do volume e cobre tanto
-"qual a melhor geladeira" quanto "como limpar a geladeira" — só o cruzamento separa as duas.
+intent da ferramenta diz com que disposição. `informational` é 53,2% do volume e reúne
+tanto "qual a melhor geladeira" quanto "como limpar a geladeira", e só o cruzamento separa as
+duas.
 
 | Estágio | Volume | % | Prompts | **Sem marca** |
 |---|---:|---:|---:|---:|
@@ -88,23 +88,23 @@ intent da ferramenta diz com que disposição. `informational` é 53,2% do volum
 | Descoberta de marca | 1.584.710 | 7,0% | 9.873 | 54,1% |
 
 **A escolha é o estágio mais desocupado da jornada.** 93,3% do volume do momento em que a
-compra se decide não nomeia fabricante nenhum. É contraintuitivo e é o achado mais acionável
-desta leitura: espera-se que a marca exista onde se escolhe, e é justamente ali que ela menos
-existe na conversa mediada.
+compra se decide não nomeia fabricante nenhum. É o achado mais acionável desta leitura:
+espera-se que a marca exista no estágio da decisão, e é nele que ela menos aparece na conversa
+mediada.
 
 **A posse pesa o dobro da descoberta e está 89,4% vazia.** Os maiores tópicos sem marca do
 estágio são `Ar condicionado 9000 BTU (split/inverter)` (263.219), `Air Fryer: Receitas e Usos`
-(189.428) e `Robo Aspirador e Limpeza` (167.007). É o mesmo vão que a busca já tinha mostrado,
-agora medido por outra fonte e com quatro vezes mais base.
+(189.428) e `Robo Aspirador e Limpeza` (167.007). É o mesmo vão que a parte de busca já mostrou, agora
+medido por outra fonte e com quatro vezes mais base.
 
-**Descoberta é o único estágio em que as marcas ocupam quase metade.** Faz sentido — é o
-estágio definido por nomear a marca. Que ele seja só 7,0% do volume é a informação.
+**Descoberta é o único estágio em que as marcas ocupam quase metade**, o que é esperado, já
+que o estágio é definido por nomear a marca. O dado relevante é ele valer só 7,0% do volume.
 
 ---
 
-## 5. Ocupação real: aparecer não é ocupar
+## 5. Ocupação real: presença e ocupação medem coisas diferentes
 
-Esta é a medida do ponto 4, e ela existe por domínio. Só um domínio foi exportado.
+Esta medida existe por domínio e está calculada para `brastemp.com.br`.
 
 **Brastemp — `brastemp.com.br`**, 1.000 tópicos, 621 dentro do universo mapeado de categoria:
 
@@ -121,23 +121,24 @@ Esta é a medida do ponto 4, e ela existe por domínio. Só um domínio foi expo
 | Escolha e compra | 23,2% | 9,8% | 76,8% |
 | **Posse** | 14,5% | **4,9%** | **85,5%** |
 
-**A marca com a maior base instalada da categoria ocupa 8,2% da demanda mediada por IA.** Se
-esse é o teto de quem lidera em base, o território vago não é resíduo — é a regra da categoria.
+**A marca com a maior base instalada da categoria ocupa 8,2% da demanda mediada por IA.** Esse
+é o patamar de quem lidera em base instalada, e situa o tamanho do território vago para os
+demais players.
 
-E a ocupação é mais baixa justamente na posse, 4,9%. Terceira fonte independente a apontar o
-mesmo vão, agora em outra marca: não é um problema da Electrolux, é uma característica de como
-a categoria inteira se comporta em ambiente mediado.
+A ocupação é mais baixa na posse, 4,9%. É a terceira fonte independente a apontar o mesmo vão,
+agora em outra marca, o que indica característica da categoria em ambiente mediado e não um
+problema específico da Electrolux.
 
-**O que falta.** Seis domínios sem export: `loja.electrolux.com.br`, `consul.com.br`,
-`midea.com.br`, `samsung.com.br`, e os domínios BR de Hisense e Haier. O método está montado e
-provado numa marca; os outros entram sem nenhuma mudança de estrutura.
+**Alcance desta medida.** Ela existe por domínio e está calculada para um domínio do conjunto.
+A comparação entre players depende de ter a mesma medida para cada um, e até lá a leitura de
+cobertura por marca é a do nome do tópico, sobre o total da demanda.
 
 ---
 
-## 6. Os prompts: a IA responde sem nomear fabricante
+## 6. Os prompts: a maioria das respostas não traz fabricante
 
-Recorte limpo — só as 943 respostas do seed sem marca, o único em que citar um fabricante é
-decisão do modelo e não eco do prompt:
+Recorte limpo, só as 943 respostas do seed sem marca. É o único em que citar um fabricante é
+decisão do modelo e não eco do prompt.
 
 | Família | n | Cita alguma das sete |
 |---|---:|---:|
@@ -147,14 +148,13 @@ decisão do modelo e não eco do prompt:
 | Consumo e energia | 76 | 11,8% |
 | Peça e filtro | 34 | **8,8%** |
 
-**Só 23,6% das respostas nomeiam alguma das sete marcas.** E o padrão é específico: perguntas
-explícitas de marca — `Quais são os melhores fabricantes de geladeiras comerciais para
-supermercados?`, `Quais marcas de geladeira são mais confiáveis no Brasil e onde comprar?` —
-são respondidas **sem citar nenhuma delas**. A IA não está escolhendo outro fabricante; está
-respondendo sem fabricante.
+**23,6% das respostas nomeiam alguma das sete marcas.** O padrão é específico: perguntas
+explícitas de marca, como `Quais são os melhores fabricantes de geladeiras comerciais para
+supermercados?` e `Quais marcas de geladeira são mais confiáveis no Brasil e onde comprar?`,
+costumam ser respondidas **sem citar nenhuma delas**, e sem substituí-las por outro fabricante.
 
-Uma resposta cita 2,8 marcas em média e apoia-se em 7,4 fontes. Quem não está citado não perde
-posição — não existe na resposta. Não há segunda página em IA.
+Uma resposta cita 2,8 marcas em média e apoia-se em 7,4 fontes. Não há segunda página: a marca
+não citada fica fora do resultado que o consumidor lê.
 
 ---
 
@@ -171,18 +171,19 @@ posição — não existe na resposta. Não há segunda página em IA.
 - **A ocupação existe para um domínio de sete.**
 - **1.730 tópicos dos Estados Unidos** ficaram fora de todos os agregados e seguem disponíveis.
 - **Volume de IA e volume de busca não se somam.** Medem coisas diferentes, em unidades
-  diferentes. Toda comparação entre as duas fontes é de posição relativa dentro de cada uma.
+  diferentes, e toda comparação entre as duas fontes é de posição relativa dentro de cada uma.
+- **Cobertura, neste material, é sempre sobre o total da demanda da categoria.** Nunca sobre a
+  fatia já ocupada pelas marcas.
 
 ---
 
 ## O que eu faria a seguir
 
-1. **Abrir a defesa pelo par 81,2% e 93,3%.** Quatro em cada cinco reais de atenção mediada não
-   têm dono, e no momento da escolha são nove em cada dez. Transforma "ocupar o ecossistema" de
-   ambição de marca em espaço mensurável e vago — que é o que a banca precisa ver.
-2. **Puxar os seis exports de `brand_topics` pendentes.** É o único bloqueio real do panorama:
-   a ocupação por domínio é a medida mais dura do pacote e hoje existe para um concorrente, não
-   para o cliente.
-3. **Fechar a integração com a trilha C.** A posse aparece vazia em busca, em cobertura de IA e
-   agora em ocupação de domínio — três fontes independentes. Convergência tripla é o argumento
-   mais forte que este diagnóstico produziu até aqui.
+1. **Abrir a defesa pelo par 81,2% e 93,3%**, o que já está feito no slide 3 do material. Com
+   ele, "ocupar o ecossistema" deixa de ser ambição de posicionamento e passa a ser um espaço
+   medido, com tamanho e endereço.
+2. **Estender a medida de ocupação aos demais domínios do conjunto.** É a medida mais dura do
+   pacote e hoje está calculada para um concorrente, não para o cliente.
+3. **Fechar a integração com a trilha C.** A posse aparece vazia em busca, em citação de IA e
+   em ocupação de domínio. A convergência entre três fontes independentes é o argumento mais
+   forte que este diagnóstico produziu até aqui.
