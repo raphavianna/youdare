@@ -465,6 +465,7 @@ def bloco_player(k, titulo, subtitulo, leitura):
 PAN, U = D["panorama"], D["panorama"]["universo"]
 CN, SM, ES, OC = PAN["cobertura_nome"], PAN["sem_marca"], PAN["estagios"], PAN["ocupacao"]
 DOM0 = list(OC.values())[0] if OC else None   # dominio com tópicos de marca medidos
+NUC_ORD = sorted([k for k in CN if k != "outras_marcas"], key=lambda k: -CN[k]["pct"])
 PP = PAN["prompts"]
 F_PAN = f"Tópicos de IA · {n(U['topicos_categoria'])} tópicos de categoria · Brasil"
 F_PRO = f"Prompts de IA · {n(U['prompts_distintos'])} prompts × {len(U['provedores'])} provedores"
@@ -489,7 +490,10 @@ sintese("ia", "Parte 2 · Síntese", "81,2% da demanda em IA não nomeia nenhum 
   [(pct(SM["pct"], 1), "da demanda não nomeia fabricante", "O maior dado da base. A demanda é de categoria, não de fabricante.", EST["sem_marca"]),
    (pct(CN["electrolux"]["pct"], 1), "é a Electrolux, a maior das marcas", f'À frente de Brastemp ({pct(CN["brastemp"]["pct"],1)}) e Midea ({pct(CN["midea"]["pct"],1)}). Lidera entre as sete, sobre uma base pequena.', COR["electrolux"]),
    (pct(ES["escolha"]["sem_marca_pct"], 0), "da escolha está sem marca", "O estágio da decisão de compra é o mais desocupado dos quatro.", EST["escolha"]),
-   (pct(DOM0["ocupacao_pct"], 1) if DOM0 else "—", f'é o que a {DOM0["dominio"].split(".")[0].capitalize()} de fato ocupa' if DOM0 else "", f'Está presente em {pct(DOM0["presenca_pct"],1)} do volume da categoria e ocupa {pct(DOM0["ocupacao_pct"],1)} dele.', "#d95926")],
+   # este cartao tem de estar na MESMA medida dos outros. Ocupacao por dominio e
+   # outra coisa e vive nos slides proprios, com o contraste explicado.
+   (pct(sum(CN[k]["pct"] for k in NUC_ORD), 1), "é tudo que as sete marcas cobrem juntas",
+    f'As demais marcas da categoria — LG, Philco, Mondial e outras — somam {pct(CN["outras_marcas"]["pct"],1)}, mais que o conjunto declarado inteiro.', "#6b6a63")],
   "Com a maior parte da demanda sem marca, a disputa é por <b>ocupar território vago</b> e não por tirar participação de um concorrente. As telas seguintes mostram qual território, em que momento da jornada e a que distância cada player está dele.",
   F_PAN)
 
@@ -605,12 +609,12 @@ slide("ia", "Retrato", "O território de posse é o maior espaço vago da catego
 DOM = list(OC.values())[0] if OC else None
 if DOM:
     sintese("ia", "Ocupação · Síntese", "Presença e ocupação medem coisas diferentes, e a distância entre elas é o diagnóstico",
-      "Duas medidas diferentes sobre o mesmo domínio. <b>Presença</b> é o volume dos tópicos em que a marca aparece de algum modo. <b>Ocupação</b> é essa presença ponderada pela visibilidade que ela tem dentro de cada tópico.",
+      "Duas medidas diferentes sobre o mesmo domínio. <b>Presença</b> é o volume dos tópicos em que a marca aparece de algum modo. <b>Ocupação</b> é essa presença ponderada pela visibilidade que ela tem dentro de cada tópico. As duas medem <b>quem a IA mostra</b>, e não o que é perguntado — por isso não se comparam com a cobertura das telas anteriores.",
       [(pct(DOM["presenca_pct"], 1), "presença: aparece", "Está em algum grau nos tópicos que somam esse volume.", "#d95926"),
        (pct(DOM["ocupacao_pct"], 1), "ocupação: de fato ocupa", "Ponderado pela visibilidade real. Menos da metade da presença.", "#c98500"),
        (str(DOM["visibility_mediana"]), "visibilidade mediana", "Nos tópicos em que aparece, ocupa cerca de um terço do espaço.", "#f0ede4"),
        (pct(DOM["por_estagio"]["posse"]["descoberto"], 1), "da posse sem ela", "O estágio em que está mais ausente é o de vida com o produto.", EST["posse"])],
-      f'A marca com a maior base instalada da categoria ocupa <b>{pct(DOM["ocupacao_pct"],1)}</b> da demanda mediada por IA. Esse é o patamar de quem lidera em base instalada, o que situa o tamanho do território vago para todos os outros.',
+      f'A marca com a maior base instalada da categoria ocupa <b>{pct(DOM["ocupacao_pct"],1)}</b> da demanda mediada por IA. Esse é o patamar de quem lidera em base instalada, o que situa o tamanho do território vago para todos os outros. <b>Não leia este número contra os {pct(CN["electrolux"]["pct"],1)} de cobertura da Electrolux</b>: cobertura é o que se pergunta, ocupação é o que a IA mostra, e a Electrolux ainda não tem esta segunda medida calculada.',
       f'Tópicos de marca · {DOM["dominio"]} · {DOM["topicos_no_universo"]} tópicos no universo mapeado')
 
     slide("ia", "Ocupação", f'A {DOM["dominio"].split(".")[0].capitalize()} aparece em {pct(DOM["presenca_pct"],1)} da demanda da categoria e ocupa {pct(DOM["ocupacao_pct"],1)}',
