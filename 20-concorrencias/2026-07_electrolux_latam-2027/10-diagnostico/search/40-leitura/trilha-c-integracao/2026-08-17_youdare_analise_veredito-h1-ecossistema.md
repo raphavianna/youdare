@@ -1,5 +1,11 @@
 # Veredito de H1 — o território do ecossistema, medido
 
+> **PROVISÓRIO — trilha C, integração.** Este documento cruza busca e IA, e foi produzido
+> **antes** da regra de isolamento entre as fontes. Ele permanece porque o trabalho é válido,
+> mas está sujeito a revisão depois que as trilhas A (busca isolada) e B (IA isolada)
+> existirem de forma independente. Se qualquer das trilhas isoladas contradisser algo aqui,
+> **a versão isolada prevalece**. Ler junto com `40-leitura/trilha-a-search/`.
+
 **M1 × P4.** *A pergunta: existe demanda de "vida com o produto" fora da marca, qual o tamanho
 dela, e o que isso sustenta na resposta ao case Brasil?*
 
