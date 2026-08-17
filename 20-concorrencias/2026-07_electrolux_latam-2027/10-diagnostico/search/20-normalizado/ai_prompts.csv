@@ -600,9 +600,9 @@ prompts_topico_eletrolux,eletrolux,electrolux microondas mec41,google_ai_overvie
 prompts_topico_eletrolux,eletrolux,geladeira slim electrolux,google_ai_overview,nao classificado,geladeira,1,8,91
 prompts_topico_eletrolux,eletrolux,electrolux 13kg essencial care,google_ai_overview,especificacao produto,sem categoria,1,8,91
 prompts_topico_eletrolux,eletrolux,autorizada electrolux em guarulhos,google_ai_overview,assistencia e reparo,sem categoria,1,2,91
-prompts_topico_eletrolux,eletrolux,Electrolux Pro Series e Linha Home Pro,google_ai_mode,frente nomeada,sem categoria,1,13,91
-prompts_topico_eletrolux,eletrolux,Electrolux Pro Series e Linha Home Pro,gemini,frente nomeada,sem categoria,1,3,91
-prompts_topico_eletrolux,eletrolux,Electrolux Pro Series e Linha Home Pro,chatgpt,frente nomeada,sem categoria,1,12,91
+prompts_topico_eletrolux,eletrolux,Electrolux Pro Series e Linha Home Pro,google_ai_mode,especificacao produto,sem categoria,1,13,91
+prompts_topico_eletrolux,eletrolux,Electrolux Pro Series e Linha Home Pro,gemini,especificacao produto,sem categoria,1,3,91
+prompts_topico_eletrolux,eletrolux,Electrolux Pro Series e Linha Home Pro,chatgpt,especificacao produto,sem categoria,1,12,91
 prompts_topico_eletrolux,eletrolux,electrolux color adapt,google_ai_overview,marca e navegacao,sem categoria,1,6,91
 prompts_topico_eletrolux,eletrolux,Qual é a diferença entre um purificador de água Electrolux e um filtro comum para casa?,chatgpt,peca e consumivel,purificador,1,12,91
 prompts_topico_eletrolux,eletrolux,Qual é a diferença entre um purificador de água Electrolux e um filtro comum para casa?,gemini,peca e consumivel,purificador,1,0,91

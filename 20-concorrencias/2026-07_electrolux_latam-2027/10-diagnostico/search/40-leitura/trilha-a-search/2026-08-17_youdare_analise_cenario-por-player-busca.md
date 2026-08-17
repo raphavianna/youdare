@@ -125,21 +125,28 @@ somam 177.140 contra 711.670 da Electrolux. É movimento de trajetória, não de
 
 **Dentro da Electrolux, a decomposição por família mostra onde o pouco movimento acontece:**
 
-| Família | Volume médio | Inclinação | Forma |
-|---|---:|---:|---|
-| defeito | 2.410 | **1,43** | ▆▅▄▄▄▄▅▇█▆▅▆ |
-| garantia | 1.310 | 1,32 | ▂▄▂▂▇▂▆▄▃▄█▂ |
-| peça e consumível | 18.530 | **1,29** | ▅▅▆▆▆▇▇█▇▇█▇ |
-| manual e uso | 520 | 1,24 | ▇▇▅▃▇▇▃▇█▇▅▇ |
-| especificação de produto | 191.340 | 1,17 | ▆▆▆▆▆▆█▇█▇▇▇ |
-| marca e navegação | 176.370 | 0,96 | ▆▆▆▆▆▆█▆▆▆▆▆ |
-| assistência e reparo | 8.500 | 0,93 | █▄▇█▅▆██▅▆▅▆ |
-| **frente nomeada** | 2.130 | **0,75** | ▅▄█▃▆▃▇▄▅▄▄▄ |
-| manutenção e cuidado | 140 | 0,72 | ▄▃▅▅▆▇█▃▅▃▃▆ |
+| Família | Volume médio | Inclinação |
+|---|---:|---:|
+| defeito | 2.410 | **1,43** |
+| garantia | 1.310 | 1,32 |
+| peça e consumível | 18.530 | **1,29** |
+| manual e uso | 520 | 1,24 |
+| especificação de produto | 191.340 | 1,17 |
+| marca e navegação | 175.980 | 0,96 |
+| assistência e reparo | 8.890 | 0,96 |
+| aquisição e comparação | 3.960 | 0,82 |
+| manutenção e cuidado | 140 | 0,72 |
 
-As famílias que crescem na Electrolux são as de **posse** — defeito, garantia, peça, manual. A
-que mais cai é **frente nomeada**, a 0,75. As estruturas que a marca criou perdem demanda
-enquanto a demanda espontânea de pós-compra sobe. As duas curvas vão em direções opostas.
+As famílias que crescem na Electrolux são as de **posse** — defeito, garantia, peça, manual —
+enquanto a demanda pelo nome da marca fica parada (0,96).
+
+**Revisão de taxonomia.** Uma versão anterior desta tabela trazia `frente nomeada` como
+família, a 0,75. Isso misturava dois eixos: família classifica pela **necessidade** que a
+consulta expressa, e o nome comercial da frente é um **atributo transversal** — `eletrolux
+cuida` é assistência, `eletrolux outlet` é aquisição e comparação. As frentes foram
+redistribuídas para as famílias que atendem e passaram a carregar uma marcação própria. Lidas
+como conjunto, elas somam **2.520 buscas/mês** no arquivo da marca, com inclinação **0,86** e
+**0% de AI Overview** — a leitura de queda se mantém, agora sem inventar uma família para ela.
 
 ---
 
@@ -210,8 +217,10 @@ nome da marca: estágio inicial de formação.
 2. **Levar o par Consul 8,1% × Electrolux 4,4% para a conversa de tese.** É uma comparação
    entre marcas do mesmo mercado, com o mesmo instrumento, e aponta um vão de relação com a
    base instalada que não depende de nenhuma hipótese.
-3. **Registrar a queda das frentes nomeadas (0,75) como o dado mais acionável desta trilha.** É
-   a única série da Electrolux que cai enquanto a demanda espontânea correspondente sobe.
+3. **Registrar a queda das frentes nomeadas (0,86) como o dado mais acionável desta trilha.**
+   Elas caem enquanto a demanda espontânea da mesma necessidade sobe — `eletrolux cuida` a 390
+   buscas/mês contra `assistência técnica electrolux` a 5.400. O consumidor procura o serviço;
+   não procura o nome que a marca deu a ele.
 
 ---
 

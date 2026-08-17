@@ -5,8 +5,8 @@
    "kw": 900,
    "volume": 711670,
    "descoberta": 24.8,
-   "escolha": 27.1,
-   "posse": 4.4,
+   "escolha": 27.4,
+   "posse": 4.5,
    "nao_class": 43.3,
    "ai_overview": 14,
    "intent": [
@@ -28,7 +28,8 @@
     "especificacao produto": 26.9,
     "marca e navegacao": 24.8,
     "peca e consumivel": 2.6,
-    "assistencia e reparo": 1.2
+    "assistencia e reparo": 1.2,
+    "aquisicao e comparacao": 0.6
    },
    "categorias": {
     "sem categoria": 36.4,
@@ -80,6 +81,204 @@
     759536,
     725645
    ],
+   "exemplos_familia": {
+    "marca e navegacao": [
+     [
+      "eletrolux",
+      110000
+     ],
+     [
+      "electrolux geladeira",
+      27100
+     ],
+     [
+      "eletrolux geladeira",
+      2900
+     ]
+    ],
+    "especificacao produto": [
+     [
+      "geladeira electrolux frost free",
+      90500
+     ],
+     [
+      "geladeira frost free electrolux",
+      27100
+     ],
+     [
+      "maquina de lavar eletrolux 15 kg",
+      2900
+     ]
+    ],
+    "nao classificado": [
+     [
+      "geladeira eletrolux",
+      27100
+     ],
+     [
+      "geladeira electrolux inox",
+      14800
+     ],
+     [
+      "maquina de lavar eletrolux",
+      12100
+     ]
+    ],
+    "peca e consumivel": [
+     [
+      "filtro eletrolux",
+      6600
+     ],
+     [
+      "filtro de agua eletrolux",
+      3600
+     ],
+     [
+      "filtro de água eletrolux",
+      1300
+     ]
+    ],
+    "assistencia e reparo": [
+     [
+      "assistencia tecnica eletrolux",
+      3600
+     ],
+     [
+      "assistencia eletrolux",
+      1000
+     ],
+     [
+      "autorizada eletrolux",
+      1000
+     ]
+    ],
+    "aquisicao e comparacao": [
+     [
+      "outlet eletrolux",
+      1300
+     ],
+     [
+      "cupom de desconto eletrolux",
+      1000
+     ],
+     [
+      "cupom desconto eletrolux",
+      720
+     ]
+    ],
+    "garantia": [
+     [
+      "eletrolux garantia",
+      720
+     ],
+     [
+      "garantia eletrolux",
+      590
+     ]
+    ],
+    "defeito": [
+     [
+      "bebedouro eletrolux nao gela",
+      320
+     ],
+     [
+      "geladeira eletrolux nao gela",
+      260
+     ],
+     [
+      "maquina de lavar eletrolux nao liga",
+      260
+     ]
+    ],
+    "manual e uso": [
+     [
+      "como lavar roupa na maquina eletrolux",
+      210
+     ],
+     [
+      "como limpar máquina de lavar eletrolux 12 kg",
+      170
+     ],
+     [
+      "como ligar a maquina de lavar eletrolux",
+      140
+     ]
+    ],
+    "manutencao e cuidado": [
+     [
+      "limpeza maquina eletrolux",
+      140
+     ]
+    ]
+   },
+   "top_estagio": {
+    "descoberta": [
+     [
+      "eletrolux",
+      110000,
+      "marca e navegacao"
+     ],
+     [
+      "electrolux geladeira",
+      27100,
+      "marca e navegacao"
+     ],
+     [
+      "eletrolux geladeira",
+      2900,
+      "marca e navegacao"
+     ],
+     [
+      "eletrolux maquina de lavar",
+      1900,
+      "marca e navegacao"
+     ]
+    ],
+    "escolha": [
+     [
+      "geladeira electrolux frost free",
+      90500,
+      "especificacao produto"
+     ],
+     [
+      "geladeira frost free electrolux",
+      27100,
+      "especificacao produto"
+     ],
+     [
+      "maquina de lavar eletrolux 15 kg",
+      2900,
+      "especificacao produto"
+     ],
+     [
+      "geladeira eletrolux 480 litros",
+      2400,
+      "especificacao produto"
+     ]
+    ],
+    "posse": [
+     [
+      "filtro eletrolux",
+      6600,
+      "peca e consumivel"
+     ],
+     [
+      "assistencia tecnica eletrolux",
+      3600,
+      "assistencia e reparo"
+     ],
+     [
+      "filtro de agua eletrolux",
+      3600,
+      "peca e consumivel"
+     ],
+     [
+      "filtro de água eletrolux",
+      1300,
+      "peca e consumivel"
+     ]
+    ]
+   },
    "serie_relativa": [
     0.10325,
     0.10806,
@@ -96,7 +295,80 @@
    ],
    "inclinacao_bruta": 1.08,
    "inclinacao_vs_categoria": 0.99,
-   "nome": "Electrolux"
+   "nome": "Electrolux",
+   "familias_inclinacao": {
+    "marca e navegacao": {
+     "inclinacao": 0.96,
+     "volume": 175980
+    },
+    "especificacao produto": {
+     "inclinacao": 1.17,
+     "volume": 191340
+    },
+    "nao classificado": {
+     "inclinacao": 1.1,
+     "volume": 307810
+    },
+    "peca e consumivel": {
+     "inclinacao": 1.29,
+     "volume": 18530
+    },
+    "assistencia e reparo": {
+     "inclinacao": 0.96,
+     "volume": 8890
+    },
+    "aquisicao e comparacao": {
+     "inclinacao": 0.82,
+     "volume": 3960
+    },
+    "garantia": {
+     "inclinacao": 1.32,
+     "volume": 1310
+    },
+    "defeito": {
+     "inclinacao": 1.43,
+     "volume": 2410
+    },
+    "manual e uso": {
+     "inclinacao": 1.24,
+     "volume": 520
+    },
+    "manutencao e cuidado": {
+     "inclinacao": 0.72,
+     "volume": 140
+    }
+   },
+   "submarca": {
+    "volume": 2520,
+    "kw": 5,
+    "itens": [
+     [
+      "outlet eletrolux",
+      1300,
+      "aquisicao e comparacao"
+     ],
+     [
+      "eletrolux outlet",
+      480,
+      "aquisicao e comparacao"
+     ],
+     [
+      "eletrolux cuida",
+      390,
+      "assistencia e reparo"
+     ],
+     [
+      "shopclub eletrolux",
+      210,
+      "aquisicao e comparacao"
+     ],
+     [
+      "shop club eletrolux",
+      140,
+      "aquisicao e comparacao"
+     ]
+    ]
+   }
   },
   "brastemp": {
    "chave": "brastemp",
@@ -179,6 +451,210 @@
     2834273,
     2998998
    ],
+   "exemplos_familia": {
+    "marca e navegacao": [
+     [
+      "brastemp",
+      201000
+     ],
+     [
+      "brastemp geladeira",
+      27100
+     ],
+     [
+      "brastemp site",
+      9900
+     ]
+    ],
+    "nao classificado": [
+     [
+      "geladeira brastemp",
+      201000
+     ],
+     [
+      "maquina de lavar brastemp",
+      40500
+     ],
+     [
+      "frigobar brastemp",
+      27100
+     ]
+    ],
+    "especificacao produto": [
+     [
+      "geladeira brastemp frost free",
+      49500
+     ],
+     [
+      "geladeira frost free brastemp",
+      22200
+     ],
+     [
+      "lava e seca brastemp",
+      14800
+     ]
+    ],
+    "assistencia e reparo": [
+     [
+      "assistencia tecnica brastemp",
+      8100
+     ],
+     [
+      "autorizada brastemp",
+      5400
+     ],
+     [
+      "assistência técnica brastemp",
+      4400
+     ]
+    ],
+    "peca e consumivel": [
+     [
+      "filtro brastemp",
+      2900
+     ],
+     [
+      "brastemp filtro",
+      1900
+     ],
+     [
+      "filtro da brastemp",
+      1600
+     ]
+    ],
+    "aquisicao e comparacao": [
+     [
+      "cupom de desconto brastemp",
+      1900
+     ],
+     [
+      "máquina de lavar brastemp 15kg menor preço",
+      1600
+     ],
+     [
+      "cupom desconto brastemp",
+      1300
+     ]
+    ],
+    "manual e uso": [
+     [
+      "como limpar maquina de lavar brastemp",
+      1000
+     ],
+     [
+      "como limpar a maquina de lavar brastemp",
+      590
+     ],
+     [
+      "como limpar máquina de lavar brastemp",
+      590
+     ]
+    ],
+    "garantia": [
+     [
+      "brastemp garantia",
+      590
+     ],
+     [
+      "garantia brastemp",
+      590
+     ]
+    ],
+    "conectividade e smart": [
+     [
+      "lava-louças 15 serviços brastemp inox com smart sensor - blf61ar",
+      590
+     ]
+    ],
+    "defeito": [
+     [
+      "geladeira brastemp frost free não gela parte de cima",
+      480
+     ],
+     [
+      "minha geladeira brastemp frost free parou de gelar",
+      390
+     ],
+     [
+      "geladeira brastemp nao gela em baixo",
+      320
+     ]
+    ],
+    "manutencao e cuidado": [
+     [
+      "limpeza máquina de lavar brastemp 13kg",
+      320
+     ]
+    ]
+   },
+   "top_estagio": {
+    "descoberta": [
+     [
+      "brastemp",
+      201000,
+      "marca e navegacao"
+     ],
+     [
+      "brastemp geladeira",
+      27100,
+      "marca e navegacao"
+     ],
+     [
+      "brastemp site",
+      9900,
+      "marca e navegacao"
+     ],
+     [
+      "brastemp b blend",
+      8100,
+      "marca e navegacao"
+     ]
+    ],
+    "escolha": [
+     [
+      "geladeira brastemp frost free",
+      49500,
+      "especificacao produto"
+     ],
+     [
+      "geladeira frost free brastemp",
+      22200,
+      "especificacao produto"
+     ],
+     [
+      "lava e seca brastemp",
+      14800,
+      "especificacao produto"
+     ],
+     [
+      "geladeira brastemp 375 litros",
+      12100,
+      "especificacao produto"
+     ]
+    ],
+    "posse": [
+     [
+      "assistencia tecnica brastemp",
+      8100,
+      "assistencia e reparo"
+     ],
+     [
+      "autorizada brastemp",
+      5400,
+      "assistencia e reparo"
+     ],
+     [
+      "assistência técnica brastemp",
+      4400,
+      "assistencia e reparo"
+     ],
+     [
+      "brastemp assistencia tecnica",
+      3600,
+      "assistencia e reparo"
+     ]
+    ]
+   },
    "serie_relativa": [
     0.47742,
     0.49259,
@@ -195,7 +671,65 @@
    ],
    "inclinacao_bruta": 0.95,
    "inclinacao_vs_categoria": 0.86,
-   "nome": "Brastemp"
+   "nome": "Brastemp",
+   "familias_inclinacao": {
+    "marca e navegacao": {
+     "inclinacao": 0.98,
+     "volume": 527840
+    },
+    "nao classificado": {
+     "inclinacao": 0.93,
+     "volume": 1676870
+    },
+    "especificacao produto": {
+     "inclinacao": 0.96,
+     "volume": 615490
+    },
+    "assistencia e reparo": {
+     "inclinacao": 1.07,
+     "volume": 77600
+    },
+    "peca e consumivel": {
+     "inclinacao": 1.04,
+     "volume": 15680
+    },
+    "aquisicao e comparacao": {
+     "inclinacao": 0.9,
+     "volume": 17820
+    },
+    "manual e uso": {
+     "inclinacao": 0.99,
+     "volume": 6620
+    },
+    "garantia": {
+     "inclinacao": 0.89,
+     "volume": 1180
+    },
+    "defeito": {
+     "inclinacao": 1.22,
+     "volume": 1830
+    },
+    "manutencao e cuidado": {
+     "inclinacao": 0.97,
+     "volume": 320
+    }
+   },
+   "submarca": {
+    "volume": 1200,
+    "kw": 2,
+    "itens": [
+     [
+      "outlet brastemp",
+      720,
+      "aquisicao e comparacao"
+     ],
+     [
+      "outlet da brastemp",
+      480,
+      "aquisicao e comparacao"
+     ]
+    ]
+   }
   },
   "consul": {
    "chave": "consul",
@@ -277,6 +811,198 @@
     1460786,
     1541500
    ],
+   "exemplos_familia": {
+    "marca e navegacao": [
+     [
+      "consul",
+      110000
+     ],
+     [
+      "consul geladeira",
+      14800
+     ],
+     [
+      "consul cervejeira",
+      4400
+     ]
+    ],
+    "nao classificado": [
+     [
+      "geladeira consul",
+      110000
+     ],
+     [
+      "cervejeira consul",
+      49500
+     ],
+     [
+      "fogão 4 bocas consul",
+      14800
+     ]
+    ],
+    "especificacao produto": [
+     [
+      "geladeira consul frost free",
+      40500
+     ],
+     [
+      "geladeira frost free consul",
+      14800
+     ],
+     [
+      "geladeira/refrigerador consul frost free",
+      8100
+     ]
+    ],
+    "peca e consumivel": [
+     [
+      "filtro consul",
+      12100
+     ],
+     [
+      "filtro de agua consul",
+      6600
+     ],
+     [
+      "consul filtro",
+      5400
+     ]
+    ],
+    "assistencia e reparo": [
+     [
+      "assistencia tecnica consul",
+      2900
+     ],
+     [
+      "assistência técnica consul",
+      1600
+     ],
+     [
+      "autorizada consul",
+      1600
+     ]
+    ],
+    "aquisicao e comparacao": [
+     [
+      "cupom de desconto consul",
+      1300
+     ],
+     [
+      "freezer vertical consul 246 litros menor preço",
+      880
+     ],
+     [
+      "cupom desconto consul",
+      590
+     ]
+    ],
+    "defeito": [
+     [
+      "geladeira gela em cima e embaixo não gela consul",
+      720
+     ],
+     [
+      "porque a máquina de lavar não centrifuga consul",
+      590
+     ],
+     [
+      "geladeira consul frost free não gela embaixo",
+      390
+     ]
+    ],
+    "manual e uso": [
+     [
+      "como limpar dreno geladeira consul frost free",
+      590
+     ],
+     [
+      "como limpar maquina de lavar consul",
+      590
+     ],
+     [
+      "ar condicionado manual consul",
+      480
+     ]
+    ],
+    "garantia": [
+     [
+      "garantia consul",
+      480
+     ],
+     [
+      "consul garantia",
+      390
+     ]
+    ]
+   },
+   "top_estagio": {
+    "descoberta": [
+     [
+      "consul",
+      110000,
+      "marca e navegacao"
+     ],
+     [
+      "consul geladeira",
+      14800,
+      "marca e navegacao"
+     ],
+     [
+      "consul cervejeira",
+      4400,
+      "marca e navegacao"
+     ],
+     [
+      "consul cpb34as",
+      3600,
+      "marca e navegacao"
+     ]
+    ],
+    "escolha": [
+     [
+      "geladeira consul frost free",
+      40500,
+      "especificacao produto"
+     ],
+     [
+      "geladeira frost free consul",
+      14800,
+      "especificacao produto"
+     ],
+     [
+      "geladeira/refrigerador consul frost free",
+      8100,
+      "especificacao produto"
+     ],
+     [
+      "maquina de lavar consul 12kg",
+      6600,
+      "especificacao produto"
+     ]
+    ],
+    "posse": [
+     [
+      "filtro consul",
+      12100,
+      "peca e consumivel"
+     ],
+     [
+      "filtro de agua consul",
+      6600,
+      "peca e consumivel"
+     ],
+     [
+      "consul filtro",
+      5400,
+      "peca e consumivel"
+     ],
+     [
+      "refil filtro consul",
+      3600,
+      "peca e consumivel"
+     ]
+    ]
+   },
    "serie_relativa": [
     0.22284,
     0.21993,
@@ -293,7 +1019,50 @@
    ],
    "inclinacao_bruta": 1.07,
    "inclinacao_vs_categoria": 0.97,
-   "nome": "Consul"
+   "nome": "Consul",
+   "familias_inclinacao": {
+    "marca e navegacao": {
+     "inclinacao": 1.09,
+     "volume": 223860
+    },
+    "nao classificado": {
+     "inclinacao": 1.05,
+     "volume": 750660
+    },
+    "especificacao produto": {
+     "inclinacao": 1.09,
+     "volume": 379700
+    },
+    "peca e consumivel": {
+     "inclinacao": 1.03,
+     "volume": 85380
+    },
+    "assistencia e reparo": {
+     "inclinacao": 1.33,
+     "volume": 24530
+    },
+    "aquisicao e comparacao": {
+     "inclinacao": 0.9,
+     "volume": 5860
+    },
+    "defeito": {
+     "inclinacao": 1.26,
+     "volume": 3510
+    },
+    "manual e uso": {
+     "inclinacao": 1.51,
+     "volume": 5160
+    },
+    "garantia": {
+     "inclinacao": 1.18,
+     "volume": 870
+    }
+   },
+   "submarca": {
+    "volume": 0,
+    "kw": 0,
+    "itens": []
+   }
   },
   "samsung": {
    "chave": "samsung",
@@ -370,6 +1139,194 @@
     121605,
     115630
    ],
+   "exemplos_familia": {
+    "nao classificado": [
+     [
+      "geladeira samsung",
+      40500
+     ],
+     [
+      "geladeira da samsung",
+      2900
+     ],
+     [
+      "geladeira samsung rt38",
+      2400
+     ]
+    ],
+    "especificacao produto": [
+     [
+      "geladeira samsung inverter",
+      8100
+     ],
+     [
+      "geladeira samsung side by side",
+      5400
+     ],
+     [
+      "geladeira side by side samsung",
+      4400
+     ]
+    ],
+    "marca e navegacao": [
+     [
+      "samsung geladeira",
+      4400
+     ],
+     [
+      "samsung geladeiras",
+      880
+     ],
+     [
+      "samsung geladeira inox",
+      590
+     ]
+    ],
+    "conectividade e smart": [
+     [
+      "geladeira smart samsung",
+      590
+     ],
+     [
+      "smart geladeira samsung",
+      390
+     ],
+     [
+      "geladeira samsung smart",
+      210
+     ]
+    ],
+    "assistencia e reparo": [
+     [
+      "assistencia tecnica geladeira samsung",
+      390
+     ],
+     [
+      "geladeira samsung assistencia tecnica",
+      390
+     ],
+     [
+      "samsung assistencia tecnica geladeira",
+      390
+     ]
+    ],
+    "peca e consumivel": [
+     [
+      "filtro geladeira samsung",
+      320
+     ],
+     [
+      "filtro para geladeira samsung",
+      320
+     ],
+     [
+      "filtro da geladeira samsung",
+      260
+     ]
+    ],
+    "manual e uso": [
+     [
+      "geladeira samsung digital inverter manual",
+      90
+     ],
+     [
+      "geladeira samsung manual",
+      90
+     ],
+     [
+      "manual geladeira samsung",
+      90
+     ]
+    ],
+    "garantia": [
+     [
+      "garantia geladeira samsung",
+      70
+     ],
+     [
+      "geladeira samsung garantia",
+      70
+     ]
+    ],
+    "aquisicao e comparacao": [
+     [
+      "geladeira samsung preço",
+      70
+     ],
+     [
+      "preço geladeira samsung",
+      70
+     ]
+    ]
+   },
+   "top_estagio": {
+    "descoberta": [
+     [
+      "samsung geladeira",
+      4400,
+      "marca e navegacao"
+     ],
+     [
+      "samsung geladeiras",
+      880,
+      "marca e navegacao"
+     ],
+     [
+      "samsung geladeira inox",
+      590,
+      "marca e navegacao"
+     ],
+     [
+      "samsung rt38 geladeira",
+      320,
+      "marca e navegacao"
+     ]
+    ],
+    "escolha": [
+     [
+      "geladeira samsung inverter",
+      8100,
+      "especificacao produto"
+     ],
+     [
+      "geladeira samsung side by side",
+      5400,
+      "especificacao produto"
+     ],
+     [
+      "geladeira side by side samsung",
+      4400,
+      "especificacao produto"
+     ],
+     [
+      "samsung inverter geladeira",
+      1900,
+      "especificacao produto"
+     ]
+    ],
+    "posse": [
+     [
+      "assistencia tecnica geladeira samsung",
+      390,
+      "assistencia e reparo"
+     ],
+     [
+      "geladeira samsung assistencia tecnica",
+      390,
+      "assistencia e reparo"
+     ],
+     [
+      "samsung assistencia tecnica geladeira",
+      390,
+      "assistencia e reparo"
+     ],
+     [
+      "assistencia tecnica samsung geladeira",
+      320,
+      "assistencia e reparo"
+     ]
+    ]
+   },
    "serie_relativa": [
     0.0186,
     0.02103,
@@ -386,7 +1343,50 @@
    ],
    "inclinacao_bruta": 0.95,
    "inclinacao_vs_categoria": 0.85,
-   "nome": "Samsung"
+   "nome": "Samsung",
+   "familias_inclinacao": {
+    "nao classificado": {
+     "inclinacao": 0.93,
+     "volume": 74190
+    },
+    "especificacao produto": {
+     "inclinacao": 0.93,
+     "volume": 36500
+    },
+    "marca e navegacao": {
+     "inclinacao": 1.08,
+     "volume": 6870
+    },
+    "conectividade e smart": {
+     "inclinacao": 0.94,
+     "volume": 1560
+    },
+    "assistencia e reparo": {
+     "inclinacao": 1.28,
+     "volume": 2630
+    },
+    "peca e consumivel": {
+     "inclinacao": 0.98,
+     "volume": 2320
+    },
+    "manual e uso": {
+     "inclinacao": 1.16,
+     "volume": 640
+    },
+    "garantia": {
+     "inclinacao": 0.85,
+     "volume": 140
+    },
+    "aquisicao e comparacao": {
+     "inclinacao": 1.05,
+     "volume": 140
+    }
+   },
+   "submarca": {
+    "volume": 0,
+    "kw": 0,
+    "itens": []
+   }
   },
   "midea": {
    "chave": "midea",
@@ -464,6 +1464,97 @@
     527171,
     504404
    ],
+   "exemplos_familia": {
+    "marca e navegacao": [
+     [
+      "midea",
+      110000
+     ],
+     [
+      "midea ar condicionado",
+      14800
+     ],
+     [
+      "midea geladeira",
+      8100
+     ]
+    ],
+    "nao classificado": [
+     [
+      "geladeira midea",
+      40500
+     ],
+     [
+      "ar condicionado midea",
+      18100
+     ],
+     [
+      "frigobar midea",
+      18100
+     ]
+    ],
+    "especificacao produto": [
+     [
+      "lava e seca midea",
+      33100
+     ],
+     [
+      "midea lava e seca",
+      12100
+     ],
+     [
+      "lava e seca midea 11kg",
+      8100
+     ]
+    ]
+   },
+   "top_estagio": {
+    "descoberta": [
+     [
+      "midea",
+      110000,
+      "marca e navegacao"
+     ],
+     [
+      "midea ar condicionado",
+      14800,
+      "marca e navegacao"
+     ],
+     [
+      "midea geladeira",
+      8100,
+      "marca e navegacao"
+     ],
+     [
+      "midea maquina de lavar",
+      2900,
+      "marca e navegacao"
+     ]
+    ],
+    "escolha": [
+     [
+      "lava e seca midea",
+      33100,
+      "especificacao produto"
+     ],
+     [
+      "midea lava e seca",
+      12100,
+      "especificacao produto"
+     ],
+     [
+      "lava e seca midea 11kg",
+      8100,
+      "especificacao produto"
+     ],
+     [
+      "ar condicionado 12000 btus midea",
+      5400,
+      "especificacao produto"
+     ]
+    ],
+    "posse": []
+   },
    "serie_relativa": [
     0.06828,
     0.07789,
@@ -480,7 +1571,26 @@
    ],
    "inclinacao_bruta": 1.19,
    "inclinacao_vs_categoria": 1.06,
-   "nome": "Midea"
+   "nome": "Midea",
+   "familias_inclinacao": {
+    "marca e navegacao": {
+     "inclinacao": 1.06,
+     "volume": 135800
+    },
+    "nao classificado": {
+     "inclinacao": 1.28,
+     "volume": 250000
+    },
+    "especificacao produto": {
+     "inclinacao": 1.17,
+     "volume": 167000
+    }
+   },
+   "submarca": {
+    "volume": 0,
+    "kw": 0,
+    "itens": []
+   }
   },
   "hisense": {
    "chave": "hisense",
@@ -560,6 +1670,186 @@
     143844,
     143700
    ],
+   "exemplos_familia": {
+    "marca e navegacao": [
+     [
+      "hisense",
+      33100
+     ],
+     [
+      "hisense é boa",
+      5400
+     ],
+     [
+      "hisense ar condicionado",
+      4400
+     ]
+    ],
+    "nao classificado": [
+     [
+      "ar condicionado hisense",
+      9900
+     ],
+     [
+      "geladeira hisense",
+      5400
+     ],
+     [
+      "ar condicionado hisense é bom",
+      4400
+     ]
+    ],
+    "especificacao produto": [
+     [
+      "lava e seca hisense",
+      4400
+     ],
+     [
+      "lava e seca hisense é boa",
+      1600
+     ],
+     [
+      "lava e seca hisense 13kg",
+      1300
+     ]
+    ],
+    "consumo e eficiencia": [
+     [
+      "consumo ar condicionado hisense portatil 12000 btus",
+      590
+     ]
+    ],
+    "manual e uso": [
+     [
+      "hisense 9000 btu inverter manual",
+      590
+     ],
+     [
+      "como configurar o ar condicionado hisense para gelar",
+      260
+     ],
+     [
+      "manual controle remoto ar condicionado hisense",
+      210
+     ]
+    ],
+    "assistencia e reparo": [
+     [
+      "assistência técnica hisense",
+      390
+     ],
+     [
+      "hisense assistencia tecnica",
+      320
+     ],
+     [
+      "assistencia tecnica hisense",
+      260
+     ]
+    ],
+    "conectividade e smart": [
+     [
+      "hisense 12.000 btus wi-fi",
+      320
+     ],
+     [
+      "ar-condicionado portátil wi-fi 12.000 btus frio ap-12cwbrnps01 hisense 127v",
+      210
+     ],
+     [
+      "hisense smart television",
+      210
+     ]
+    ],
+    "aquisicao e comparacao": [
+     [
+      "hisense vs",
+      210
+     ]
+    ],
+    "garantia": [
+     [
+      "hisense garantia",
+      140
+     ],
+     [
+      "garantia hisense",
+      90
+     ],
+     [
+      "ar condicionado hisense garantia",
+      50
+     ]
+    ]
+   },
+   "top_estagio": {
+    "descoberta": [
+     [
+      "hisense",
+      33100,
+      "marca e navegacao"
+     ],
+     [
+      "hisense é boa",
+      5400,
+      "marca e navegacao"
+     ],
+     [
+      "hisense ar condicionado",
+      4400,
+      "marca e navegacao"
+     ],
+     [
+      "hisense ar condicionado é bom",
+      1600,
+      "marca e navegacao"
+     ]
+    ],
+    "escolha": [
+     [
+      "lava e seca hisense",
+      4400,
+      "especificacao produto"
+     ],
+     [
+      "lava e seca hisense é boa",
+      1600,
+      "especificacao produto"
+     ],
+     [
+      "lava e seca hisense 13kg",
+      1300,
+      "especificacao produto"
+     ],
+     [
+      "ar condicionado portatil hisense 12000 btus",
+      1000,
+      "especificacao produto"
+     ]
+    ],
+    "posse": [
+     [
+      "consumo ar condicionado hisense portatil 12000 btus",
+      590,
+      "consumo e eficiencia"
+     ],
+     [
+      "hisense 9000 btu inverter manual",
+      590,
+      "manual e uso"
+     ],
+     [
+      "assistência técnica hisense",
+      390,
+      "assistencia e reparo"
+     ],
+     [
+      "hisense assistencia tecnica",
+      320,
+      "assistencia e reparo"
+     ]
+    ]
+   },
    "serie_relativa": [
     0.01144,
     0.02671,
@@ -576,7 +1866,46 @@
    ],
    "inclinacao_bruta": 1.6,
    "inclinacao_vs_categoria": 1.4,
-   "nome": "Hisense"
+   "nome": "Hisense",
+   "familias_inclinacao": {
+    "marca e navegacao": {
+     "inclinacao": 1.09,
+     "volume": 71930
+    },
+    "nao classificado": {
+     "inclinacao": 2.42,
+     "volume": 64740
+    },
+    "especificacao produto": {
+     "inclinacao": 1.77,
+     "volume": 28910
+    },
+    "assistencia e reparo": {
+     "inclinacao": 1.19,
+     "volume": 1950
+    },
+    "manual e uso": {
+     "inclinacao": 2.18,
+     "volume": 1180
+    },
+    "conectividade e smart": {
+     "inclinacao": 1.43,
+     "volume": 1140
+    },
+    "aquisicao e comparacao": {
+     "inclinacao": 0.0,
+     "volume": 210
+    },
+    "garantia": {
+     "inclinacao": 1.13,
+     "volume": 280
+    }
+   },
+   "submarca": {
+    "volume": 0,
+    "kw": 0,
+    "itens": []
+   }
   },
   "haier": {
    "chave": "haier",
@@ -655,6 +1984,129 @@
     5103,
     5318
    ],
+   "exemplos_familia": {
+    "marca e navegacao": [
+     [
+      "haier",
+      1900
+     ],
+     [
+      "haier brasil",
+      210
+     ],
+     [
+      "haier ar condicionado",
+      140
+     ]
+    ],
+    "nao classificado": [
+     [
+      "ar condicionado portatil haier",
+      390
+     ],
+     [
+      "ar condicionado haier",
+      170
+     ],
+     [
+      "tv haier",
+      140
+     ]
+    ],
+    "especificacao produto": [
+     [
+      "ar condicionado haier 12000 btus",
+      50
+     ],
+     [
+      "ar condicionado portátil haier 12000 btus",
+      40
+     ],
+     [
+      "12000 btu haier",
+      20
+     ]
+    ],
+    "manual e uso": [
+     [
+      "adega haier 42 garrafas manual",
+      20
+     ],
+     [
+      "adega haier manual",
+      20
+     ]
+    ],
+    "assistencia e reparo": [
+     [
+      "adega haier assistencia tecnica",
+      20
+     ]
+    ]
+   },
+   "top_estagio": {
+    "descoberta": [
+     [
+      "haier",
+      1900,
+      "marca e navegacao"
+     ],
+     [
+      "haier brasil",
+      210,
+      "marca e navegacao"
+     ],
+     [
+      "haier ar condicionado",
+      140,
+      "marca e navegacao"
+     ],
+     [
+      "haier tv",
+      110,
+      "marca e navegacao"
+     ]
+    ],
+    "escolha": [
+     [
+      "ar condicionado haier 12000 btus",
+      50,
+      "especificacao produto"
+     ],
+     [
+      "ar condicionado portátil haier 12000 btus",
+      40,
+      "especificacao produto"
+     ],
+     [
+      "12000 btu haier",
+      20,
+      "especificacao produto"
+     ],
+     [
+      "ar condicionado 12000 btus haier",
+      20,
+      "especificacao produto"
+     ]
+    ],
+    "posse": [
+     [
+      "adega haier 42 garrafas manual",
+      20,
+      "manual e uso"
+     ],
+     [
+      "adega haier assistencia tecnica",
+      20,
+      "assistencia e reparo"
+     ],
+     [
+      "adega haier manual",
+      20,
+      "manual e uso"
+     ]
+    ]
+   },
    "serie_relativa": [
     0.00053,
     0.00122,
@@ -671,7 +2123,34 @@
    ],
    "inclinacao_bruta": 1.56,
    "inclinacao_vs_categoria": 1.36,
-   "nome": "Haier"
+   "nome": "Haier",
+   "familias_inclinacao": {
+    "marca e navegacao": {
+     "inclinacao": 1.34,
+     "volume": 2780
+    },
+    "nao classificado": {
+     "inclinacao": 2.1,
+     "volume": 1510
+    },
+    "especificacao produto": {
+     "inclinacao": 1.46,
+     "volume": 130
+    },
+    "manual e uso": {
+     "inclinacao": 1.43,
+     "volume": 40
+    },
+    "assistencia e reparo": {
+     "inclinacao": 1.0,
+     "volume": 20
+    }
+   },
+   "submarca": {
+    "volume": 0,
+    "kw": 0,
+    "itens": []
+   }
   }
  },
  "categoria_heads": {
@@ -751,6 +2230,80 @@
    7080457,
    6136539
   ],
+  "exemplos_familia": {
+   "nao classificado": [
+    [
+     "air fryer",
+     823000
+    ],
+    [
+     "geladeira",
+     823000
+    ],
+    [
+     "ar condicionado",
+     673000
+    ]
+   ],
+   "especificacao produto": [
+    [
+     "geladeira frost free",
+     368000
+    ],
+    [
+     "lava e seca",
+     201000
+    ],
+    [
+     "geladeira inverter",
+     40500
+    ]
+   ],
+   "peca e consumivel": [
+    [
+     "filtro de água",
+     18100
+    ]
+   ],
+   "aquisicao e comparacao": [
+    [
+     "preço de geladeira",
+     9900
+    ]
+   ]
+  },
+  "top_estagio": {
+   "descoberta": [],
+   "escolha": [
+    [
+     "geladeira frost free",
+     368000,
+     "especificacao produto"
+    ],
+    [
+     "lava e seca",
+     201000,
+     "especificacao produto"
+    ],
+    [
+     "geladeira inverter",
+     40500,
+     "especificacao produto"
+    ],
+    [
+     "geladeira side by side",
+     40500,
+     "especificacao produto"
+    ]
+   ],
+   "posse": [
+    [
+     "filtro de água",
+     18100,
+     "peca e consumivel"
+    ]
+   ]
+  },
   "serie_relativa": [
    1.0,
    1.0,
@@ -866,6 +2419,188 @@
    197044,
    188137
   ],
+  "exemplos_familia": {
+   "defeito": [
+    [
+     "ar condicionado pingando agua",
+     2900
+    ],
+    [
+     "ar condicionado não gela",
+     1900
+    ],
+    [
+     "geladeira não está gelando",
+     1900
+    ]
+   ],
+   "consumo": [
+    [
+     "air fryer gasta muita energia",
+     2900
+    ],
+    [
+     "ar condicionado gasta muita energia",
+     1600
+    ],
+    [
+     "lava e seca gasta muita energia",
+     590
+    ]
+   ],
+   "sinonimo": [
+    [
+     "microondas não esquenta",
+     3600
+    ],
+    [
+     "como limpar airfryer",
+     2400
+    ],
+    [
+     "como limpar microondas",
+     1900
+    ]
+   ],
+   "assistencia": [
+    [
+     "conserto de geladeira",
+     14800
+    ],
+    [
+     "conserto de ar condicionado",
+     3600
+    ],
+    [
+     "conserto de fogão",
+     3600
+    ]
+   ],
+   "peca": [
+    [
+     "copo liquidificador",
+     8100
+    ],
+    [
+     "termostato geladeira",
+     6600
+    ],
+    [
+     "filtro ar condicionado",
+     5400
+    ]
+   ],
+   "descarte": [
+    [
+     "coleta de eletrodomésticos usados",
+     90
+    ],
+    [
+     "reciclagem de eletrodomésticos",
+     50
+    ],
+    [
+     "como descartar geladeira velha",
+     30
+    ]
+   ],
+   "manutencao": [
+    [
+     "como limpar ferro de passar",
+     6600
+    ],
+    [
+     "como limpar ventilador",
+     5400
+    ],
+    [
+     "como limpar ar condicionado",
+     3600
+    ]
+   ],
+   "instalacao": [
+    [
+     "instalação de ar condicionado",
+     22200
+    ],
+    [
+     "como instalar ar condicionado",
+     3600
+    ],
+    [
+     "quanto custa instalar ar condicionado",
+     1600
+    ]
+   ],
+   "manual e uso": [
+    [
+     "como usar air fryer",
+     1900
+    ],
+    [
+     "funções ar condicionado",
+     1300
+    ],
+    [
+     "como usar cafeteira",
+     880
+    ]
+   ],
+   "garantia": [
+    [
+     "garantia ar condicionado",
+     110
+    ],
+    [
+     "garantia estendida vale a pena",
+     110
+    ],
+    [
+     "garantia air fryer",
+     30
+    ]
+   ],
+   "receita": [
+    [
+     "receitas air fryer",
+     2900
+    ],
+    [
+     "receitas panela elétrica",
+     50
+    ],
+    [
+     "o que dá para fazer no air fryer",
+     20
+    ]
+   ]
+  },
+  "top_estagio": {
+   "descoberta": [],
+   "escolha": [],
+   "posse": [
+    [
+     "instalação de ar condicionado",
+     22200,
+     "instalacao"
+    ],
+    [
+     "conserto de geladeira",
+     14800,
+     "assistencia"
+    ],
+    [
+     "copo liquidificador",
+     8100,
+     "peca"
+    ],
+    [
+     "como limpar ferro de passar",
+     6600,
+     "manutencao"
+    ]
+   ]
+  },
   "serie_relativa": [
    0.03056,
    0.03091,
@@ -1311,7 +3046,7 @@
    "aio": 28
   },
   "marca e navegacao": {
-   "volume": 1146110,
+   "volume": 1145720,
    "aio": 20
   },
   "peca e consumivel": {
@@ -1319,16 +3054,12 @@
    "aio": 34
   },
   "aquisicao e comparacao": {
-   "volume": 35040,
-   "aio": 80
+   "volume": 38370,
+   "aio": 73
   },
   "assistencia e reparo": {
-   "volume": 115230,
+   "volume": 115620,
    "aio": 9
-  },
-  "frente nomeada": {
-   "volume": 3330,
-   "aio": 0
   },
   "manual e uso": {
    "volume": 23170,
@@ -1377,54 +3108,26 @@
  },
  "ai_overview_agregado": {
   "posse": {
-   "volume": 490560,
+   "volume": 490950,
    "aio": 41
   },
   "demais": {
-   "volume": 12586290,
+   "volume": 12585900,
    "aio": 26
   },
   "electrolux": 14
  },
  "jornada4": {
-  "sem_marca": 7077400,
   "heads": 6869800,
   "cauda": 207600,
-  "descoberta": 1146110,
-  "escolha": 1446660,
-  "posse": 264860,
-  "nao_class": 3141820,
+  "sem_marca": 7077400,
+  "descoberta": 1145720,
+  "escolha": 1449990,
+  "posse": 265250,
+  "nao_class": 3138490,
   "total": 13076850
  },
  "exemplos": {
-  "nao classificado": [
-   [
-    "air fryer",
-    823000
-   ],
-   [
-    "geladeira",
-    823000
-   ],
-   [
-    "ar condicionado",
-    673000
-   ]
-  ],
-  "especificacao produto": [
-   [
-    "geladeira frost free",
-    368000
-   ],
-   [
-    "lava e seca",
-    201000
-   ],
-   [
-    "geladeira electrolux frost free",
-    90500
-   ]
-  ],
   "marca e navegacao": [
    [
     "brastemp",
@@ -1437,13 +3140,97 @@
    [
     "consul",
     110000
+   ],
+   [
+    "midea",
+    110000
+   ],
+   [
+    "hisense",
+    33100
+   ],
+   [
+    "electrolux geladeira",
+    27100
+   ],
+   [
+    "brastemp geladeira",
+    27100
+   ],
+   [
+    "consul geladeira",
+    14800
+   ]
+  ],
+  "nao classificado": [
+   [
+    "geladeira brastemp",
+    201000
+   ],
+   [
+    "geladeira consul",
+    110000
+   ],
+   [
+    "cervejeira consul",
+    49500
+   ],
+   [
+    "maquina de lavar brastemp",
+    40500
+   ],
+   [
+    "geladeira midea",
+    40500
+   ],
+   [
+    "geladeira samsung",
+    40500
+   ],
+   [
+    "geladeira eletrolux",
+    27100
+   ],
+   [
+    "frigobar brastemp",
+    27100
+   ]
+  ],
+  "especificacao produto": [
+   [
+    "geladeira electrolux frost free",
+    90500
+   ],
+   [
+    "geladeira brastemp frost free",
+    49500
+   ],
+   [
+    "geladeira consul frost free",
+    40500
+   ],
+   [
+    "lava e seca midea",
+    33100
+   ],
+   [
+    "geladeira frost free electrolux",
+    27100
+   ],
+   [
+    "geladeira frost free brastemp",
+    22200
+   ],
+   [
+    "lava e seca brastemp",
+    14800
+   ],
+   [
+    "geladeira frost free consul",
+    14800
    ]
   ],
   "peca e consumivel": [
-   [
-    "filtro de água",
-    18100
-   ],
    [
     "filtro consul",
     12100
@@ -1451,20 +3238,30 @@
    [
     "filtro eletrolux",
     6600
-   ]
-  ],
-  "aquisicao e comparacao": [
-   [
-    "preço de geladeira",
-    9900
    ],
    [
-    "cupom de desconto brastemp",
-    1900
+    "filtro de agua consul",
+    6600
    ],
    [
-    "máquina de lavar brastemp 15kg menor preço",
-    1600
+    "consul filtro",
+    5400
+   ],
+   [
+    "filtro de agua eletrolux",
+    3600
+   ],
+   [
+    "refil filtro consul",
+    3600
+   ],
+   [
+    "filtro brastemp",
+    2900
+   ],
+   [
+    "filtro consul refil",
+    2900
    ]
   ],
   "assistencia e reparo": [
@@ -1479,34 +3276,94 @@
    [
     "assistência técnica brastemp",
     4400
+   ],
+   [
+    "assistencia tecnica eletrolux",
+    3600
+   ],
+   [
+    "brastemp assistencia tecnica",
+    3600
+   ],
+   [
+    "brastemp assistência técnica",
+    3600
+   ],
+   [
+    "assistencia tecnica brastemp autorizada",
+    2900
+   ],
+   [
+    "assistencia tecnica consul",
+    2900
    ]
   ],
-  "frente nomeada": [
+  "aquisicao e comparacao": [
+   [
+    "cupom de desconto brastemp",
+    1900
+   ],
+   [
+    "máquina de lavar brastemp 15kg menor preço",
+    1600
+   ],
    [
     "outlet eletrolux",
     1300
    ],
    [
-    "outlet brastemp",
-    720
+    "cupom desconto brastemp",
+    1300
    ],
    [
-    "eletrolux outlet",
-    480
+    "cupom de desconto consul",
+    1300
+   ],
+   [
+    "cupom de desconto eletrolux",
+    1000
+   ],
+   [
+    "brastemp b blend preco",
+    1000
+   ],
+   [
+    "brastemp b blend preço",
+    1000
    ]
   ],
   "manual e uso": [
    [
-    "como usar air fryer",
-    1900
-   ],
-   [
-    "funções ar condicionado",
-    1300
-   ],
-   [
     "como limpar maquina de lavar brastemp",
     1000
+   ],
+   [
+    "como limpar a maquina de lavar brastemp",
+    590
+   ],
+   [
+    "como limpar máquina de lavar brastemp",
+    590
+   ],
+   [
+    "como limpar dreno geladeira consul frost free",
+    590
+   ],
+   [
+    "como limpar maquina de lavar consul",
+    590
+   ],
+   [
+    "hisense 9000 btu inverter manual",
+    590
+   ],
+   [
+    "como limpar maquina de lavar roupa brastemp",
+    480
+   ],
+   [
+    "como limpar máquina de lavar brastemp 12kg",
+    480
    ]
   ],
   "garantia": [
@@ -1521,20 +3378,60 @@
    [
     "brastemp garantia",
     590
+   ],
+   [
+    "garantia brastemp",
+    590
+   ],
+   [
+    "garantia consul",
+    480
+   ],
+   [
+    "consul garantia",
+    390
+   ],
+   [
+    "hisense garantia",
+    140
+   ],
+   [
+    "garantia hisense",
+    90
    ]
   ],
   "defeito": [
    [
-    "ar condicionado pingando agua",
-    2900
+    "geladeira gela em cima e embaixo não gela consul",
+    720
    ],
    [
-    "ar condicionado não gela",
-    1900
+    "porque a máquina de lavar não centrifuga consul",
+    590
    ],
    [
-    "geladeira não está gelando",
-    1900
+    "geladeira brastemp frost free não gela parte de cima",
+    480
+   ],
+   [
+    "minha geladeira brastemp frost free parou de gelar",
+    390
+   ],
+   [
+    "geladeira consul frost free não gela embaixo",
+    390
+   ],
+   [
+    "geladeira consul frost free não gela mas o congelador funciona",
+    390
+   ],
+   [
+    "geladeira consul não gela a parte de baixo",
+    390
+   ],
+   [
+    "minha geladeira liga mas não gela consul frost free",
+    390
    ]
   ],
   "conectividade e smart": [
@@ -1549,6 +3446,26 @@
    [
     "smart geladeira samsung",
     390
+   ],
+   [
+    "hisense 12.000 btus wi-fi",
+    320
+   ],
+   [
+    "ar-condicionado portátil wi-fi 12.000 btus frio ap-12cwbrnps01 hisense 127v",
+    210
+   ],
+   [
+    "hisense smart television",
+    210
+   ],
+   [
+    "geladeira samsung smart",
+    210
+   ],
+   [
+    "lava e seca 11kg hisense titanium 11programas wi-fi - wd3s11",
+    170
    ]
   ],
   "consumo e eficiencia": [
@@ -1566,6 +3483,42 @@
     "limpeza maquina eletrolux",
     140
    ]
+  ]
+ },
+ "exemplos_sem_marca": {
+  "defeito": [
+   [
+    "ar condicionado pingando agua",
+    2900
+   ],
+   [
+    "ar condicionado não gela",
+    1900
+   ],
+   [
+    "geladeira não está gelando",
+    1900
+   ],
+   [
+    "geladeira não gela",
+    1300
+   ],
+   [
+    "ar condicionado fazendo barulho",
+    1000
+   ],
+   [
+    "máquina de lavar não centrifuga",
+    1000
+   ],
+   [
+    "ar condicionado não liga",
+    880
+   ],
+   [
+    "geladeira fazendo barulho",
+    880
+   ]
   ],
   "consumo": [
    [
@@ -1579,6 +3532,26 @@
    [
     "lava e seca gasta muita energia",
     590
+   ],
+   [
+    "geladeira econômica",
+    390
+   ],
+   [
+    "consumo de energia ar condicionado",
+    320
+   ],
+   [
+    "geladeira gasta muita energia",
+    320
+   ],
+   [
+    "lava louças gasta muita energia",
+    320
+   ],
+   [
+    "máquina de lavar gasta muita energia",
+    260
    ]
   ],
   "sinonimo": [
@@ -1593,6 +3566,26 @@
    [
     "como limpar microondas",
     1900
+   ],
+   [
+    "como limpar maquina de lavar roupa",
+    880
+   ],
+   [
+    "microondas não liga",
+    720
+   ],
+   [
+    "como limpar fogao",
+    590
+   ],
+   [
+    "assistência técnica microondas",
+    390
+   ],
+   [
+    "lavadora não centrifuga",
+    210
    ]
   ],
   "assistencia": [
@@ -1607,6 +3600,26 @@
    [
     "conserto de fogão",
     3600
+   ],
+   [
+    "conserto de máquina de lavar",
+    3600
+   ],
+   [
+    "conserto de air fryer",
+    1600
+   ],
+   [
+    "assistência técnica máquina de lavar",
+    1000
+   ],
+   [
+    "conserto de lava e seca",
+    880
+   ],
+   [
+    "conserto de aspirador de pó",
+    720
    ]
   ],
   "peca": [
@@ -1621,6 +3634,26 @@
    [
     "filtro ar condicionado",
     5400
+   ],
+   [
+    "capacitor ar condicionado",
+    4400
+   ],
+   [
+    "filtro purificador de água",
+    3600
+   ],
+   [
+    "filtro bebedouro",
+    2900
+   ],
+   [
+    "torneira bebedouro",
+    2900
+   ],
+   [
+    "mangueira lavadora de alta pressão",
+    1900
    ]
   ],
   "descarte": [
@@ -1635,6 +3668,18 @@
    [
     "como descartar geladeira velha",
     30
+   ],
+   [
+    "como descartar máquina de lavar velha",
+    20
+   ],
+   [
+    "onde doar geladeira usada",
+    20
+   ],
+   [
+    "logística reversa eletrodomésticos",
+    10
    ]
   ],
   "manutencao": [
@@ -1649,6 +3694,26 @@
    [
     "como limpar ar condicionado",
     3600
+   ],
+   [
+    "como limpar máquina de lavar",
+    1900
+   ],
+   [
+    "como limpar fogão",
+    1600
+   ],
+   [
+    "como limpar air fryer",
+    1300
+   ],
+   [
+    "como limpar sanduicheira",
+    1300
+   ],
+   [
+    "como limpar geladeira",
+    1000
    ]
   ],
   "instalacao": [
@@ -1663,6 +3728,82 @@
    [
     "quanto custa instalar ar condicionado",
     1600
+   ],
+   [
+    "como instalar cooktop",
+    1300
+   ],
+   [
+    "como instalar purificador de água",
+    880
+   ],
+   [
+    "instalação de coifa",
+    880
+   ],
+   [
+    "instalação de cooktop",
+    480
+   ],
+   [
+    "instalação de fogão",
+    480
+   ]
+  ],
+  "manual e uso": [
+   [
+    "como usar air fryer",
+    1900
+   ],
+   [
+    "funções ar condicionado",
+    1300
+   ],
+   [
+    "como usar cafeteira",
+    880
+   ],
+   [
+    "como usar chaleira elétrica",
+    590
+   ],
+   [
+    "como usar forno elétrico",
+    390
+   ],
+   [
+    "como usar máquina de lavar",
+    390
+   ],
+   [
+    "como usar ar condicionado",
+    320
+   ],
+   [
+    "como usar fritadeira elétrica",
+    260
+   ]
+  ],
+  "garantia": [
+   [
+    "garantia ar condicionado",
+    110
+   ],
+   [
+    "garantia estendida vale a pena",
+    110
+   ],
+   [
+    "garantia air fryer",
+    30
+   ],
+   [
+    "garantia estendida ar condicionado",
+    20
+   ],
+   [
+    "garantia geladeira",
+    20
    ]
   ],
   "receita": [
@@ -1677,48 +3818,214 @@
    [
     "o que dá para fazer no air fryer",
     20
+   ],
+   [
+    "o que dá para fazer no forno elétrico",
+    20
+   ],
+   [
+    "o que dá para fazer no micro-ondas",
+    10
+   ],
+   [
+    "receitas forno elétrico",
+    10
+   ]
+  ],
+  "heads": [
+   [
+    "air fryer",
+    823000
+   ],
+   [
+    "geladeira",
+    823000
+   ],
+   [
+    "ar condicionado",
+    673000
+   ],
+   [
+    "microondas",
+    550000
+   ],
+   [
+    "fogão 4 bocas",
+    368000
+   ],
+   [
+    "ventilador",
+    368000
+   ],
+   [
+    "geladeira frost free",
+    368000
+   ],
+   [
+    "aspirador de pó",
+    246000
    ]
   ]
  },
  "frentes": [
   [
-   "electrolux cuida",
-   2400
-  ],
-  [
-   "electrolux instala",
-   480
-  ],
-  [
-   "electrolux projeta",
-   320
-  ],
-  [
-   "electrolux pro",
-   140
-  ],
-  [
-   "electrolux shopclub",
-   320
+   "assistência técnica electrolux",
+   5400
   ],
   [
    "electrolux outlet",
    4400
   ],
   [
-   "coleta consciente electrolux",
-   20
+   "electrolux cuida",
+   2400
+  ],
+  [
+   "manual geladeira electrolux",
+   720
+  ],
+  [
+   "assistência técnica geladeira electrolux",
+   480
+  ],
+  [
+   "electrolux instala",
+   480
+  ],
+  [
+   "assistência técnica máquina de lavar electrolux",
+   320
+  ],
+  [
+   "electrolux projeta",
+   320
+  ],
+  [
+   "electrolux shopclub",
+   320
+  ],
+  [
+   "manual ar condicionado electrolux",
+   320
   ],
   [
    "garantia estendida electrolux",
    170
   ],
   [
-   "assistência técnica electrolux",
-   5400
+   "manual lava louças electrolux",
+   170
+  ],
+  [
+   "manual máquina de lavar electrolux",
+   170
+  ],
+  [
+   "electrolux pro",
+   140
+  ],
+  [
+   "manual aspirador de pó electrolux",
+   90
+  ],
+  [
+   "ar condicionado electrolux nao liga",
+   70
+  ],
+  [
+   "manual fogão electrolux",
+   70
+  ],
+  [
+   "manual lava e seca electrolux",
+   70
+  ],
+  [
+   "assistência técnica fogão electrolux",
+   50
+  ],
+  [
+   "air fryer electrolux nao liga",
+   20
+  ],
+  [
+   "assistência técnica air fryer electrolux",
+   20
+  ],
+  [
+   "coleta consciente electrolux",
+   20
+  ],
+  [
+   "manual air fryer electrolux",
+   20
+  ],
+  [
+   "manual secadora de roupas electrolux",
+   20
+  ],
+  [
+   "assistência técnica ar condicionado electrolux",
+   10
+  ],
+  [
+   "assistência técnica aspirador de pó electrolux",
+   10
+  ],
+  [
+   "geladeira electrolux nao liga",
+   10
+  ],
+  [
+   "aspirador de pó electrolux nao liga",
+   0
+  ],
+  [
+   "assistência técnica lava e seca electrolux",
+   0
+  ],
+  [
+   "assistência técnica lava louças electrolux",
+   0
+  ],
+  [
+   "assistência técnica micro-ondas electrolux",
+   0
+  ],
+  [
+   "assistência técnica secadora de roupas electrolux",
+   0
+  ],
+  [
+   "fogão electrolux nao liga",
+   0
+  ],
+  [
+   "lava e seca electrolux nao liga",
+   0
+  ],
+  [
+   "lava louças electrolux nao liga",
+   0
+  ],
+  [
+   "manual micro-ondas electrolux",
+   0
+  ],
+  [
+   "micro-ondas electrolux nao liga",
+   0
+  ],
+  [
+   "máquina de lavar electrolux nao liga",
+   0
   ],
   [
    "peça original electrolux",
+   0
+  ],
+  [
+   "secadora de roupas electrolux nao liga",
    0
   ]
  ]

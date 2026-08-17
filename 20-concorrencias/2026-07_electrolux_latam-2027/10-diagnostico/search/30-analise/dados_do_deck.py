@@ -77,6 +77,16 @@ def perfil(rows, chave):
          "categorias": {k: round(100*v/V,1) for k,v in cat.most_common() if 100*v/V >= 0.5},
          "top_keywords": [[r["keyword"], round(num(r["volume_medio_12m"]))] for r in top],
          "serie": [round(x) for x in S] if S else None}
+    # exemplos deste recorte, por familia — para que o chip de um slide de marca
+    # nunca mostre consulta de outra marca
+    ef = collections.defaultdict(list)
+    for r in rows: ef[r["familia"]].append([r["keyword"], round(num(r["volume_medio_12m"]))])
+    d["exemplos_familia"] = {f: sorted(v, key=lambda i: -i[1])[:3] for f, v in ef.items()}
+    # as consultas reais que mais pesam em cada estagio, para nao falar de estagio no abstrato
+    d["top_estagio"] = {}
+    for est, fams in (("descoberta",DESCOBERTA),("escolha",ESCOLHA),("posse",POSSE)):
+        sel = sorted([r for r in rows if r["familia"] in fams], key=lambda r: -num(r["volume_medio_12m"]))[:4]
+        d["top_estagio"][est] = [[r["keyword"], round(num(r["volume_medio_12m"])), r["familia"]] for r in sel]
     if S and base:
         rel = [S[i]/base[i] for i in range(12)]
         d["serie_relativa"] = [round(x, 5) for x in rel]
@@ -86,7 +96,25 @@ def perfil(rows, chave):
 
 for seed, nome in PLAYERS:
     g = [r for r in kws if r["marca_seed"] == seed]
-    p = perfil(g, seed); p["nome"] = nome; out["players"][seed] = p
+    p = perfil(g, seed); p["nome"] = nome
+    # inclinacao por familia, calculada — nao digitada
+    porfam = collections.defaultdict(list)
+    for r in g:
+        sr = serie(r)
+        if sr: porfam[r["familia"]].append(sr)
+    incl = {}
+    for f, ss in porfam.items():
+        S = [sum(x) for x in zip(*ss)]
+        if st.mean(S[:7]) > 0:
+            incl[f] = {"inclinacao": round(st.mean(S[7:])/st.mean(S[:7]), 2), "volume": round(sum(S)/12)}
+    p["familias_inclinacao"] = incl
+    # demanda que chega pelo NOME de uma submarca (atributo transversal)
+    sub = [r for r in g if r.get("submarca") == "1"]
+    p["submarca"] = {"volume": round(sum(num(r["volume_medio_12m"]) for r in sub)),
+                     "kw": len(sub),
+                     "itens": sorted([[r["keyword"], round(num(r["volume_medio_12m"])), r["familia"]] for r in sub],
+                                     key=lambda x: -x[1])}
+    out["players"][seed] = p
 out["categoria_heads"] = perfil([r for r in kws if r["marca_seed"]=="generico"], "generico")
 out["categoria_heads"]["nome"] = "Categoria (heads sem marca)"
 out["sem_dono"] = perfil(cauda, "sem_dono"); out["sem_dono"]["nome"] = "Território sem dono"
@@ -103,6 +131,37 @@ to = sum(V for f,(V,A) in fam_aio.items() if f not in POSSE); ao = sum(A for f,(
 out["ai_overview_agregado"] = {"posse": {"volume": round(tp), "aio": round(100*ap/tp)},
                                "demais": {"volume": round(to), "aio": round(100*ao/to)},
                                "electrolux": out["players"]["electrolux"]["ai_overview"]}
+
+# ---------- a jornada em 4 estagios (estagio 0 = demanda sem marca nenhuma) ----------
+def vol(rows): return sum(num(r["volume_medio_12m"]) for r in rows)
+heads   = [r for r in kws if r["marca_seed"] == "generico"]
+branded = [r for r in kws if r["marca_seed"] != "generico"]
+j4 = {"heads": round(vol(heads)), "cauda": round(vol(cauda))}
+j4["sem_marca"]  = j4["heads"] + j4["cauda"]
+j4["descoberta"] = round(vol([r for r in branded if r["familia"] in DESCOBERTA]))
+j4["escolha"]    = round(vol([r for r in branded if r["familia"] in ESCOLHA]))
+j4["posse"]      = round(vol([r for r in branded if r["familia"] in POSSE]))
+j4["nao_class"]  = round(vol(branded)) - j4["descoberta"] - j4["escolha"] - j4["posse"]
+j4["total"]      = j4["sem_marca"] + round(vol(branded))
+out["jornada4"] = j4
+
+# ---------- exemplos reais de consulta, por familia, para os chips do deck ----------
+def exemplos(rows, k=8):
+    d = collections.defaultdict(list)
+    for r in rows: d[r["familia"]].append([r["keyword"], round(num(r["volume_medio_12m"]))])
+    return {f: sorted(v, key=lambda i: -i[1])[:k] for f, v in d.items()}
+out["exemplos"] = exemplos(branded)                      # vocabulario das consultas COM marca
+out["exemplos_sem_marca"] = exemplos(cauda)              # vocabulario da cauda SEM marca
+out["exemplos_sem_marca"]["heads"] = sorted(
+    [[r["keyword"], round(num(r["volume_medio_12m"]))] for r in heads], key=lambda i: -i[1])[:8]
+
+# ---------- frentes nomeadas: os 40 termos de controle branded da lista ----------
+fr = []
+for r in csv.DictReader(open(RAW/"busca-convencional"/"2026-08-17_semrush_keywords_cauda-nao-branded.csv", encoding="utf-8-sig")):
+    k = r["Keyword"].strip().lower()
+    if lista.get(k, {}).get("familia") == "controle branded":
+        fr.append([k, round(num(r.get("Volume")))])
+out["frentes"] = sorted(fr, key=lambda i: -i[1])
 
 # ---------- IA: respostas ----------
 R = list(csv.DictReader(open(NORM/"ai_respostas.csv", encoding="utf-8")))

@@ -53,10 +53,10 @@ def idioma(kw):
 # ------------------------------------------------------------- taxonomia
 TAXONOMIA = [
     ("fora de categoria",      r"\b(himss|hbento|sa[uú]de|health|quatenus|quomodo|rationem|suggestis|facultates|insight|login|conferenc|exhibitor)\b"),
-    ("assistencia e reparo",   r"\b(assist[eê]ncia|conserto|consertar|reparo|reparar|t[ée]cnic|autorizada|chamado|substituir|trocar a|troca de)\b"),
+    ("assistencia e reparo",   r"\b(assist[eê]ncia|conserto|consertar|reparo|reparar|t[ée]cnic|autorizada|chamado|substituir|trocar a|troca de)\b|\b(electrolux|eletrolux)\s+cuida\b|\bcuida\s+(electrolux|eletrolux)\b"),
     ("defeito",                r"\b(n[aã]o (gela|liga|funciona|centrifuga|seca|esquenta)|erro |defeito|barulho|vazando|vazamento|parou de|entupid)\b"),
     ("peca e consumivel",      r"\b(pe[çc]a|filtro|correia|resist[eê]ncia|refil|l[aâ]mpada|g[aá]s refrigerante|reposi[çc]|acess[oó]rio)\b"),
-    ("instalacao",             r"\b(instala[çc]|instalar|montar|montagem|medidas do v[aã]o)\b"),
+    ("instalacao",             r"\b(instala[çc]|instalar|montar|montagem|medidas do v[aã]o)\b|\b(electrolux|eletrolux)\s+instala\b|\binstala\s+(electrolux|eletrolux)\b"),
     ("garantia",               r"\b(garantia|cobertura|extens[aã]o de garantia)\b"),
     ("manual e uso",           r"\b(manual|como (usar|limpar|lavar|programar|configurar|ligar|regular|ajustar|higienizar|secar|descongelar|desodorizar)|passo a passo|tutorial)\b"),
     ("manutencao e cuidado",   r"\b(manuten[çc]|cuidad|conserva[çr]|limpeza|higieniz|durabilidade|vida [uú]til|prolongar)\b"),
@@ -64,13 +64,19 @@ TAXONOMIA = [
     ("receita e preparo",      r"\b(receita|assar|cozinhar|air.?fryer.*fazer)\b"),
     ("consumo e eficiencia",   r"\b(consumo|consome|gasta|kwh|energia|econ[oô]mic|efici[eê]nc|selo|procel|inmetro|conta de luz)\b"),
     ("conectividade e smart",  r"\b(smart|wi.?fi|conect|aplicativo|intelig[eê]nt|automa[çc])\b"),
-    ("frente nomeada",         r"\b(shopclub|shop club|outlet|afiliad|coleta consciente)\b|\b(cuida|projeta|instala)\s+(electrolux|eletrolux)\b|electrolux\s+(pro|cuida|projeta|instala)\b"),
-    ("aquisicao e comparacao", r"\b(melhor|melhores|compar|vale a pena|custo.?benef|diferen[çc]a entre|\bvs\b|versus|recomend|escolher|barat|pre[çc]o|quanto custa|onde comprar|comprar|oferta|promo[çc]|desconto|venda|vender)\b"),
-    ("especificacao produto",  r"\b(frost free|inverter|lava e seca|lava.?seca|essential care|essencial care|side by side|\d+\s?(kg|litros|btus?|polegadas)|duplex|invertida|top load|front load)\b"),
+    ("aquisicao e comparacao", r"\b(outlet|shopclub|shop club|afiliad|clube de desconto)\b|\b(melhor|melhores|compar|vale a pena|custo.?benef|diferen[çc]a entre|\bvs\b|versus|recomend|escolher|barat|pre[çc]o|quanto custa|onde comprar|comprar|oferta|promo[çc]|desconto|venda|vender)\b"),
+    ("especificacao produto",  r"\b(electrolux|eletrolux)\s+(projeta|pro)\b|\b(projeta)\s+(electrolux|eletrolux)\b|\b(frost free|inverter|lava e seca|lava.?seca|essential care|essencial care|side by side|\d+\s?(kg|litros|btus?|polegadas)|duplex|invertida|top load|front load)\b"),
     ("marca e navegacao",      r"^(electrolux|eletrolux|midea|hisense|haier|brastemp|consul|samsung)([\s\w]{0,25})?$"),
 ]
 FAMILIAS_VIDA = {"assistencia e reparo","defeito","peca e consumivel","instalacao","garantia",
                  "manual e uso","manutencao e cuidado","descarte e sustentab","receita e preparo"}
+
+RX_SUBMARCA = re.compile(r"\b(cuida|instala|projeta|shopclub|shop club|outlet|afiliad|coleta consciente)\b", re.I)
+
+def eh_submarca(texto):
+    """Atributo transversal: a consulta busca o NOME comercial de uma frente,
+    em vez de descrever a necessidade. Nao substitui a familia — convive com ela."""
+    return int(bool(RX_SUBMARCA.search(texto or "")))
 
 def familia(texto):
     t = (texto or "").lower()
@@ -151,6 +157,7 @@ for marca, (arquivo, tipo) in ARQUIVOS_KW.items():
             "tem_ai_overview": int("AI Overview" in serp),
             "serp_features": serp,
             "click_potential": num(r.get("Click potential")),
+            "submarca": eh_submarca(kw),
             "trend": json.dumps(trend) if trend else "",
         })
 

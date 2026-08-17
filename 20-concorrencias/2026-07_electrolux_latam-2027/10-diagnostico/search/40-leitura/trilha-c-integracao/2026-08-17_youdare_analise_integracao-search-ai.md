@@ -84,14 +84,14 @@ contra o que a trilha B mostrou, ela vira uma leitura temporal.
 | Manual e uso | 23.170 | 69% |
 | Peça | 54.550 | 47% |
 | Especificação de produto | 2.133.720 | 28% |
-| Marca e navegação | 1.146.110 | 20% |
+| Marca e navegação | 1.145.720 | 20% |
 | Assistência técnica | 41.510 | 9% |
-| **Frente nomeada** | 3.330 | **0%** |
+| Receita | 3.010 | **0%** |
 
 | Agregado | Volume | Com AI Overview |
 |---|---:|---:|
-| **Famílias de posse** | 478.460 | **40%** |
-| Demais famílias | 12.598.390 | 26% |
+| **Famílias de posse** | 490.950 | **41%** |
+| Demais famílias | 12.585.900 | 26% |
 | **Electrolux, todas as famílias** | 711.670 | **14%** |
 
 **O território que a marca não ocupa é justamente onde o Google já está mediando a resposta.**
@@ -110,8 +110,9 @@ tem 711 mil buscas e hoje controla o resultado com 14% de mediação —, **a ma
 ser intermediada em terreno que hoje domina.** E terá chegado lá sem ter construído autoridade
 no território onde a mediação já é regra.
 
-A exceção que confirma: `frente nomeada` tem **0% de AI Overview**. As frentes que a marca
-criou não são mediadas por IA porque quase não têm demanda — não há o que resumir.
+A exceção que confirma: as frentes nomeadas da marca — lidas como conjunto, não como família,
+porque cada uma pertence à necessidade que atende — têm **0% de AI Overview**. Não são mediadas
+por IA porque quase não têm demanda: não há o que resumir.
 
 ---
 
@@ -122,8 +123,10 @@ criou não são mediadas por IA porque quase não têm demanda — não há o qu
 2. **Conteúdo de manutenção, uso e receita.** As duas maiores famílias de posse em volume de IA
    (410 mil e 344 mil) são exatamente aquelas em que a cobertura da marca é zero. Em busca, as
    mesmas famílias estão no território sem dono.
-3. **As frentes nomeadas.** Caem em busca (inclinação 0,75, a série que mais cai da marca), não
-   aparecem em IA, e têm 0% de mediação. Estrutura criada, demanda não construída.
+3. **As frentes nomeadas.** Caem em busca (inclinação 0,86 no conjunto), não aparecem em IA, e
+   têm 0% de mediação. Estrutura criada, demanda não construída. E a comparação que fecha o
+   ponto: `eletrolux cuida` tem 390 buscas/mês contra 5.400 de `assistência técnica
+   electrolux` — a mesma necessidade, uma digitada pelo nome comercial e a outra pela coisa.
 4. **Sentimento.** A marca aparece mais e é falada pior que os dois concorrentes diretos. É
    problema de conteúdo da menção, e nenhuma quantidade de presença adicional resolve.
 
