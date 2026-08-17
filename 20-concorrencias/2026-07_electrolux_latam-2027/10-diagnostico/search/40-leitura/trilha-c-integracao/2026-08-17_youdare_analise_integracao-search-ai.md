@@ -3,6 +3,12 @@
 **M1 × P4.** *A pergunta: o que as duas leituras, construídas separadamente, dizem juntas — e o
 que só aparece quando elas se encontram?*
 
+> **Revisão de base.** As leituras de IA deste documento usam o universo de 2.324 tópicos
+> disponível quando ele foi fechado. Com a base ampliada para 3.056 tópicos, a soma dos momentos
+> de posse em IA passa de **8,4% para 13,8%** e a cobertura por marca ganhou medida própria. As
+> convergências e divergências descritas aqui se mantêm em direção; os percentuais de IA devem
+> ser lidos na versão do panorama.
+
 Insumos: `trilha-a-search/` e `trilha-b-ai/`, ambas fechadas antes desta leitura e sem consulta
 uma à outra. É essa independência que dá valor tanto às convergências quanto às divergências
 abaixo.
@@ -13,8 +19,8 @@ abaixo.
 
 **A posse é o vão, e as duas fontes o encontram sozinhas.**
 
-Em busca, a Electrolux tem 4,4% da demanda em vida com o produto, contra 8,1% da Consul — metade,
-apesar de posicionamento superior. Em IA, a cobertura da marca é **zero** nas perguntas de
+Em busca, a Electrolux tem 4,5% da demanda em vida com o produto, contra 8,1% da Consul — metade,
+apesar de posicionamento superior. Em IA, a marca não é citada em nenhuma das perguntas de
 manutenção e cuidado, onde Consul e Brastemp aparecem com 25% cada.
 
 Duas metodologias diferentes, dois recortes diferentes, mesmo diagnóstico: **a marca é forte
@@ -38,9 +44,9 @@ de 207.600 buscas mensais que nenhum player reivindica, e ele é 100% posse.
 
 | | Busca | IA |
 |---|---|---|
-| Posição relativa | 3ª em volume, **share de demanda parado** (0,99) | **1ª em cobertura** (33%), à frente de Consul e Brastemp |
+| Posição relativa | 3ª em volume, **share de demanda parado** (0,99) | **1ª em cobertura** (5,69% do total) e **1ª em citação** (33% das 150 perguntas) |
 | Trajetória | não ganha share; Hisense e Haier é que crescem | **share de tráfego sobe de 39,9% para 46,0%** |
-| Maturidade de jornada | atrás da Consul em posse | melhor cobertura da categoria |
+| Maturidade de jornada | atrás da Consul em posse | cobre 25,3% da descoberta e só 1,2% da escolha |
 
 **A marca está melhor posicionada no canal novo do que no canal maduro.** Isso não é
 contradição entre as fontes — é informação sobre como os dois canais funcionam. A busca
@@ -121,7 +127,7 @@ por IA porque quase não têm demanda: não há o que resumir.
 1. **Posse.** Convergente nas duas fontes. Metade da Consul em busca, zero em manutenção nas
    respostas de IA. É a lacuna central e não depende de hipótese.
 2. **Conteúdo de manutenção, uso e receita.** As duas maiores famílias de posse em volume de IA
-   (410 mil e 344 mil) são exatamente aquelas em que a cobertura da marca é zero. Em busca, as
+   (410 mil e 344 mil) são exatamente aquelas em que a marca não é citada. Em busca, as
    mesmas famílias estão no território sem dono.
 3. **As frentes nomeadas.** Caem em busca (inclinação 0,86 no conjunto), não aparecem em IA, e
    têm 0% de mediação. Estrutura criada, demanda não construída. E a comparação que fecha o
@@ -132,10 +138,10 @@ por IA porque quase não têm demanda: não há o que resumir.
 
 ## 5. As oportunidades
 
-1. **A janela de antecipação.** 14% de mediação nas consultas da marca contra 40% nas de posse:
+1. **A janela de antecipação.** 14% de mediação nas consultas da marca contra 41% nas de posse:
    há tempo para construir autoridade no território mediado antes que a mediação chegue ao
    território próprio. É a oportunidade mais perecível do conjunto.
-2. **Reforçar onde já se ganha.** A marca lidera cobertura em IA e ganha share de tráfego num
+2. **Reforçar onde já se ganha.** A marca lidera a cobertura em IA e ganha share de tráfego num
    canal que cresceu 5,4x. Consolidar deliberadamente uma vantagem que hoje é involuntária.
 3. **Receita como porta de entrada de IA.** O briefing nomeia receita como ponto de entrada; o
    dado diz que essa porta é de assistente. Território com volume alto e **zero ocupação por

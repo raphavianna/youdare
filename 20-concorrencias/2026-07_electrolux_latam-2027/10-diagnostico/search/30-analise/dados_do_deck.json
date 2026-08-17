@@ -4094,7 +4094,25 @@
       "descoberta"
      ]
     ],
-    "nome": "Electrolux"
+    "nome": "Electrolux",
+    "por_estagio": {
+     "exploracao de categoria": {
+      "volume": 749384,
+      "pct": 6.68
+     },
+     "descoberta": {
+      "volume": 400659,
+      "pct": 25.28
+     },
+     "escolha": {
+      "volume": 80393,
+      "pct": 1.2
+     },
+     "posse": {
+      "volume": 56251,
+      "pct": 1.81
+     }
+    }
    },
    "brastemp": {
     "topicos": 112,
@@ -4127,7 +4145,25 @@
       "descoberta"
      ]
     ],
-    "nome": "Brastemp"
+    "nome": "Brastemp",
+    "por_estagio": {
+     "exploracao de categoria": {
+      "volume": 232006,
+      "pct": 2.07
+     },
+     "descoberta": {
+      "volume": 67976,
+      "pct": 4.29
+     },
+     "escolha": {
+      "volume": 96199,
+      "pct": 1.44
+     },
+     "posse": {
+      "volume": 35138,
+      "pct": 1.13
+     }
+    }
    },
    "consul": {
     "topicos": 75,
@@ -4160,7 +4196,25 @@
       "exploracao de categoria"
      ]
     ],
-    "nome": "Consul"
+    "nome": "Consul",
+    "por_estagio": {
+     "exploracao de categoria": {
+      "volume": 94883,
+      "pct": 0.85
+     },
+     "descoberta": {
+      "volume": 74539,
+      "pct": 4.7
+     },
+     "escolha": {
+      "volume": 53553,
+      "pct": 0.8
+     },
+     "posse": {
+      "volume": 42038,
+      "pct": 1.35
+     }
+    }
    },
    "samsung": {
     "topicos": 39,
@@ -4193,7 +4247,25 @@
       "exploracao de categoria"
      ]
     ],
-    "nome": "Samsung"
+    "nome": "Samsung",
+    "por_estagio": {
+     "exploracao de categoria": {
+      "volume": 154112,
+      "pct": 1.37
+     },
+     "descoberta": {
+      "volume": 18376,
+      "pct": 1.16
+     },
+     "escolha": {
+      "volume": 20460,
+      "pct": 0.31
+     },
+     "posse": {
+      "volume": 99412,
+      "pct": 3.19
+     }
+    }
    },
    "midea": {
     "topicos": 49,
@@ -4226,7 +4298,25 @@
       "descoberta"
      ]
     ],
-    "nome": "Midea"
+    "nome": "Midea",
+    "por_estagio": {
+     "exploracao de categoria": {
+      "volume": 274322,
+      "pct": 2.44
+     },
+     "descoberta": {
+      "volume": 27430,
+      "pct": 1.73
+     },
+     "escolha": {
+      "volume": 44575,
+      "pct": 0.67
+     },
+     "posse": {
+      "volume": 7959,
+      "pct": 0.26
+     }
+    }
    },
    "hisense": {
     "topicos": 8,
@@ -4259,7 +4349,25 @@
       "escolha"
      ]
     ],
-    "nome": "Hisense"
+    "nome": "Hisense",
+    "por_estagio": {
+     "exploracao de categoria": {
+      "volume": 56058,
+      "pct": 0.5
+     },
+     "descoberta": {
+      "volume": 0,
+      "pct": 0.0
+     },
+     "escolha": {
+      "volume": 1321,
+      "pct": 0.02
+     },
+     "posse": {
+      "volume": 0,
+      "pct": 0.0
+     }
+    }
    },
    "haier": {
     "topicos": 2,
@@ -4277,7 +4385,25 @@
       "exploracao de categoria"
      ]
     ],
-    "nome": "Haier"
+    "nome": "Haier",
+    "por_estagio": {
+     "exploracao de categoria": {
+      "volume": 676,
+      "pct": 0.01
+     },
+     "descoberta": {
+      "volume": 2318,
+      "pct": 0.15
+     },
+     "escolha": {
+      "volume": 0,
+      "pct": 0.0
+     },
+     "posse": {
+      "volume": 0,
+      "pct": 0.0
+     }
+    }
    },
    "outras_marcas": {
     "topicos": 308,
@@ -5191,16 +5317,6 @@
     ]
    ],
    "marca_por_familia": {
-    "consumo e energia": {
-     "n": 76,
-     "com_marca": 11.8,
-     "sem_marca": 88.2
-    },
-    "peca e filtro": {
-     "n": 34,
-     "com_marca": 8.8,
-     "sem_marca": 91.2
-    },
     "comparacao e modelo": {
      "n": 189,
      "com_marca": 22.2,
@@ -5211,10 +5327,20 @@
      "com_marca": 21.2,
      "sem_marca": 78.8
     },
+    "peca e filtro": {
+     "n": 34,
+     "com_marca": 8.8,
+     "sem_marca": 91.2
+    },
     "preco e compra": {
      "n": 235,
      "com_marca": 33.2,
      "sem_marca": 66.8
+    },
+    "consumo e energia": {
+     "n": 76,
+     "com_marca": 11.8,
+     "sem_marca": 88.2
     }
    },
    "marca_por_familia_contaminado": {
@@ -5223,20 +5349,35 @@
      "com_marca": 85.7,
      "sem_marca": 14.3
     },
-    "consumo e energia": {
-     "n": 184,
-     "com_marca": 62.0,
-     "sem_marca": 38.0
+    "comparacao e modelo": {
+     "n": 444,
+     "com_marca": 58.6,
+     "sem_marca": 41.4
+    },
+    "produto e categoria": {
+     "n": 1530,
+     "com_marca": 79.3,
+     "sem_marca": 20.7
     },
     "peca e filtro": {
      "n": 90,
      "com_marca": 63.3,
      "sem_marca": 36.7
     },
-    "comparacao e modelo": {
-     "n": 444,
-     "com_marca": 58.6,
-     "sem_marca": 41.4
+    "preco e compra": {
+     "n": 373,
+     "com_marca": 54.7,
+     "sem_marca": 45.3
+    },
+    "consumo e energia": {
+     "n": 184,
+     "com_marca": 62.0,
+     "sem_marca": 38.0
+    },
+    "marca e loja": {
+     "n": 28,
+     "com_marca": 50.0,
+     "sem_marca": 50.0
     },
     "instalacao": {
      "n": 36,
@@ -5248,64 +5389,15 @@
      "com_marca": 68.0,
      "sem_marca": 32.0
     },
-    "produto e categoria": {
-     "n": 1530,
-     "com_marca": 79.3,
-     "sem_marca": 20.7
-    },
-    "marca e loja": {
-     "n": 28,
-     "com_marca": 50.0,
-     "sem_marca": 50.0
-    },
     "assistencia e conserto": {
      "n": 26,
      "com_marca": 80.8,
      "sem_marca": 19.2
-    },
-    "preco e compra": {
-     "n": 373,
-     "com_marca": 54.7,
-     "sem_marca": 45.3
     }
    },
    "n_limpo": 943,
    "taxa_marca_geral": 23.6,
    "exemplos_limpos": {
-    "consumo e energia": [
-     [
-      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
-      "gemini",
-      ""
-     ],
-     [
-      "geladeiras inverter inox",
-      "google_ai_overview",
-      "electrolux|brastemp|midea"
-     ],
-     [
-      "Como comparar preços e consumo entre geladeiras com freezer embaixo e modelos tradicionais?",
-      "chatgpt",
-      ""
-     ]
-    ],
-    "peca e filtro": [
-     [
-      "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
-      "gemini",
-      ""
-     ],
-     [
-      "Como escolher peças compatíveis com meu modelo de geladeira ao comprar pela internet?",
-      "gemini",
-      ""
-     ],
-     [
-      "Peças de Geladeira",
-      "chatgpt",
-      ""
-     ]
-    ],
     "comparacao e modelo": [
      [
       "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
@@ -5340,6 +5432,23 @@
       ""
      ]
     ],
+    "peca e filtro": [
+     [
+      "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
+      "gemini",
+      ""
+     ],
+     [
+      "Como escolher peças compatíveis com meu modelo de geladeira ao comprar pela internet?",
+      "gemini",
+      ""
+     ],
+     [
+      "Peças de Geladeira",
+      "chatgpt",
+      ""
+     ]
+    ],
     "preco e compra": [
      [
       "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
@@ -5354,6 +5463,23 @@
      [
       "Quais são as melhores opções de geladeira para famílias de 4 a 5 pessoas dentro de faixas de preço comuns no varejo online?",
       "gemini",
+      ""
+     ]
+    ],
+    "consumo e energia": [
+     [
+      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
+      "gemini",
+      ""
+     ],
+     [
+      "geladeiras inverter inox",
+      "google_ai_overview",
+      "electrolux|brastemp|midea"
+     ],
+     [
+      "Como comparar preços e consumo entre geladeiras com freezer embaixo e modelos tradicionais?",
+      "chatgpt",
       ""
      ]
     ]

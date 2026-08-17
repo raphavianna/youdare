@@ -254,8 +254,21 @@ def bloco(rows):
     return {"topicos": len(rows), "volume": v, "pct": round(100*v/VT, 2),
             "exemplos": [[r["topico"], i(r["volume"]), r["estagio"]]
                          for r in sorted(rows, key=lambda r: -i(r["volume"]))[:5]]}
+EST_LISTA = ["exploracao de categoria", "descoberta", "escolha", "posse"]
+VOL_EST = {e: sum(i(r["volume"]) for r in CATBR if r["estagio"] == e) for e in EST_LISTA}
+
+def por_estagio(rows):
+    """cobertura da marca dentro de cada estagio, sempre sobre o total daquele estagio"""
+    d = {}
+    for e in EST_LISTA:
+        v = sum(i(r["volume"]) for r in rows if r["estagio"] == e)
+        d[e] = {"volume": v, "pct": round(100*v/VOL_EST[e], 2) if VOL_EST[e] else 0}
+    return d
+
 pan["cobertura_nome"] = {m: dict(bloco([r for r in CATBR if m in r["marcas_nucleo"].split("|")]),
-                                 nome=NOMES[m]) for m in NUC}
+                                 nome=NOMES[m],
+                                 por_estagio=por_estagio([r for r in CATBR if m in r["marcas_nucleo"].split("|")]))
+                         for m in NUC}
 pan["cobertura_nome"]["outras_marcas"] = dict(
     bloco([r for r in CATBR if r["eh_branded"] == "1" and not r["marcas_nucleo"]]), nome="Outras marcas")
 pan["sem_marca"] = dict(bloco([r for r in CATBR if r["eh_branded"] == "0"]), nome="Sem marca nenhuma")

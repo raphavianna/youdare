@@ -52,6 +52,8 @@ h2{font-family:'Zodiak',Georgia,serif;font-weight:400;line-height:1.06;
   background:color-mix(in srgb,var(--ia) 12%,transparent)}
 .b-ambos{color:var(--ambos);border-color:color-mix(in srgb,var(--ambos) 45%,transparent);
   background:color-mix(in srgb,var(--ambos) 12%,transparent)}
+/* slide que nao vem de busca nem de IA: contexto declarado pelo cliente */
+.b-briefing{color:var(--ink-3);border-color:var(--hair);border-style:dashed}
 
 /* === CAPA E DIVISOR === */
 .capa .slide-inner,.divisor .slide-inner{gap:clamp(.6rem,1.9vh,1.6rem)}
@@ -169,6 +171,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
 .chip.e-escolha{border-left-color:#c98500}
 .chip.e-posse{border-left-color:#7d5300}
 .chip.e-sem_marca{border-left-color:#f7e3b8}
+.th2{display:block;font-weight:400;text-transform:none;letter-spacing:0;color:var(--ink-3);font-size:.86em;margin-top:.15em}
 .mini{font-size:clamp(.56rem,.78vw,.72rem);color:var(--ink-3);margin-top:.5em}
 /* sintese executiva: abre um bloco dizendo o que ele decide */
 .sintese{display:grid;grid-template-columns:repeat(auto-fit,minmax(0,1fr));gap:clamp(.5rem,1.5vw,1.4rem)}
@@ -213,7 +216,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
-      <div class="s-top"><span class="kicker">Objetivo do briefing</span><span class="badge b-ambos">Search + IA</span></div>
+      <div class="s-top"><span class="kicker">Objetivo do briefing</span><span class="badge b-briefing">Briefing</span></div>
       <h2>Converter reconhecimento de marca em intenção de compra no momento da decisão</h2>
       <p class="subt">O briefing aponta um vão entre awareness e consideração. Busca e IA são as fontes que enxergam o momento da decisão em escala.</p>
     </header>
@@ -438,9 +441,9 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
-      <div class="s-top"><span class="kicker">Brastemp</span><span class="badge b-ambos">Search + IA</span></div>
+      <div class="s-top"><span class="kicker">Brastemp</span><span class="badge b-search">Search</span></div>
       <h2>Brastemp tem a maior base de demanda e é quem mais perde share</h2>
-      <p class="subt">Composição da jornada, categorias e presença em IA. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca, para situar o que cada estágio significa em termos reais.</p>
+      <p class="subt">Composição da jornada, categorias e evolução da demanda de busca. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca, para situar o que cada estágio significa em termos reais.</p>
     </header>
     <div class="s-body"><div class="col2"><div><div class="be"><div class="be-row"><span class="be-lab">Jornada</span>
           <span class="be-track"><span class="be-seg" style="width:17.90%;background:#f2c777;color:#141412" title="Descoberta: 17,9%"><b>17,9%</b></span><span class="be-seg" style="width:21.50%;background:#c98500;color:#f4f1e8" title="Escolha: 21,5%"><b>21,5%</b></span><span class="be-seg" style="width:3.50%;background:#7d5300;color:#f4f1e8" title="Posse: 3,5%"></span><span class="be-seg" style="width:57.10%;background:#2e2e2b;color:#f4f1e8" title="Não class.: 57,1%"><b>57,1%</b></span></span><span class="be-extra"></span></div></div><div class="legenda"><span><i style="background:#f2c777"></i>Descoberta</span><span><i style="background:#c98500"></i>Escolha</span><span><i style="background:#7d5300"></i>Posse</span><span><i style="background:#2e2e2b"></i>Não class.</span></div><div class="bh"><div class="bh-row"><span class="bh-lab">Sem categoria declarada</span>
@@ -455,17 +458,17 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
           <span class="bh-track"><span class="bh-fill" style="width:15.24%;background:#d95926"></span></span>
           <span class="bh-val">4,1%</span></div><div class="bh-row"><span class="bh-lab">Purificador</span>
           <span class="bh-track"><span class="bh-fill" style="width:3.35%;background:#d95926"></span></span>
-          <span class="bh-val">0,9%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#d95926">22%</span><span class="kl">das 150 perguntas citam a marca</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">2,4</span><span class="kl">posição média na resposta</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">67,4</span><span class="kl">sentimento médio</span></div></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#d95926">2.949.270</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">0,86</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">102</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:65%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:70%;background:#199e70" title="set: 103"></span><span class="sb" style="height:68%;background:#199e70" title="out: 102"></span><span class="sb" style="height:68%;background:#199e70" title="nov: 102"></span><span class="sb" style="height:48%;background:#d95926" title="dez: 88"></span><span class="sb" style="height:55%;background:#d95926" title="jan: 92"></span><span class="sb" style="height:51%;background:#d95926" title="fev: 90"></span><span class="sb" style="height:18%;background:#d95926" title="mar: 67"></span><span class="sb" style="height:37%;background:#d95926" title="abr: 80"></span><span class="sb" style="height:40%;background:#d95926" title="mai: 82"></span><span class="sb" style="height:43%;background:#d95926" title="jun: 84"></span><span class="sb" style="height:69%;background:#199e70" title="jul: 102"></span></span></div></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>brastemp</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>geladeira brastemp frost free</code></span><span class="chip e-posse"><b>3 · Posse · Assistência e reparo</b><code>assistencia tecnica brastemp</code></span></div></div>
+          <span class="bh-val">0,9%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#d95926">2.949.270</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">0,86</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">102</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:65%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:70%;background:#199e70" title="set: 103"></span><span class="sb" style="height:68%;background:#199e70" title="out: 102"></span><span class="sb" style="height:68%;background:#199e70" title="nov: 102"></span><span class="sb" style="height:48%;background:#d95926" title="dez: 88"></span><span class="sb" style="height:55%;background:#d95926" title="jan: 92"></span><span class="sb" style="height:51%;background:#d95926" title="fev: 90"></span><span class="sb" style="height:18%;background:#d95926" title="mar: 67"></span><span class="sb" style="height:37%;background:#d95926" title="abr: 80"></span><span class="sb" style="height:40%;background:#d95926" title="mai: 82"></span><span class="sb" style="height:43%;background:#d95926" title="jun: 84"></span><span class="sb" style="height:69%;background:#199e70" title="jul: 102"></span></span></div><table class="tb "><thead><tr><th>Maiores consultas da marca</th><th>Buscas/mês</th></tr></thead><tbody><tr><td>brastemp</td><td><b>201.000</b></td></tr><tr><td>geladeira brastemp</td><td><b>201.000</b></td></tr><tr><td>geladeira brastemp frost free</td><td><b>49.500</b></td></tr><tr><td>maquina de lavar brastemp</td><td><b>40.500</b></td></tr><tr><td>brastemp geladeira</td><td><b>27.100</b></td></tr></tbody></table></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>brastemp</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>geladeira brastemp frost free</code></span><span class="chip e-posse"><b>3 · Posse · Assistência e reparo</b><code>assistencia tecnica brastemp</code></span></div></div>
     <p class="leitura">Índice 0,86 contra a categoria: 14% de share de demanda perdido em doze meses.</p>
-    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26 · Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
+    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
   </div>
 </section>
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
-      <div class="s-top"><span class="kicker">Consul</span><span class="badge b-ambos">Search + IA</span></div>
+      <div class="s-top"><span class="kicker">Consul</span><span class="badge b-search">Search</span></div>
       <h2>Consul é a única que converteu base instalada em demanda de posse</h2>
-      <p class="subt">Composição da jornada, categorias e presença em IA. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca, para situar o que cada estágio significa em termos reais.</p>
+      <p class="subt">Composição da jornada, categorias e evolução da demanda de busca. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca, para situar o que cada estágio significa em termos reais.</p>
     </header>
     <div class="s-body"><div class="col2"><div><div class="be"><div class="be-row"><span class="be-lab">Jornada</span>
           <span class="be-track"><span class="be-seg" style="width:15.08%;background:#f2c777;color:#141412" title="Descoberta: 15,1%"><b>15,1%</b></span><span class="be-seg" style="width:26.07%;background:#c98500;color:#f4f1e8" title="Escolha: 26,1%"><b>26,1%</b></span><span class="be-seg" style="width:8.09%;background:#7d5300;color:#f4f1e8" title="Posse: 8,1%"><b>8,1%</b></span><span class="be-seg" style="width:50.75%;background:#2e2e2b;color:#f4f1e8" title="Não class.: 50,8%"><b>50,8%</b></span></span><span class="be-extra"></span></div></div><div class="legenda"><span><i style="background:#f2c777"></i>Descoberta</span><span><i style="background:#c98500"></i>Escolha</span><span><i style="background:#7d5300"></i>Posse</span><span><i style="background:#2e2e2b"></i>Não class.</span></div><div class="bh"><div class="bh-row"><span class="bh-lab">Geladeira</span>
@@ -480,32 +483,32 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
           <span class="bh-track"><span class="bh-fill" style="width:20.61%;background:#199e70"></span></span>
           <span class="bh-val">6,8%</span></div><div class="bh-row"><span class="bh-lab">Purificador</span>
           <span class="bh-track"><span class="bh-fill" style="width:16.06%;background:#199e70"></span></span>
-          <span class="bh-val">5,3%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#199e70">28%</span><span class="kl">das 150 perguntas citam a marca</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">3,0</span><span class="kl">posição média na resposta</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">70,5</span><span class="kl">sentimento médio</span></div></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#199e70">1.483.110</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">0,97</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">113</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:46%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:43%;background:#d95926" title="set: 99"></span><span class="sb" style="height:46%;background:#199e70" title="out: 100"></span><span class="sb" style="height:54%;background:#199e70" title="nov: 104"></span><span class="sb" style="height:42%;background:#d95926" title="dez: 98"></span><span class="sb" style="height:40%;background:#d95926" title="jan: 97"></span><span class="sb" style="height:33%;background:#d95926" title="fev: 93"></span><span class="sb" style="height:18%;background:#d95926" title="mar: 86"></span><span class="sb" style="height:29%;background:#d95926" title="abr: 91"></span><span class="sb" style="height:35%;background:#d95926" title="mai: 95"></span><span class="sb" style="height:31%;background:#d95926" title="jun: 93"></span><span class="sb" style="height:70%;background:#199e70" title="jul: 113"></span></span></div></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>consul</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>geladeira consul frost free</code></span><span class="chip e-posse"><b>3 · Posse · Peça e consumível</b><code>filtro consul</code></span></div></div>
-    <p class="leitura">8,1% em posse — o dobro da Electrolux. E é a única, com a Brastemp, a aparecer nas perguntas de manutenção feitas à IA.</p>
-    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26 · Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
+          <span class="bh-val">5,3%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#199e70">1.483.110</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">0,97</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">113</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:46%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:43%;background:#d95926" title="set: 99"></span><span class="sb" style="height:46%;background:#199e70" title="out: 100"></span><span class="sb" style="height:54%;background:#199e70" title="nov: 104"></span><span class="sb" style="height:42%;background:#d95926" title="dez: 98"></span><span class="sb" style="height:40%;background:#d95926" title="jan: 97"></span><span class="sb" style="height:33%;background:#d95926" title="fev: 93"></span><span class="sb" style="height:18%;background:#d95926" title="mar: 86"></span><span class="sb" style="height:29%;background:#d95926" title="abr: 91"></span><span class="sb" style="height:35%;background:#d95926" title="mai: 95"></span><span class="sb" style="height:31%;background:#d95926" title="jun: 93"></span><span class="sb" style="height:70%;background:#199e70" title="jul: 113"></span></span></div><table class="tb "><thead><tr><th>Maiores consultas da marca</th><th>Buscas/mês</th></tr></thead><tbody><tr><td>consul</td><td><b>110.000</b></td></tr><tr><td>geladeira consul</td><td><b>110.000</b></td></tr><tr><td>cervejeira consul</td><td><b>49.500</b></td></tr><tr><td>geladeira consul frost free</td><td><b>40.500</b></td></tr><tr><td>consul geladeira</td><td><b>14.800</b></td></tr></tbody></table></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>consul</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>geladeira consul frost free</code></span><span class="chip e-posse"><b>3 · Posse · Peça e consumível</b><code>filtro consul</code></span></div></div>
+    <p class="leitura">8,1% em posse, quase o dobro da Electrolux e a maior fatia do conjunto.</p>
+    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
   </div>
 </section>
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
-      <div class="s-top"><span class="kicker">Samsung</span><span class="badge b-ambos">Search + IA</span></div>
-      <h2>Samsung perde share e tem o sentimento mais baixo em resposta de IA</h2>
-      <p class="subt">Composição da jornada, categorias e presença em IA. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca, para situar o que cada estágio significa em termos reais.</p>
+      <div class="s-top"><span class="kicker">Samsung</span><span class="badge b-search">Search</span></div>
+      <h2>Samsung é quem mais perde share de demanda no período</h2>
+      <p class="subt">Composição da jornada, categorias e evolução da demanda de busca. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca, para situar o que cada estágio significa em termos reais.</p>
     </header>
     <div class="s-body"><div class="col2"><div><div class="be"><div class="be-row"><span class="be-lab">Jornada</span>
           <span class="be-track"><span class="be-seg" style="width:5.57%;background:#f2c777;color:#141412" title="Descoberta: 5,5%"></span><span class="be-seg" style="width:29.96%;background:#c98500;color:#f4f1e8" title="Escolha: 29,6%"><b>29,6%</b></span><span class="be-seg" style="width:4.66%;background:#7d5300;color:#f4f1e8" title="Posse: 4,6%"></span><span class="be-seg" style="width:59.82%;background:#2e2e2b;color:#f4f1e8" title="Não class.: 59,1%"><b>59,1%</b></span></span><span class="be-extra"></span></div></div><div class="legenda"><span><i style="background:#f2c777"></i>Descoberta</span><span><i style="background:#c98500"></i>Escolha</span><span><i style="background:#7d5300"></i>Posse</span><span><i style="background:#2e2e2b"></i>Não class.</span></div><div class="bh"><div class="bh-row"><span class="bh-lab">Geladeira</span>
           <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#c98500"></span></span>
-          <span class="bh-val">100,0%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#c98500">13%</span><span class="kl">das 150 perguntas citam a marca</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">3,4</span><span class="kl">posição média na resposta</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">46,3</span><span class="kl">sentimento médio</span></div></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#c98500">125.460</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">0,85</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">101</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:53%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:70%;background:#199e70" title="set: 113"></span><span class="sb" style="height:68%;background:#199e70" title="out: 111"></span><span class="sb" style="height:63%;background:#199e70" title="nov: 108"></span><span class="sb" style="height:53%;background:#199e70" title="dez: 100"></span><span class="sb" style="height:53%;background:#199e70" title="jan: 101"></span><span class="sb" style="height:57%;background:#199e70" title="fev: 103"></span><span class="sb" style="height:18%;background:#d95926" title="mar: 74"></span><span class="sb" style="height:44%;background:#d95926" title="abr: 94"></span><span class="sb" style="height:37%;background:#d95926" title="mai: 88"></span><span class="sb" style="height:43%;background:#d95926" title="jun: 92"></span><span class="sb" style="height:54%;background:#199e70" title="jul: 101"></span></span></div></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>samsung geladeira</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>geladeira samsung inverter</code></span><span class="chip e-posse"><b>3 · Posse · Assistência e reparo</b><code>assistencia tecnica geladeira samsung</code></span></div></div>
-    <p class="leitura">Índice 0,85, a maior queda do conjunto, e sentimento 46,3 — o menor entre as cinco marcas cobertas.</p>
-    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26 · Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
+          <span class="bh-val">100,0%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#c98500">125.460</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">0,85</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">101</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:53%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:70%;background:#199e70" title="set: 113"></span><span class="sb" style="height:68%;background:#199e70" title="out: 111"></span><span class="sb" style="height:63%;background:#199e70" title="nov: 108"></span><span class="sb" style="height:53%;background:#199e70" title="dez: 100"></span><span class="sb" style="height:53%;background:#199e70" title="jan: 101"></span><span class="sb" style="height:57%;background:#199e70" title="fev: 103"></span><span class="sb" style="height:18%;background:#d95926" title="mar: 74"></span><span class="sb" style="height:44%;background:#d95926" title="abr: 94"></span><span class="sb" style="height:37%;background:#d95926" title="mai: 88"></span><span class="sb" style="height:43%;background:#d95926" title="jun: 92"></span><span class="sb" style="height:54%;background:#199e70" title="jul: 101"></span></span></div><table class="tb "><thead><tr><th>Maiores consultas da marca</th><th>Buscas/mês</th></tr></thead><tbody><tr><td>geladeira samsung</td><td><b>40.500</b></td></tr><tr><td>geladeira samsung inverter</td><td><b>8.100</b></td></tr><tr><td>geladeira samsung side by side</td><td><b>5.400</b></td></tr><tr><td>geladeira side by side samsung</td><td><b>4.400</b></td></tr><tr><td>samsung geladeira</td><td><b>4.400</b></td></tr></tbody></table></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>samsung geladeira</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>geladeira samsung inverter</code></span><span class="chip e-posse"><b>3 · Posse · Assistência e reparo</b><code>assistencia tecnica geladeira samsung</code></span></div></div>
+    <p class="leitura">Índice 0,85, a maior queda do conjunto. O recorte de origem partiu de consulta de categoria, o que achata a fatia de descoberta.</p>
+    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
   </div>
 </section>
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
-      <div class="s-top"><span class="kicker">Midea</span><span class="badge b-ambos">Search + IA</span></div>
+      <div class="s-top"><span class="kicker">Midea</span><span class="badge b-search">Search</span></div>
       <h2>Midea tem a maior fatia de escolha de produto e nenhuma demanda de posse</h2>
-      <p class="subt">Composição da jornada, categorias e presença em IA. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca, para situar o que cada estágio significa em termos reais.</p>
+      <p class="subt">Composição da jornada, categorias e evolução da demanda de busca. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca, para situar o que cada estágio significa em termos reais.</p>
     </header>
     <div class="s-body"><div class="col2"><div><div class="be"><div class="be-row"><span class="be-lab">Jornada</span>
           <span class="be-track"><span class="be-seg" style="width:24.60%;background:#f2c777;color:#141412" title="Descoberta: 24,6%"><b>24,6%</b></span><span class="be-seg" style="width:30.20%;background:#c98500;color:#f4f1e8" title="Escolha: 30,2%"><b>30,2%</b></span><span class="be-seg" style="width:0.00%;background:#7d5300;color:#f4f1e8" title="Posse: 0,0%"></span><span class="be-seg" style="width:45.20%;background:#2e2e2b;color:#f4f1e8" title="Não class.: 45,2%"><b>45,2%</b></span></span><span class="be-extra"></span></div></div><div class="legenda"><span><i style="background:#f2c777"></i>Descoberta</span><span><i style="background:#c98500"></i>Escolha</span><span><i style="background:#7d5300"></i>Posse</span><span><i style="background:#2e2e2b"></i>Não class.</span></div><div class="bh"><div class="bh-row"><span class="bh-lab">Sem categoria declarada</span>
@@ -520,9 +523,9 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
           <span class="bh-track"><span class="bh-fill" style="width:18.86%;background:#d55181"></span></span>
           <span class="bh-val">5,6%</span></div><div class="bh-row"><span class="bh-lab">Freezer</span>
           <span class="bh-track"><span class="bh-fill" style="width:10.10%;background:#d55181"></span></span>
-          <span class="bh-val">3,0%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#d55181">11%</span><span class="kl">das 150 perguntas citam a marca</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">2,7</span><span class="kl">posição média na resposta</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">63,2</span><span class="kl">sentimento médio</span></div></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#d55181">552.800</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">1,06</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">120</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:18%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:41%;background:#199e70" title="set: 114"></span><span class="sb" style="height:36%;background:#199e70" title="out: 111"></span><span class="sb" style="height:52%;background:#199e70" title="nov: 121"></span><span class="sb" style="height:39%;background:#199e70" title="dez: 113"></span><span class="sb" style="height:44%;background:#199e70" title="jan: 116"></span><span class="sb" style="height:55%;background:#199e70" title="fev: 123"></span><span class="sb" style="height:64%;background:#199e70" title="mar: 129"></span><span class="sb" style="height:70%;background:#199e70" title="abr: 132"></span><span class="sb" style="height:44%;background:#199e70" title="mai: 116"></span><span class="sb" style="height:33%;background:#199e70" title="jun: 109"></span><span class="sb" style="height:51%;background:#199e70" title="jul: 120"></span></span></div></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>midea</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>lava e seca midea</code></span></div></div>
-    <p class="leitura">30,2% em escolha e 0,0% em posse — coerente com base instalada recente.</p>
-    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26 · Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
+          <span class="bh-val">3,0%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#d55181">552.800</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">1,06</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">120</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:18%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:41%;background:#199e70" title="set: 114"></span><span class="sb" style="height:36%;background:#199e70" title="out: 111"></span><span class="sb" style="height:52%;background:#199e70" title="nov: 121"></span><span class="sb" style="height:39%;background:#199e70" title="dez: 113"></span><span class="sb" style="height:44%;background:#199e70" title="jan: 116"></span><span class="sb" style="height:55%;background:#199e70" title="fev: 123"></span><span class="sb" style="height:64%;background:#199e70" title="mar: 129"></span><span class="sb" style="height:70%;background:#199e70" title="abr: 132"></span><span class="sb" style="height:44%;background:#199e70" title="mai: 116"></span><span class="sb" style="height:33%;background:#199e70" title="jun: 109"></span><span class="sb" style="height:51%;background:#199e70" title="jul: 120"></span></span></div><table class="tb "><thead><tr><th>Maiores consultas da marca</th><th>Buscas/mês</th></tr></thead><tbody><tr><td>midea</td><td><b>110.000</b></td></tr><tr><td>geladeira midea</td><td><b>40.500</b></td></tr><tr><td>lava e seca midea</td><td><b>33.100</b></td></tr><tr><td>ar condicionado midea</td><td><b>18.100</b></td></tr><tr><td>frigobar midea</td><td><b>18.100</b></td></tr></tbody></table></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>midea</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>lava e seca midea</code></span></div></div>
+    <p class="leitura">30,2% em escolha e 0,0% em posse, coerente com base instalada recente.</p>
+    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
   </div>
 </section>
 <section class="slide">
@@ -530,7 +533,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
     <header class="s-head">
       <div class="s-top"><span class="kicker">Hisense</span><span class="badge b-search">Search</span></div>
       <h2>Hisense é quem mais ganha share, e a demanda dela é de reputação</h2>
-      <p class="subt">Composição da jornada e categorias; este player não está nas fontes de IA. Os três blocos no rodapé são a consulta que mais pesa em cada estágio desta marca.</p>
+      <p class="subt">Composição da jornada, categorias e evolução da demanda de busca. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca.</p>
     </header>
     <div class="s-body"><div class="col2"><div><div class="be"><div class="be-row"><span class="be-lab">Jornada</span>
           <span class="be-track"><span class="be-seg" style="width:42.28%;background:#f2c777;color:#141412" title="Descoberta: 41,9%"><b>41,9%</b></span><span class="be-seg" style="width:17.15%;background:#c98500;color:#f4f1e8" title="Escolha: 17,0%"><b>17,0%</b></span><span class="be-seg" style="width:2.72%;background:#7d5300;color:#f4f1e8" title="Posse: 2,7%"></span><span class="be-seg" style="width:37.84%;background:#2e2e2b;color:#f4f1e8" title="Não class.: 37,5%"><b>37,5%</b></span></span><span class="be-extra"></span></div></div><div class="legenda"><span><i style="background:#f2c777"></i>Descoberta</span><span><i style="background:#c98500"></i>Escolha</span><span><i style="background:#7d5300"></i>Posse</span><span><i style="background:#2e2e2b"></i>Não class.</span></div><div class="bh"><div class="bh-row"><span class="bh-lab">Sem categoria declarada</span>
@@ -543,7 +546,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
           <span class="bh-track"><span class="bh-fill" style="width:14.99%;background:#008300"></span></span>
           <span class="bh-val">7,3%</span></div><div class="bh-row"><span class="bh-lab">Tv e outros</span>
           <span class="bh-track"><span class="bh-fill" style="width:3.90%;background:#008300"></span></span>
-          <span class="bh-val">1,9%</span></div></div></div><div><div class="sem-cob"><span class="sc-x">—</span><b>Não aparece nas respostas de IA</b><span>Este player não aparece nas respostas nem no tráfego de LLM medidos</span></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#008300">172.660</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">1,40</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">205</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:18%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:47%;background:#199e70" title="set: 233"></span><span class="sb" style="height:34%;background:#199e70" title="out: 175"></span><span class="sb" style="height:31%;background:#199e70" title="nov: 161"></span><span class="sb" style="height:31%;background:#199e70" title="dez: 162"></span><span class="sb" style="height:37%;background:#199e70" title="jan: 188"></span><span class="sb" style="height:47%;background:#199e70" title="fev: 236"></span><span class="sb" style="height:70%;background:#199e70" title="mar: 342"></span><span class="sb" style="height:68%;background:#199e70" title="abr: 335"></span><span class="sb" style="height:39%;background:#199e70" title="mai: 199"></span><span class="sb" style="height:35%;background:#199e70" title="jun: 178"></span><span class="sb" style="height:40%;background:#199e70" title="jul: 205"></span></span></div></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>hisense</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>lava e seca hisense</code></span><span class="chip e-posse"><b>3 · Posse · Consumo</b><code>consumo ar condicionado hisense portatil 12000 btus</code></span></div></div>
+          <span class="bh-val">1,9%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#008300">172.660</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">1,40</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">205</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:18%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:47%;background:#199e70" title="set: 233"></span><span class="sb" style="height:34%;background:#199e70" title="out: 175"></span><span class="sb" style="height:31%;background:#199e70" title="nov: 161"></span><span class="sb" style="height:31%;background:#199e70" title="dez: 162"></span><span class="sb" style="height:37%;background:#199e70" title="jan: 188"></span><span class="sb" style="height:47%;background:#199e70" title="fev: 236"></span><span class="sb" style="height:70%;background:#199e70" title="mar: 342"></span><span class="sb" style="height:68%;background:#199e70" title="abr: 335"></span><span class="sb" style="height:39%;background:#199e70" title="mai: 199"></span><span class="sb" style="height:35%;background:#199e70" title="jun: 178"></span><span class="sb" style="height:40%;background:#199e70" title="jul: 205"></span></span></div><table class="tb "><thead><tr><th>Maiores consultas da marca</th><th>Buscas/mês</th></tr></thead><tbody><tr><td>hisense</td><td><b>33.100</b></td></tr><tr><td>ar condicionado hisense</td><td><b>9.900</b></td></tr><tr><td>geladeira hisense</td><td><b>5.400</b></td></tr><tr><td>hisense é boa</td><td><b>5.400</b></td></tr><tr><td>ar condicionado hisense é bom</td><td><b>4.400</b></td></tr></tbody></table></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>hisense</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>lava e seca hisense</code></span><span class="chip e-posse"><b>3 · Posse · Consumo</b><code>consumo ar condicionado hisense portatil 12000 btus</code></span></div></div>
     <p class="leitura">Índice 1,40, o maior movimento do conjunto. <code>hisense é boa</code> está entre as cinco maiores consultas da marca — demanda de reputação, não de produto.</p>
     <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
   </div>
@@ -553,7 +556,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
     <header class="s-head">
       <div class="s-top"><span class="kicker">Haier</span><span class="badge b-search">Search</span></div>
       <h2>Haier está no estágio mais inicial possível de formação de demanda</h2>
-      <p class="subt">Composição da jornada e categorias; este player não está nas fontes de IA. Os três blocos no rodapé são a consulta que mais pesa em cada estágio desta marca.</p>
+      <p class="subt">Composição da jornada, categorias e evolução da demanda de busca. Os três blocos no rodapé trazem a consulta que mais pesa em cada estágio desta marca.</p>
     </header>
     <div class="s-body"><div class="col2"><div><div class="be"><div class="be-row"><span class="be-lab">Jornada</span>
           <span class="be-track"><span class="be-seg" style="width:62.10%;background:#f2c777;color:#141412" title="Descoberta: 62,1%"><b>62,1%</b></span><span class="be-seg" style="width:2.90%;background:#c98500;color:#f4f1e8" title="Escolha: 2,9%"></span><span class="be-seg" style="width:1.30%;background:#7d5300;color:#f4f1e8" title="Posse: 1,3%"></span><span class="be-seg" style="width:33.70%;background:#2e2e2b;color:#f4f1e8" title="Não class.: 33,7%"><b>33,7%</b></span></span><span class="be-extra"></span></div></div><div class="legenda"><span><i style="background:#f2c777"></i>Descoberta</span><span><i style="background:#c98500"></i>Escolha</span><span><i style="background:#7d5300"></i>Posse</span><span><i style="background:#2e2e2b"></i>Não class.</span></div><div class="bh"><div class="bh-row"><span class="bh-lab">Sem categoria declarada</span>
@@ -566,7 +569,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
           <span class="bh-track"><span class="bh-fill" style="width:5.47%;background:#e66767"></span></span>
           <span class="bh-val">3,1%</span></div><div class="bh-row"><span class="bh-lab">Geladeira</span>
           <span class="bh-track"><span class="bh-fill" style="width:3.53%;background:#e66767"></span></span>
-          <span class="bh-val">2,0%</span></div></div></div><div><div class="sem-cob"><span class="sc-x">—</span><b>Não aparece nas respostas de IA</b><span>Este player não aparece nas respostas nem no tráfego de LLM medidos</span></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#e66767">4.480</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">1,36</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">164</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:28%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:70%;background:#199e70" title="set: 230"></span><span class="sb" style="height:19%;background:#d95926" title="out: 72"></span><span class="sb" style="height:23%;background:#d95926" title="nov: 85"></span><span class="sb" style="height:22%;background:#d95926" title="dez: 83"></span><span class="sb" style="height:33%;background:#199e70" title="jan: 115"></span><span class="sb" style="height:18%;background:#d95926" title="fev: 70"></span><span class="sb" style="height:44%;background:#199e70" title="mar: 151"></span><span class="sb" style="height:42%;background:#199e70" title="abr: 143"></span><span class="sb" style="height:40%;background:#199e70" title="mai: 138"></span><span class="sb" style="height:39%;background:#199e70" title="jun: 136"></span><span class="sb" style="height:49%;background:#199e70" title="jul: 164"></span></span></div></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>haier</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>ar condicionado haier 12000 btus</code></span><span class="chip e-posse"><b>3 · Posse · Manual e uso</b><code>adega haier 42 garrafas manual</code></span></div></div>
+          <span class="bh-val">2,0%</span></div></div></div><div><div class="kpis"><div class="kpi"><span class="kv" style="color:#e66767">4.480</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">1,36</span><span class="kl">ano a ano vs categoria</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">164</span><span class="kl">ponta a ponta, base 100</span></div></div><div class="mm"><span class="mml">Mês a mês</span><span class="sbw"><span class="sb" style="height:28%;background:#199e70" title="ago: 100"></span><span class="sb" style="height:70%;background:#199e70" title="set: 230"></span><span class="sb" style="height:19%;background:#d95926" title="out: 72"></span><span class="sb" style="height:23%;background:#d95926" title="nov: 85"></span><span class="sb" style="height:22%;background:#d95926" title="dez: 83"></span><span class="sb" style="height:33%;background:#199e70" title="jan: 115"></span><span class="sb" style="height:18%;background:#d95926" title="fev: 70"></span><span class="sb" style="height:44%;background:#199e70" title="mar: 151"></span><span class="sb" style="height:42%;background:#199e70" title="abr: 143"></span><span class="sb" style="height:40%;background:#199e70" title="mai: 138"></span><span class="sb" style="height:39%;background:#199e70" title="jun: 136"></span><span class="sb" style="height:49%;background:#199e70" title="jul: 164"></span></span></div><table class="tb "><thead><tr><th>Maiores consultas da marca</th><th>Buscas/mês</th></tr></thead><tbody><tr><td>haier</td><td><b>1.900</b></td></tr><tr><td>ar condicionado portatil haier</td><td><b>390</b></td></tr><tr><td>haier brasil</td><td><b>210</b></td></tr><tr><td>ar condicionado haier</td><td><b>170</b></td></tr><tr><td>haier ar condicionado</td><td><b>140</b></td></tr></tbody></table></div></div><div class="chips"><span class="chip e-descoberta"><b>1 · Descoberta · Marca e navegação</b><code>haier</code></span><span class="chip e-escolha"><b>2 · Escolha · Especificação de produto</b><code>ar condicionado haier 12000 btus</code></span><span class="chip e-posse"><b>3 · Posse · Manual e uso</b><code>adega haier 42 garrafas manual</code></span></div></div>
     <p class="leitura">62,1% da demanda é o nome da marca e só 2,9% é escolha de produto.</p>
     <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
   </div>
@@ -605,25 +608,97 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
-      <div class="s-top"><span class="kicker">Comparativo</span><span class="badge b-ia">IA</span></div>
-      <h2>Electrolux é a mais citada em IA e a pior falada entre as três grandes</h2>
-      <p class="subt">Citação é em quantas das 150 perguntas sem marca a marca aparece. Posição é onde ela surge dentro da resposta. Sentimento é a carga da menção. O denominador aqui é a amostra de perguntas, não a demanda da categoria: não é cobertura.</p>
+      <div class="s-top"><span class="kicker">Jornada · Sem marca</span><span class="badge b-search">Search</span></div>
+      <h2>O maior bloco de demanda da categoria não pertence a nenhum player</h2>
+      <p class="subt">O estágio 0 se divide em dois: as consultas de cabeça de categoria e a cauda de posse que ninguém reivindica.</p>
     </header>
-    <div class="s-body"><table class="tb wide"><thead><tr><th>Marca</th><th>Agregado</th><th>ChatGPT</th><th>Gemini</th><th>AI Mode</th><th>Perplexity</th><th>Posição</th><th><b>Sentimento</b></th></tr></thead><tbody><tr><td><span class="dot" style="background:#3987e5"></span>Electrolux</td><td><b>33%</b></td><td>25%</td><td>9%</td><td>9%</td><td>7%</td><td>2,6</td><td><b class="down">58,1</b></td></tr><tr><td><span class="dot" style="background:#199e70"></span>Consul</td><td><b>28%</b></td><td>21%</td><td>9%</td><td>8%</td><td>5%</td><td>3,0</td><td><b class="up">70,5</b></td></tr><tr><td><span class="dot" style="background:#d95926"></span>Brastemp</td><td><b>22%</b></td><td>15%</td><td>7%</td><td>8%</td><td>5%</td><td>2,4</td><td><b class="up">67,4</b></td></tr><tr><td><span class="dot" style="background:#c98500"></span>Samsung</td><td><b>13%</b></td><td>11%</td><td>1%</td><td>3%</td><td>3%</td><td>3,4</td><td><b class="down">46,3</b></td></tr><tr><td><span class="dot" style="background:#d55181"></span>Midea</td><td><b>11%</b></td><td>8%</td><td>1%</td><td>1%</td><td>3%</td><td>2,7</td><td><b class="up">63,2</b></td></tr></tbody></table></div>
-    <p class="leitura">Lidera a citação nos quatro provedores e aparece com carga menos positiva que Consul e Brastemp. O problema está no conteúdo da menção, não no volume dela.</p>
-    <footer class="fonte">Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
+    <div class="s-body"><div class="bh"><div class="bh-row"><span class="bh-lab">Cabeças de categoria</span>
+          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#6b6a63"></span></span>
+          <span class="bh-val">6.869.800</span></div><div class="bh-row"><span class="bh-lab">Território sem dono (posse)</span>
+          <span class="bh-track"><span class="bh-fill" style="width:3.02%;background:#9085e9"></span></span>
+          <span class="bh-val">207.600</span></div></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#f7e3b8">7.077.400</span><span class="kl">buscas/mês sem marca nenhuma</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">54%</span><span class="kl">de toda a demanda medida</span></div><div class="kpi"><span class="kv" style="color:#9085e9">74%</span><span class="kl">de intenção informacional na cauda</span></div></div><div class="chips"><span class="chip"><b>Cabeça de categoria</b><code>air fryer</code></span><span class="chip"><b>Assistência e reparo</b><code>conserto de geladeira</code></span><span class="chip"><b>Instalação</b><code>instalação de ar condicionado</code></span><span class="chip"><b>Peça e consumível</b><code>copo liquidificador</code></span></div></div>
+    <p class="leitura">As cabeças são consultas de uma a três palavras. A cauda concentra a demanda de posse sem fabricante nomeado: a mesma necessidade que, com marca, entraria em assistência, peça ou instalação.</p>
+    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
   </div>
 </section>
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
-      <div class="s-top"><span class="kicker">Comparativo</span><span class="badge b-ia">IA</span></div>
-      <h2>A presença da categoria em IA é, hoje, presença no ChatGPT</h2>
-      <p class="subt">Citação de cada marca por provedor. O padrão vale para todos os players, o que indica característica da plataforma e não fraqueza de uma marca.</p>
+      <div class="s-top"><span class="kicker">Jornada · Descoberta</span><span class="badge b-search">Search</span></div>
+      <h2>Quem entra na categoria concentra a demanda no próprio nome</h2>
+      <p class="subt">Estágio 1 é a família <b>marca e navegação</b>: a pessoa digita o nome do fabricante, ou o nome mais a categoria, para saber quem ele é e se é bom.</p>
     </header>
-    <div class="s-body"><table class="tb wide"><thead><tr><th>Provedor</th><th>Electrolux</th><th>Consul</th><th>Brastemp</th><th>Samsung</th><th>Midea</th></tr></thead><tbody><tr><td><b>ChatGPT</b></td><td>25%</td><td>21%</td><td>15%</td><td>11%</td><td>8%</td></tr><tr><td><b>Gemini</b></td><td>9%</td><td>9%</td><td>7%</td><td>1%</td><td>1%</td></tr><tr><td><b>Google AI Mode</b></td><td>9%</td><td>8%</td><td>8%</td><td>3%</td><td>1%</td></tr><tr><td><b>Perplexity</b></td><td>7%</td><td>5%</td><td>5%</td><td>3%</td><td>3%</td></tr></tbody></table><div class="kpis"><div class="kpi"><span class="kv" style="color:#199e70">25%</span><span class="kl">das perguntas citam a Electrolux no ChatGPT</span></div><div class="kpi"><span class="kv" style="color:#6b6a63">7% a 9%</span><span class="kl">nos outros três provedores</span></div></div></div>
+    <div class="s-body"><div class="bh"><div class="bh-row"><span class="bh-lab">Haier</span>
+          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#e66767"></span></span>
+          <span class="bh-val">62,1%</span></div><div class="bh-row"><span class="bh-lab">Hisense</span>
+          <span class="bh-track"><span class="bh-fill" style="width:67.47%;background:#008300"></span></span>
+          <span class="bh-val">41,9%</span></div><div class="bh-row"><span class="bh-lab">Electrolux</span>
+          <span class="bh-track"><span class="bh-fill" style="width:39.94%;background:#3987e5"></span></span>
+          <span class="bh-val">24,8%</span></div><div class="bh-row"><span class="bh-lab">Midea</span>
+          <span class="bh-track"><span class="bh-fill" style="width:39.61%;background:#d55181"></span></span>
+          <span class="bh-val">24,6%</span></div><div class="bh-row"><span class="bh-lab">Brastemp</span>
+          <span class="bh-track"><span class="bh-fill" style="width:28.82%;background:#d95926"></span></span>
+          <span class="bh-val">17,9%</span></div><div class="bh-row"><span class="bh-lab">Consul</span>
+          <span class="bh-track"><span class="bh-fill" style="width:24.32%;background:#199e70"></span></span>
+          <span class="bh-val">15,1%</span></div><div class="bh-row"><span class="bh-lab">Samsung</span>
+          <span class="bh-track"><span class="bh-fill" style="width:8.86%;background:#c98500"></span></span>
+          <span class="bh-val">5,5%</span></div></div><table class="tb wide"><thead><tr><th>Player</th><th>As duas maiores consultas de descoberta desta marca</th><th>Buscas/mês</th></tr></thead><tbody><tr><td><span class="dot" style="background:#e66767"></span>Haier</td><td><code>haier</code> · <code>haier brasil</code></td><td><b>1.900</b></td></tr><tr><td><span class="dot" style="background:#008300"></span>Hisense</td><td><code>hisense</code> · <code>hisense é boa</code></td><td><b>33.100</b></td></tr><tr><td><span class="dot" style="background:#3987e5"></span>Electrolux</td><td><code>eletrolux</code> · <code>electrolux geladeira</code></td><td><b>110.000</b></td></tr><tr><td><span class="dot" style="background:#d55181"></span>Midea</td><td><code>midea</code> · <code>midea ar condicionado</code></td><td><b>110.000</b></td></tr><tr><td><span class="dot" style="background:#d95926"></span>Brastemp</td><td><code>brastemp</code> · <code>brastemp geladeira</code></td><td><b>201.000</b></td></tr><tr><td><span class="dot" style="background:#199e70"></span>Consul</td><td><code>consul</code> · <code>consul geladeira</code></td><td><b>110.000</b></td></tr><tr><td><span class="dot" style="background:#c98500"></span>Samsung</td><td><code>samsung geladeira</code> · <code>samsung geladeiras</code></td><td><b>4.400</b></td></tr></tbody></table></div>
+    <p class="leitura">Haier e Hisense ainda respondem “quem é essa marca”. As estabelecidas já disputam produto. Samsung aparece baixa por característica do recorte de origem.</p>
+    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
+  </div>
+</section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Jornada · Escolha</span><span class="badge b-search">Search</span></div>
+      <h2>Na escolha de produto os sete players estão empatados</h2>
+      <p class="subt">Estágio 2 agrega duas famílias: <b>especificação de produto</b> (capacidade, tecnologia, modelo) e <b>aquisição e comparação</b> (preço, promoção, “qual o melhor”).</p>
+    </header>
+    <div class="s-body"><div class="bh"><div class="bh-row"><span class="bh-lab">Midea</span>
+          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#d55181"></span></span>
+          <span class="bh-val">30,2%</span></div><div class="bh-row"><span class="bh-lab">Samsung</span>
+          <span class="bh-track"><span class="bh-fill" style="width:98.01%;background:#c98500"></span></span>
+          <span class="bh-val">29,6%</span></div><div class="bh-row"><span class="bh-lab">Electrolux</span>
+          <span class="bh-track"><span class="bh-fill" style="width:90.73%;background:#3987e5"></span></span>
+          <span class="bh-val">27,4%</span></div><div class="bh-row"><span class="bh-lab">Consul</span>
+          <span class="bh-track"><span class="bh-fill" style="width:86.42%;background:#199e70"></span></span>
+          <span class="bh-val">26,1%</span></div><div class="bh-row"><span class="bh-lab">Brastemp</span>
+          <span class="bh-track"><span class="bh-fill" style="width:71.19%;background:#d95926"></span></span>
+          <span class="bh-val">21,5%</span></div><div class="bh-row"><span class="bh-lab">Hisense</span>
+          <span class="bh-track"><span class="bh-fill" style="width:56.29%;background:#008300"></span></span>
+          <span class="bh-val">17,0%</span></div><div class="bh-row"><span class="bh-lab">Haier</span>
+          <span class="bh-track"><span class="bh-fill" style="width:9.60%;background:#e66767"></span></span>
+          <span class="bh-val">2,9%</span></div></div><div class="chips"><span class="chip"><b>Especificação de produto</b><code>geladeira electrolux frost free</code></span><span class="chip"><b>Aquisição e comparação</b><code>cupom de desconto brastemp</code></span></div><div class="quadro"><p>Cinco dos sete estão entre 21% e 30%. É o momento mais disputado e o menos diferenciável da jornada — todo mundo está lá, com o mesmo peso.</p></div></div>
     
-    <footer class="fonte">Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
+    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
+  </div>
+</section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Jornada · Posse</span><span class="badge b-search">Search</span></div>
+      <h2>207.600 buscas por mês de quem já tem o produto e nenhuma marca atende</h2>
+      <p class="subt">Estágio 3 agrega as famílias de vida com o produto. Cada barra é uma necessidade e não um serviço nomeado: <code>conserto de geladeira</code> e <code>electrolux cuida</code> entrariam as duas em assistência.</p>
+    </header>
+    <div class="s-body"><div class="col2"><div><div class="bh"><div class="bh-row"><span class="bh-lab">Peça e consumível</span>
+          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#9085e9"></span></span>
+          <span class="bh-val">26,3%</span></div><div class="bh-row"><span class="bh-lab">Assistência e reparo</span>
+          <span class="bh-track"><span class="bh-fill" style="width:76.05%;background:#9085e9"></span></span>
+          <span class="bh-val">20,0%</span></div><div class="bh-row"><span class="bh-lab">Instalação</span>
+          <span class="bh-track"><span class="bh-fill" style="width:63.12%;background:#9085e9"></span></span>
+          <span class="bh-val">16,6%</span></div><div class="bh-row"><span class="bh-lab">Manutenção e cuidado</span>
+          <span class="bh-track"><span class="bh-fill" style="width:49.43%;background:#9085e9"></span></span>
+          <span class="bh-val">13,0%</span></div><div class="bh-row"><span class="bh-lab">Defeito</span>
+          <span class="bh-track"><span class="bh-fill" style="width:33.08%;background:#9085e9"></span></span>
+          <span class="bh-val">8,7%</span></div><div class="bh-row"><span class="bh-lab">Categoria</span>
+          <span class="bh-track"><span class="bh-fill" style="width:22.05%;background:#9085e9"></span></span>
+          <span class="bh-val">5,8%</span></div><div class="bh-row"><span class="bh-lab">Manual e uso</span>
+          <span class="bh-track"><span class="bh-fill" style="width:15.59%;background:#9085e9"></span></span>
+          <span class="bh-val">4,1%</span></div><div class="bh-row"><span class="bh-lab">Consumo</span>
+          <span class="bh-track"><span class="bh-fill" style="width:14.83%;background:#9085e9"></span></span>
+          <span class="bh-val">3,9%</span></div></div></div><div><table class="tb "><thead><tr><th>Maiores consultas do território</th><th>Buscas/mês</th></tr></thead><tbody><tr><td>instalação de ar condicionado</td><td><b>22.200</b></td></tr><tr><td>conserto de geladeira</td><td><b>14.800</b></td></tr><tr><td>copo liquidificador</td><td><b>8.100</b></td></tr><tr><td>como limpar ferro de passar</td><td><b>6.600</b></td></tr><tr><td>termostato geladeira</td><td><b>6.600</b></td></tr><tr><td>como limpar ventilador</td><td><b>5.400</b></td></tr></tbody></table><div class="kpis"><div class="kpi"><span class="kv" style="color:#9085e9">207.600</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#c98500">58%</span><span class="kl">já respondidas com resumo de IA</span></div></div></div></div></div>
+    <p class="leitura"><code>instalação de ar condicionado</code> sozinha é 10,7% do território. Nenhum player o reivindica em posicionamento nem tem demanda atrelada ao nome nele.</p>
+    <footer class="fonte">Base de busca Brasil · 492 keywords sem marca com volume</footer>
   </div>
 </section>
 <section class="slide divisor"><div class="slide-inner">
@@ -690,6 +765,42 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
           <span class="bh-val">0,01%</span></div></div><table class="tb wide"><thead><tr><th>Marca</th><th>Tópicos</th><th>Volume</th><th>Maior tópico da marca</th></tr></thead><tbody><tr><td><span class="dot" style="background:#3987e5"></span>Electrolux</td><td>200</td><td><b>1.286.687</b></td><td><code>Electrolux no Brasil: Geladeiras, Serviços e Lojas</code></td></tr><tr><td><span class="dot" style="background:#d95926"></span>Brastemp</td><td>112</td><td><b>431.319</b></td><td><code>Lava-louças Brastemp</code></td></tr><tr><td><span class="dot" style="background:#d55181"></span>Midea</td><td>49</td><td><b>354.286</b></td><td><code>ar condicionado Midea</code></td></tr><tr><td><span class="dot" style="background:#c98500"></span>Samsung</td><td>39</td><td><b>292.360</b></td><td><code>Ar-condicionado Samsung: Wind-Free e Inverter</code></td></tr><tr><td><span class="dot" style="background:#199e70"></span>Consul</td><td>75</td><td><b>265.013</b></td><td><code>Lavadoras Consul 12kg e similares</code></td></tr></tbody></table></div>
     <p class="leitura">LG, Philco, Mondial, Britânia e outras marcas fora do conjunto declarado somam 7,1%, acima da Electrolux. O conjunto competitivo do briefing não cobre tudo que a IA nomeia.</p>
     <footer class="fonte">Tópicos de IA · 3.056 tópicos de categoria · Brasil</footer>
+  </div>
+</section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Cobertura · Por estágio</span><span class="badge b-ia">IA</span></div>
+      <h2>A Electrolux cobre um quarto da descoberta e quase nada da escolha</h2>
+      <p class="subt">A mesma cobertura, quebrada por estágio: quanto do volume de cada estágio carrega o nome de cada marca. Cada coluna soma sobre o total daquele estágio, não sobre a marca.</p>
+    </header>
+    <div class="s-body"><table class="hm"><thead><tr><th></th><th>Exploração de categoria</th><th>Descoberta de marca</th><th>Escolha e compra</th><th>Posse</th></tr></thead><tbody><tr><th class="rh">Electrolux</th><td style="background:rgba(57,135,229,0.46);color:#cfcdc4">6,68%</td><td style="background:rgba(57,135,229,1.00);color:#0d0d0c">25,28%</td><td style="background:rgba(57,135,229,0.19);color:#cfcdc4">1,20%</td><td style="background:rgba(57,135,229,0.23);color:#cfcdc4">1,81%</td></tr><tr><th class="rh">Brastemp</th><td style="background:rgba(57,135,229,0.24);color:#cfcdc4">2,07%</td><td style="background:rgba(57,135,229,0.36);color:#cfcdc4">4,29%</td><td style="background:rgba(57,135,229,0.21);color:#cfcdc4">1,44%</td><td style="background:rgba(57,135,229,0.18);color:#cfcdc4">1,13%</td></tr><tr><th class="rh">Midea</th><td style="background:rgba(57,135,229,0.27);color:#cfcdc4">2,44%</td><td style="background:rgba(57,135,229,0.22);color:#cfcdc4">1,73%</td><td style="background:rgba(57,135,229,0.15);color:#cfcdc4">0,67%</td><td style="background:rgba(57,135,229,0.11);color:#cfcdc4">0,26%</td></tr><tr><th class="rh">Samsung</th><td style="background:rgba(57,135,229,0.20);color:#cfcdc4">1,37%</td><td style="background:rgba(57,135,229,0.19);color:#cfcdc4">1,16%</td><td style="background:rgba(57,135,229,0.11);color:#cfcdc4">0,31%</td><td style="background:rgba(57,135,229,0.30);color:#cfcdc4">3,19%</td></tr><tr><th class="rh">Consul</th><td style="background:rgba(57,135,229,0.16);color:#cfcdc4">0,85%</td><td style="background:rgba(57,135,229,0.37);color:#cfcdc4">4,70%</td><td style="background:rgba(57,135,229,0.16);color:#cfcdc4">0,80%</td><td style="background:rgba(57,135,229,0.20);color:#cfcdc4">1,35%</td></tr><tr><th class="rh">Hisense</th><td style="background:rgba(57,135,229,0.13);color:#cfcdc4">0,50%</td><td style="background:rgba(57,135,229,0.03);color:#cfcdc4">—</td><td style="background:rgba(57,135,229,0.07);color:#cfcdc4">0,02%</td><td style="background:rgba(57,135,229,0.03);color:#cfcdc4">—</td></tr><tr><th class="rh">Haier</th><td style="background:rgba(57,135,229,0.07);color:#cfcdc4">0,01%</td><td style="background:rgba(57,135,229,0.09);color:#cfcdc4">0,15%</td><td style="background:rgba(57,135,229,0.03);color:#cfcdc4">—</td><td style="background:rgba(57,135,229,0.03);color:#cfcdc4">—</td></tr></tbody></table><div class="kpis"><div class="kpi"><span class="kv" style="color:#f2c777">25,3%</span><span class="kl">da descoberta é Electrolux</span></div><div class="kpi"><span class="kv" style="color:#c98500">1,2%</span><span class="kl">da escolha</span></div><div class="kpi"><span class="kv" style="color:#7d5300">1,8%</span><span class="kl">da posse</span></div><div class="kpi"><span class="kv" style="color:#c98500">3,2%</span><span class="kl">da posse é Samsung, a maior do conjunto</span></div></div></div>
+    <p class="leitura">O perfil da Electrolux em IA repete o da busca: forte onde a marca é procurada pelo nome, quase ausente onde o produto é escolhido e onde se convive com ele. A Samsung é a única com cobertura de posse acima de 3%.</p>
+    <footer class="fonte">Tópicos de IA · 3.056 tópicos de categoria · Brasil</footer>
+  </div>
+</section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Cobertura · Outras medidas</span><span class="badge b-ia">IA</span></div>
+      <h2>Citação, posição e sentimento: três leituras que não substituem a cobertura</h2>
+      <p class="subt">A cobertura vem primeiro e é sempre sobre o total da demanda da categoria. As três colunas seguintes vêm de outra fonte, uma amostra de 150 perguntas sem marca, e têm outro denominador. Servem para descrever <b>como</b> a marca aparece, não <b>quanto</b> da demanda ela cobre.</p>
+    </header>
+    <div class="s-body"><table class="tb wide"><thead><tr><th>Marca</th><th><b>Cobertura</b><br><span class='th2'>% do total da demanda</span></th><th>Citação<br><span class='th2'>% das 150 perguntas</span></th><th>Posição<br><span class='th2'>onde surge na resposta</span></th><th>Sentimento<br><span class='th2'>carga da menção</span></th></tr></thead><tbody><tr><td><span class="dot" style="background:#3987e5"></span>Electrolux</td><td><b>5,69%</b></td><td>33%</td><td>2,6</td><td><b class="down">58,1</b></td></tr><tr><td><span class="dot" style="background:#d95926"></span>Brastemp</td><td><b>1,91%</b></td><td>22%</td><td>2,4</td><td><b class="up">67,4</b></td></tr><tr><td><span class="dot" style="background:#d55181"></span>Midea</td><td><b>1,57%</b></td><td>11%</td><td>2,7</td><td><b class="up">63,2</b></td></tr><tr><td><span class="dot" style="background:#c98500"></span>Samsung</td><td><b>1,29%</b></td><td>13%</td><td>3,4</td><td><b class="down">46,3</b></td></tr><tr><td><span class="dot" style="background:#199e70"></span>Consul</td><td><b>1,17%</b></td><td>28%</td><td>3,0</td><td><b class="up">70,5</b></td></tr><tr><td><span class="dot" style="background:#008300"></span>Hisense</td><td><b>0,25%</b></td><td>—</td><td>—</td><td>—</td></tr><tr><td><span class="dot" style="background:#e66767"></span>Haier</td><td><b>0,01%</b></td><td>—</td><td>—</td><td>—</td></tr></tbody></table><div class="quadro"><p>Quando a comparação for de marca contra marca, a medida é a <b>cobertura</b>: Electrolux 5,69% contra 1,91% da Brastemp. Os 33% da coluna de citação são sobre 150 perguntas e não descrevem tamanho de demanda.</p></div></div>
+    <p class="leitura">A Electrolux lidera as duas medidas. A Consul é o caso que mais diverge: 1,17% de cobertura, a 5ª do conjunto, e 28% de citação, a 2ª — é pouco procurada pelo nome e muito citada quando ninguém nomeia. Tem também o melhor sentimento (70,5), contra 58,1 da Electrolux.</p>
+    <footer class="fonte">Tópicos de IA · 3.056 tópicos de categoria · Brasil · Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
+  </div>
+</section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Cobertura · Provedores</span><span class="badge b-ia">IA</span></div>
+      <h2>A citação da categoria em IA é, hoje, citação no ChatGPT</h2>
+      <p class="subt">Citação de cada marca por provedor, sobre a amostra de 150 perguntas. O padrão vale para todos os players, o que indica característica da plataforma e não fraqueza de uma marca.</p>
+    </header>
+    <div class="s-body"><table class="tb wide"><thead><tr><th>Provedor</th><th>Electrolux</th><th>Consul</th><th>Brastemp</th><th>Samsung</th><th>Midea</th></tr></thead><tbody><tr><td><b>ChatGPT</b></td><td>25%</td><td>21%</td><td>15%</td><td>11%</td><td>8%</td></tr><tr><td><b>Gemini</b></td><td>9%</td><td>9%</td><td>7%</td><td>1%</td><td>1%</td></tr><tr><td><b>Google AI Mode</b></td><td>9%</td><td>8%</td><td>8%</td><td>3%</td><td>1%</td></tr><tr><td><b>Perplexity</b></td><td>7%</td><td>5%</td><td>5%</td><td>3%</td><td>3%</td></tr></tbody></table><div class="kpis"><div class="kpi"><span class="kv" style="color:#199e70">25%</span><span class="kl">das perguntas citam a Electrolux no ChatGPT</span></div><div class="kpi"><span class="kv" style="color:#6b6a63">7% a 9%</span><span class="kl">nos outros três provedores</span></div></div></div>
+    <p class="leitura">Qualquer leitura de posição em IA que não separe provedor está lendo ChatGPT e chamando de IA.</p>
+    <footer class="fonte">Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
   </div>
 </section>
 <section class="slide">
@@ -764,7 +875,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
   <div class="slide-inner">
     <header class="s-head">
       <div class="s-top"><span class="kicker">Jornada · Escolha e compra</span><span class="badge b-ia">IA</span></div>
-      <h2>No momento da decisão, nove em cada dez reais de demanda estão sem marca</h2>
+      <h2>No estágio da decisão de compra, 93,3% da demanda está sem marca</h2>
       <p class="subt">Tópicos de comparação, modelo e preço, ou com intent comercial e transacional somando mais de 45%.</p>
     </header>
     <div class="s-body"><div class="col2"><div><div class="bh"><div class="bh-row"><span class="bh-lab">Produto e categoria</span>
@@ -876,135 +987,21 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
     <footer class="fonte">Prompts de IA · 3.410 prompts × 4 provedores</footer>
   </div>
 </section>
+<section class="slide">
+  <div class="slide-inner">
+    <header class="s-head">
+      <div class="s-top"><span class="kicker">Tendência</span><span class="badge b-ia">IA</span></div>
+      <h2>O tráfego vindo de LLM multiplicou por 5,4 em doze meses</h2>
+      <p class="subt">Visitas mensais que chegam a cada domínio a partir de assistentes de IA.</p>
+    </header>
+    <div class="s-body"><svg class="chart" viewBox="0 0 1000 290" preserveAspectRatio="xMidYMid meet"><path d="M8.0,217.7 L89.5,219.3 L170.9,202.8 L252.4,157.7 L333.8,188.9 L415.3,201.0 L496.7,215.1 L578.2,203.0 L659.6,201.1 L741.1,171.4 L822.5,83.9 L904.0,14.0" stroke="#3987e5" class="ln forte"/><circle cx="904.0" cy="14.0" r="4.5" fill="#3987e5"/><text class="lnlab" x="913.0" y="18.0" fill="#3987e5">Electrolux</text><path d="M8.0,217.6 L89.5,225.2 L170.9,219.7 L252.4,190.8 L333.8,232.2 L415.3,250.7 L496.7,230.3 L578.2,214.1 L659.6,226.5 L741.1,186.7 L822.5,172.8 L904.0,138.0" stroke="#3a3a37" class="ln"/><path d="M8.0,241.9 L89.5,246.5 L170.9,236.9 L252.4,244.1 L333.8,243.2 L415.3,239.5 L496.7,243.8 L578.2,242.5 L659.6,228.9 L741.1,188.4 L822.5,232.1 L904.0,137.4" stroke="#3a3a37" class="ln"/><path d="M8.0,262.8 L89.5,261.4 L170.9,256.7 L252.4,250.6 L333.8,235.8 L415.3,252.3 L496.7,257.3 L578.2,248.8 L659.6,239.7 L741.1,240.5 L822.5,234.3 L904.0,223.3" stroke="#3a3a37" class="ln"/><text class="xlab" x="8.0" y="284">08</text><text class="xlab" x="89.5" y="284">09</text><text class="xlab" x="170.9" y="284">10</text><text class="xlab" x="252.4" y="284">11</text><text class="xlab" x="333.8" y="284">12</text><text class="xlab" x="415.3" y="284">01</text><text class="xlab" x="496.7" y="284">02</text><text class="xlab" x="578.2" y="284">03</text><text class="xlab" x="659.6" y="284">04</text><text class="xlab" x="741.1" y="284">05</text><text class="xlab" x="822.5" y="284">06</text><text class="xlab" x="904.0" y="284">07</text></svg><div class="kpis"><div class="kpi"><span class="kv" style="color:#3987e5">46.261</span><span class="kl">visitas/mês da loja vindas de LLM</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">+75%</span><span class="kl">1º contra 2º semestre</span></div><div class="kpi"><span class="kv" style="color:#199e70">39,9% → 46,0%</span><span class="kl">share da Electrolux no canal</span></div></div></div>
+    <p class="leitura">O canal cresce para todos. A Electrolux sai na frente em volume e ganha participação dentro dele.</p>
+    <footer class="fonte">Tráfego vindo de LLM · 12 meses · 4 domínios</footer>
+  </div>
+</section>
 <section class="slide divisor"><div class="slide-inner">
-  <span class="parte">Parte 3</span><h2>A jornada</h2>
-  <p class="sub">Onde a demanda da categoria está, quem ocupa cada momento, e o que as duas fontes dizem quando comparadas</p></div></section>
-<section class="slide">
-  <div class="slide-inner">
-    <header class="s-head">
-      <div class="s-top"><span class="kicker">Jornada · Sem marca</span><span class="badge b-search">Search</span></div>
-      <h2>O maior bloco de demanda da categoria não pertence a nenhum player</h2>
-      <p class="subt">O estágio 0 se divide em dois: as consultas de cabeça de categoria e a cauda de posse que ninguém reivindica.</p>
-    </header>
-    <div class="s-body"><div class="bh"><div class="bh-row"><span class="bh-lab">Cabeças de categoria</span>
-          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#6b6a63"></span></span>
-          <span class="bh-val">6.869.800</span></div><div class="bh-row"><span class="bh-lab">Território sem dono (posse)</span>
-          <span class="bh-track"><span class="bh-fill" style="width:3.02%;background:#9085e9"></span></span>
-          <span class="bh-val">207.600</span></div></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#f7e3b8">7.077.400</span><span class="kl">buscas/mês sem marca nenhuma</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">54%</span><span class="kl">de toda a demanda medida</span></div><div class="kpi"><span class="kv" style="color:#9085e9">74%</span><span class="kl">de intenção informacional na cauda</span></div></div><div class="chips"><span class="chip"><b>Cabeça de categoria</b><code>air fryer</code></span><span class="chip"><b>Assistência e reparo</b><code>conserto de geladeira</code></span><span class="chip"><b>Instalação</b><code>instalação de ar condicionado</code></span><span class="chip"><b>Peça e consumível</b><code>copo liquidificador</code></span></div></div>
-    <p class="leitura">As cabeças são consultas de uma a três palavras. A cauda concentra a demanda de posse sem fabricante nomeado: a mesma necessidade que, com marca, entraria em assistência, peça ou instalação.</p>
-    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
-  </div>
-</section>
-<section class="slide">
-  <div class="slide-inner">
-    <header class="s-head">
-      <div class="s-top"><span class="kicker">Jornada · Descoberta</span><span class="badge b-search">Search</span></div>
-      <h2>Quem entra na categoria concentra a demanda no próprio nome</h2>
-      <p class="subt">Estágio 1 é a família <b>marca e navegação</b>: a pessoa digita o nome do fabricante, ou o nome mais a categoria, para saber quem ele é e se é bom.</p>
-    </header>
-    <div class="s-body"><div class="bh"><div class="bh-row"><span class="bh-lab">Haier</span>
-          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#e66767"></span></span>
-          <span class="bh-val">62,1%</span></div><div class="bh-row"><span class="bh-lab">Hisense</span>
-          <span class="bh-track"><span class="bh-fill" style="width:67.47%;background:#008300"></span></span>
-          <span class="bh-val">41,9%</span></div><div class="bh-row"><span class="bh-lab">Electrolux</span>
-          <span class="bh-track"><span class="bh-fill" style="width:39.94%;background:#3987e5"></span></span>
-          <span class="bh-val">24,8%</span></div><div class="bh-row"><span class="bh-lab">Midea</span>
-          <span class="bh-track"><span class="bh-fill" style="width:39.61%;background:#d55181"></span></span>
-          <span class="bh-val">24,6%</span></div><div class="bh-row"><span class="bh-lab">Brastemp</span>
-          <span class="bh-track"><span class="bh-fill" style="width:28.82%;background:#d95926"></span></span>
-          <span class="bh-val">17,9%</span></div><div class="bh-row"><span class="bh-lab">Consul</span>
-          <span class="bh-track"><span class="bh-fill" style="width:24.32%;background:#199e70"></span></span>
-          <span class="bh-val">15,1%</span></div><div class="bh-row"><span class="bh-lab">Samsung</span>
-          <span class="bh-track"><span class="bh-fill" style="width:8.86%;background:#c98500"></span></span>
-          <span class="bh-val">5,5%</span></div></div><table class="tb wide"><thead><tr><th>Player</th><th>As duas maiores consultas de descoberta desta marca</th><th>Buscas/mês</th></tr></thead><tbody><tr><td><span class="dot" style="background:#e66767"></span>Haier</td><td><code>haier</code> · <code>haier brasil</code></td><td><b>1.900</b></td></tr><tr><td><span class="dot" style="background:#008300"></span>Hisense</td><td><code>hisense</code> · <code>hisense é boa</code></td><td><b>33.100</b></td></tr><tr><td><span class="dot" style="background:#3987e5"></span>Electrolux</td><td><code>eletrolux</code> · <code>electrolux geladeira</code></td><td><b>110.000</b></td></tr><tr><td><span class="dot" style="background:#d55181"></span>Midea</td><td><code>midea</code> · <code>midea ar condicionado</code></td><td><b>110.000</b></td></tr><tr><td><span class="dot" style="background:#d95926"></span>Brastemp</td><td><code>brastemp</code> · <code>brastemp geladeira</code></td><td><b>201.000</b></td></tr><tr><td><span class="dot" style="background:#199e70"></span>Consul</td><td><code>consul</code> · <code>consul geladeira</code></td><td><b>110.000</b></td></tr><tr><td><span class="dot" style="background:#c98500"></span>Samsung</td><td><code>samsung geladeira</code> · <code>samsung geladeiras</code></td><td><b>4.400</b></td></tr></tbody></table></div>
-    <p class="leitura">Haier e Hisense ainda respondem “quem é essa marca”. As estabelecidas já disputam produto. Samsung aparece baixa por característica do recorte de origem.</p>
-    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
-  </div>
-</section>
-<section class="slide">
-  <div class="slide-inner">
-    <header class="s-head">
-      <div class="s-top"><span class="kicker">Jornada · Escolha</span><span class="badge b-search">Search</span></div>
-      <h2>Na escolha de produto os sete players estão empatados</h2>
-      <p class="subt">Estágio 2 agrega duas famílias: <b>especificação de produto</b> (capacidade, tecnologia, modelo) e <b>aquisição e comparação</b> (preço, promoção, “qual o melhor”).</p>
-    </header>
-    <div class="s-body"><div class="bh"><div class="bh-row"><span class="bh-lab">Midea</span>
-          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#d55181"></span></span>
-          <span class="bh-val">30,2%</span></div><div class="bh-row"><span class="bh-lab">Samsung</span>
-          <span class="bh-track"><span class="bh-fill" style="width:98.01%;background:#c98500"></span></span>
-          <span class="bh-val">29,6%</span></div><div class="bh-row"><span class="bh-lab">Electrolux</span>
-          <span class="bh-track"><span class="bh-fill" style="width:90.73%;background:#3987e5"></span></span>
-          <span class="bh-val">27,4%</span></div><div class="bh-row"><span class="bh-lab">Consul</span>
-          <span class="bh-track"><span class="bh-fill" style="width:86.42%;background:#199e70"></span></span>
-          <span class="bh-val">26,1%</span></div><div class="bh-row"><span class="bh-lab">Brastemp</span>
-          <span class="bh-track"><span class="bh-fill" style="width:71.19%;background:#d95926"></span></span>
-          <span class="bh-val">21,5%</span></div><div class="bh-row"><span class="bh-lab">Hisense</span>
-          <span class="bh-track"><span class="bh-fill" style="width:56.29%;background:#008300"></span></span>
-          <span class="bh-val">17,0%</span></div><div class="bh-row"><span class="bh-lab">Haier</span>
-          <span class="bh-track"><span class="bh-fill" style="width:9.60%;background:#e66767"></span></span>
-          <span class="bh-val">2,9%</span></div></div><div class="chips"><span class="chip"><b>Especificação de produto</b><code>geladeira electrolux frost free</code></span><span class="chip"><b>Aquisição e comparação</b><code>cupom de desconto brastemp</code></span></div><div class="quadro"><p>Cinco dos sete estão entre 21% e 30%. É o momento mais disputado e o menos diferenciável da jornada — todo mundo está lá, com o mesmo peso.</p></div></div>
-    
-    <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
-  </div>
-</section>
-<section class="slide">
-  <div class="slide-inner">
-    <header class="s-head">
-      <div class="s-top"><span class="kicker">Jornada · Posse</span><span class="badge b-search">Search</span></div>
-      <h2>207.600 buscas por mês de quem já tem o produto e nenhuma marca atende</h2>
-      <p class="subt">Estágio 3 agrega as famílias de vida com o produto. Cada barra é uma necessidade e não um serviço nomeado: <code>conserto de geladeira</code> e <code>electrolux cuida</code> entrariam as duas em assistência.</p>
-    </header>
-    <div class="s-body"><div class="col2"><div><div class="bh"><div class="bh-row"><span class="bh-lab">Peça e consumível</span>
-          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#9085e9"></span></span>
-          <span class="bh-val">26,3%</span></div><div class="bh-row"><span class="bh-lab">Assistência e reparo</span>
-          <span class="bh-track"><span class="bh-fill" style="width:76.05%;background:#9085e9"></span></span>
-          <span class="bh-val">20,0%</span></div><div class="bh-row"><span class="bh-lab">Instalação</span>
-          <span class="bh-track"><span class="bh-fill" style="width:63.12%;background:#9085e9"></span></span>
-          <span class="bh-val">16,6%</span></div><div class="bh-row"><span class="bh-lab">Manutenção e cuidado</span>
-          <span class="bh-track"><span class="bh-fill" style="width:49.43%;background:#9085e9"></span></span>
-          <span class="bh-val">13,0%</span></div><div class="bh-row"><span class="bh-lab">Defeito</span>
-          <span class="bh-track"><span class="bh-fill" style="width:33.08%;background:#9085e9"></span></span>
-          <span class="bh-val">8,7%</span></div><div class="bh-row"><span class="bh-lab">Categoria</span>
-          <span class="bh-track"><span class="bh-fill" style="width:22.05%;background:#9085e9"></span></span>
-          <span class="bh-val">5,8%</span></div><div class="bh-row"><span class="bh-lab">Manual e uso</span>
-          <span class="bh-track"><span class="bh-fill" style="width:15.59%;background:#9085e9"></span></span>
-          <span class="bh-val">4,1%</span></div><div class="bh-row"><span class="bh-lab">Consumo</span>
-          <span class="bh-track"><span class="bh-fill" style="width:14.83%;background:#9085e9"></span></span>
-          <span class="bh-val">3,9%</span></div></div></div><div><table class="tb "><thead><tr><th>Maiores consultas do território</th><th>Buscas/mês</th></tr></thead><tbody><tr><td>instalação de ar condicionado</td><td><b>22.200</b></td></tr><tr><td>conserto de geladeira</td><td><b>14.800</b></td></tr><tr><td>copo liquidificador</td><td><b>8.100</b></td></tr><tr><td>como limpar ferro de passar</td><td><b>6.600</b></td></tr><tr><td>termostato geladeira</td><td><b>6.600</b></td></tr><tr><td>como limpar ventilador</td><td><b>5.400</b></td></tr></tbody></table><div class="kpis"><div class="kpi"><span class="kv" style="color:#9085e9">207.600</span><span class="kl">buscas/mês</span></div><div class="kpi"><span class="kv" style="color:#c98500">58%</span><span class="kl">já respondidas com resumo de IA</span></div></div></div></div></div>
-    <p class="leitura"><code>instalação de ar condicionado</code> sozinha é 10,7% do território. Nenhum player o reivindica em posicionamento nem tem demanda atrelada ao nome nele.</p>
-    <footer class="fonte">Base de busca Brasil · 492 keywords sem marca com volume</footer>
-  </div>
-</section>
-<section class="slide">
-  <div class="slide-inner">
-    <header class="s-head">
-      <div class="s-top"><span class="kicker">Jornada · IA</span><span class="badge b-ia">IA</span></div>
-      <h2>Na IA, a categoria é usada muito mais para conviver do que para comprar</h2>
-      <p class="subt">Peso de cada família de tópico dentro da demanda de categoria mediada por assistente.</p>
-    </header>
-    <div class="s-body"><div class="bh"><div class="bh-row"><span class="bh-lab">Limpeza e manutenção</span>
-          <span class="bh-track"><span class="bh-fill" style="width:100.00%;background:#199e70"></span></span>
-          <span class="bh-val">2,6%</span></div><div class="bh-row"><span class="bh-lab">Uso e receita</span>
-          <span class="bh-track"><span class="bh-fill" style="width:80.77%;background:#199e70"></span></span>
-          <span class="bh-val">2,1%</span></div><div class="bh-row"><span class="bh-lab">Comparação e modelo</span>
-          <span class="bh-track"><span class="bh-fill" style="width:53.85%;background:#199e70"></span></span>
-          <span class="bh-val">1,4%</span></div><div class="bh-row"><span class="bh-lab">Peça e filtro</span>
-          <span class="bh-track"><span class="bh-fill" style="width:50.00%;background:#199e70"></span></span>
-          <span class="bh-val">1,3%</span></div><div class="bh-row"><span class="bh-lab">Consumo e energia</span>
-          <span class="bh-track"><span class="bh-fill" style="width:34.62%;background:#199e70"></span></span>
-          <span class="bh-val">0,9%</span></div><div class="bh-row"><span class="bh-lab">Instalação</span>
-          <span class="bh-track"><span class="bh-fill" style="width:30.77%;background:#199e70"></span></span>
-          <span class="bh-val">0,8%</span></div><div class="bh-row"><span class="bh-lab">Defeito e problema</span>
-          <span class="bh-track"><span class="bh-fill" style="width:23.08%;background:#199e70"></span></span>
-          <span class="bh-val">0,6%</span></div><div class="bh-row"><span class="bh-lab">Assistência e conserto</span>
-          <span class="bh-track"><span class="bh-fill" style="width:11.54%;background:#199e70"></span></span>
-          <span class="bh-val">0,3%</span></div><div class="bh-row"><span class="bh-lab">Preço e compra</span>
-          <span class="bh-track"><span class="bh-fill" style="width:3.85%;background:#199e70"></span></span>
-          <span class="bh-val">0,1%</span></div></div><div class="kpis"><div class="kpi"><span class="kv" style="color:#199e70">8,4%</span><span class="kl">da demanda de IA é posse</span></div><div class="kpi"><span class="kv" style="color:#6b6a63">1,5%</span><span class="kl">é comparação de modelo</span></div><div class="kpi"><span class="kv" style="color:#6b6a63">0,1%</span><span class="kl">é preço e compra</span></div></div></div>
-    <p class="leitura">Uso e receita é a maior família, e nenhuma das cinco marcas aparece nas perguntas de receita feitas aos assistentes.</p>
-    <footer class="fonte">Tópicos de IA · 2.324 tópicos de categoria</footer>
-  </div>
-</section>
+  <span class="parte">Parte 3</span><h2>Busca e IA juntas</h2>
+  <p class="sub">O que as duas fontes dizem quando comparadas: onde convergem, onde divergem, e a leitura que só existe no cruzamento</p></div></section>
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
@@ -1012,9 +1009,9 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
       <h2>Receita é a menor família em busca e a maior em IA</h2>
       <p class="subt">A mesma necessidade aparece em posições opostas nas duas fontes. É comportamento migrando de canal.</p>
     </header>
-    <div class="s-body"><div class="confronto"><div class="cf"><span class="cft">Em busca</span><span class="cfv" style="color:#6b6a63">1,4%</span><span class="cfl">do território sem dono · a <b>menor</b> família</span></div><div class="cfx">↔</div><div class="cf"><span class="cft">Em IA</span><span class="cfv" style="color:#199e70">2,3%</span><span class="cfl">da categoria · a <b>maior</b> família de posse</span></div></div><table class="tb "><thead><tr><th>Maiores tópicos de uso e receita em IA</th><th>Volume</th></tr></thead><tbody><tr><td>Air Fryer: Receitas e Usos</td><td><b>189.428</b></td></tr><tr><td>Arroz de Forno: Receitas e Dicas</td><td><b>62.196</b></td></tr><tr><td>Receitas de peixe na airfryer</td><td><b>56.520</b></td></tr><tr><td>Airfryer: carnes e receitas</td><td><b>31.143</b></td></tr></tbody></table></div>
+    <div class="s-body"><div class="confronto"><div class="cf"><span class="cft">Em busca</span><span class="cfv" style="color:#6b6a63">1,4%</span><span class="cfl">do território sem dono · a <b>menor</b> família</span></div><div class="cfx">↔</div><div class="cf"><span class="cft">Em IA</span><span class="cfv" style="color:#199e70">1,9%</span><span class="cfl">da categoria · a <b>maior</b> família de posse</span></div></div><table class="tb "><thead><tr><th>Maiores tópicos de uso e receita em IA</th><th>Volume</th></tr></thead><tbody><tr><td>Air Fryer: Receitas e Usos</td><td><b>189.428</b></td></tr><tr><td>Arroz de Forno: Receitas e Dicas</td><td><b>62.196</b></td></tr><tr><td>Receitas de peixe na airfryer</td><td><b>56.520</b></td></tr><tr><td>Airfryer: carnes e receitas</td><td><b>31.143</b></td></tr></tbody></table><div class="kpis"><div class="kpi"><span class="kv" style="color:#199e70">433.609</span><span class="kl">de volume em uso e receita na IA</span></div><div class="kpi"><span class="kv" style="color:#c98500">99,7%</span><span class="kl">dele sem marca nenhuma</span></div></div></div>
     <p class="leitura">O briefing cita “pesquisar uma receita” como ponto de entrada. O dado diz que essa porta hoje é de assistente, não de buscador.</p>
-    <footer class="fonte">Tópicos de IA · 2.324 tópicos de categoria · Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
+    <footer class="fonte">Tópicos de IA · 3.056 tópicos de categoria · Brasil · Base de busca Brasil · 4.965 keywords · ago/25–jul/26</footer>
   </div>
 </section>
 <section class="slide">
@@ -1068,23 +1065,11 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
 <section class="slide">
   <div class="slide-inner">
     <header class="s-head">
-      <div class="s-top"><span class="kicker">Tendência</span><span class="badge b-ia">IA</span></div>
-      <h2>O tráfego vindo de LLM multiplicou por 5,4 em doze meses</h2>
-      <p class="subt">Visitas mensais que chegam a cada domínio a partir de assistentes de IA.</p>
-    </header>
-    <div class="s-body"><svg class="chart" viewBox="0 0 1000 290" preserveAspectRatio="xMidYMid meet"><path d="M8.0,217.7 L89.5,219.3 L170.9,202.8 L252.4,157.7 L333.8,188.9 L415.3,201.0 L496.7,215.1 L578.2,203.0 L659.6,201.1 L741.1,171.4 L822.5,83.9 L904.0,14.0" stroke="#3987e5" class="ln forte"/><circle cx="904.0" cy="14.0" r="4.5" fill="#3987e5"/><text class="lnlab" x="913.0" y="18.0" fill="#3987e5">Electrolux</text><path d="M8.0,217.6 L89.5,225.2 L170.9,219.7 L252.4,190.8 L333.8,232.2 L415.3,250.7 L496.7,230.3 L578.2,214.1 L659.6,226.5 L741.1,186.7 L822.5,172.8 L904.0,138.0" stroke="#3a3a37" class="ln"/><path d="M8.0,241.9 L89.5,246.5 L170.9,236.9 L252.4,244.1 L333.8,243.2 L415.3,239.5 L496.7,243.8 L578.2,242.5 L659.6,228.9 L741.1,188.4 L822.5,232.1 L904.0,137.4" stroke="#3a3a37" class="ln"/><path d="M8.0,262.8 L89.5,261.4 L170.9,256.7 L252.4,250.6 L333.8,235.8 L415.3,252.3 L496.7,257.3 L578.2,248.8 L659.6,239.7 L741.1,240.5 L822.5,234.3 L904.0,223.3" stroke="#3a3a37" class="ln"/><text class="xlab" x="8.0" y="284">08</text><text class="xlab" x="89.5" y="284">09</text><text class="xlab" x="170.9" y="284">10</text><text class="xlab" x="252.4" y="284">11</text><text class="xlab" x="333.8" y="284">12</text><text class="xlab" x="415.3" y="284">01</text><text class="xlab" x="496.7" y="284">02</text><text class="xlab" x="578.2" y="284">03</text><text class="xlab" x="659.6" y="284">04</text><text class="xlab" x="741.1" y="284">05</text><text class="xlab" x="822.5" y="284">06</text><text class="xlab" x="904.0" y="284">07</text></svg><div class="kpis"><div class="kpi"><span class="kv" style="color:#3987e5">46.261</span><span class="kl">visitas/mês da loja vindas de LLM</span></div><div class="kpi"><span class="kv" style="color:#f0ede4">+75%</span><span class="kl">1º contra 2º semestre</span></div><div class="kpi"><span class="kv" style="color:#199e70">39,9% → 46,0%</span><span class="kl">share da Electrolux no canal</span></div></div></div>
-    <p class="leitura">O canal cresce para todos. A Electrolux sai na frente em volume e ganha participação dentro dele.</p>
-    <footer class="fonte">Tráfego vindo de LLM · 12 meses · 4 domínios</footer>
-  </div>
-</section>
-<section class="slide">
-  <div class="slide-inner">
-    <header class="s-head">
       <div class="s-top"><span class="kicker">Síntese</span><span class="badge b-ambos">Search + IA</span></div>
       <h2>As duas fontes concordam sobre o vão e discordam sobre a posição</h2>
       <p class="subt">Onde busca e IA convergem, a leitura é robusta. Onde divergem, a divergência é informação sobre como cada canal funciona.</p>
     </header>
-    <div class="s-body"><table class="tb wide"><thead><tr><th></th><th><span class='badge b-search'>Search</span></th><th><span class='badge b-ia'>IA</span></th></tr></thead><tbody><tr><td><b>Posição da Electrolux</b></td><td>3ª em volume · share <b>parado</b> (0,99)</td><td><b>1ª em citação</b> nas respostas (33% das 150 perguntas)</td></tr><tr><td><b>Trajetória</b></td><td>não ganha share; quem cresce são os entrantes</td><td>share de tráfego <b>39,9% → 46,0%</b></td></tr><tr><td><b>Posse</b></td><td>4,5% · metade da Consul</td><td><b>0%</b> em manutenção e em receita</td></tr><tr><td><b>Quem ocupa a posse</b></td><td>Consul, com 8,1%</td><td>Consul e Brastemp, com 25% cada</td></tr><tr><td><b>Percepção</b></td><td>não é o que a fonte mede</td><td>sentimento 58,1, 2º pior do conjunto</td></tr></tbody></table></div>
+    <div class="s-body"><table class="tb wide"><thead><tr><th></th><th><span class='badge b-search'>Search</span></th><th><span class='badge b-ia'>IA</span></th></tr></thead><tbody><tr><td><b>Posição da Electrolux</b></td><td>3ª em volume de marca · recortes de profundidade diferente impedem comparar tamanho entre players</td><td><b>5,7%</b> de cobertura sobre o total · <b>1ª entre as sete</b></td></tr><tr><td><b>Trajetória</b></td><td>não ganha share; quem cresce são os entrantes</td><td>share de tráfego <b>39,9% → 46,0%</b></td></tr><tr><td><b>Posse</b></td><td>4,5% da demanda da marca · metade da Consul</td><td>cobre 1,81% do estágio · Samsung cobre 3,19%</td></tr><tr><td><b>Quem ocupa a posse</b></td><td>Consul, com 8,1% da demanda dela</td><td>Ninguém: 89,4% do estágio não tem marca no nome</td></tr><tr><td><b>Percepção</b></td><td>não é o que a fonte mede</td><td>sentimento 58,1, 2º pior do conjunto</td></tr></tbody></table></div>
     <p class="leitura">A marca está melhor posicionada no canal novo do que no maduro, e não construiu essa vantagem deliberadamente.</p>
     <footer class="fonte">Base de busca Brasil · 4.965 keywords · ago/25–jul/26 · Respostas de IA · 150 perguntas sem marca × 5 provedores</footer>
   </div>
@@ -1096,7 +1081,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
       <h2>Os quatro achados que sustentam o resto</h2>
       
     </header>
-    <div class="s-body"><div class="achados"><div class="ach"><span class="an">1</span><div><b>A posse é o vão, nas duas fontes</b><p>Electrolux tem 4,5% da demanda em posse contra 8,1% da Consul, e não é citada em nenhuma das perguntas de manutenção feitas à IA.</p></div></div><div class="ach"><span class="an">2</span><div><b>A mediação por IA já chegou ao território vago</b><p>41% das consultas de posse são respondidas com resumo, contra 14% das consultas da Electrolux.</p></div></div><div class="ach"><span class="an">3</span><div><b>O crescimento da categoria está nos entrantes</b><p>Hisense a 1,40 e Haier a 1,36 contra a categoria; Brastemp a 0,86 e Samsung a 0,85.</p></div></div><div class="ach"><span class="an">4</span><div><b>A marca é a mais citada em IA e a pior falada</b><p>33% das perguntas a citam, à frente de todos, com sentimento 58,1 contra 70,5 da Consul.</p></div></div></div></div>
+    <div class="s-body"><div class="achados"><div class="ach"><span class="an">1</span><div><b>A posse é o vão, nas duas fontes</b><p>Electrolux tem 4,5% da demanda em posse contra 8,1% da Consul, e não é citada em nenhuma das perguntas de manutenção feitas à IA.</p></div></div><div class="ach"><span class="an">2</span><div><b>A mediação por IA já chegou ao território vago</b><p>41% das consultas de posse são respondidas com resumo, contra 14% das consultas da Electrolux.</p></div></div><div class="ach"><span class="an">3</span><div><b>O crescimento da categoria está nos entrantes</b><p>Hisense a 1,40 e Haier a 1,36 contra a categoria; Brastemp a 0,86 e Samsung a 0,85.</p></div></div><div class="ach"><span class="an">4</span><div><b>A Electrolux lidera a cobertura em IA, sobre uma base pequena</b><p>5,7% da demanda mediada contra 1,9% da Brastemp. O sentimento nas respostas fica em 58,1, atrás de Consul (70,5).</p></div></div></div></div>
     
     
   </div>

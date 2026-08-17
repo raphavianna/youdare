@@ -1,5 +1,14 @@
 # Trilha B — Cenário por player, em busca mediada por IA
 
+> **Revisão de base — leia junto com o panorama.** Este documento foi fechado sobre o universo
+> de **2.324 tópicos** disponível na época. O pacote de exports foi ampliado depois e a base
+> passou a **3.056 tópicos de categoria** e 22,6 milhões de volume. Dois números aqui mudaram
+> com a base maior: a soma dos momentos de posse vai de **8,4% para 13,8%**, e as famílias de
+> tópico foram reclassificadas. A leitura de cobertura por marca e a de jornada valem na versão
+> do panorama, em `2026-08-17_youdare_analise_panorama-cobertura-ai.md`. O que se mantém deste
+> documento é a leitura de **citação, posição e sentimento nas respostas**, que vem de outra
+> fonte (150 perguntas) e não foi afetada.
+
 > **Regra de isolamento.** Este documento usa **apenas dado de IA**. Não cita, não usa e não
 > antecipa nenhuma leitura de busca tradicional. O cruzamento acontece na trilha C.
 
