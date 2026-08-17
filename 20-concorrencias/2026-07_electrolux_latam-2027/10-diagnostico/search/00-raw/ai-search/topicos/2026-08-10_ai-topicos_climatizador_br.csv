@@ -1,0 +1,1001 @@
+name,prompts_count,volume,volume_trend,intents
+Climatizadores de Ar,223,339623,22;23;24;78;93;93;93;98;100;100;100;100,task:2;informational:44;navigational:2;commercial:40;transactional:12
+Climatização e Ar Condicionado,16,1115,20;51;51;43;43;37;37;74;54;64;76;100,task:7;informational:44;navigational:10;commercial:28;transactional:11
+Climatização de Ambientes,22,2835,29;34;35;33;35;36;36;100;40;40;40;40,task:3;informational:68;navigational:2;commercial:17;transactional:10
+Resfriar e Climatização,17,2237,48;78;78;71;43;44;43;73;88;90;91;100,task:4;informational:53;navigational:7;commercial:22;transactional:14
+Ventiladores e Climatizadores de Ar,40,10465,22;26;29;39;65;65;67;91;100;100;100;100,task:2;informational:61;navigational:10;commercial:19;transactional:8
+Climatizadores Industriais,22,14461,39;44;45;27;100;100;100;28;79;79;79;79,task:5;informational:46;navigational:4;commercial:36;transactional:9
+Climatizadores de Ar 2024,22,1631,43;52;58;55;74;75;73;97;93;100;85;85,task:3;informational:35;navigational:3;commercial:48;transactional:11
+Climatizadores de ar portáteis,23,10299,64;73;76;76;66;67;67;81;100;100;100;100,task:2;informational:53;navigational:4;commercial:32;transactional:9
+Climatizadores vs Ar Condicionado,36,6292,82;85;83;87;95;96;96;91;98;98;100;100,task:2;informational:79;navigational:5;commercial:11;transactional:3
+Climatizadores evaporativos,19,5171,37;42;43;24;99;100;100;94;94;94;94;94,task:8;informational:42;navigational:4;commercial:33;transactional:13
+Polo Clima e Climatizadores,16,347,63;77;100;90;71;75;79;61;65;68;58;58,task:7;informational:21;navigational:43;commercial:14;transactional:15
+Climatização e Refrigeração,15,63,8;74;100;39;12;11;8;7;8;8;8;8,task:7;informational:48;navigational:4;commercial:21;transactional:20
+Ar Condicionado Único,15,232,10;57;68;33;35;29;30;100;50;20;17;21,task:3;informational:45;navigational:32;commercial:15;transactional:5
+Climatizadores Mondial,25,4240,63;70;71;37;54;56;56;96;100;100;99;98,task:2;informational:62;navigational:15;commercial:16;transactional:5
+Ar Condicionado e Climatização,17,1649,39;69;70;55;74;72;71;100;61;66;90;100,task:3;informational:59;navigational:4;commercial:24;transactional:10
+Climação e Refrigeração,15,130,82;76;80;79;95;100;99;51;52;52;52;52,task:4;informational:47;navigational:1;commercial:23;transactional:25
+Climatizadores de ar EOS,17,730,87;100;99;49;49;51;50;57;60;65;51;51,task:3;informational:34;navigational:26;commercial:23;transactional:14
+Ar Condicionado,16,1179,18;19;20;20;19;18;34;30;40;40;93;100,task:8;informational:63;navigational:15;commercial:9;transactional:5
+Climatizadores Ultra de Ar,15,1012,37;43;42;40;39;36;36;37;25;36;93;100,task:8;informational:31;navigational:19;commercial:26;transactional:16
+Clima e Refrigeração,15,303,78;36;40;41;41;42;43;48;49;100;67;70,task:2;informational:67;navigational:16;commercial:12;transactional:3
+Poloar Ar Condicionado,18,6375,69;84;90;87;97;99;99;100;96;96;96;95,informational:48;navigational:21;commercial:18;transactional:13
+Ar Condicionado Conforterm,21,2810,12;13;30;57;60;49;56;90;77;84;81;100,task:1;informational:52;navigational:27;commercial:16;transactional:4
+Climatizadores de ar Cadence,16,688,5;8;9;56;50;59;35;83;83;89;85;100,task:3;informational:38;navigational:32;commercial:12;transactional:15
+Equipamentos de Ar Condicionado,15,851,15;48;59;47;56;29;29;21;28;16;80;100,task:4;informational:45;navigational:23;commercial:23;transactional:5
+Climatizadores de Parede,24,1442,44;51;52;42;98;100;100;58;41;41;40;40,task:5;informational:49;navigational:5;commercial:26;transactional:15
+"Clima, Ar Condicionado e Refrigeração",15,1751,32;40;40;43;48;49;48;61;46;46;92;100,task:5;informational:61;navigational:4;commercial:22;transactional:8
+Climatizadores automotivos para caminhões,27,2883,59;30;30;42;85;86;87;90;99;99;100;100,task:5;informational:48;navigational:2;commercial:30;transactional:15
+Climatizadores Carrefour,15,711,29;100;93;79;71;69;52;60;66;71;57;61,task:2;informational:14;navigational:49;commercial:9;transactional:26
+Guia de Ar Condicionado,19,3994,58;73;76;73;68;68;68;100;92;85;82;86,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Aquecedores e Climatizadores com Umidificador,23,1697,31;39;39;37;49;49;54;100;81;81;80;82,task:3;informational:53;navigational:9;commercial:29;transactional:6
+Ar Condicionado Brasil,15,1085,5;61;61;48;41;9;27;7;6;93;78;100,task:3;informational:35;navigational:26;commercial:24;transactional:12
+Manutenção e Conserto de Climatizadores,16,276,93;98;100;67;63;64;65;62;62;62;64;64,task:7;informational:59;navigational:4;commercial:24;transactional:6
+Ar Condicionado Embutido,19,1177,24;49;54;38;49;33;41;32;32;32;73;100,task:5;informational:48;navigational:11;commercial:19;transactional:17
+Melhores Ar Condicionado,133,119140,18;23;25;49;73;74;74;98;100;100;100;100,task:2;informational:42;navigational:1;commercial:48;transactional:7
+Oster Climatizadores e Ar Condicionado,19,1827,81;95;96;94;72;74;74;73;78;100;91;79,task:2;informational:39;navigational:18;commercial:14;transactional:27
+Ar Condicionado em Lojas Online,16,1029,17;32;39;32;31;30;43;76;66;76;65;100,task:2;informational:33;navigational:32;commercial:28;transactional:5
+Refrigeração e Climatização Dois Irmãos,15,108,70;76;83;77;73;74;71;72;80;90;89;100,task:1;informational:19;navigational:51;commercial:26;transactional:3
+Refrigeração e Ar Condicionado,15,302,36;88;100;69;77;38;39;39;84;41;51;53,task:4;informational:51;navigational:7;commercial:27;transactional:11
+Climatizadores Rotoplast,17,2060,56;79;81;88;94;100;100;95;92;92;92;91,task:2;informational:43;navigational:25;commercial:24;transactional:6
+Cadence Climatizadores e Ar Condicionado,24,2581,62;73;73;47;99;100;100;72;73;75;68;67,task:3;informational:36;navigational:28;commercial:11;transactional:22
+Ar condicionado: peças e funcionamento,132,93398,37;37;38;81;92;92;92;99;100;100;100;100,task:4;informational:79;navigational:4;commercial:11;transactional:2
+Ar condicionado e refrigeração,622,739015,47;47;48;58;84;84;84;100;96;96;96;96,task:2;informational:45;navigational:7;commercial:33;transactional:13
+Aquecedores e Ar Condicionado,19,1085,28;59;64;67;76;77;79;100;87;64;64;65,task:5;informational:57;navigational:4;commercial:30;transactional:4
+Climatizadores Evaporativos Ecobrisa,17,1174,89;100;100;57;58;61;64;54;55;55;58;58,task:2;informational:27;navigational:29;commercial:28;transactional:14
+Ar Condicionado Str,31,24438,23;77;79;30;79;79;79;98;100;100;100;100,task:3;informational:58;navigational:13;commercial:20;transactional:6
+Refrigeração e climatização,15,1266,46;50;50;51;99;100;100;59;64;64;60;60,task:2;informational:64;navigational:8;commercial:16;transactional:10
+Climatizadores de Ar 60L,22,3077,72;84;84;62;56;58;56;77;99;100;96;97,task:8;informational:50;navigational:2;commercial:34;transactional:6
+Star Ar Condicionado e Refrigeração,15,297,53;53;53;55;35;36;36;41;94;100;38;37,task:3;informational:18;navigational:34;commercial:37;transactional:8
+Ar condicionado com umidificador,70,21968,80;90;96;98;95;95;95;99;100;100;100;100,task:5;informational:74;navigational:3;commercial:16;transactional:2
+Arno Climatização e Umidificação,15,498,16;16;17;16;16;16;28;100;44;61;56;53,informational:49;navigational:18;commercial:28;transactional:5
+Climatizadores Ventisol,30,3284,57;65;67;73;99;100;100;72;30;30;30;30,task:2;informational:49;navigational:15;commercial:18;transactional:16
+TecLar Climatização,15,179,12;74;73;28;30;24;98;100;69;31;28;32,task:7;informational:24;navigational:34;commercial:31;transactional:4
+Climabrisa — soluções de climatização,15,171,66;98;100;74;68;71;71;67;69;67;67;67,task:2;informational:18;navigational:58;commercial:17;transactional:5
+ar condicionado Tempstar,18,994,15;17;17;27;27;45;38;100;79;43;41;42,task:5;informational:60;navigational:17;commercial:15;transactional:3
+Climatizadores Ventisol Nobille,17,1542,63;82;70;38;45;41;40;75;65;70;100;94,task:2;informational:42;navigational:15;commercial:26;transactional:15
+Ventiladores climatizadores com umidificador,35,20195,93;97;100;74;93;94;94;84;80;80;80;80,task:2;informational:58;navigational:5;commercial:25;transactional:10
+Gazin Ar Condicionado e Climatizadores,16,367,34;80;100;60;33;46;46;96;66;35;35;35,task:3;informational:28;navigational:35;commercial:12;transactional:22
+Ar Condicionado e Refrigeração de Qualidade,16,758,13;53;53;50;50;40;39;16;15;57;72;100,task:3;informational:45;navigational:18;commercial:29;transactional:5
+Climatizadores de Ar Britânia,25,4688,35;40;41;24;61;62;62;97;100;100;100;100,task:1;informational:46;navigational:25;commercial:19;transactional:9
+Climatizadores AMVOX,25,3849,64;73;74;38;66;68;68;79;98;100;94;94,task:2;informational:57;navigational:7;commercial:20;transactional:14
+Climatizadores e umidificadores de ar 110V (Brasil),15,322,36;47;48;48;32;33;31;38;39;100;92;44,task:3;informational:42;navigational:11;commercial:36;transactional:8
+Climatizadores com gelo,25,2651,26;29;18;44;64;67;66;95;96;100;87;88,task:5;informational:69;navigational:5;commercial:12;transactional:9
+Aires Acondicionados,17,266,17;89;100;66;39;45;44;57;45;28;29;29,task:7;informational:38;navigational:3;commercial:40;transactional:12
+ar condicionado de janela,144,76477,24;25;26;52;99;99;99;100;58;58;58;58,task:2;informational:43;navigational:4;commercial:39;transactional:12
+HVAC e Climatização,31,19329,60;41;75;100;98;99;99;97;100;100;100;100,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Climax Ar Condicionado,18,9240,29;34;34;22;50;51;52;98;100;100;100;100,task:2;informational:48;navigational:14;commercial:32;transactional:4
+Ar Condicionado e Condensadoras,21,3619,43;49;49;25;32;33;33;94;89;89;95;100,task:2;informational:50;navigational:6;commercial:35;transactional:7
+Climatizadores Symphony,17,694,52;77;65;61;77;80;78;75;89;100;85;86,task:5;informational:43;navigational:18;commercial:21;transactional:13
+Ar Condicionado Central,23,5166,43;52;53;49;89;90;93;84;100;94;94;93,task:8;informational:55;navigational:10;commercial:24;transactional:3
+Ar Condicionado Portátil,240,240029,21;19;19;100;45;45;45;45;46;46;46;46,task:2;informational:55;navigational:5;commercial:30;transactional:8
+Ar Condicionado Automotivo,44,18479,76;80;95;100;99;99;99;98;97;97;97;97,task:5;informational:64;navigational:4;commercial:21;transactional:6
+Estilo Ar e Ar Condicionado,17,1379,20;44;68;52;34;38;31;100;53;61;76;94,task:7;informational:28;navigational:34;commercial:20;transactional:11
+Ar Condicionado Automotivo para Veículos,47,13094,28;33;35;60;99;100;100;86;70;71;70;70,task:8;informational:59;navigational:4;commercial:17;transactional:12
+Climatização Honeywell,18,456,45;74;83;84;78;52;50;92;80;79;76;100,task:3;informational:58;navigational:11;commercial:24;transactional:4
+Central de Ar Condicionado,16,149,20;68;68;47;67;26;100;76;55;26;26;26,task:2;informational:65;navigational:10;commercial:18;transactional:5
+Polo Norte Refrigeração e Ar Condicionado,15,77,56;59;67;67;62;62;62;63;68;68;90;100,task:4;informational:21;navigational:44;commercial:27;transactional:4
+Havan: Ar Condicionado e Climatizadores,18,2972,81;97;100;50;48;51;52;60;63;69;68;74,task:2;informational:18;navigational:39;commercial:9;transactional:32
+Ar Condicionado Autônomo,21,1711,56;62;61;55;96;80;80;92;95;100;76;80,task:2;informational:78;navigational:3;commercial:15;transactional:2
+Electrolux: Climatização e Purificação do Ar,21,3895,84;99;100;58;69;71;73;78;83;84;83;82,task:2;informational:58;navigational:9;commercial:21;transactional:10
+Instalação de Ar Condicionado,101,60532,41;53;64;70;76;76;76;95;100;100;100;100,task:2;informational:59;navigational:2;commercial:23;transactional:14
+Refrigeração e Climatização no Brasil,15,144,11;92;100;45;46;77;73;91;57;23;21;24,task:3;informational:39;navigational:3;commercial:43;transactional:12
+Ar Condicionado Portátil e Acessórios,17,830,42;50;51;40;47;35;34;36;46;100;91;51,task:7;informational:42;navigational:2;commercial:31;transactional:18
+Automação de Ar Condicionado,22,1860,19;24;23;45;70;70;74;89;73;100;85;98,task:12;informational:68;navigational:5;commercial:10;transactional:5
+Climatizadores em Goiânia,15,47,8;26;37;14;15;14;39;100;86;9;9;9,task:7;informational:18;navigational:10;commercial:50;transactional:15
+ClimaTech e HVAC Brasil,15,501,79;98;100;96;35;32;27;92;42;49;30;36,task:8;informational:31;navigational:6;commercial:48;transactional:7
+Disfrio: Distribuidora de Ar Condicionado,16,312,20;84;83;73;56;50;52;90;94;100;35;36,task:3;informational:25;navigational:34;commercial:23;transactional:15
+Ar Condicionado: Resfriamento Rápido,21,4875,52;62;62;61;87;81;81;78;82;82;97;100,task:4;informational:65;navigational:5;commercial:20;transactional:6
+Philco climatizadores e umidificadores,31,12195,44;52;53;66;65;66;66;100;94;94;93;93,informational:36;navigational:32;commercial:21;transactional:11
+Climatizadores Zellox,20,1652,60;31;30;28;54;55;49;70;81;82;95;100,task:2;informational:35;navigational:35;commercial:20;transactional:8
+Compressores de Ar Condicionado,58,35790,15;18;23;61;100;100;100;97;97;97;97;97,task:5;informational:56;navigational:4;commercial:26;transactional:9
+Ar Condicionado Hisense,61,34834,16;29;31;74;81;81;81;97;100;100;100;100,task:5;informational:49;navigational:15;commercial:24;transactional:7
+Difusores de ar condicionado,27,3632,17;22;22;37;99;100;100;64;57;57;57;57,task:2;informational:66;navigational:7;commercial:21;transactional:4
+Evaporadores de ar condicionado e refrigeração,30,4034,24;29;29;50;99;100;100;69;65;65;69;68,task:4;informational:72;navigational:4;commercial:13;transactional:7
+Climatizadores Elgin,30,10243,31;38;40;45;64;66;66;90;98;100;97;100,task:5;informational:44;navigational:28;commercial:16;transactional:7
+Consul Climatização e Bem-Estar,53,18598,44;48;49;50;70;70;70;99;100;100;100;100,task:2;informational:57;navigational:15;commercial:18;transactional:8
+Climatizadores e Ar Condicionado Polishop,18,1948,73;91;93;69;97;100;97;77;84;84;83;82,informational:44;navigational:34;commercial:10;transactional:12
+Peças de Ar Condicionado,18,597,63;73;75;88;100;99;83;98;83;83;83;83,task:2;informational:56;navigational:4;commercial:27;transactional:11
+Ar Condicionado para Caminhões,30,3009,84;96;98;58;97;99;100;55;58;58;58;57,task:2;informational:54;navigational:4;commercial:29;transactional:11
+Auto Clima Automotivo,15,1745,62;68;66;65;68;70;70;100;95;94;95;94,task:2;informational:59;navigational:8;commercial:22;transactional:9
+Climatizadores de Ar 8 Litros,18,1019,88;99;100;50;40;42;40;39;28;29;43;46,task:3;informational:51;navigational:4;commercial:31;transactional:11
+Refrigeração RC,15,270,49;76;74;71;73;79;77;100;100;95;93;92,informational:53;navigational:23;commercial:20;transactional:4
+Ar Condicionado Brize,21,2343,38;39;51;50;58;59;56;99;96;100;92;98,task:2;informational:64;navigational:15;commercial:16;transactional:3
+Climatização e Manutenção de Ar Condicionado,15,442,73;99;100;96;76;80;81;82;87;87;87;87,task:3;informational:51;navigational:4;commercial:31;transactional:11
+Proar e Ar Condicionado,15,206,15;21;22;55;55;23;44;100;51;22;22;25,task:3;informational:45;navigational:18;commercial:26;transactional:8
+"Ar condicionado: dicas, controles e símbolos",557,294003,80;84;84;89;95;95;95;98;100;100;100;100,task:3;informational:78;navigational:5;commercial:8;transactional:6
+Polar climatização e refrigeração,15,447,10;98;100;23;36;31;48;26;26;27;27;80,task:8;informational:65;navigational:5;commercial:15;transactional:7
+Ar Condicionado Econômico,33,11404,21;26;26;33;80;81;82;90;100;100;100;100,task:8;informational:49;navigational:4;commercial:28;transactional:11
+Eco Clima e Climatização,15,284,13;54;57;45;100;98;86;21;21;23;40;46,task:7;informational:45;navigational:13;commercial:30;transactional:5
+Climatizadores Midea,38,13399,53;57;54;33;100;100;100;53;52;52;52;52,task:2;informational:52;navigational:10;commercial:21;transactional:15
+Climatizadores Springer Wind,19,1087,34;49;56;43;70;78;64;82;69;75;88;100,task:5;informational:39;navigational:19;commercial:29;transactional:8
+Ar Condicionado Comfee,44,16661,23;28;29;32;86;87;87;97;100;100;100;100,task:2;informational:52;navigational:14;commercial:22;transactional:10
+Ar Condicionado Automotivo e Refrigeração,15,174,69;84;93;91;91;93;94;100;100;100;100;100,task:3;informational:45;navigational:7;commercial:34;transactional:11
+Ar Condicionado Gbarbosa,15,194,25;28;28;87;43;37;57;100;75;38;35;38,task:1;informational:17;navigational:52;commercial:9;transactional:21
+Protetores de ar condicionado,25,5037,50;58;59;51;98;100;100;76;72;72;72;71,task:5;informational:52;navigational:4;commercial:30;transactional:9
+Bombas para climatizadores,20,1135,45;48;48;51;70;71;71;100;72;70;70;70,task:5;informational:46;navigational:5;commercial:24;transactional:20
+"Dias: ar condicionado, refrigeração e energia solar",16,2281,65;86;89;86;85;98;97;91;100;100;100;99,task:3;informational:53;navigational:18;commercial:15;transactional:11
+Ar Condicionado Consul,92,21940,47;50;58;62;100;100;100;92;98;98;98;98,task:5;informational:40;navigational:10;commercial:25;transactional:20
+Ar Condicionado Komeco,29,6057,43;49;33;41;83;84;82;88;100;100;100;100,informational:49;navigational:16;commercial:18;transactional:17
+Refrigeração Central,15,424,56;63;66;65;68;72;72;80;82;82;100;100,task:10;informational:59;navigational:1;commercial:26;transactional:4
+Condensadores de ar condicionado,40,28492,21;24;27;62;67;67;67;100;99;99;99;99,informational:78;navigational:5;commercial:13;transactional:4
+Peças de Ar Condicionado e Refrigeração,23,8452,88;98;100;53;84;85;85;97;98;98;98;98,task:2;informational:36;navigational:9;commercial:42;transactional:11
+ClimaCar Automotivo A/C,15,189,40;45;46;45;48;49;49;50;55;100;91;57,task:7;informational:22;navigational:27;commercial:36;transactional:8
+Ar condicionado portátil Consul,22,3615,85;98;100;50;72;75;75;71;72;72;72;71,task:2;informational:35;navigational:24;commercial:29;transactional:10
+Artec Ar Condicionado e Climatização,15,593,30;69;80;79;80;49;53;29;63;69;86;100,task:3;informational:41;navigational:17;commercial:31;transactional:8
+Ar Condicionado para Quarto,45,22106,35;36;39;70;85;86;86;95;100;100;100;100,task:3;informational:57;navigational:7;commercial:27;transactional:6
+Ventisol: climatizadores e umidificadores,37,18796,92;97;100;41;78;78;78;77;78;78;78;78,task:2;informational:33;navigational:31;commercial:20;transactional:14
+Climatizadores de Ar 30 L,18,1659,62;74;75;72;63;67;66;72;70;78;90;100,task:8;informational:28;navigational:1;commercial:45;transactional:18
+Projetos de Climatização (HVAC),19,1487,65;64;96;80;97;100;99;99;100;100;99;99,task:2;informational:75;navigational:2;commercial:13;transactional:8
+Aluguel de Ar Condicionado e Climatizadores,16,1285,54;27;27;35;98;100;100;48;50;50;50;50,task:4;informational:33;navigational:1;commercial:40;transactional:22
+Ar condicionado TCL,77,39328,17;20;21;43;65;65;65;100;88;88;88;88,task:2;informational:39;navigational:15;commercial:29;transactional:15
+Ar Condicionado Ecoeficiente,17,1540,35;43;56;55;55;56;47;100;79;61;58;82,task:4;informational:61;navigational:3;commercial:24;transactional:8
+Direcionadores de Ar Condicionado,18,2484,26;30;30;22;24;25;26;88;86;100;94;97,task:5;informational:60;navigational:10;commercial:19;transactional:6
+Ar Condicionado Automotivo Blumenau,15,150,46;48;53;46;46;46;46;79;93;97;100;60,task:10;informational:35;navigational:13;commercial:34;transactional:8
+Climatizadores de ar 100 litros,22,769,69;79;79;75;74;80;80;100;46;46;47;47,task:8;informational:52;navigational:4;commercial:23;transactional:13
+Ar Condicionado e Empresas no Brasil,16,933,17;56;56;49;59;56;60;100;94;79;69;78,informational:57;navigational:26;commercial:15;transactional:2
+Climatizadores de ar 80 litros,19,1236,85;100;100;92;46;49;50;77;76;84;61;68,task:5;informational:38;navigational:4;commercial:34;transactional:19
+Refrigeração Automotiva e Ar Condicionado,15,1077,61;86;87;85;85;89;89;98;100;100;95;94,task:7;informational:44;navigational:4;commercial:33;transactional:12
+"Ventiladores, Refrigeradores e Umidificadores",17,1004,50;64;100;94;79;71;75;69;64;68;65;67,task:2;informational:59;navigational:4;commercial:29;transactional:6
+Ar Condicionado Limeira,15,433,29;65;90;82;81;96;98;100;88;82;64;95,task:3;informational:42;navigational:3;commercial:40;transactional:12
+Radiadores e Ar Condicionado Automotivo,18,3425,31;33;36;36;72;73;73;98;100;100;99;99,task:8;informational:54;navigational:6;commercial:24;transactional:8
+Mecânica de Ar Condicionado,17,720,28;44;46;45;44;39;33;100;74;74;86;91,task:8;informational:53;navigational:4;commercial:26;transactional:9
+Ar Condicionado Split,27,4627,43;50;54;61;71;72;81;99;91;97;94;100,task:5;informational:61;navigational:5;commercial:19;transactional:10
+Ar Condicionado Vix,22,6724,9;21;21;23;59;60;60;100;91;91;95;100,task:2;informational:48;navigational:14;commercial:30;transactional:6
+Visoar Refrigeração e Ar Condicionado,15,68,24;24;26;27;24;33;100;34;30;25;25;26,task:7;informational:14;navigational:58;commercial:7;transactional:14
+Motores e ventilação de ar condicionado,35,8224,33;41;35;36;95;96;96;87;100;100;100;99,task:2;informational:67;navigational:5;commercial:19;transactional:7
+Ar Condicionado Colombo,15,1198,18;84;86;80;30;27;26;32;30;38;80;100,task:3;informational:28;navigational:36;commercial:14;transactional:19
+Ar Condicionado Electrolux,24,4456,15;18;20;30;43;42;40;45;70;100;65;67,task:2;informational:55;navigational:15;commercial:15;transactional:13
+Ar Condicionado Panasonic,18,1850,25;30;32;32;43;42;41;92;71;91;86;100,task:3;informational:38;navigational:19;commercial:32;transactional:8
+Ventiladores Domésticos,24,7988,90;97;100;48;59;60;60;54;59;59;59;58,task:5;informational:42;navigational:5;commercial:34;transactional:14
+Ar Condicionado Philips,17,1174,25;27;28;27;27;27;27;85;68;100;82;98,task:2;informational:36;navigational:14;commercial:41;transactional:7
+Climatizadores de ar 45 litros,24,2950,83;98;100;53;46;49;48;50;46;44;44;44,task:8;informational:43;navigational:4;commercial:35;transactional:10
+Conexões de Ar Condicionado,18,246,39;40;40;100;100;100;100;72;40;31;31;31,task:2;informational:55;navigational:4;commercial:30;transactional:9
+Ar Condicionado Hi-Wall,41,13478,29;34;34;41;78;79;80;93;100;100;100;100,task:8;informational:66;navigational:5;commercial:16;transactional:5
+Ar Condicionado e Economia de Energia,87,32858,95;97;100;98;94;94;94;92;93;93;93;93,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Clima Rio Refrigeração,18,5525,61;78;83;78;76;78;79;100;99;100;100;99,task:1;informational:30;navigational:55;commercial:9;transactional:5
+Ar Condicionado Automotivo Brasil,15,83,67;74;77;71;78;100;95;79;77;66;66;66,task:3;informational:49;navigational:3;commercial:40;transactional:5
+Ar Condicionado Carrier,38,15805,38;43;45;48;100;100;100;90;91;91;91;91,task:2;informational:47;navigational:14;commercial:24;transactional:13
+Refrigeração Reconfrio,16,136,76;82;84;84;84;86;86;92;100;100;100;100,task:3;informational:12;navigational:67;commercial:10;transactional:8
+Climatizadores de ar 70 litros,30,4679,70;81;83;39;45;47;47;100;57;56;57;56,task:4;informational:45;navigational:4;commercial:30;transactional:17
+Ar Condicionado Portátil Agratto,16,394,23;29;28;26;33;38;53;100;88;35;32;36,task:3;informational:32;navigational:32;commercial:14;transactional:19
+Duar Refrigeração,16,68,79;77;82;82;86;100;95;90;99;97;90;90,task:3;informational:25;navigational:45;commercial:22;transactional:5
+Ar Condicionado Automotivo e Clima Frio,15,79,39;42;46;45;100;24;24;25;29;29;29;29,task:3;informational:49;navigational:23;commercial:20;transactional:5
+Ar Condicionado Turbo,16,1502,15;15;16;16;24;19;16;79;67;58;57;100,task:1;informational:69;navigational:6;commercial:18;transactional:6
+Ar Condicionado Portátil para Carros,33,6160,48;60;64;70;99;100;100;84;91;91;91;91,task:3;informational:52;navigational:4;commercial:27;transactional:14
+Problemas de ar condicionado,20,529,100;87;85;79;59;59;59;72;72;72;72;72,task:12;informational:67;navigational:5;commercial:8;transactional:8
+Acessórios para Instalação de Ar Condicionado,17,524,42;56;58;66;86;85;83;100;64;74;80;75,task:2;informational:68;navigational:5;commercial:15;transactional:10
+Ar Condicionado SJC,15,767,11;56;57;50;36;12;12;19;15;21;67;100,task:7;informational:18;navigational:17;commercial:46;transactional:12
+Manutenção de Ar Condicionado,49,15104,56;59;97;100;98;99;99;73;71;71;71;71,task:10;informational:54;navigational:3;commercial:19;transactional:14
+Continental Ar Condicionado Brasil,16,966,40;89;92;84;68;59;61;100;62;68;79;100,task:2;informational:15;navigational:28;commercial:47;transactional:8
+Protetor térmico para ar condicionado,20,1536,27;38;40;99;99;100;100;80;87;87;86;87,task:2;informational:79;navigational:3;commercial:15;transactional:1
+Sucata de Ar Condicionado,17,463,68;76;80;76;53;54;100;75;77;88;87;96,task:2;informational:54;navigational:5;commercial:24;transactional:15
+Máquinas de refrigeração,17,4554,14;19;20;20;20;20;20;98;98;98;100;100,task:2;informational:70;navigational:5;commercial:17;transactional:6
+Interclima para caminhões,18,2567,17;18;18;18;94;96;94;100;100;100;100;100,task:2;informational:51;navigational:14;commercial:25;transactional:8
+Ar Condicionado: custo-benefício e eficiência 2024,18,2576,40;46;56;58;98;93;93;100;81;83;89;100,task:5;informational:44;navigational:1;commercial:42;transactional:8
+ar condicionado Midea,110,48554,70;29;31;44;100;100;100;96;79;79;79;79,task:2;informational:42;navigational:11;commercial:24;transactional:21
+Ar Condicionado Inverter,99,60063,57;74;76;84;74;75;75;98;100;100;100;100,task:2;informational:71;navigational:5;commercial:17;transactional:5
+Ar Condicionado Daikin,76,58785,16;17;19;20;76;76;76;100;53;53;53;53,task:2;informational:41;navigational:15;commercial:18;transactional:24
+Spheros ar condicionado,18,507,63;65;67;66;72;73;73;86;58;58;90;100,task:2;informational:40;navigational:35;commercial:10;transactional:13
+Ar Condicionado NetAir,15,150,9;11;15;52;52;46;30;100;73;12;10;15,informational:18;navigational:67;commercial:10;transactional:5
+Termostatos de Ar Condicionado,25,6494,16;20;21;23;99;100;100;82;85;85;85;87,task:2;informational:64;navigational:2;commercial:20;transactional:12
+Ar condicionado: quente e frio,80,37571,31;34;37;66;95;95;95;100;70;70;70;70,task:8;informational:59;navigational:4;commercial:20;transactional:9
+Carros com Ar Condicionado,16,1904,22;27;28;26;26;27;26;24;28;27;27;100,task:3;informational:69;navigational:6;commercial:19;transactional:3
+Refrigeração TemperFrio,15,433,63;77;80;74;73;77;77;86;99;100;98;99,task:3;informational:30;navigational:52;commercial:7;transactional:8
+Ar Condicionado Rheem,21,2643,16;21;22;22;30;33;33;50;97;100;95;91,task:2;informational:55;navigational:5;commercial:22;transactional:16
+Climatizadores no Mercado Livre,15,594,64;100;98;89;51;46;38;32;33;37;37;37,task:2;informational:34;navigational:24;commercial:10;transactional:30
+Climatização e Refrigeração Criciúma,15,212,24;26;31;29;89;59;51;100;80;92;42;40,task:3;informational:18;navigational:34;commercial:40;transactional:5
+Frio e Refrigeração,15,159,100;44;45;45;43;44;44;45;46;63;58;55,task:8;informational:63;navigational:4;commercial:17;transactional:8
+Ar-condicionado Cassete,25,2087,85;99;100;52;52;55;54;62;64;64;67;67,task:3;informational:46;navigational:11;commercial:26;transactional:14
+Artech Climatização,15,321,53;76;100;89;71;74;94;67;80;81;62;62,task:3;informational:27;navigational:32;commercial:27;transactional:11
+Fujitsu Ar Condicionado,42,20681,96;100;47;48;55;56;56;91;95;95;95;95,task:8;informational:48;navigational:6;commercial:28;transactional:10
+Ar condicionado portátil Hisense,20,3580,27;32;32;31;27;28;28;100;56;56;55;55,task:3;informational:55;navigational:14;commercial:25;transactional:3
+Condensadoras de ar condicionado,31,12201,13;17;20;97;99;100;100;88;92;93;92;91,task:2;informational:65;navigational:7;commercial:20;transactional:6
+Filtros e colmeias para climatizadores,20,757,35;43;43;53;98;100;100;51;48;49;49;49,task:4;informational:50;navigational:2;commercial:24;transactional:20
+Ferramentas de Refrigeração e Ar Condicionado,24,2112,58;67;67;100;94;96;96;74;66;66;67;66,task:8;informational:45;navigational:4;commercial:39;transactional:4
+Ar-condicionado para ambientes pequenos,17,773,17;75;68;75;74;57;39;100;96;64;62;64,task:4;informational:56;navigational:3;commercial:29;transactional:8
+Ar condicionado: modelos espelhados e cinza,16,291,20;91;100;84;36;29;27;41;39;28;27;29,task:4;informational:59;navigational:4;commercial:29;transactional:4
+Capital Refrigeração,15,450,78;98;88;87;84;91;89;88;98;100;100;98,task:3;informational:23;navigational:53;commercial:17;transactional:4
+Ar Condicionado Inverter e Split,168,92193,19;21;44;64;100;100;100;96;83;83;83;83,task:5;informational:52;navigational:1;commercial:35;transactional:7
+ar condicionado VG,20,2042,33;40;40;38;38;41;43;57;86;87;94;100,task:5;informational:46;navigational:23;commercial:20;transactional:6
+Ar Condicionado Portátil Midea e Springer,27,8064,90;99;100;48;53;54;54;78;74;74;73;73,task:2;informational:50;navigational:5;commercial:29;transactional:14
+Ar Condicionado Prisma,19,434,59;60;62;72;78;77;84;96;100;97;96;96,task:2;informational:36;navigational:21;commercial:25;transactional:16
+Ar Condicionado 7000 BTUs,54,24661,21;25;27;80;84;85;85;100;100;100;100;99,task:2;informational:45;navigational:4;commercial:38;transactional:11
+Ar-condicionado Brastemp,20,1893,50;59;59;34;32;36;42;38;60;71;78;100,task:5;informational:52;navigational:10;commercial:22;transactional:11
+Ar Condicionado de Torre e Colunas,19,827,24;59;60;45;57;55;57;100;71;64;59;59,task:2;informational:56;navigational:4;commercial:28;transactional:10
+Ar condicionado para Sprinter,17,569,84;99;100;99;91;95;96;99;99;96;95;94,task:8;informational:54;navigational:5;commercial:20;transactional:13
+Ar Condicionado para Ônibus,22,1986,37;38;39;62;80;81;81;60;100;96;96;96,task:5;informational:70;navigational:5;commercial:10;transactional:10
+Ar Condicionado Polo,16,129,12;63;75;67;50;48;42;100;75;20;30;22,task:3;informational:51;navigational:5;commercial:23;transactional:18
+Fluidos Refrigerantes,18,641,42;58;55;52;99;100;100;43;52;52;52;52,task:1;informational:73;navigational:5;commercial:15;transactional:6
+Turbinas de Ar Condicionado,18,2672,31;34;34;47;96;100;100;90;97;97;98;98,task:5;informational:78;navigational:7;commercial:5;transactional:5
+Climatizadores WAP Air Protect,19,3363,30;41;40;36;63;67;63;100;97;90;90;90,task:5;informational:55;navigational:15;commercial:13;transactional:12
+Ar Condicionado Bemol,16,1837,35;56;68;56;44;38;39;66;59;59;90;100,task:3;informational:31;navigational:28;commercial:18;transactional:20
+Caixonetes para ar condicionado,18,1365,32;42;43;70;80;83;83;100;95;97;88;88,task:5;informational:59;navigational:4;commercial:22;transactional:10
+Ar Condicionado 36000 BTU,40,7899,22;27;28;82;100;100;100;44;42;42;42;42,task:3;informational:51;navigational:2;commercial:37;transactional:7
+Refrigeração Águias,19,438,96;99;100;79;42;43;43;60;46;66;60;58,task:2;informational:53;navigational:35;commercial:8;transactional:2
+Ar Condicionado para Motorhome e Trailer,17,250,72;100;100;86;81;77;77;76;82;81;82;81,task:5;informational:53;navigational:2;commercial:22;transactional:18
+Souza Refrigeração,15,69,88;90;99;99;99;100;100;92;94;94;94;94,task:4;informational:24;navigational:27;commercial:40;transactional:5
+Ar Condicionado Consul e Bem-Estar,17,131,67;89;100;97;90;85;85;100;87;96;86;91,task:3;informational:49;navigational:18;commercial:20;transactional:10
+Ar Condicionado Elgin,151,105783,24;25;27;59;93;93;93;100;98;98;98;98,task:2;informational:46;navigational:21;commercial:22;transactional:9
+Hitachi Ar Condicionado no Brasil,27,11576,17;24;25;59;70;71;72;95;99;99;100;100,task:6;informational:43;navigational:22;commercial:24;transactional:5
+Ar Condicionado: Não Gelando,89,30560,94;96;100;99;97;97;97;98;100;100;100;100,task:2;informational:84;navigational:5;commercial:6;transactional:3
+Climatização de Geladeiras 40 Litros,17,402,24;89;100;76;72;22;22;25;27;33;46;47,task:7;informational:50;navigational:7;commercial:26;transactional:10
+Maquinas de Refrigerante,27,2548,31;40;37;33;39;42;43;100;44;42;43;43,task:5;informational:55;navigational:3;commercial:28;transactional:9
+Ventiladores e motores de refrigeração,17,283,56;81;85;74;75;83;79;68;66;100;72;85,task:10;informational:63;navigational:3;commercial:21;transactional:3
+Ar-condicionado 21000 BTU,20,1872,22;30;49;58;100;98;100;56;50;58;56;57,task:5;informational:45;navigational:1;commercial:34;transactional:15
+Disparcon ar condicionado,15,834,35;47;48;46;65;63;35;36;37;100;74;86,task:3;informational:48;navigational:34;commercial:10;transactional:5
+Ar Condicionado BlueAr,15,856,41;61;70;63;50;55;59;57;81;100;77;82,task:7;informational:25;navigational:47;commercial:13;transactional:8
+Tecnoar: Climatização e Compressores,16,1174,56;70;72;70;76;82;83;97;100;100;99;98,task:1;informational:26;navigational:50;commercial:15;transactional:8
+Limpeza e higienização de ar condicionado,39,9210,26;34;56;80;98;100;100;94;85;85;86;86,task:8;informational:64;navigational:4;commercial:10;transactional:14
+Ar Condicionado para Kombi,23,3738,19;22;22;28;48;50;50;98;98;100;100;100,task:8;informational:47;navigational:6;commercial:31;transactional:8
+Ar condicionado Agratto Brasil,76,54171,18;21;32;69;95;95;95;100;100;100;100;100,task:3;informational:41;navigational:29;commercial:18;transactional:9
+Ar condicionado 16000 BTU,19,2997,31;46;54;45;83;78;82;100;94;94;94;94,task:2;informational:46;navigational:1;commercial:40;transactional:11
+Chiller e Refrigeração Industrial,38,18104,31;75;75;83;99;100;100;96;97;97;97;97,task:2;informational:68;navigational:6;commercial:18;transactional:6
+Ar condicionado para painéis elétricos,19,382,48;81;83;77;64;58;59;78;92;100;51;51,task:2;informational:74;navigational:2;commercial:19;transactional:3
+Ar Condicionado Ferreira Costa,16,686,38;55;56;53;100;81;85;60;84;85;63;73,task:3;informational:23;navigational:39;commercial:20;transactional:15
+Equipamentos e Refrigeração,15,147,43;47;50;97;100;59;55;68;63;53;54;53,task:3;informational:45;navigational:34;commercial:10;transactional:8
+Ar condicionado 22000 BTU,35,5193,85;92;95;45;46;47;47;100;44;44;44;44,task:2;informational:49;navigational:2;commercial:32;transactional:15
+Refrigeração Monteiro,15,229,29;42;44;91;91;79;74;100;63;45;44;46,task:3;informational:47;navigational:39;commercial:8;transactional:3
+Ar Condicionado e Refrigeração Unifrio,16,451,15;16;17;16;15;16;15;18;27;29;100;22,task:2;informational:36;navigational:41;commercial:13;transactional:8
+Ar Condicionado Angeloni,16,1301,12;18;18;18;16;14;24;65;41;28;25;100,task:3;informational:18;navigational:39;commercial:14;transactional:26
+Ar Condicionado Monofásico,19,1490,31;35;37;86;84;84;81;93;100;85;85;85,task:4;informational:71;navigational:4;commercial:15;transactional:6
+Ar condicionado de janela 110V,17,253,32;49;100;85;84;44;40;49;46;86;48;50,task:3;informational:37;navigational:4;commercial:44;transactional:12
+Transformadores para ar condicionado,46,19296,14;19;20;27;78;79;79;96;100;100;100;100,task:2;informational:69;navigational:5;commercial:18;transactional:6
+Cemitério do Ar Condicionado,16,716,55;70;69;70;70;73;70;88;91;84;100;100,task:7;informational:61;navigational:11;commercial:5;transactional:16
+Refrigeração Automotiva,15,273,64;85;96;90;90;91;85;87;100;100;100;100,task:3;informational:55;navigational:15;commercial:15;transactional:12
+Ionizadores de Ar e Climatização,26,2489,58;65;79;100;94;96;88;77;78;75;75;76,task:3;informational:75;navigational:6;commercial:10;transactional:6
+Oficinas de Ar Condicionado,15,295,38;42;45;42;42;45;43;43;45;46;100;100,task:7;informational:25;navigational:17;commercial:40;transactional:11
+Ventoinhas e eletroventiladores de ar condicionado,23,7400,28;16;17;23;99;100;100;90;91;90;96;97,task:2;informational:69;navigational:2;commercial:14;transactional:13
+Fotos de Ar Condicionado,19,898,14;35;35;30;29;37;26;18;18;100;81;40,task:7;informational:50;navigational:26;commercial:13;transactional:4
+Placas de Ar Condicionado e Acessórios,33,9663,45;52;53;35;86;88;88;95;100;100;100;100,task:5;informational:53;navigational:4;commercial:31;transactional:7
+Friza Climatização e Acabamentos,16,2206,87;91;92;100;100;95;92;90;90;90;90;90,task:2;informational:37;navigational:30;commercial:8;transactional:23
+Ar condicionado BHP,16,112,32;46;50;46;39;37;100;79;53;42;40;31,task:6;informational:22;navigational:22;commercial:32;transactional:18
+Ar Condicionado Admiral,21,1763,16;27;35;60;85;81;80;100;94;87;86;83,task:2;informational:67;navigational:10;commercial:18;transactional:3
+Ar Condicionado Mitsuo,18,2245,14;16;16;16;36;36;45;66;73;90;86;100,task:3;informational:40;navigational:21;commercial:30;transactional:6
+Ar Condicionado Congelando,18,2607,22;27;25;25;98;99;99;100;100;100;100;100,task:10;informational:78;navigational:2;commercial:5;transactional:5
+Aquecedores e Desumidificadores de Ar,21,1230,37;44;44;54;74;75;78;100;100;98;99;100,task:5;informational:45;navigational:1;commercial:40;transactional:9
+Climatizadores de ar no Magazine Luiza,15,2124,85;99;100;79;82;83;83;76;77;77;81;80,task:2;informational:26;navigational:31;commercial:17;transactional:24
+Ar Condicionado Balaroti,16,68,4;4;5;4;7;10;8;100;66;6;6;6,task:3;informational:17;navigational:24;commercial:18;transactional:38
+Ar Condicionado Automotivo Digital,18,357,77;90;100;85;96;96;97;97;97;97;98;99,task:2;informational:57;navigational:4;commercial:25;transactional:12
+Ar Condicionado Jataí,15,511,16;74;100;85;80;58;71;98;56;65;56;53,task:7;informational:35;navigational:17;commercial:37;transactional:4
+Ar Condicionado Haier Portátil,17,676,32;54;78;51;40;34;29;100;94;64;61;69,task:2;informational:46;navigational:14;commercial:32;transactional:6
+Ar Condicionado para Cozinhas e Restaurantes,21,1620,29;40;43;87;100;93;93;87;93;94;96;97,task:5;informational:61;navigational:3;commercial:27;transactional:4
+Ar Condicionado Portátil (Marcas Britânia/Philco),16,4266,13;16;16;19;60;58;57;94;100;100;100;100,task:5;informational:64;navigational:7;commercial:18;transactional:6
+Fancoil e Ar Condicionado,30,14048,20;47;48;55;94;95;95;97;100;100;100;100,task:7;informational:70;navigational:7;commercial:11;transactional:5
+Master Ar: Climatização e Automotivo no Brasil,15,141,14;16;16;15;15;15;15;14;15;100;16;16,task:5;informational:32;navigational:39;commercial:14;transactional:10
+Ar condicionado Cassol,15,808,39;100;99;87;47;49;42;85;64;65;70;79,task:6;informational:23;navigational:30;commercial:18;transactional:23
+Ar Condicionado Valeo e Serviços,16,115,11;29;35;100;95;19;22;11;21;21;21;21,task:2;informational:45;navigational:14;commercial:35;transactional:4
+Ar Condicionado de Janela Carrefour,16,696,12;50;50;37;35;35;35;41;48;100;80;72,informational:23;navigational:36;commercial:18;transactional:23
+Radiadores e ar‑condicionado no ABC,15,203,49;53;55;51;51;59;57;100;80;66;68;65,task:3;informational:41;navigational:21;commercial:21;transactional:14
+Ar Condicionado Vinhedo,15,284,9;97;100;55;55;55;60;74;74;44;42;58,task:3;informational:39;navigational:22;commercial:28;transactional:8
+Agyx ar condicionado,15,180,16;45;56;50;50;25;30;100;61;39;33;37,task:10;informational:32;navigational:40;commercial:10;transactional:8
+Philco Ar Condicionado,94,51831,50;22;24;43;84;85;85;99;100;100;100;100,task:5;informational:45;navigational:16;commercial:18;transactional:16
+Ar Condicionado Sem Unidade Externa,32,19059,16;21;26;67;100;100;100;93;93;93;93;93,task:2;informational:71;navigational:5;commercial:19;transactional:3
+Ar Condicionado: Limpeza e Instalação,19,1074,21;58;55;47;47;23;23;83;100;77;77;77,task:10;informational:56;navigational:2;commercial:17;transactional:15
+Friotec Refrigeração e Climatização,17,398,61;91;93;88;74;80;79;100;97;100;77;76,task:3;informational:25;navigational:42;commercial:23;transactional:7
+Ar Condicionado na Sacada,16,108,18;100;100;92;26;25;75;32;33;30;27;28,task:10;informational:70;navigational:5;commercial:8;transactional:7
+Sistemas de ar condicionado hidronico e fancolete,19,1493,21;22;23;86;86;86;86;85;100;100;96;96,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Ar Condicionado Inverter 110/127V,38,13562,91;97;100;99;85;86;86;71;95;95;95;95,task:2;informational:52;navigational:4;commercial:36;transactional:6
+Sensores de Ar Condicionado,27,5176,39;30;30;33;61;61;61;96;97;97;99;100,task:2;informational:73;navigational:5;commercial:12;transactional:8
+Limpeza de Ar Condicionado,201,80659,62;68;80;88;94;94;94;99;100;100;100;100,task:7;informational:79;navigational:3;commercial:7;transactional:4
+Ventiladores e circuladores de ar,16,88,19;25;30;73;76;28;25;100;80;44;40;38,task:7;informational:46;navigational:4;commercial:35;transactional:8
+Sistemas de Ar e Compressores,17,507,51;57;57;53;54;55;55;100;100;94;95;95,task:3;informational:62;navigational:18;commercial:9;transactional:8
+Climatização de igrejas,18,1527,16;43;43;79;79;71;73;52;51;100;84;70,task:4;informational:74;navigational:5;commercial:13;transactional:4
+Ar Condicionado Ecológico,18,1871,78;100;95;90;93;88;88;100;51;67;58;84,task:2;informational:69;navigational:5;commercial:19;transactional:5
+Refrigeração JC,15,211,75;93;91;96;91;100;97;98;99;98;99;98,task:7;informational:18;navigational:27;commercial:40;transactional:8
+Ar Condicionado Gree,113,80136,28;28;29;52;59;59;59;100;74;74;74;74,task:2;informational:47;navigational:15;commercial:24;transactional:12
+Ar Condicionado em Itu,15,147,6;29;38;33;12;25;31;100;57;15;12;14,task:7;informational:38;navigational:3;commercial:47;transactional:5
+Prime Air ar condicionado,22,3568,21;26;21;46;49;48;48;86;95;96;97;100,task:2;informational:74;navigational:5;commercial:16;transactional:3
+Ar condicionado 60.000 BTU Komeco,15,228,6;100;93;44;44;35;22;58;92;59;20;24,task:2;informational:67;navigational:10;commercial:18;transactional:3
+Ar Condicionado Xiaomi,25,8241,27;35;35;72;69;70;70;100;92;92;93;93,task:5;informational:52;navigational:9;commercial:26;transactional:8
+Ar condicionado portátil 7000–7500 BTU,17,362,28;48;51;65;71;84;71;100;99;59;58;75,task:1;informational:50;navigational:1;commercial:43;transactional:5
+ar condicionado Marília,15,612,11;92;88;51;50;60;69;76;54;100;88;77,task:6;informational:24;navigational:24;commercial:29;transactional:17
+Clima Center Brasil,15,72,16;18;19;100;99;67;61;17;17;17;17;17,informational:38;navigational:17;commercial:40;transactional:5
+Climatiseurs et climatisation,17,1020,26;67;92;84;75;43;44;100;80;81;81;80,task:8;informational:72;navigational:3;commercial:15;transactional:2
+Qualiterme Refrigeração e Serviços,15,59,89;92;97;97;97;97;97;99;99;99;100;99,task:2;informational:18;navigational:67;commercial:7;transactional:6
+Climatizadores de Ar 35L Ventisol Clin,22,1783,33;51;54;47;44;50;32;41;40;81;96;100,task:5;informational:34;navigational:31;commercial:22;transactional:8
+Capas para ar condicionado,16,475,61;71;72;71;58;62;56;56;58;100;92;56,task:2;informational:59;navigational:2;commercial:29;transactional:8
+Ar Condicionado Fontaine Brasil,25,4351,17;22;32;37;100;100;100;91;99;99;99;99,task:2;informational:48;navigational:15;commercial:28;transactional:7
+Trane Ar Condicionado,23,4174,95;99;100;99;95;98;96;88;93;96;92;91,task:2;informational:34;navigational:27;commercial:20;transactional:17
+Ar Condicionado Electrolux no Brasil,113,31633,30;31;33;39;73;73;73;100;67;67;67;67,task:2;informational:49;navigational:16;commercial:16;transactional:17
+Ar condicionado Tele Rio,16,1091,25;31;30;32;30;54;49;33;33;89;100;96,task:3;informational:28;navigational:32;commercial:22;transactional:15
+Ar-condicionado Onix,17,361,58;60;63;77;80;79;78;84;99;98;100;96,task:2;informational:70;navigational:7;commercial:18;transactional:3
+coletor de água para ar condicionado,20,1282,21;42;42;31;94;97;94;98;100;100;100;100,task:2;informational:67;navigational:5;commercial:10;transactional:16
+União Refrigeração,15,54,22;25;30;29;37;27;27;28;100;97;41;26,task:1;informational:34;navigational:35;commercial:28;transactional:2
+Britânia Ar Condicionado e Climatização,32,10236,43;49;50;68;82;83;84;100;78;78;79;79,informational:51;navigational:29;commercial:7;transactional:13
+Ar Condicionado Portátil Carrefour,15,502,9;63;69;61;58;54;35;100;83;80;66;81,task:3;informational:11;navigational:39;commercial:14;transactional:33
+Kits de Instalação de Ar Condicionado,44,10295,29;37;40;49;100;100;100;73;82;82;83;83,task:10;informational:48;navigational:1;commercial:31;transactional:10
+Canaletas e tubulações de ar condicionado,24,4339,76;94;98;100;86;87;88;90;86;86;83;82,task:2;informational:70;navigational:5;commercial:13;transactional:10
+Circuladores de ar e ventilação doméstica,26,11063,85;68;73;84;99;100;100;100;99;99;99;98,task:8;informational:54;navigational:4;commercial:25;transactional:9
+Refrigeração e Eletroeletrônicos,16,132,31;35;34;29;29;32;32;26;26;100;28;27,task:5;informational:45;navigational:4;commercial:37;transactional:9
+Consumo de energia de ventiladores e climatizadores,117,33796,84;87;89;91;92;92;92;89;100;100;100;100,task:2;informational:82;navigational:5;commercial:8;transactional:3
+Umidificadores de ar,190,322698,30;31;33;93;98;98;98;100;98;98;98;98,task:6;informational:58;navigational:5;commercial:23;transactional:8
+Ar Condicionado em Brasília (DF),20,1510,67;99;100;75;74;76;78;85;83;83;85;93,task:2;informational:31;navigational:24;commercial:39;transactional:4
+Ar condicionado portátil EOS,16,371,39;54;57;53;45;98;100;95;79;100;82;89,task:3;informational:41;navigational:16;commercial:23;transactional:17
+Ar Condicionado em Palmas,15,138,13;94;85;88;88;81;71;100;70;24;23;28,task:3;informational:35;navigational:7;commercial:47;transactional:8
+Aquecedores e Aquecimento,15,1972,100;88;99;98;97;100;93;89;77;77;94;92,task:5;informational:51;navigational:15;commercial:18;transactional:11
+Ar Condicionado Automotivo Universal,25,6097,47;58;59;35;91;93;93;100;98;98;100;100,task:5;informational:40;navigational:7;commercial:34;transactional:14
+Ventiladores móveis e de cabeceira,15,57,7;74;100;84;84;57;35;56;35;15;13;17,task:3;informational:50;navigational:12;commercial:18;transactional:17
+Ar Condicionado para Fusca,26,6899,35;41;42;26;69;69;70;100;100;100;100;99,task:5;informational:50;navigational:4;commercial:29;transactional:12
+Filtros de ar condicionado,38,22377,11;16;19;63;87;88;88;100;100;100;100;100,task:2;informational:67;navigational:5;commercial:18;transactional:8
+Ar Condicionado Usado e Instalação,19,1670,83;99;100;99;44;46;45;47;53;53;53;53,task:12;informational:37;navigational:4;commercial:30;transactional:17
+Zero Grau Ar Condicionado Automotivo,16,612,47;48;49;48;48;49;50;100;100;100;100;100,task:2;informational:51;navigational:4;commercial:36;transactional:7
+Ar condicionado portátil Philco,44,11534,58;61;29;30;100;100;100;92;50;50;50;49,task:2;informational:45;navigational:17;commercial:18;transactional:18
+Vaporizadores e Umidificadores,24,3110,28;37;43;39;100;99;99;94;97;97;96;96,task:2;informational:59;navigational:8;commercial:24;transactional:7
+Ar Condicionado com Wi‑Fi,29,5918,15;22;30;55;91;92;92;97;100;99;97;100,task:5;informational:54;navigational:4;commercial:28;transactional:9
+Manutenção de Ar Condicionado Automotivo,18,3611,75;56;59;68;98;100;100;60;62;63;62;62,task:10;informational:52;navigational:5;commercial:21;transactional:12
+Esconder ar condicionado,20,1584,100;100;93;73;45;44;45;77;80;80;81;81,task:28;informational:56;navigational:2;commercial:12;transactional:2
+ar condicionado com energia solar,31,8945,27;54;56;70;78;79;79;94;100;100;100;100,task:5;informational:63;navigational:2;commercial:21;transactional:9
+Relés para Ar Condicionado,20,4764,26;29;29;29;91;94;94;100;100;98;100;100,task:8;informational:72;navigational:8;commercial:10;transactional:2
+Ar condicionado 15000 BTU,27,8055,46;55;56;73;80;81;81;97;100;100;100;100,task:2;informational:56;navigational:4;commercial:32;transactional:6
+Ar Condicionado 70000 BTUs,16,213,7;66;72;54;46;48;55;100;45;21;17;24,task:7;informational:43;navigational:4;commercial:32;transactional:14
+Sistemas de Resfriamento Evaporativo,19,905,86;86;87;100;80;83;83;71;83;83;84;84,task:2;informational:72;navigational:5;commercial:18;transactional:3
+Ar Condicionado 48000 BTU,23,2040,54;65;64;37;99;100;100;43;48;48;47;47,informational:51;navigational:1;commercial:45;transactional:3
+Ar Condicionado - Desligamento e Controle,22,2160,70;81;83;88;84;82;82;96;92;97;100;100,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Compressores e Peças de Refrigeradores,20,931,39;38;39;16;23;33;50;99;93;100;95;89,task:5;informational:58;navigational:4;commercial:25;transactional:8
+Ar Condicionado de Teto 60000 BTU,55,38945,41;43;44;68;65;65;65;100;91;91;91;91,task:3;informational:56;navigational:4;commercial:30;transactional:7
+Ar Condicionado 20000 BTU,31,2673,38;44;45;30;100;98;99;42;48;48;47;47,task:2;informational:43;navigational:3;commercial:44;transactional:8
+Bandejas para ar condicionado,18,2114,68;82;86;52;89;87;87;76;97;100;93;100,task:1;informational:62;navigational:12;commercial:20;transactional:5
+Ar Condicionado Salto,15,129,7;78;87;78;78;54;62;100;53;16;16;18,task:3;informational:35;navigational:17;commercial:34;transactional:11
+Ar Condicionado Portátil 14000 BTU Inverter,18,558,59;78;81;80;83;78;75;90;90;97;98;100,task:5;informational:45;navigational:4;commercial:37;transactional:9
+Ventiladores solares,18,347,58;92;100;68;43;48;45;44;45;39;39;39,task:8;informational:48;navigational:4;commercial:32;transactional:8
+Evaporadores de Geladeira,19,1201,31;40;40;37;48;48;33;75;66;100;92;100,task:5;informational:63;navigational:4;commercial:20;transactional:8
+Gás para Ar Condicionado,129,51432,35;43;46;60;86;87;87;92;100;100;100;100,task:5;informational:62;navigational:5;commercial:17;transactional:11
+Ar condicionado 7000 BTU,20,1442,45;98;95;76;76;65;42;100;59;42;76;98,task:3;informational:57;navigational:4;commercial:28;transactional:8
+Ar-condicionado com barulho,25,2257,70;72;73;95;98;98;98;90;100;100;100;100,task:12;informational:73;navigational:2;commercial:8;transactional:5
+Refrisat Refrigeração,16,157,69;75;76;75;75;77;77;77;96;100;80;81,task:1;informational:37;navigational:40;commercial:5;transactional:17
+Refrigeração Industrial e Equipamentos,16,375,54;49;51;52;54;56;55;100;99;99;100;100,task:1;informational:52;navigational:8;commercial:33;transactional:6
+Ar condicionado 40000 BTU,21,4759,12;16;17;16;69;68;67;87;83;83;95;100,task:5;informational:43;navigational:14;commercial:33;transactional:5
+Ar Condicionado em Carros Antigos,20,1180,86;93;94;58;90;100;100;93;94;99;99;95,task:8;informational:64;navigational:2;commercial:20;transactional:6
+Refrigeração Polo Frio,15,230,34;44;46;42;42;44;100;96;100;56;57;55,task:3;informational:48;navigational:34;commercial:10;transactional:5
+Conserto e Instalação de Ar Condicionado,20,4301,23;29;29;31;61;62;63;100;40;41;41;40,task:4;informational:52;navigational:2;commercial:32;transactional:10
+Compressores e Sistemas de Refrigeração,19,998,77;75;75;80;80;80;80;89;100;100;100;100,task:2;informational:75;navigational:7;commercial:13;transactional:3
+Radiadores de ar quente,18,2631,24;27;27;28;52;52;52;97;97;99;100;97,task:2;informational:72;navigational:5;commercial:18;transactional:3
+Ar condicionado 30000 BTUs,60,11893,56;61;66;63;65;65;66;100;65;65;65;65,task:2;informational:45;navigational:1;commercial:40;transactional:12
+Ar Condicionado Franca SP,15,826,15;63;60;48;60;50;48;56;54;59;74;100,task:7;informational:28;navigational:27;commercial:34;transactional:4
+Ar condicionado multi split,24,2739,58;83;100;53;58;49;47;72;72;72;71;99,task:5;informational:52;navigational:5;commercial:30;transactional:8
+Umidificadores de ar industriais,15,132,38;46;43;42;100;96;75;45;46;35;35;35,task:7;informational:52;navigational:4;commercial:29;transactional:8
+FG Refrigeração e Equipamentos,15,106,66;73;75;100;76;75;74;89;98;94;86;86,task:7;informational:21;navigational:37;commercial:27;transactional:8
+Climatizadores Maxiclima para Caminhões,17,257,72;85;85;82;82;86;87;77;77;100;85;83,task:7;informational:36;navigational:17;commercial:23;transactional:17
+Ar Condicionado LG Inverter,149,89177,45;45;54;56;100;100;100;100;87;87;87;87,task:5;informational:34;navigational:15;commercial:27;transactional:19
+Ar Quente do Carro e Climatização Automotiva,26,2017,64;76;78;92;95;93;93;78;100;100;100;100,task:8;informational:71;navigational:5;commercial:11;transactional:5
+Ar Condicionado em Ubatuba,15,380,11;52;56;47;40;33;30;100;46;40;39;59,task:3;informational:35;navigational:3;commercial:47;transactional:12
+Ar Condicionado em Lojas Brasileiras,15,1723,77;93;100;94;64;60;61;80;66;69;58;57,task:2;informational:17;navigational:54;commercial:8;transactional:19
+Ar condicionado Electrolux 9000 BTU Ecoturbo,25,1634,46;73;79;64;54;55;54;92;90;100;66;69,task:2;informational:50;navigational:13;commercial:11;transactional:24
+Refrigeração e Equipamentos Big Frio,15,137,55;63;68;73;76;79;77;79;100;100;100;100,task:3;informational:29;navigational:41;commercial:13;transactional:14
+Ar Condicionado Smart com Inverter,21,2417,18;34;34;28;55;50;51;55;59;79;91;100,task:2;informational:55;navigational:2;commercial:27;transactional:14
+Pressostatos de Refrigeração,17,285,41;42;43;54;100;96;96;95;49;52;52;52,informational:75;navigational:13;commercial:10;transactional:2
+Ar Condicionado Cassete Daikin,18,887,11;21;26;18;35;28;32;100;94;61;52;82,task:7;informational:33;navigational:8;commercial:25;transactional:27
+Ar Condicionado 28.000 BTU,20,2977,25;44;47;55;40;40;41;77;78;78;100;100,task:1;informational:53;navigational:4;commercial:32;transactional:10
+Mangueiras de Ar Condicionado,29,9942,32;37;23;29;98;100;100;68;67;67;67;67,task:5;informational:57;navigational:2;commercial:20;transactional:16
+Ar Condicionado Portátil 10000 BTU,18,908,61;75;80;73;64;66;66;89;95;100;84;84,task:7;informational:36;navigational:4;commercial:31;transactional:22
+Refrigeração Marechal,15,72,54;57;59;59;53;100;83;56;56;56;56;56,task:10;informational:70;navigational:5;commercial:12;transactional:3
+Capacitores para Ar Condicionado,42,20040,13;16;18;48;74;75;76;97;100;100;100;100,task:8;informational:61;navigational:2;commercial:21;transactional:8
+Refrigeração e Ar Condicionado Ribeiro,15,52,9;98;100;11;11;10;10;10;10;10;10;10,task:5;informational:12;navigational:44;commercial:34;transactional:5
+Hélices para Ar Condicionado,19,1368,26;32;32;36;34;34;33;94;64;100;87;94,task:2;informational:62;navigational:5;commercial:23;transactional:8
+Ar Condicionado Portátil LG,30,7326,86;98;100;52;50;51;51;78;93;93;93;92,task:2;informational:55;navigational:13;commercial:22;transactional:8
+Ar condicionado Silvermaxi,17,1017,13;80;86;69;40;55;48;82;59;100;93;96,task:5;informational:57;navigational:24;commercial:10;transactional:4
+Ar Condicionado Midea e Springer,22,4368,94;100;20;24;26;27;27;42;41;42;45;44,informational:64;navigational:11;commercial:17;transactional:8
+Controles de ar condicionado,52,39206,16;19;21;32;77;78;78;98;100;100;100;100,task:4;informational:74;navigational:4;commercial:11;transactional:7
+Ar Condicionado e Refrigeração em Americana,15,377,20;81;100;38;71;61;63;39;31;31;45;61,task:3;informational:28;navigational:17;commercial:47;transactional:5
+Compressores de Refrigeração,18,530,37;37;38;30;72;75;62;100;83;84;83;83,task:8;informational:68;navigational:4;commercial:17;transactional:3
+Joape climatizadores e ventiladores,16,739,85;100;98;49;64;62;70;46;48;47;48;47,task:5;informational:25;navigational:19;commercial:12;transactional:39
+Cortinas de ar Springer,15,357,58;76;77;93;93;82;74;74;93;100;93;99,task:2;informational:52;navigational:9;commercial:33;transactional:4
+Ar Condicionado para Fox,21,543,38;47;44;74;72;74;82;67;100;100;100;99,task:5;informational:33;navigational:4;commercial:36;transactional:22
+Controle Universal de Ar Condicionado,113,40992,51;54;54;71;86;86;86;100;100;100;100;100,task:5;informational:70;navigational:3;commercial:16;transactional:6
+Refrigeração Real,15,95,86;90;100;99;95;96;97;90;96;96;96;96,task:3;informational:49;navigational:18;commercial:25;transactional:5
+Ar Condicionado da China,19,1376,18;28;35;45;43;38;38;86;100;78;78;80,task:2;informational:64;navigational:4;commercial:24;transactional:6
+Sixxis Climatizadores no Brasil,15,622,13;64;72;70;26;18;16;100;71;64;58;70,task:3;informational:38;navigational:38;commercial:7;transactional:14
+Ar Condicionado em Maringá,15,831,48;67;66;60;60;63;64;58;100;74;67;67,task:3;informational:36;navigational:18;commercial:37;transactional:6
+Refrigeração Vieira,15,81,78;91;99;100;96;93;95;85;97;97;97;97,task:7;informational:37;navigational:17;commercial:31;transactional:8
+Ar condicionado 110V split,37,7611,25;33;37;65;77;78;79;94;100;100;100;100,task:2;informational:52;navigational:4;commercial:32;transactional:10
+Acessórios de condensadora de ar condicionado,20,1373,25;34;37;43;68;76;70;68;71;100;97;100,task:2;informational:66;navigational:5;commercial:19;transactional:8
+Humidificación y climatización,17,1372,100;83;83;81;13;13;13;47;47;47;47;47,task:2;informational:75;navigational:5;commercial:13;transactional:5
+Infraestrutura e Instalação de Ar Condicionado,21,3090,29;31;54;86;86;86;87;88;100;100;100;100,task:8;informational:75;navigational:5;commercial:10;transactional:2
+Ar Condicionado em Campinas,15,616,56;80;81;73;79;84;85;70;90;100;91;90,task:10;informational:35;navigational:3;commercial:47;transactional:5
+Ar Condicionado para Ambientes Pequenos,23,2603,23;38;40;48;67;64;65;100;67;70;81;89,task:2;informational:57;navigational:4;commercial:33;transactional:4
+Ar Condicionado 23000 BTU,19,1398,23;56;60;35;28;33;38;100;72;68;63;80,task:2;informational:61;navigational:2;commercial:27;transactional:8
+ar condicionado no Mercado Livre,16,5229,50;58;58;56;40;41;41;100;100;98;97;97,task:5;informational:16;navigational:26;commercial:14;transactional:39
+Interfrio Refrigeração,15,265,36;42;45;43;43;44;44;45;92;100;50;49,informational:41;navigational:33;commercial:23;transactional:3
+Ar Condicionado: Ruídos e Congelamento,69,18807,84;89;90;93;93;94;94;96;100;100;100;100,task:12;informational:78;navigational:4;commercial:5;transactional:1
+Ventiladores Goar,17,601,35;49;49;47;44;46;44;41;82;100;44;44,task:3;informational:24;navigational:46;commercial:8;transactional:19
+Koerich Ar Condicionado e Aspiradores,15,439,38;59;60;58;97;74;62;92;75;95;87;100,task:3;informational:25;navigational:38;commercial:12;transactional:22
+Ar condicionado Leroy Merlin,15,3753,28;41;48;48;54;45;39;42;53;56;87;100,task:3;informational:18;navigational:57;commercial:11;transactional:11
+Unidades Condensadoras para Refrigeração,21,2735,21;25;26;44;99;100;100;97;97;97;97;97,task:5;informational:49;navigational:6;commercial:25;transactional:15
+Compressores Bitzer,17,1516,84;94;95;94;94;98;100;74;75;75;75;74,task:2;informational:45;navigational:20;commercial:23;transactional:10
+Impacto Ambiental na Refrigeração e Ar Condicionado,15,157,74;94;97;83;63;66;65;79;84;92;87;100,task:3;informational:59;navigational:11;commercial:22;transactional:5
+Refrigeração e Ar Condicionado no Brasil,15,659,71;90;91;83;79;85;91;96;89;85;95;100,task:3;informational:44;navigational:4;commercial:36;transactional:13
+Ar Condicionado Cassete 48k BTU,18,1641,38;46;46;31;37;33;30;30;48;56;83;100,task:5;informational:50;navigational:4;commercial:31;transactional:10
+Controladores de Temperatura,26,9353,18;22;23;33;98;99;100;96;94;94;94;94,task:2;informational:56;navigational:4;commercial:26;transactional:12
+Komeco Ar Condicionado,39,14673,28;35;35;44;90;91;91;100;97;96;97;97,task:5;informational:43;navigational:23;commercial:11;transactional:18
+Refrigeração Pinguim,15,181,79;90;96;94;94;97;97;98;96;100;100;100,task:3;informational:28;navigational:34;commercial:31;transactional:4
+Molduras e acabamentos de ar condicionado,20,2675,85;99;100;51;87;91;91;53;68;68;65;64,task:2;informational:56;navigational:2;commercial:30;transactional:10
+Ar Condicionado Automotivo no Brasil,15,294,70;74;75;83;84;100;91;75;80;63;63;65,task:8;informational:56;navigational:6;commercial:26;transactional:4
+Ar Condicionado Guarujá,15,387,14;74;74;64;87;69;65;100;55;62;49;63,task:7;informational:32;navigational:3;commercial:46;transactional:12
+Desumidificadores de ar,47,67269,11;13;14;85;98;98;98;100;100;100;100;100,task:2;informational:52;navigational:1;commercial:38;transactional:7
+Ar Condicionado 127V 9000 BTU,18,1409,60;89;92;89;75;79;82;81;94;100;90;90,task:3;informational:51;navigational:4;commercial:33;transactional:9
+Ar Condicionado e Refrigeração Santo André,15,315,13;13;14;13;13;81;84;100;61;73;37;63,task:1;informational:24;navigational:38;commercial:32;transactional:5
+Aquecedores de Ambiente,34,6187,38;49;50;65;82;83;81;94;100;100;100;100,task:5;informational:45;navigational:4;commercial:36;transactional:10
+Ar Condicionado 9000 BTU 110V,16,1303,13;33;65;56;33;34;33;21;20;55;68;100,task:5;informational:44;navigational:1;commercial:35;transactional:15
+Peças para Ar Condicionado Consul,15,446,57;66;68;52;51;50;54;72;43;99;87;100,task:2;informational:29;navigational:7;commercial:48;transactional:14
+Ar condicionado e geradores Stonni,15,139,14;34;42;26;29;34;23;100;60;19;19;19,task:3;informational:46;navigational:31;commercial:16;transactional:4
+ar condicionado portátil Gree,21,7686,77;88;90;48;42;45;45;98;100;100;99;99,task:2;informational:53;navigational:10;commercial:15;transactional:20
+Caixas Evaporadoras e Unidades de Ar Condicionado,18,377,57;66;67;65;65;87;90;69;69;100;100;97,task:7;informational:61;navigational:5;commercial:20;transactional:7
+Ar Condicionado e Saúde,24,1811,54;54;54;52;39;39;39;100;84;50;50;50,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Dutos de Ar Condicionado,40,10704,45;53;54;43;94;96;96;100;100;100;100;100,task:5;informational:66;navigational:5;commercial:19;transactional:5
+Ar comprimido e compressores,18,627,92;100;88;88;84;84;84;84;84;84;85;85,task:5;informational:75;navigational:8;commercial:10;transactional:2
+Limpeza de Ar Condicionado Automotivo,90,40690,29;38;39;49;74;74;75;97;100;100;100;100,task:2;informational:65;navigational:5;commercial:16;transactional:12
+Ar condicionado 7500 BTU,22,2762,55;64;67;52;100;100;100;74;75;59;72;73,task:2;informational:41;navigational:6;commercial:31;transactional:20
+Ventiladores Ventisol e similares,17,817,41;59;60;55;54;52;63;81;57;58;80;100,task:3;informational:46;navigational:19;commercial:14;transactional:18
+Ventiladores de Parede,49,21889,98;100;44;49;48;48;48;51;51;51;51;51,task:2;informational:45;navigational:5;commercial:30;transactional:18
+ar condicionado 80000 BTUs,16,366,30;60;62;63;58;59;50;59;63;82;76;100,task:3;informational:48;navigational:1;commercial:37;transactional:11
+Ar Condicionado Automotivo em Contagem,15,66,18;87;100;76;27;95;67;23;23;23;23;22,task:3;informational:36;navigational:23;commercial:33;transactional:5
+Ar Condicionado 7500 BTU - Ponto Frio (PT),15,134,7;15;20;22;40;31;21;35;27;100;33;43,task:7;informational:32;navigational:18;commercial:18;transactional:25
+Ar condicionado Sorocaba,15,870,57;93;98;89;91;86;86;69;89;89;95;100,task:3;informational:8;navigational:37;commercial:47;transactional:5
+Ar condicionado 30000 BTU,17,703,84;100;100;54;49;51;51;87;100;50;48;49,task:2;informational:28;navigational:10;commercial:21;transactional:39
+Ar Condicionado 9000 BTU,26,1625,79;97;100;95;49;51;51;50;53;61;46;49,task:8;informational:26;navigational:9;commercial:38;transactional:19
+Elgin Ar Condicionado,18,1297,49;25;49;42;40;26;24;25;27;24;74;100,task:2;informational:51;navigational:16;commercial:15;transactional:16
+Refrigeração e Ar Condicionado em Chapecó,15,254,10;100;100;74;54;44;42;77;35;30;32;33,task:3;informational:39;navigational:10;commercial:43;transactional:5
+Refrigeração e Ar Condicionado - Praia Grande,16,961,62;88;89;87;92;93;93;93;96;97;100;100,task:3;informational:26;navigational:17;commercial:42;transactional:12
+Refrigeração para navegantes,15,56,31;31;34;34;31;31;31;100;90;37;36;36,task:1;informational:58;navigational:4;commercial:31;transactional:6
+Ar condicionado linear e difusores,18,162,89;97;100;94;94;97;97;96;100;100;99;99,task:4;informational:69;navigational:4;commercial:18;transactional:5
+Ventiladores de Bauru,15,479,23;26;27;61;68;68;79;64;49;100;88;84,task:3;informational:61;navigational:4;commercial:21;transactional:11
+Bombas de Vácuo para Ar Condicionado,39,9735,25;29;32;33;51;52;52;100;48;48;48;47,task:2;informational:55;navigational:5;commercial:19;transactional:19
+Ar Condicionado para Data Center de Precisão,18,433,59;62;63;61;81;81;81;81;81;100;100;100,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Ar Condicionado em Araraquara,15,584,23;83;100;91;69;50;57;25;73;85;61;91,task:10;informational:29;navigational:7;commercial:39;transactional:15
+Coel Controles de Temperatura,18,752,65;83;84;83;83;88;89;100;95;95;96;94,task:3;informational:35;navigational:33;commercial:17;transactional:12
+Ar condicionado de janela em apartamentos,37,14651,45;50;49;59;77;78;78;94;100;100;100;100,task:10;informational:73;navigational:5;commercial:10;transactional:2
+Ar condicionados Springer e Midea no Brasil,28,19013,39;44;45;73;100;100;100;98;99;99;99;99,task:3;informational:38;navigational:9;commercial:29;transactional:21
+Ar Condicionado e Refrigeração Cascavel,15,809,19;47;74;56;46;33;26;23;45;55;78;100,task:1;informational:18;navigational:41;commercial:37;transactional:3
+Ar Condicionado: Dimensões e Capacidade,17,347,32;81;85;100;98;97;66;51;57;57;57;57,task:2;informational:76;navigational:5;commercial:14;transactional:3
+Ar condicionado de janela 7500 BTU,88,35226,31;34;39;64;73;73;73;100;90;90;90;90,task:9;informational:36;navigational:4;commercial:39;transactional:12
+Refrigeração e Ar Condicionado em Itajaí,15,357,10;24;29;26;25;63;63;100;58;57;30;44,task:3;informational:39;navigational:10;commercial:40;transactional:8
+Ar Condicionado Taubaté,15,387,7;46;77;55;54;44;47;100;56;33;29;39,task:3;informational:35;navigational:17;commercial:40;transactional:5
+Assistência Técnica de Ar Condicionado,15,194,70;100;98;90;88;85;80;70;91;71;80;85,task:3;informational:42;navigational:18;commercial:24;transactional:13
+Ar Condicionado Automotivo Friocar (Praia Grande),17,238,57;64;67;100;80;75;71;91;74;76;75;74,task:1;informational:28;navigational:39;commercial:22;transactional:10
+LG Ar Condicionado no Brasil,15,1186,9;56;62;48;40;19;15;17;18;21;60;100,task:3;informational:46;navigational:22;commercial:14;transactional:15
+Ar Condicionado 6000 BTU,17,2600,35;41;41;41;86;88;88;97;94;100;89;90,task:2;informational:40;navigational:3;commercial:43;transactional:12
+Peças de Refrigeração,26,7894,67;97;100;92;64;65;65;69;72;72;72;71,task:8;informational:48;navigational:20;commercial:16;transactional:8
+Ar condicionado Gree 60000 BTU e similares,17,133,23;54;75;58;58;62;44;23;22;100;25;28,task:3;informational:53;navigational:4;commercial:28;transactional:12
+Ar Condicionado Split Portátil Max,23,5201,41;47;29;44;70;71;71;100;95;95;94;94,task:3;informational:48;navigational:15;commercial:30;transactional:4
+Refrigeração e Assistência Técnica (Refritec),16,555,89;97;98;97;94;96;97;100;91;93;80;80,task:5;informational:48;navigational:21;commercial:20;transactional:6
+Royce Ar Condicionado Automotivo,16,1076,87;100;100;52;64;67;68;57;59;59;62;61,task:5;informational:42;navigational:22;commercial:11;transactional:20
+Clipadoras e ferramentas para ar condicionado,16,183,33;37;38;50;48;62;100;38;38;42;40;41,task:3;informational:50;navigational:5;commercial:26;transactional:16
+Caixas para ar condicionado,43,14144,29;35;37;42;76;77;77;96;100;100;100;100,task:2;informational:55;navigational:5;commercial:29;transactional:9
+Ventiladores de Teto,17,302,51;67;71;62;68;100;58;72;73;64;62;64,task:3;informational:48;navigational:4;commercial:32;transactional:13
+Resfriamento de quarto com ventilador e água,49,14001,82;82;81;84;82;83;83;89;100;100;100;100,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Ar Condicionado Industrial para Galpões,21,1060,89;100;100;87;71;73;72;85;81;82;83;84,task:2;informational:53;navigational:1;commercial:37;transactional:7
+Humidificadores Mondial,19,4502,77;88;89;88;39;41;41;100;100;100;100;100,task:5;informational:46;navigational:20;commercial:18;transactional:11
+Refrigeração e Eletrodomésticos no Brasil,16,3913,15;24;76;78;19;18;18;93;89;90;89;100,task:5;informational:62;navigational:10;commercial:20;transactional:3
+Compressores de Refrigeração Embraco e Similares,30,1952,29;34;34;62;72;74;74;96;99;99;100;100,task:2;informational:58;navigational:10;commercial:23;transactional:7
+Pressostatos: ar condicionado e automotivo,32,22341,21;24;25;94;98;99;99;100;100;100;100;100,task:5;informational:78;navigational:5;commercial:7;transactional:5
+ar condicionado cassete 36000 BTU,18,1734,35;69;69;65;48;50;53;44;52;52;82;100,task:3;informational:43;navigational:4;commercial:41;transactional:9
+Suportes e cantoneiras para ar condicionado,16,1481,38;41;41;49;48;53;46;63;63;100;94;89,task:5;informational:50;navigational:5;commercial:27;transactional:13
+Intercambiadores de calor,17,488,77;99;100;96;75;75;75;91;91;91;91;91,task:5;informational:75;navigational:6;commercial:10;transactional:4
+Ventiladores Portáteis,26,13977,94;98;100;41;45;45;45;41;41;41;41;41,informational:60;navigational:4;commercial:27;transactional:9
+Ar Condicionado 50k BTU,19,1247,12;100;95;40;39;31;18;92;66;20;19;95,task:10;informational:33;navigational:1;commercial:34;transactional:22
+Ar Condicionado em Bauru,15,701,22;33;40;39;38;33;48;98;82;100;72;84,task:7;informational:28;navigational:10;commercial:47;transactional:8
+Ar Condicionado Portátil Elgin,17,1518,88;100;100;99;90;92;92;55;71;72;69;70,task:2;informational:40;navigational:24;commercial:22;transactional:12
+Refrigeração e frigobares,16,69,9;53;62;49;39;31;100;72;61;21;21;20,task:7;informational:48;navigational:2;commercial:18;transactional:25
+Polar Refrigeração e Caixas,17,765,52;65;68;69;97;100;93;75;74;74;75;75,task:3;informational:32;navigational:28;commercial:28;transactional:9
+Fusíveis de Ar Condicionado,19,3065,93;92;69;62;54;54;54;93;97;98;98;100,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Ar Condicionado Split — Preços,16,977,20;53;57;49;48;40;42;100;93;75;67;71,task:2;informational:44;navigational:4;commercial:38;transactional:12
+Ventiladores no Brasil,128,166862,63;64;66;71;86;86;86;100;99;99;99;99,informational:47;navigational:9;commercial:34;transactional:10
+Circuladores de Ar Mondial,17,419,70;88;94;89;83;89;87;91;96;100;96;97,task:3;informational:45;navigational:18;commercial:28;transactional:6
+Ar Condicionado 24.000 BTU Inverter,110,30442,35;36;38;39;100;100;100;50;45;45;45;45,task:2;informational:46;navigational:3;commercial:38;transactional:11
+Compressores e Bombas,15,713,34;45;47;46;34;35;34;48;49;63;100;96,task:8;informational:56;navigational:10;commercial:23;transactional:3
+Ventiladores Opus,15,569,55;57;60;56;58;57;57;96;97;98;98;100,task:2;informational:41;navigational:14;commercial:30;transactional:13
+Purificadores de Ar Verdes,16,285,8;41;39;32;99;26;21;17;98;100;42;47,task:10;informational:43;navigational:4;commercial:32;transactional:11
+Manutenção de Refrigeração,15,140,52;55;60;62;66;67;68;100;71;71;71;71,task:10;informational:38;commercial:40;transactional:12
+Ventiladores Industriais,15,2791,86;99;100;99;49;53;54;55;55;55;54;54,task:3;informational:58;navigational:4;commercial:27;transactional:8
+Arrefecimento Automotivo,33,7338,94;98;100;97;73;74;74;97;98;98;98;98,task:6;informational:74;navigational:3;commercial:13;transactional:4
+Área Técnica de Ar Condicionado,20,2746,60;67;66;56;97;96;96;100;100;100;100;100,task:2;informational:73;navigational:10;commercial:10;transactional:5
+Desidratadores e desumidificadores Thermomatic,19,1734,82;98;100;98;83;86;87;83;98;98;94;92,task:5;informational:36;navigational:21;commercial:16;transactional:22
+Centros de Radiadores,15,96,20;38;41;38;38;75;67;99;100;35;57;60,task:3;informational:25;navigational:28;commercial:22;transactional:22
+Ar Frio e Refrigeração no Brasil,16,700,45;53;54;90;90;100;100;31;48;51;59;63,task:5;informational:51;navigational:24;commercial:10;transactional:10
+Ventiladores de Geladeira,35,4203,74;41;50;59;89;92;93;100;99;99;100;99,task:5;informational:60;navigational:5;commercial:15;transactional:15
+Compressores de Ar Condicionado 9000 BTU,21,924,28;34;34;33;35;58;59;42;89;100;76;90,task:3;informational:51;navigational:1;commercial:38;transactional:7
+Ar Condicionado Agratto 30000 BTUs,17,361,17;100;97;43;43;31;47;41;30;42;41;43,task:3;informational:18;navigational:38;commercial:26;transactional:15
+Tipos de ar condicionado de teto,20,3042,22;93;93;100;28;28;29;95;96;99;87;87,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Exaustores e Ventiladores,42,8329,41;46;50;56;90;92;92;100;93;93;92;92,task:5;informational:69;navigational:4;commercial:16;transactional:6
+Coolers e Ventiladores para PC,16,330,28;100;91;66;51;55;46;46;52;57;52;61,task:4;informational:30;navigational:21;commercial:20;transactional:25
+Ar Condicionado 12000 BTU,46,14914,66;72;74;37;58;58;59;63;100;100;100;100,task:2;informational:44;navigational:7;commercial:29;transactional:18
+Ar Condicionado em Uberaba,15,555,17;72;73;62;62;45;41;100;45;65;53;93,task:3;informational:42;navigational:3;commercial:40;transactional:12
+Ventiladores Arge,22,7189,58;94;95;96;54;56;56;86;89;89;95;100,task:2;informational:61;navigational:15;commercial:18;transactional:4
+Recolhedoras de gás e refrigerante,17,604,84;100;65;50;55;57;61;52;85;93;92;92,task:2;informational:57;navigational:14;commercial:21;transactional:6
+Ar condicionado 18000 BTU Inverter,159,58504,26;26;27;95;100;100;100;51;33;33;33;33,task:8;informational:40;navigational:4;commercial:39;transactional:9
+Ar Condicionado e Refrigeração em Brusque,16,730,12;22;23;25;51;44;41;58;40;55;74;100,task:3;informational:53;navigational:4;commercial:35;transactional:5
+Defletores acrílicos para ar condicionado,28,25363,27;30;31;62;91;91;91;100;78;78;78;78,task:2;informational:56;navigational:10;commercial:26;transactional:6
+Ventiladores de Coluna e de Pé,92,63847,100;100;41;47;47;47;47;59;46;46;46;46,task:5;informational:43;navigational:5;commercial:30;transactional:17
+Ar Condicionado Agratto 24000 BTU,15,1893,7;8;8;8;8;30;17;65;48;30;28;100,task:3;informational:51;navigational:11;commercial:24;transactional:11
+Refrigeração e Ar Condicionado Rodrigues - Mogi das Cruzes e Suzano,15,331,20;100;99;83;70;58;61;83;47;58;36;53,task:3;informational:21;navigational:41;commercial:30;transactional:5
+Academia com Ar Condicionado,19,1447,28;29;30;68;58;60;60;76;89;92;100;100,informational:55;navigational:21;commercial:16;transactional:8
+Coolers e Ventiladores 12V/110V/220V,18,1584,74;84;84;45;51;54;55;68;97;96;100;82,task:5;informational:53;navigational:2;commercial:35;transactional:5
+LG evaporadoras,16,1021,25;73;68;69;77;74;71;77;60;68;64;100,task:5;informational:38;navigational:21;commercial:26;transactional:10
+Coolers de PC,17,860,38;61;63;52;55;59;58;65;100;94;91;67,task:7;informational:40;navigational:1;commercial:38;transactional:14
+Climatização e Refrigeração em Itapetininga,15,251,10;78;81;42;46;39;37;100;59;28;26;34,task:2;informational:24;navigational:39;commercial:29;transactional:6
+Disjuntores e caixas para ar condicionado,23,6640,14;17;18;85;93;93;94;100;100;100;100;99,task:5;informational:61;navigational:7;commercial:15;transactional:12
+Ar condicionado 9000 BTU (split/inverter),485,263219,40;42;43;59;49;49;49;100;52;52;52;52,task:2;informational:65;navigational:2;commercial:26;transactional:5
+Refrigeração Nacional,15,69,18;18;19;100;100;20;20;35;29;20;20;20,task:2;informational:49;navigational:23;commercial:20;transactional:6
+Ar condicionado com exaustor para dois quartos,23,4027,29;32;32;55;82;80;81;93;93;96;98;100,task:2;informational:44;navigational:3;commercial:34;transactional:17
+Refrigeração Comercial e Equipamentos,15,289,93;93;94;94;100;100;99;98;32;33;31;31,task:3;informational:65;navigational:4;commercial:22;transactional:6
+Ar Condicionado Consul 10000 BTU,26,3090,81;97;96;53;64;67;66;68;67;67;100;97,task:2;informational:50;navigational:10;commercial:26;transactional:12
+Isolamento térmico para ar condicionado,24,2144,33;17;23;78;80;81;80;98;78;78;99;100,task:2;informational:70;navigational:5;commercial:17;transactional:6
+Ar condicionado para Fiat Uno,22,781,90;100;99;96;81;83;85;99;86;85;84;84,task:1;informational:71;navigational:5;commercial:16;transactional:7
+Ar Condicionado 32000 BTU,30,2137,20;28;28;25;99;100;100;32;43;46;39;39,informational:47;navigational:1;commercial:42;transactional:10
+Ar Condicionado para Chevrolet Celta,29,3303,30;38;62;83;94;95;95;87;100;100;100;99,task:2;informational:57;navigational:5;commercial:23;transactional:13
+Refrigeração e Ar Condicionado em Cabo Frio,15,247,36;38;40;37;36;78;63;57;49;100;96;96,task:3;informational:24;navigational:29;commercial:35;transactional:9
+Ventiladores de mesa,20,7883,89;95;99;93;93;94;94;100;48;48;48;48,task:4;informational:34;navigational:2;commercial:22;transactional:38
+Coolers elétricos portáteis automotivos,17,1268,81;93;96;94;96;99;100;68;76;80;69;68,task:2;informational:55;navigational:2;commercial:34;transactional:7
+Ventiladores Ultra,16,2758,26;32;35;30;64;66;70;77;73;100;95;93,task:2;informational:47;navigational:14;commercial:28;transactional:9
+Desinfetantes para Ar Condicionado,18,3291,26;28;28;20;99;100;100;70;94;96;95;95,task:2;informational:51;navigational:14;commercial:14;transactional:19
+Totaline: Ar Condicionado e Refrigeração,22,2930,58;69;70;66;84;89;90;100;84;83;86;85,task:2;informational:47;navigational:31;commercial:12;transactional:8
+Eletrofrio Refrigeração,16,1220,64;96;96;100;88;95;94;95;94;94;90;89,task:2;informational:21;navigational:38;commercial:7;transactional:32
+Ar Condicionado e Refrigeração em São Carlos,15,218,13;96;92;81;80;46;20;85;74;100;24;25,task:7;informational:38;navigational:7;commercial:40;transactional:8
+Geladeiras automotivas,17,593,52;94;100;72;75;78;81;74;76;82;82;99,informational:54;navigational:1;commercial:25;transactional:20
+Locação de Climatizadores e Ventiladores para Eventos,15,237,65;67;73;89;100;99;98;46;47;47;47;49,task:8;informational:31;navigational:3;commercial:44;transactional:14
+Ar Condicionado Portátil: Manutenção e Conserto,17,755,98;100;100;77;61;61;61;54;61;62;62;63,task:5;informational:57;navigational:4;commercial:28;transactional:6
+Calefatores e Lareiras,22,4654,15;18;19;62;65;66;66;100;25;25;25;24,task:2;informational:63;navigational:4;commercial:25;transactional:6
+Refrimaq Refrigeração e Climatização,16,610,73;90;91;84;84;90;91;95;100;100;100;99,task:1;informational:32;navigational:42;commercial:19;transactional:6
+Ar Condicionado Passo Fundo,15,68,9;78;100;13;12;27;23;94;90;44;9;9,task:3;informational:15;navigational:30;commercial:40;transactional:12
+Aquecedores Halógenos,21,2698,20;26;27;32;32;34;39;93;98;100;100;100,task:5;informational:44;navigational:9;commercial:28;transactional:14
+Ventiladores de Torre,53,16841,84;89;92;51;76;77;77;100;84;84;84;84,task:2;informational:38;navigational:4;commercial:39;transactional:17
+Casas de Radiadores,15,1138,90;100;61;59;55;58;54;58;62;62;60;60,task:5;informational:57;navigational:4;commercial:25;transactional:9
+Casa do Vento: Ventiladores para Casa,15,741,18;24;24;22;35;33;50;60;63;100;90;95,task:4;informational:29;navigational:27;commercial:25;transactional:15
+Recicladoras de Ar Condicionado Automotivo,17,992,53;100;61;97;99;100;100;95;95;94;94;93,informational:57;navigational:22;commercial:18;transactional:3
+Suportes para ar condicionado,28,6952,54;60;30;36;73;74;75;100;46;46;46;46,task:8;informational:52;navigational:4;commercial:27;transactional:9
+Ar Condicionado Cassete 18000 BTU,19,1158,49;100;97;90;75;67;63;76;58;66;66;82,task:5;informational:27;navigational:4;commercial:54;transactional:10
+Ar Condicionado com Frete Grátis,16,1105,20;40;55;59;61;60;54;100;65;63;61;94,task:2;informational:34;navigational:2;commercial:48;transactional:14
+Ar condicionado em Canoas,15,542,17;20;23;20;46;40;32;22;50;69;89;100,task:3;informational:28;navigational:10;commercial:47;transactional:12
+Ar Condicionado Araçatuba,16,1451,73;87;98;96;100;97;86;84;81;81;92;99,task:5;informational:48;navigational:22;commercial:17;transactional:8
+Aquecedores Ventisol,20,2431,76;98;100;53;53;56;56;86;88;88;84;84,task:3;informational:36;navigational:25;commercial:25;transactional:11
+Climatização e Refrigeração em Curitiba,15,698,84;99;100;55;54;60;55;49;56;57;53;52,task:4;informational:30;navigational:8;commercial:52;transactional:6
+Refrigeração e Ar Condicionado em Caruaru,15,166,13;77;83;58;64;59;49;100;68;30;35;30,task:2;informational:29;navigational:36;commercial:30;transactional:3
+Umidificadores de ar portáteis,22,2546,88;98;100;51;43;46;47;61;45;45;44;44,task:2;informational:57;navigational:2;commercial:29;transactional:10
+Ar Condicionado em Jundiaí,15,804,15;51;58;45;40;31;34;76;45;53;65;100,task:7;informational:28;navigational:7;commercial:46;transactional:12
+Ventiladores para Freezer,21,650,31;41;43;30;44;45;46;100;54;53;53;53,task:2;informational:64;navigational:5;commercial:20;transactional:9
+Lumiar Refrigeração e Ar Condicionado,16,257,27;36;38;100;100;35;35;36;35;43;43;44,task:1;informational:27;navigational:51;commercial:10;transactional:11
+Ar Condicionado para Corsa Clássico e Wind,29,2774,24;31;30;29;63;65;65;100;100;100;100;99,task:4;informational:56;navigational:4;commercial:28;transactional:8
+Ar condicionado para Fiat Siena,15,48,31;34;43;43;45;64;67;56;54;80;100;77,task:10;informational:50;navigational:5;commercial:18;transactional:17
+Ar condicionado com serpentina de cobre,18,1200,28;36;37;79;29;26;23;74;72;78;75;100,task:8;informational:55;navigational:5;commercial:26;transactional:6
+Ar Condicionado Londrina,15,702,32;44;43;42;44;48;43;35;87;100;70;72,task:3;informational:25;navigational:30;commercial:37;transactional:5
+Gree: Ar Condicionado e Eletrodomésticos,23,774,46;57;70;61;68;71;82;68;94;100;64;65,task:2;informational:57;navigational:18;commercial:14;transactional:9
+Radiadores e Aquecedores,18,321,93;98;100;97;95;96;96;96;97;100;100;100,task:2;informational:48;navigational:5;commercial:19;transactional:26
+Ar Condicionado Automotivo em Curitiba,15,201,81;97;99;100;90;96;94;88;91;94;91;94,task:3;informational:32;navigational:10;commercial:47;transactional:8
+Ar condicionado de janela 30000 BTU,17,651,13;96;100;39;55;61;62;19;18;90;79;91,task:7;informational:41;commercial:44;transactional:8
+Frigobares Consul,37,21522,97;100;45;50;63;63;63;97;97;99;98;98,informational:38;navigational:30;commercial:23;transactional:9
+Compressores e ar condicionado automotivo Denso,16,360,53;55;57;57;67;72;68;100;96;94;93;97,task:3;informational:53;navigational:4;commercial:34;transactional:6
+Compressores de ar,93,74898,37;38;41;89;51;51;51;100;100;100;100;100,task:5;informational:39;navigational:4;commercial:29;transactional:23
+Ar Condicionado Janela 12000 BTU,20,5007,89;97;100;99;94;95;95;44;47;47;46;46,task:2;informational:43;navigational:4;commercial:41;transactional:10
+Ar Condicionado 42000 BTU Inverter,16,314,25;63;70;39;42;72;69;100;72;40;40;41,task:3;informational:61;navigational:4;commercial:29;transactional:3
+Ventiladores Philco,17,1795,85;99;100;98;94;97;97;47;53;53;54;53,task:8;informational:35;navigational:16;commercial:13;transactional:28
+Ar Condicionado Hyundai HR,15,279,72;79;80;66;66;72;71;69;100;99;100;99,task:5;informational:50;navigational:9;commercial:30;transactional:6
+Ar Condicionado Janela 7500 BTU com Controle Remoto,16,762,37;84;100;85;51;48;45;58;57;71;82;92,task:2;informational:65;navigational:5;commercial:20;transactional:8
+Ar Condicionado Cassete 30000 BTU,16,1051,7;21;21;20;28;31;13;36;38;83;69;100,informational:45;navigational:14;commercial:36;transactional:5
+Ar Condicionado do Palio,25,1357,27;31;31;28;45;47;46;100;84;84;85;85,task:12;informational:56;navigational:4;commercial:20;transactional:8
+Ar Condicionado 9000 BTU Inverter,67,31275,39;38;41;40;100;100;100;62;63;63;63;63,task:5;informational:37;navigational:5;commercial:38;transactional:15
+Ventiladores com gelo,17,1692,30;32;33;42;43;33;32;100;98;88;88;87,task:8;informational:78;navigational:2;commercial:10;transactional:2
+Ar-condicionado: liga/desliga automático,35,6282,85;88;100;98;87;88;88;86;94;95;94;94,task:5;informational:73;navigational:6;commercial:10;transactional:6
+Circuladores de Ar Arno,15,2941,66;95;100;97;86;93;95;90;96;96;92;93,task:7;informational:48;navigational:14;commercial:26;transactional:5
+Limpeza de condensadores de ar condicionado,18,468,28;12;12;50;100;100;100;63;78;78;78;78,task:12;informational:78;navigational:3;commercial:5;transactional:2
+Leilões de Ar Condicionado,17,709,48;56;58;56;94;99;94;72;93;100;98;100,task:2;informational:57;navigational:4;commercial:33;transactional:4
+Motores de ventiladores,22,2670,62;72;73;44;98;100;100;75;76;75;74;74,task:5;informational:68;navigational:5;commercial:19;transactional:3
+Denteck Ar Condicionado e Climatização,15,265,54;65;83;84;97;100;95;98;83;83;92;91,task:3;informational:8;navigational:77;commercial:7;transactional:5
+Refrigeração Industrial,25,4794,74;78;82;79;100;100;100;98;98;98;98;98,task:2;informational:79;navigational:7;commercial:8;transactional:4
+Ventiladores Cadence,21,2393,85;99;100;50;45;49;51;63;48;48;49;48,task:1;informational:53;navigational:17;commercial:13;transactional:16
+Compressores de ar Fiac,15,175,53;78;82;72;64;70;57;58;57;100;57;57,task:3;informational:33;navigational:34;commercial:19;transactional:11
+Ar Condicionado Trifásico 380V/220V,17,973,35;41;50;35;94;97;90;84;96;98;99;100,task:3;informational:63;navigational:4;commercial:25;transactional:5
+Compressores Centrífugos,17,680,46;39;39;100;93;93;93;93;93;94;94;94,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Instalação de Ar Condicionado Automotivo - Preços,35,10829,79;70;71;83;90;91;91;87;100;100;100;100,task:2;informational:71;navigational:2;commercial:13;transactional:12
+Engenharia de Climatização e Refrigeração,18,1020,64;76;63;58;58;60;54;50;46;53;54;100,task:2;informational:71;navigational:5;commercial:16;transactional:6
+Ar condicionado 12000 BTU com inverter,264,143732,20;21;21;27;100;100;100;35;29;29;29;29,task:2;informational:43;navigational:4;commercial:41;transactional:10
+Instalação elétrica de ar condicionado,46,16793,47;50;52;59;59;60;60;94;100;100;100;100,task:10;informational:65;navigational:5;commercial:12;transactional:8
+Brasfrio Refrigeração,15,137,65;70;73;72;72;100;96;76;76;76;77;76,task:3;informational:39;navigational:34;commercial:20;transactional:4
+Ventiladores Arno,50,40464,33;36;38;39;66;66;66;55;100;100;100;100,task:5;informational:35;navigational:22;commercial:20;transactional:18
+Aletas e Palhetas de Ar Condicionado,25,3577,30;36;35;64;95;96;96;97;100;100;100;100,task:5;informational:68;navigational:5;commercial:19;transactional:3
+Compressores de ar portáteis,23,586,85;99;100;55;56;57;58;58;62;58;58;57,task:2;informational:56;navigational:5;commercial:19;transactional:18
+Ventiladores de Camping,16,353,71;87;90;81;80;100;100;91;92;95;97;95,task:7;informational:44;navigational:5;commercial:21;transactional:23
+Ar Condicionado e Refrigeração em Varginha,15,287,3;12;13;48;48;32;34;100;61;31;25;20,task:5;informational:31;navigational:19;commercial:43;transactional:2
+Maksell Refrigeração,15,32,39;42;45;45;45;45;45;45;100;83;46;46,informational:18;navigational:67;commercial:10;transactional:5
+Ar condicionado Midea Multisplit,18,183,12;20;22;16;15;14;30;95;100;15;15;15,task:3;informational:45;navigational:11;commercial:26;transactional:15
+Refrigeração Multifrio Brasil,15,557,92;99;97;95;97;100;100;66;68;68;73;71,task:2;informational:37;navigational:42;commercial:11;transactional:8
+Master Cooler: radiadores e acessórios,15,246,5;6;6;6;6;6;6;24;100;43;40;22,informational:45;navigational:35;commercial:17;transactional:3
+Refrigeração de Fiorino,22,5393,100;32;30;29;26;27;27;100;100;100;100;100,task:13;informational:66;navigational:2;commercial:13;transactional:6
+Ar Condicionado Bivolt Inverter 9000 BTU,17,3227,17;30;30;29;73;70;70;100;88;78;93;100,task:2;informational:59;navigational:2;commercial:24;transactional:13
+Ar Condicionado VW Gol,19,1080,65;72;73;94;94;100;99;80;100;100;100;99,task:3;informational:67;navigational:5;commercial:12;transactional:13
+Ar Condicionado Goiânia,15,211,72;96;100;90;80;80;80;72;74;74;74;74,task:3;informational:39;navigational:10;commercial:43;transactional:5
+Capacitores Duplos para Ar Condicionado,19,878,100;63;60;58;77;77;77;65;42;41;41;42,task:2;informational:60;navigational:5;commercial:17;transactional:16
+Refrigeração e Peças Refrilar,16,305,46;50;53;54;53;53;53;54;53;47;47;100,task:3;informational:29;navigational:41;commercial:22;transactional:5
+Radiadores no Brasil,28,45018,30;14;15;90;99;100;100;100;100;100;100;100,task:2;informational:43;navigational:8;commercial:33;transactional:14
+Daikin Multi-Split Ar Condicionado,15,117,30;29;32;32;32;30;100;32;35;45;46;54,task:3;informational:35;navigational:28;commercial:20;transactional:14
+Refrigeração Banfrio,15,126,23;25;27;93;56;100;96;69;55;28;28;28,task:3;informational:18;navigational:60;commercial:10;transactional:9
+Desumidificadores RelaxMedic,15,95,19;100;85;79;78;76;43;25;28;22;22;21,task:3;informational:29;navigational:38;commercial:20;transactional:10
+Dufrio ar condicionado Brasil,38,27312,82;94;98;96;50;51;51;100;99;99;99;99,task:1;informational:31;navigational:51;commercial:7;transactional:10
+Ventiladores Havan,17,2561,84;99;100;70;65;68;69;65;56;56;56;56,task:5;informational:45;navigational:14;commercial:13;transactional:23
+Evaporadores Rotativos,18,1983,45;54;71;71;88;88;88;100;99;99;99;99,task:4;informational:68;navigational:7;commercial:17;transactional:4
+Ar condicionado com cheiro ruim,43,5057,69;69;69;79;90;91;91;99;96;96;99;100,task:12;informational:71;navigational:5;commercial:8;transactional:4
+Ar condicionado 127V (Midea/Springer),15,737,6;22;25;9;25;37;36;89;100;36;28;65,task:3;informational:28;navigational:30;commercial:27;transactional:12
+Desumidificadores e Umidificadores para Ambientes,22,2466,26;31;37;39;46;47;47;89;92;86;97;100,task:2;informational:66;navigational:5;commercial:21;transactional:6
+Arrefecimento de Carro,238,140280,59;59;71;80;92;92;92;99;100;100;100;100,task:8;informational:83;navigational:2;commercial:6;transactional:1
+TCL Ar Condicionado: Controles e Manuais,33,4411,87;94;95;86;97;98;98;96;100;100;100;100,task:2;informational:81;navigational:7;commercial:6;transactional:4
+Ar Condicionado e Climatização em Juiz de Fora,15,528,10;59;85;48;47;40;34;100;63;51;47;61,task:3;informational:38;commercial:47;transactional:12
+LG Art Cool Ar Condicionado,22,2583,68;79;80;48;49;51;52;61;60;63;92;100,informational:49;navigational:14;commercial:21;transactional:16
+Uniar: Ar Condicionado e Eletroeletrônicos,17,1004,46;54;55;91;90;90;100;98;65;75;53;74,task:2;informational:16;navigational:34;commercial:43;transactional:5
+Compressores de Ar Condicionado 12000 BTU,22,1480,43;64;64;60;47;47;51;100;59;61;64;69,task:8;informational:43;navigational:1;commercial:42;transactional:6
+Bobinas de Compressor de Ar Condicionado,25,5545,25;28;28;19;58;58;58;98;100;100;100;100,task:2;informational:69;navigational:5;commercial:18;transactional:6
+Ventiladores Silenciosos,39,38198,19;21;23;78;80;81;81;100;87;87;87;87,task:2;informational:55;navigational:4;commercial:30;transactional:9
+Ar Condicionado Electrolux 24.000 BTU,16,498,50;60;60;56;100;98;90;76;82;93;70;72,task:3;informational:19;navigational:18;commercial:26;transactional:34
+Peças de Chiller,15,195,62;71;75;83;86;77;78;91;95;99;97;100,task:7;informational:38;navigational:33;commercial:10;transactional:12
+ar condicionado Consul 18000 BTU,17,1957,19;40;44;37;35;38;35;74;50;63;98;100,task:3;informational:36;navigational:8;commercial:32;transactional:21
+Paineis Evaporativos,17,376,28;49;54;30;100;81;81;83;82;81;81;81,task:4;informational:65;navigational:3;commercial:22;transactional:6
+Tecnofrio Refrigeração,15,187,55;65;65;66;73;100;96;100;91;80;81;80,task:3;informational:18;navigational:56;commercial:18;transactional:5
+Sistemas de água gelada e refrigeração,17,368,96;96;97;97;97;97;97;97;97;100;100;100,task:5;informational:83;navigational:5;commercial:5;transactional:2
+Ar Condicionado e Sono Confortável,37,11127,80;83;86;94;93;94;95;95;100;100;99;99,task:2;informational:76;navigational:2;commercial:12;transactional:8
+Ar Condicionado Carrier 12000 BTU,17,1034,40;42;42;42;59;59;71;100;92;75;72;72,task:3;informational:43;navigational:11;commercial:35;transactional:8
+Ar Condicionado 57000 BTU Inverter,18,212,8;77;91;60;15;42;33;100;73;26;21;21,task:7;informational:37;navigational:11;commercial:41;transactional:4
+Ventiladores Novo Mundo,16,67,17;81;100;64;64;61;16;20;19;17;17;18,task:5;informational:31;navigational:40;commercial:11;transactional:13
+Ar condicionado 27000 BTU com inverter,18,2219,16;40;42;37;37;25;30;55;59;86;84;100,task:5;informational:47;navigational:4;commercial:30;transactional:14
+Ventiladores comerciais e industriais,16,580,70;77;78;76;70;90;100;85;68;71;86;100,task:5;informational:41;navigational:3;commercial:44;transactional:7
+Maxiflex Ar Condicionado,20,2131,20;35;37;48;48;51;47;97;93;90;87;100,task:5;informational:62;navigational:15;commercial:10;transactional:8
+Ar Condicionado: Salários e Técnica,15,1636,23;51;46;37;37;46;39;74;62;75;75;100,task:5;informational:57;navigational:4;commercial:30;transactional:4
+Condicionadores de ar 9000 BTU no Brasil,15,341,9;89;98;71;78;52;59;100;62;31;39;42,task:7;informational:41;navigational:19;commercial:11;transactional:22
+Ventiladores de teto Latina,19,693,58;98;100;89;81;87;86;87;76;77;78;80,task:3;informational:44;navigational:24;commercial:21;transactional:8
+Ventiladores de Coluna,15,68,15;86;97;100;86;53;34;14;14;15;14;16,task:7;informational:43;navigational:4;commercial:32;transactional:14
+Energia de Reserva,20,2898,97;100;100;100;99;100;99;99;100;100;100;100,task:8;informational:72;navigational:5;commercial:10;transactional:5
+Ventiladores de teto Ventisol,62,20882,46;57;61;62;84;84;84;100;85;85;85;85,task:2;informational:48;navigational:22;commercial:16;transactional:12
+Hiperfrio Refrigeração,16,378,52;76;83;67;63;48;48;100;69;46;46;44,task:2;informational:46;navigational:32;commercial:17;transactional:3
+Resfriadores de água e dosadores para uso comercial,18,248,100;48;49;48;44;52;49;43;49;51;52;49,task:5;informational:73;navigational:2;commercial:17;transactional:3
+Refrigeração Mundial,17,626,92;100;39;31;33;36;31;37;40;40;42;42,task:2;informational:55;navigational:5;commercial:18;transactional:20
+Peças de Refrigeração Refriel,15,869,52;62;64;63;77;80;57;65;100;98;96;97,task:2;informational:42;navigational:43;commercial:9;transactional:4
+Ar Condicionado Rio Preto,15,544,31;71;100;70;97;70;67;92;57;68;68;82,task:3;informational:22;navigational:30;commercial:34;transactional:11
+Ventiladores e Cia Brasil,15,935,38;64;68;60;59;81;60;100;94;99;100;100,task:1;informational:13;navigational:70;commercial:13;transactional:3
+Ar-condicionado Samsung: Wind-Free e Inverter,153,88552,38;34;37;96;79;79;79;95;99;100;100;100,task:2;informational:52;navigational:3;commercial:21;transactional:22
+Ventilação para Painéis Elétricos,17,218,82;91;96;94;94;97;98;100;100;94;100;99,task:7;informational:55;navigational:4;commercial:26;transactional:8
+Secadores de ar comprimido,16,806,57;62;62;49;99;100;100;79;57;57;57;57,task:2;informational:50;navigational:4;commercial:38;transactional:6
+Coolers para Geladeiras,17,1063,85;98;96;94;77;80;100;81;81;86;85;85,task:5;informational:59;navigational:5;commercial:24;transactional:7
+York ar condicionado,43,11424,14;19;25;45;95;96;98;99;99;99;100;100,task:2;informational:62;navigational:10;commercial:21;transactional:5
+Refrigeração e ar-condicionado em Lajeado,15,584,15;93;100;85;85;58;55;44;32;87;82;90,task:3;informational:28;navigational:16;commercial:41;transactional:12
+Ar Condicionado 55000 BTU,19,1517,57;87;100;92;95;92;91;77;76;76;77;77,task:2;informational:69;navigational:5;commercial:21;transactional:3
+Magazine do Frio e Refrigeração,15,262,14;21;26;26;26;45;100;22;22;21;22;23,task:3;informational:45;navigational:24;commercial:11;transactional:17
+Umidificadores Ultrassônicos,20,1227,70;79;79;40;99;100;100;29;31;31;29;29,task:2;informational:72;navigational:6;commercial:15;transactional:5
+Calefação e Aquecimento Residencial,33,20068,83;78;78;78;43;44;44;99;100;100;100;100,task:5;informational:70;navigational:8;commercial:13;transactional:4
+Umidificadores de ar para carros,19,884,62;69;70;70;65;67;64;100;61;48;49;66,task:3;informational:48;navigational:4;commercial:33;transactional:12
+Refrigeração e Alimentos,16,534,31;40;41;39;41;46;46;100;85;48;48;54,task:3;informational:45;navigational:10;commercial:34;transactional:8
+Daikin 12.000 BTU Inverter,18,537,25;85;84;79;72;44;46;100;66;89;77;53,task:3;informational:46;navigational:8;commercial:24;transactional:19
+Climatização e Refrigeração em Votuporanga,16,365,11;79;76;70;61;38;41;100;62;21;22;51,task:3;informational:24;navigational:27;commercial:35;transactional:11
+Ar Condicionado Split LG e Multisplit,19,1804,82;100;100;94;91;94;95;89;56;61;60;70,task:4;informational:45;navigational:4;commercial:33;transactional:14
+Manômetros e manifolds de ar condicionado,18,253,68;78;79;78;76;82;88;96;100;83;84;83,task:2;informational:59;navigational:6;commercial:19;transactional:14
+Máquinas e Refrigeração no Brasil,15,144,42;74;76;86;70;100;90;51;43;25;25;28,task:7;informational:70;navigational:5;commercial:11;transactional:7
+Ventiladores Ventali,15,842,5;29;38;29;22;46;28;99;64;97;89;100,task:4;informational:30;navigational:29;commercial:23;transactional:14
+Ventilação e Renovação de Ar,17,331,62;63;64;100;100;100;100;97;89;86;86;86,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Ar Condicionado em Hortolândia,15,101,13;16;21;21;16;17;16;100;57;28;28;31,task:7;informational:41;navigational:7;commercial:40;transactional:5
+Refrigeração e Ar-Condicionado em Santos,15,745,19;23;24;19;23;23;42;100;25;25;29;32,task:2;informational:32;navigational:10;commercial:48;transactional:8
+Ar Condicionado Sem Controle,29,2970,31;37;40;67;100;100;100;76;92;92;92;92,task:5;informational:77;navigational:5;commercial:8;transactional:5
+Water Cooler para PC,33,5185,69;76;77;100;96;98;98;92;91;91;91;90,task:8;informational:64;navigational:2;commercial:20;transactional:6
+Exaustores e Ventilação Residencial,17,1536,25;32;60;59;95;100;99;91;87;88;86;86,task:2;informational:63;navigational:4;commercial:25;transactional:6
+Umidificadores com iluminação,17,208,57;65;71;67;100;92;74;84;83;56;55;62,task:7;informational:55;navigational:1;commercial:25;transactional:12
+Refrigeração Comercial Videfrigo,15,80,62;64;67;70;70;71;71;100;90;69;69;69,informational:28;navigational:58;commercial:11;transactional:3
+Ar Condicionado 60000 BTus Midea,15,389,3;33;40;11;11;10;19;97;100;95;28;37,task:3;informational:45;navigational:12;commercial:24;transactional:16
+Ventiladores Domina Brasil,15,1397,78;90;92;87;56;48;40;65;66;74;100;100,task:4;informational:51;navigational:29;commercial:10;transactional:6
+Ar Condicionado 10000 BTU Inverter,16,797,24;83;100;65;65;57;30;34;31;86;78;92,task:7;informational:45;navigational:4;commercial:36;transactional:8
+Ar condicionado 24000 BTU (piso/teto),16,375,24;31;31;47;92;47;51;100;80;34;32;70,task:3;informational:42;navigational:4;commercial:40;transactional:11
+Refrigeração Gomes,15,146,72;79;79;83;82;80;80;92;90;83;83;100,task:3;informational:28;navigational:34;commercial:31;transactional:4
+Higienização do Ar Condicionado Automotivo,23,2180,77;79;86;100;83;84;84;77;85;85;86;86,task:8;informational:74;navigational:2;commercial:13;transactional:3
+Aquecedores Elétricos,19,7366,24;30;32;24;53;54;54;100;94;90;91;91,task:2;informational:55;navigational:6;commercial:21;transactional:16
+Ventiladores domésticos e vídeos,18,2121,65;97;100;97;82;88;89;89;90;90;91;90,task:5;informational:44;navigational:18;commercial:20;transactional:13
+Aromatizantes e Purificadores de Ambiente,35,8711,37;44;50;59;77;78;79;100;63;63;63;63,task:5;informational:46;navigational:12;commercial:31;transactional:6
+Gabinetes Aero 500,15,56,4;4;4;4;6;5;4;5;100;80;69;5,task:3;informational:35;navigational:35;commercial:12;transactional:15
+Ar condicionados 8000 BTU no Brasil,18,3486,41;48;51;48;58;64;61;94;94;92;93;100,task:3;informational:46;navigational:6;commercial:32;transactional:13
+Ventiladores com água,23,2979,31;37;38;42;96;97;100;60;75;77;83;79,task:2;informational:68;navigational:5;commercial:19;transactional:6
+Disjuntores e Fios para Ar Condicionado,83,33608,49;61;80;83;79;80;80;96;100;100;100;100,task:4;informational:79;navigational:5;commercial:9;transactional:3
+Ar condicionado em Anápolis,15,139,12;27;31;35;22;25;26;100;48;23;24;25,task:3;informational:42;navigational:3;commercial:40;transactional:12
+Water Cooler para PCs,17,2061,56;82;85;80;79;85;86;89;100;100;93;88,task:3;informational:53;navigational:1;commercial:30;transactional:13
+Gás de Ar Condicionado: Recolhimento e Liberação,18,1744,33;39;39;34;32;26;27;91;100;100;100;100,task:5;informational:70;navigational:5;commercial:10;transactional:10
+Ar Condicionado no Buscapé – Comparação de Preços,15,1285,30;95;95;85;81;53;56;85;42;45;51;100,task:3;informational:24;navigational:22;commercial:34;transactional:17
+Ventiladores 110V,17,1135,42;63;68;62;50;49;64;59;88;96;92;100,task:10;informational:38;navigational:7;commercial:34;transactional:11
+Ar Condicionado Carrier 60k BTU,17,641,76;44;40;38;48;62;62;100;47;48;47;47,task:2;informational:48;navigational:9;commercial:29;transactional:12
+Friovix Refrigeração Comércio,16,639,33;100;97;100;43;48;80;94;94;97;96;96,task:5;informational:47;navigational:27;commercial:18;transactional:3
+Peças e Serviços de Refrigeração,15,196,46;59;57;79;85;94;100;88;73;50;50;50,task:5;informational:53;navigational:15;commercial:12;transactional:15
+"Ar condicionado 12000 BTU: consumo, watts e instalação",24,2597,91;94;95;99;95;94;94;75;70;73;93;100,task:2;informational:74;navigational:5;commercial:16;transactional:3
+Refrigeração R-407C,20,883,29;30;30;82;82;82;82;65;100;100;100;100,task:8;informational:56;navigational:4;commercial:29;transactional:3
+Ventiladores Ventura,15,703,23;26;26;29;28;27;48;64;68;24;25;100,task:7;informational:41;navigational:23;commercial:22;transactional:7
+Compressores de ar domésticos,16,1080,48;63;63;60;63;68;68;73;73;74;100;97,task:3;informational:49;navigational:17;commercial:25;transactional:6
+Ar Condicionado Cassete e Split,49,31411,35;38;39;70;89;90;90;100;88;88;88;88,task:6;informational:48;navigational:3;commercial:38;transactional:5
+Refrigeração líquida Gamdias para PC,15,703,36;50;51;45;45;48;47;47;100;58;53;49,task:7;informational:54;navigational:1;commercial:25;transactional:13
+Ar condicionado embutido em gesso,21,1286,24;30;42;73;66;67;68;100;37;37;47;55,task:2;informational:68;navigational:2;commercial:19;transactional:9
+Refrigeração e Ar Condicionado em Pouso Alegre,15,192,8;16;16;17;17;15;34;100;70;23;20;20,task:3;informational:18;navigational:41;commercial:33;transactional:5
+Drenos de Ar Condicionado,40,19144,39;63;64;79;95;95;96;99;100;100;100;100,task:8;informational:74;navigational:8;commercial:5;transactional:5
+Limpeza e Manutenção de Ar Condicionado (pt),16,359,81;84;84;93;92;91;84;100;96;96;93;94,task:10;informational:57;navigational:7;commercial:5;transactional:21
+Termostatos e controle de temperatura,22,1587,17;20;21;86;81;82;79;82;84;100;97;100,task:2;informational:56;navigational:4;commercial:20;transactional:18
+Refrigeração e Eletrodomésticos,17,678,20;60;66;69;68;67;57;89;78;100;91;100,task:8;informational:72;navigational:5;commercial:15
+Refrigeração Refrisul,15,238,34;93;100;90;55;52;51;39;41;41;44;45,task:7;informational:31;navigational:34;commercial:16;transactional:12
+Jet Frio Refrigeração,15,86,12;13;14;13;14;100;69;29;24;16;16;16,task:3;informational:18;navigational:70;commercial:4;transactional:5
+Radiadores em Araçatuba,15,399,35;79;100;83;63;49;48;45;44;77;75;76,task:7;informational:53;navigational:6;commercial:32;transactional:2
+Ar Condicionado 18000 BTU Carrefour,15,891,4;69;53;48;37;33;30;100;81;30;34;45,task:3;informational:17;navigational:30;commercial:24;transactional:26
+Suportes para ar condicionado de janela,16,1983,43;50;49;48;45;57;49;93;97;100;92;93,task:4;informational:62;navigational:3;commercial:21;transactional:10
+Climatização e Refrigeração em Cuiabá,15,479,38;99;100;89;66;54;54;83;70;88;58;62,task:3;informational:51;navigational:12;commercial:29;transactional:5
+Gabinetes com Water Cooling,17,219,14;37;46;24;24;28;21;35;100;21;21;20,task:5;informational:53;navigational:4;commercial:32;transactional:6
+Desumidificadores Industriais,16,689,60;63;63;63;63;69;64;97;98;98;100;100,task:5;informational:43;navigational:1;commercial:42;transactional:9
+Compressores de Ar Schulz/Brabo,17,122,70;97;100;60;60;61;61;87;98;61;61;61,task:7;informational:48;navigational:11;commercial:21;transactional:13
+Cooler Master - Resfriamento de PCs,21,7576,86;92;100;97;96;98;99;98;100;99;99;98,task:2;informational:55;navigational:19;commercial:18;transactional:6
+Ar Condicionado Agratto 18000 BTU,16,261,7;9;8;10;11;10;9;100;73;53;47;14,task:3;informational:51;navigational:7;commercial:28;transactional:11
+Refrigeração Cascadura,15,661,50;64;67;64;63;100;66;79;76;76;75;74,task:3;informational:25;navigational:37;commercial:25;transactional:10
+Umidificadores de Ar Soniclear/Waterclear,15,320,67;83;82;77;73;100;82;75;43;64;59;32,task:3;informational:63;navigational:7;commercial:19;transactional:8
+"AVAC - Aquecimento, Ventilação e Ar Condicionado",17,1097,96;97;97;100;97;99;99;100;100;100;100;100,task:10;informational:73;navigational:5;commercial:10;transactional:2
+Ar Condicionado Electrolux 18000 BTU,28,2301,83;99;100;53;69;73;73;77;73;79;77;88,task:2;informational:41;navigational:14;commercial:22;transactional:21
+Ar Condicionado em Piracicaba,15,643,38;53;55;51;84;78;79;75;74;80;71;100,task:3;informational:18;navigational:30;commercial:44;transactional:5
+Arrefecimento automotivo: ar no sistema e radiador,24,4357,55;34;50;50;80;83;83;91;100;100;100;100,task:5;informational:83;navigational:5;commercial:5;transactional:2
+Ventiladores Industriais e Domésticos Ventisol,26,6908,72;84;85;43;97;99;99;100;100;100;100;99,task:2;informational:33;navigational:17;commercial:20;transactional:28
+ART em ar condicionado e obras,23,2074,81;82;87;87;85;86;85;93;100;100;100;100,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Condensadores de Geladeira,22,1993,33;39;39;39;47;48;49;100;93;96;95;97,task:3;informational:66;navigational:4;commercial:22;transactional:5
+Ventiladores de teto comerciais,15,155,56;72;71;68;67;60;100;50;50;51;50;50,task:3;informational:40;navigational:8;commercial:32;transactional:17
+Refrigeração Amaral,15,196,28;30;33;57;57;33;32;100;96;42;42;41,task:3;informational:33;navigational:41;commercial:19;transactional:4
+Qualitas: Ventiladores e Exaustores,15,397,71;83;85;82;84;91;90;87;94;96;97;100,task:3;informational:23;navigational:55;commercial:9;transactional:10
+Arte Frio Refrigeração,16,360,49;83;83;76;77;69;67;100;74;75;77;78,task:3;informational:24;navigational:46;commercial:20;transactional:7
+Consumo de Ar Condicionado em Watts,94,30130,95;98;100;100;85;86;86;87;87;87;87;87,task:8;informational:82;navigational:3;commercial:6;transactional:1
+Umidificadores de ar com controle de umidade,17,563,74;83;93;91;91;90;82;100;78;68;67;74,task:8;informational:58;navigational:4;commercial:27;transactional:3
+Desidratadores de Alimentos,31,12086,22;29;29;72;99;100;100;54;95;95;94;94,task:1;informational:60;navigational:5;commercial:25;transactional:9
+Conserto de placas de ar condicionado,15,210,44;54;56;56;50;53;51;97;77;82;88;100,task:4;informational:17;navigational:1;commercial:20;transactional:58
+Placas Samsung para Ar Condicionado,23,1681,54;64;65;37;52;61;66;81;59;66;95;100,task:2;informational:42;navigational:14;commercial:30;transactional:12
+Trocadores de Calor,42,30884,23;27;26;96;93;93;93;100;100;100;100;100,task:5;informational:68;navigational:5;commercial:18;transactional:4
+Geladeiras Dometic,15,152,43;61;63;62;61;100;87;66;70;83;79;74,task:7;informational:47;navigational:18;commercial:18;transactional:10
+Peças automotivas e acessórios,28,8205,19;24;24;25;85;87;88;73;100;100;100;100,task:2;informational:59;navigational:9;commercial:16;transactional:14
+Compressor de ar condicionado para Meriva,15,64,12;15;17;17;79;100;56;24;20;18;17;20,task:3;informational:43;navigational:5;commercial:30;transactional:19
+Ventiladores Midea,15,1260,17;76;78;23;35;39;45;38;38;34;45;100,task:3;informational:49;navigational:12;commercial:18;transactional:18
+Acessórios de Limpeza para Ar Condicionado,21,1722,87;100;53;75;78;81;82;73;65;65;70;70,task:2;informational:64;navigational:3;commercial:17;transactional:14
+ar condicionado Samsung 12.000 BTU,26,11058,65;73;75;75;70;70;70;84;90;100;91;91,task:2;informational:43;navigational:13;commercial:24;transactional:18
+Compressores de ar condicionado 18000 BTU,16,773,17;47;55;53;46;58;50;26;24;100;84;96,task:3;informational:61;navigational:1;commercial:32;transactional:3
+Ar Condicionado Janela 10000 BTU,70,17054,97;99;100;42;41;41;41;42;42;42;42;42,task:5;informational:41;navigational:9;commercial:29;transactional:16
+Ar Condicionado em Guarulhos,15,276,17;75;91;100;100;89;68;43;43;54;56;74,task:3;informational:42;navigational:10;commercial:40;transactional:5
+Ventiladores 50 cm,25,4716,89;97;100;98;95;96;96;95;45;45;45;44,task:2;informational:24;navigational:7;commercial:49;transactional:18
+Ventiladores automotivos 12V,28,3960,76;99;100;100;96;98;98;97;100;100;100;99,task:5;informational:54;navigational:7;commercial:18;transactional:16
+Reparos de Refrigeração,16,568,58;79;80;77;85;95;75;84;100;100;89;89,task:17;informational:40;navigational:19;commercial:8;transactional:16
+Refrigeração Zanotti,15,187,50;54;56;54;54;56;78;100;80;76;77;76,task:3;informational:35;navigational:42;commercial:8;transactional:12
+Ventiladores para Quarto,17,463,32;75;94;85;65;64;59;92;100;58;57;57,task:5;informational:60;navigational:5;commercial:17;transactional:13
+Ventiladores Solaster,15,150,17;25;23;62;71;60;19;64;67;100;100;24,task:7;informational:28;navigational:29;commercial:20;transactional:16
+Refrigeração Centro-Oeste,16,530,70;77;78;76;85;91;89;84;95;96;100;100,task:7;informational:40;navigational:22;commercial:19;transactional:12
+Bombas de dreno para ar condicionado,33,6532,66;77;78;43;83;85;87;100;92;92;94;93,task:8;informational:53;navigational:2;commercial:29;transactional:8
+Ar Condicionado Black Friday,22,2573,76;96;100;67;66;65;66;79;67;70;73;60,task:8;informational:28;navigational:4;commercial:45;transactional:15
+Ar-condicionado e Refrigeração em Aracaju,16,278,51;63;65;60;93;71;71;57;54;100;68;72,task:7;informational:39;navigational:7;commercial:39;transactional:8
+Rolamentos e Polias de Ar Condicionado,24,5110,29;32;32;60;74;75;76;86;100;100;99;99,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Tubulação de Ar Condicionado e Ar Comprimido,26,8774,35;18;23;32;99;100;100;92;91;91;91;91,task:2;informational:69;navigational:5;commercial:20;transactional:4
+Suryha: climatização e ferramentas,15,341,85;100;65;54;54;68;69;69;69;64;63;63,task:1;informational:17;navigational:64;commercial:8;transactional:10
+Ar Condicionado 18000 BTU - Compras Online Brasil,16,1149,19;84;95;74;57;51;44;61;48;54;47;100,task:2;informational:38;navigational:13;commercial:16;transactional:31
+Manifolds de Refrigeração e Ar Condicionado,24,30884,15;18;18;66;93;93;93;99;100;100;100;100,task:7;informational:65;navigational:5;commercial:14;transactional:9
+Refrigeração JR,16,1474,61;84;86;85;85;91;92;99;100;100;95;94,task:3;informational:21;navigational:44;commercial:27;transactional:5
+Ar condicionado Philco 18000 BTU,19,567,74;84;87;84;81;96;93;99;84;100;51;51,task:5;informational:26;navigational:11;commercial:38;transactional:20
+Ar Condicionado Automotivo: Campinas e Valinhos,15,146,72;72;77;76;75;100;96;88;89;90;81;86,informational:35;navigational:13;commercial:47;transactional:5
+Ventiladores Bivolt,19,5478,21;24;25;25;74;75;75;92;93;92;92;100,task:2;informational:59;navigational:4;commercial:29;transactional:6
+Ar Condicionado Samsung 24000 BTU,30,3166,42;72;73;63;60;60;61;66;72;52;96;100,task:4;informational:41;navigational:5;commercial:19;transactional:31
+Ventiladores Oster,18,857,80;94;95;87;95;98;100;91;94;95;96;96,task:3;informational:62;navigational:11;commercial:10;transactional:14
+Caixas térmicas e coolers,54,26472,68;69;72;80;90;90;90;100;100;100;100;100,task:2;informational:40;navigational:4;commercial:35;transactional:19
+Ventiladores de teto no Ponto Frio,15,312,46;67;74;67;64;65;63;100;81;63;59;62,task:4;informational:18;navigational:58;commercial:7;transactional:13
+Tampas para Ar Condicionado e Caixas de Passagem,18,573,55;81;87;82;77;81;79;85;93;100;78;77,task:10;informational:34;navigational:4;commercial:40;transactional:12
+Refrigeração Turbo Set 90,15,134,76;77;79;99;98;98;98;96;97;99;100;98,task:5;informational:48;navigational:25;commercial:10;transactional:12
+Umidificadores CareTech,16,263,45;77;83;31;27;44;42;100;88;31;28;28,task:2;informational:48;navigational:9;commercial:35;transactional:6
+Ventiladores Furacão,17,2166,86;99;100;50;43;47;46;60;56;54;56;55,task:8;informational:25;navigational:11;commercial:20;transactional:36
+Refrigeração e Ar Condicionado em Blumenau,15,598,23;69;76;69;71;58;68;37;85;100;62;80,task:3;informational:42;navigational:3;commercial:47;transactional:5
+Ventiladores de Teto Retráteis,24,2557,85;99;100;55;55;58;59;66;70;69;70;69,task:5;informational:59;navigational:5;commercial:18;transactional:13
+Ar Condicionado em Minas Gerais,15,463,12;11;12;12;12;33;23;100;35;42;44;62,task:3;informational:49;navigational:12;commercial:31;transactional:5
+Ar Condicionado em Sete Lagoas,16,1143,20;51;56;48;48;33;21;100;77;68;92;89,task:2;informational:53;navigational:14;commercial:27;transactional:4
+Ventiladores com Controle de Velocidade,28,4604,47;51;52;73;87;87;86;94;100;100;100;100,task:10;informational:58;navigational:5;commercial:18;transactional:9
+Refrigeração Polo Sul,15,50,71;76;78;76;36;36;37;100;85;30;30;30,task:3;informational:55;navigational:4;commercial:26;transactional:12
+Instalação de Ar Condicionado Split,18,316,41;43;44;86;86;100;84;49;77;77;77;77,task:12;informational:66;navigational:5;commercial:14;transactional:3
+Pressostatos para compressores,28,7280,26;34;35;87;89;90;91;100;97;97;97;97,task:5;informational:58;navigational:2;commercial:24;transactional:11
+BTU e Ar Condicionado,74,36472,86;87;91;89;95;96;96;98;100;100;100;100,task:3;informational:69;navigational:5;commercial:18;transactional:5
+Ar Condicionado Electrolux Ecoturbo 12000 BTU,27,3395,45;64;68;54;53;46;46;97;71;72;95;100,task:5;informational:39;navigational:22;commercial:23;transactional:11
+Aquecedores Cumulus,15,123,43;46;46;45;37;38;38;47;93;100;47;47,informational:36;navigational:28;commercial:33;transactional:3
+Aqua Turbo Refrigeração,15,155,51;53;60;84;59;70;84;79;75;99;94;100,task:7;informational:25;navigational:56;commercial:7;transactional:5
+Refrigeração: superaquecimento e subresfriamento,21,3943,97;100;100;100;91;92;92;64;65;65;65;65,task:10;informational:81;navigational:3;commercial:5;transactional:1
+Ventiladores para áreas gourmet e externas,17,554,47;52;46;67;99;100;99;76;60;61;59;61,task:7;informational:56;navigational:2;commercial:32;transactional:3
+Umidificadores de ar Multilaser,16,471,71;100;100;97;40;45;45;48;58;56;45;45,task:7;informational:34;navigational:5;commercial:29;transactional:25
+Coolers para PC,111,195249,22;23;80;27;40;40;40;100;100;100;100;100,task:5;informational:46;navigational:4;commercial:36;transactional:9
+Aquecedores Mondial,21,4443,77;97;100;63;65;68;67;70;67;67;68;68,task:2;informational:42;navigational:14;commercial:22;transactional:20
+Philco 24.000 BTU Ar Condicionado,18,979,22;64;71;44;37;35;41;51;77;100;75;86,task:4;informational:22;navigational:31;commercial:24;transactional:19
+Ar Condicionado Automotivo em BH,16,906,90;100;100;54;53;56;57;54;53;53;56;55,task:5;informational:46;navigational:15;commercial:28;transactional:6
+Ventiladores USB Portáteis,15,518,58;88;100;86;75;73;72;70;74;66;66;65,task:10;informational:34;navigational:4;commercial:41;transactional:11
+Ar Condicionado Gol G5/G6,18,1457,49;55;55;52;55;57;57;66;99;100;100;100,task:2;informational:61;navigational:7;commercial:26;transactional:4
+Radiadores de Caminhão,16,165,68;81;93;75;91;89;80;87;89;99;100;97,task:7;informational:52;navigational:4;commercial:29;transactional:8
+Refrigeração e Refrigigas no Brasil,16,832,63;91;92;89;67;79;70;91;95;100;88;88,task:3;informational:56;navigational:21;commercial:11;transactional:9
+Compressores de Ar Condicionado para Onix,23,754,60;66;65;49;90;100;99;39;62;62;64;61,task:2;informational:50;navigational:4;commercial:34;transactional:10
+Ventiladores Casas Freitas,15,38,50;64;72;69;90;66;64;64;64;90;95;100,task:3;informational:34;navigational:28;commercial:15;transactional:20
+Ventiladores Hunter,15,1259,67;98;100;97;94;100;98;91;94;94;94;96,task:3;informational:37;navigational:22;commercial:26;transactional:12
+Komeco Desumidificadores e Umidificadores,19,437,88;100;78;88;90;80;81;79;81;85;85;88,task:2;informational:39;navigational:40;commercial:7;transactional:12
+Peças e Acessórios para Compressores,18,1243,90;100;100;54;70;73;76;66;56;56;58;57,task:2;informational:44;navigational:4;commercial:45;transactional:5
+Refrigeração e Geladeiras,40,7211,89;92;90;93;97;98;99;96;98;98;98;100,task:8;informational:71;navigational:4;commercial:12;transactional:5
+Ventiladores Carrefour,18,2101,74;100;100;53;51;50;44;45;56;58;79;83,task:2;informational:28;navigational:25;commercial:12;transactional:33
+Ar-condicionado e refrigeração em Paranaguá,15,620,9;86;100;94;94;11;12;54;52;31;57;84,task:3;informational:39;navigational:3;commercial:47;transactional:8
+Ventiladores de teto 360°,18,419,66;84;83;79;94;99;94;77;75;100;82;86,task:1;informational:55;navigational:5;commercial:23;transactional:16
+Ventiladores Mondial,45,20339,69;74;76;77;100;100;100;100;97;98;97;97,task:1;informational:37;navigational:14;commercial:33;transactional:15
+Ventiladores de teto silenciosos,44,23314,16;20;21;27;89;89;90;95;100;100;100;100,task:5;informational:49;navigational:4;commercial:34;transactional:8
+Ventisol: Ventiladores e Soluções de Ventilação,18,5149,88;97;100;44;44;45;45;45;47;47;47;46,task:2;informational:53;navigational:28;commercial:12;transactional:5
+Ar Condicionado Fujitsu 24.000 BTU Inverter,19,867,34;64;75;64;59;42;59;73;86;100;62;82,task:3;informational:38;navigational:11;commercial:34;transactional:14
+Válvulas de Ar Condicionado e Serviço,26,3514,38;22;35;46;78;79;79;96;100;100;100;100,task:2;informational:62;navigational:5;commercial:16;transactional:15
+Ar condicionado 30000 BTU Piso/Teto,18,605,27;38;42;39;41;40;39;45;38;43;69;100,task:7;informational:43;commercial:39;transactional:11
+Ar Condicionado em Paulínia,15,92,6;9;12;35;35;19;29;100;67;13;12;13,task:3;informational:35;navigational:17;commercial:40;transactional:5
+Exaustores e insufladores portáteis,29,3546,69;33;34;46;95;98;98;85;100;100;98;97,task:2;informational:59;navigational:4;commercial:30;transactional:5
+Gabinetes Aerocool para PC Gamer,16,469,19;23;25;24;26;27;27;27;100;99;23;23,task:7;informational:36;navigational:11;commercial:18;transactional:28
+Ar Condicionado 24000 BTU TCL,20,2210,32;57;57;75;100;94;92;96;74;79;80;96,task:2;informational:50;navigational:2;commercial:36;transactional:10
+Aparelhos de vapor e aerossóis,24,1966,47;58;57;55;97;100;87;96;95;97;97;95,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Umidificadores de ar Black & Decker e Montech,21,1660,87;100;100;97;29;31;31;37;40;41;39;38,task:2;informational:53;navigational:3;commercial:30;transactional:12
+Compressores de ar diretos e tufão,36,6173,67;76;38;43;99;100;100;62;63;63;63;63,task:8;informational:40;navigational:4;commercial:26;transactional:22
+Refrigeração de Motos no Brasil,16,651,84;99;100;91;73;75;76;91;90;89;88;90,task:3;informational:54;navigational:23;commercial:11;transactional:9
+Troca de filtro de ar condicionado,18,1266,26;30;32;24;62;65;62;100;100;100;100;100,task:32;informational:58;navigational:3;commercial:5;transactional:2
+Polar Refrigeração e Assitência Técnica,15,826,40;57;58;53;44;49;50;100;81;84;52;51,task:3;informational:23;navigational:51;commercial:15;transactional:8
+Compressores de ar monofásicos,17,197,59;61;63;66;66;66;66;100;100;98;99;98,task:2;informational:54;navigational:2;commercial:34;transactional:8
+Controles de Temperatura e Umidade,20,1053,27;29;28;74;96;97;97;100;65;65;63;63,task:5;informational:60;navigational:4;commercial:25;transactional:6
+Coolers e caixas térmicas com rodas,16,4909,77;93;100;98;89;91;90;91;93;92;92;91,task:3;informational:61;navigational:5;commercial:27;transactional:4
+Difusores e Aromatizadores Elétricos,63,23535,24;26;28;47;100;100;100;83;70;70;70;70,task:2;informational:47;navigational:7;commercial:34;transactional:10
+Adesivos e envelopamento de ar condicionado,17,1196,82;87;87;78;74;85;78;78;97;100;76;77,task:5;informational:65;navigational:5;commercial:17;transactional:8
+Ar Condicionado de Janela 18000 BTU,24,2514,77;92;94;92;100;100;100;51;54;54;55;58,task:2;informational:48;navigational:3;commercial:40;transactional:7
+Refrigeração Refrimar,17,111,28;29;32;100;34;36;32;36;37;37;37;37,task:1;informational:40;navigational:39;commercial:18;transactional:2
+Aquecedores Komeco,18,1912,87;99;100;54;52;55;52;53;56;55;55;55,task:2;informational:43;navigational:25;commercial:10;transactional:20
+Frio Sul Refrigeração,15,98,14;15;16;15;15;16;16;100;62;15;15;15,task:3;informational:15;navigational:34;commercial:40;transactional:8
+Ar Condicionado Inverter 12.000 BTU (Carrefour),16,1559,8;58;47;44;43;39;36;7;14;82;81;100,task:3;informational:28;navigational:20;commercial:18;transactional:31
+Vitor Refrigeração e Soluções,16,369,18;46;43;43;53;46;49;100;35;31;21;23,informational:20;navigational:35;commercial:39;transactional:6
+ar condicionado LG 36000 BTU,18,1541,25;40;41;37;51;54;50;47;46;72;100;100,task:10;informational:20;navigational:31;commercial:23;transactional:16
+ar condicionado portátil OLX,15,471,54;71;73;74;73;74;68;79;80;86;79;100,task:7;informational:8;navigational:52;commercial:4;transactional:29
+Ventiladores com nebulizadores,15,336,10;87;100;68;15;13;57;54;66;86;76;71,task:7;informational:55;navigational:4;commercial:21;transactional:13
+Ventiladores 200W,17,752,17;27;34;27;33;48;34;53;53;95;100;97,task:7;informational:31;navigational:7;commercial:41;transactional:14
+Climaster Ar Condicionado Automotivo em Jales,15,96,58;64;67;76;100;73;79;79;79;73;73;73,task:1;informational:22;navigational:53;commercial:18;transactional:6
+Purificadores de Ar Portáteis,15,76,34;93;100;85;79;85;82;51;43;51;47;56,task:2;informational:46;navigational:3;commercial:39;transactional:10
+Ar condicionado 12000 BTU Amazon,16,9246,8;14;15;13;9;6;7;10;7;7;100;99,task:2;informational:12;navigational:27;commercial:38;transactional:21
+Refrigeração e climatização em Rio das Ostras,15,275,8;100;86;84;17;22;17;43;40;43;45;45,task:3;informational:51;navigational:11;commercial:31;transactional:4
+Ar Condicionado Bi-Split e Multi-Split 18000 BTU,17,2049,30;51;55;44;38;33;35;52;38;42;82;100,task:5;informational:53;navigational:2;commercial:29;transactional:11
+Conela Refrigeração,15,581,12;13;14;13;18;17;15;14;14;100;80;98,task:3;informational:18;navigational:67;commercial:7;transactional:5
+Peças de Ventiladores de Teto,35,5638,31;43;45;86;96;100;100;82;80;80;82;82,task:1;informational:50;navigational:10;commercial:29;transactional:10
+Umidificadores Techline,17,933,44;73;79;69;64;64;51;58;59;99;99;100,task:5;informational:43;navigational:14;commercial:32;transactional:6
+Refricril: Distribuição de ar condicionado no Brasil,17,1931,86;100;52;51;46;49;49;48;53;53;54;54,task:2;informational:61;navigational:22;commercial:10;transactional:5
+Ventiladores WAP,26,13295,54;61;40;81;92;93;93;100;100;100;100;100,task:2;informational:51;navigational:14;commercial:25;transactional:8
+Ar Condicionado Fujitsu Airstage,23,2207,15;22;26;25;41;41;39;66;87;86;96;100,task:5;informational:43;navigational:21;commercial:19;transactional:12
+Compressores Kokko,17,37,12;34;49;56;96;100;33;19;16;14;14;15,task:3;informational:34;navigational:28;commercial:21;transactional:14
+Locação de Chillers,17,37,57;76;95;95;90;90;90;98;100;100;100;100,task:3;informational:46;navigational:4;commercial:33;transactional:14
+Ar Condicionado no Paraguai,25,2332,81;97;98;63;84;87;89;91;100;100;100;99,task:5;informational:46;navigational:3;commercial:32;transactional:14
+Ar Condicionado Samsung Preto,16,2666,1;5;6;5;4;3;3;100;38;8;13;13,task:7;informational:32;navigational:20;commercial:18;transactional:23
+Refrigeração e Geladeiras DS Frio,15,718,11;16;14;13;22;35;39;100;28;36;46;52,task:10;informational:18;navigational:51;commercial:16;transactional:5
+Ar Condicionado 19000 BTU com Inverter,18,1819,19;50;54;43;40;37;42;99;82;77;73;100,task:3;informational:52;navigational:4;commercial:35;transactional:6
+Ventiladores: guia de compra e avaliações,108,62532,16;20;25;37;78;79;79;98;100;100;100;100,task:5;informational:42;navigational:1;commercial:50;transactional:2
+Ar Condicionado e Refrigeração em Novo Hamburgo,15,390,14;67;67;64;44;34;34;100;38;54;32;37,task:3;informational:15;navigational:41;commercial:33;transactional:8
+Motores LG Inverter para ar condicionado,18,141,7;10;10;12;12;14;31;100;71;15;14;15,task:3;informational:62;navigational:5;commercial:16;transactional:14
+Manifolds de Refrigeração,18,582,44;49;48;45;40;43;42;40;42;99;100;99,task:3;informational:57;navigational:4;commercial:22;transactional:14
+Ar Condicionado Bertioga,15,76,8;10;11;10;11;10;10;100;61;67;54;13,informational:30;navigational:23;commercial:43;transactional:4
+Ar condicionados Midea 24000 BTU,20,1475,64;97;100;91;83;87;89;78;78;90;97;91,task:3;informational:48;navigational:2;commercial:21;transactional:26
+Frigobares Magalu,15,357,65;84;84;81;74;73;68;80;89;99;100;91,task:3;informational:30;navigational:34;commercial:12;transactional:21
+Compressores de ar Vonder,17,599,73;100;100;93;89;90;90;90;92;92;94;92,task:3;informational:30;navigational:41;commercial:10;transactional:16
+Refrigeradores Frigocopa,15,665,8;12;15;44;44;15;15;21;16;100;97;84,task:3;informational:31;navigational:31;commercial:17;transactional:18
+Refrigeração em Passo Fundo,15,169,12;100;100;60;70;48;18;15;16;24;24;38,task:3;informational:45;navigational:17;commercial:31;transactional:4
+Instalação e Manutenção de Ar Condicionado em Salvador,15,276,19;45;74;100;74;44;46;99;74;42;60;75,task:3;informational:18;navigational:27;commercial:40;transactional:12
+Total Frio Refrigeração,16,161,78;86;90;88;90;93;100;86;88;88;88;88,task:3;informational:23;navigational:42;commercial:22;transactional:10
+DENSUL Refrigeração e Ar Condicionado,15,324,68;79;80;81;83;86;88;92;100;100;100;100,task:3;informational:29;navigational:38;commercial:26;transactional:4
+Ar Condicionado e Refrigeração em Teresina,15,268,21;30;30;89;96;54;49;100;65;52;48;42,task:3;informational:28;navigational:17;commercial:47;transactional:5
+Ar Condicionado: Economia e Certificações Inmetro,39,8458,82;89;91;99;69;70;71;100;100;100;100;100,task:2;informational:76;navigational:5;commercial:14;transactional:3
+Coolers de lata,15,64,24;28;33;100;100;36;32;47;44;48;47;50,task:7;informational:49;navigational:1;commercial:32;transactional:11
+Ar condicionado Gree 12.000 BTU,25,1848,85;100;99;60;68;71;71;68;78;78;78;77,task:2;informational:44;navigational:7;commercial:34;transactional:13
+Ar Condicionado Cassete Samsung,17,1494,12;42;42;36;35;34;35;100;51;89;93;86,task:7;informational:44;navigational:21;commercial:16;transactional:12
+Nebulizadores e Umidificadores,22,872,32;43;35;51;70;70;70;72;68;100;68;68,task:2;informational:49;navigational:4;commercial:36;transactional:9
+Ventiladores de Teto Tron,20,7029,86;98;100;100;90;92;92;45;93;94;92;91,task:5;informational:47;navigational:8;commercial:26;transactional:14
+Colmeias para Radiadores,18,1292,39;46;57;52;62;52;52;100;100;100;99;94,task:5;informational:63;navigational:7;commercial:19;transactional:6
+Ventiladores e Ar Condicionado - Armazém Paraíba,17,313,30;100;96;87;87;72;87;51;44;54;49;78,task:3;informational:28;navigational:43;commercial:13;transactional:13
+R32 Gás Refrigerante,46,23025,32;58;62;84;95;96;96;99;100;100;100;100,task:5;informational:64;navigational:4;commercial:18;transactional:9
+Compressores de Ar Trifásicos,15,63,61;83;84;76;75;65;66;84;100;68;68;68,task:3;informational:52;navigational:1;commercial:28;transactional:16
+Coolers e Caixas Térmicas,17,431,55;60;60;100;71;76;73;41;40;42;42;40,task:2;informational:60;navigational:4;commercial:28;transactional:6
+Filtro de Ar Condicionado Consul,22,748,82;95;59;57;61;62;62;100;56;57;57;58,task:1;informational:50;navigational:30;commercial:12;transactional:7
+Ar Condicionado e Refrigeração em Foz do Iguaçu,15,106,14;79;43;56;56;57;49;100;64;26;24;16,task:5;informational:41;navigational:5;commercial:43;transactional:6
+Desumidificadores Arsec,15,79,83;87;100;100;100;100;100;89;90;99;99;99,task:7;informational:18;navigational:35;commercial:14;transactional:26
+Manutenção de Chillers,16,215,35;36;37;37;37;37;37;38;100;100;100;100,task:4;informational:80;navigational:5;commercial:7;transactional:4
+Refrigeração Norte do Brasil,17,3131,62;88;93;91;92;97;98;99;100;100;100;100,task:3;informational:49;navigational:21;commercial:22;transactional:5
+Compressores Herméticos e Semi-Herméticos,18,677,26;26;27;47;93;93;100;81;97;97;97;97,task:10;informational:75;navigational:5;commercial:8;transactional:2
+Ventiladores Tufão e Loren Sid,22,3200,81;94;96;49;97;100;100;47;48;48;48;48,task:2;informational:40;navigational:5;commercial:18;transactional:35
+Filtros de ar,18,3390,40;43;44;43;84;85;83;86;100;100;100;100,task:2;informational:56;navigational:10;commercial:24;transactional:8
+Tampas para Buracos de Ar Condicionado,21,1146,26;43;58;80;80;74;67;100;81;90;56;56,task:2;informational:64;navigational:2;commercial:23;transactional:9
+Refrigeração no Brasil,16,1051,22;27;28;27;26;31;30;30;31;30;83;100,task:1;informational:49;navigational:28;commercial:10;transactional:12
+Climatização de Ar Condicionado em Florianópolis,15,282,25;50;48;46;33;33;29;100;33;34;36;37,task:3;informational:38;commercial:47;transactional:12
+Ar Condicionado de Janela Consul 12000 BTU,17,277,49;70;76;65;63;66;64;100;69;72;60;87,task:3;informational:29;navigational:11;commercial:46;transactional:11
+Ar-condicionado Fujitsu 18000 BTU,19,1707,38;64;73;64;53;54;59;45;54;54;78;100,task:3;informational:42;navigational:13;commercial:20;transactional:22
+Ar Condicionado Springer 7500 BTU – Frente e Janela,17,276,36;46;47;45;46;45;43;100;72;43;42;32,task:5;informational:64;navigational:5;commercial:19;transactional:7
+Ar Condicionado: plural e usos,33,35038,93;100;100;91;42;42;42;91;91;91;91;91,task:2;informational:84;navigational:5;commercial:5;transactional:4
+Engenharia Térmica Mecalor,15,449,75;90;91;90;90;95;96;98;100;100;100;100,task:3;informational:41;navigational:31;commercial:8;transactional:17
+Olimpia Splendid Ar Condicionado,27,2618,76;91;92;54;60;61;64;71;95;100;95;98,task:5;informational:40;navigational:20;commercial:23;transactional:12
+Correias para compressor e/ar condicionado,19,2442,40;22;22;27;86;88;88;98;99;99;100;100,task:2;informational:71;navigational:2;commercial:17;transactional:8
+Controle de ar condicionado via aplicativo,113,36257,69;71;76;93;96;96;96;94;100;100;100;100,task:35;informational:48;navigational:4;commercial:6;transactional:7
+Aromatizadores elétricos de ambiente,19,401,67;72;74;74;90;100;100;73;73;76;75;75,task:5;informational:46;navigational:7;commercial:32;transactional:10
+Sopradores Térmicos e Aquecedores,35,14131,15;17;18;95;100;100;100;28;27;27;27;27,task:3;informational:38;navigational:4;commercial:40;transactional:15
+Compressores de ar condicionado para Gol,29,1395,88;100;100;54;54;59;59;57;67;67;63;63,task:5;informational:37;navigational:2;commercial:40;transactional:16
+Compressores de Ar Condicionado para Palio,17,610,43;50;49;48;98;100;98;64;52;52;52;52,task:2;informational:54;navigational:5;commercial:27;transactional:12
+Ventiladores de Teto e Aquecedores Martau,15,165,15;19;20;20;63;56;36;94;100;18;18;21,task:7;informational:51;navigational:15;commercial:15;transactional:12
+Ar Condicionado Automotivo Londrina,15,200,82;91;95;89;95;100;99;81;81;81;95;91,task:7;informational:28;navigational:29;commercial:28;transactional:8
+Umidificadores G Tech,22,4395,54;74;76;78;57;60;61;99;100;100;98;98,task:2;informational:57;navigational:10;commercial:21;transactional:10
+Radiadores em Curitiba,15,139,23;36;39;37;37;100;25;35;34;52;49;48,task:3;informational:18;navigational:41;commercial:33;transactional:5
+Termotec e Thermotech Refrigeração,16,126,34;100;99;97;97;41;41;41;43;43;62;44,task:3;informational:32;navigational:48;commercial:13;transactional:4
+Frigelar Brasil: Refrigeração e Ar Condicionado,59,37243,91;98;98;100;72;72;72;78;76;76;76;76,informational:27;navigational:54;commercial:9;transactional:10
+Ventilação Industrial,18,1081,66;67;33;74;74;74;74;97;97;100;98;98,task:2;informational:76;navigational:9;commercial:10;transactional:3
+Ar condicionado 80.000 BTU e câmbio de moedas,19,1845,27;41;43;31;63;57;59;100;79;68;73;82,task:6;informational:68;navigational:4;commercial:18;transactional:4
+Aquecedores e Sistemas de Aquecimento,146,77998,36;41;43;100;80;80;80;78;77;77;77;77,task:2;informational:43;navigational:2;commercial:35;transactional:18
+Refrigeração: Sitrad e Full Gauge,17,282,95;99;100;99;98;99;100;70;70;70;71;70,task:3;informational:72;navigational:10;commercial:7;transactional:8
+Ar Condicionado Midea Xtreme Save Connect,20,4061,47;24;25;35;35;36;37;82;92;100;93;93,task:2;informational:47;navigational:15;commercial:26;transactional:10
+Ventiladores de Teto Arno,56,12783,51;56;61;80;100;100;100;96;68;68;68;68,task:2;informational:58;navigational:10;commercial:13;transactional:17
+Ar condicionado automotivo no Vale do Paraíba,16,259,73;78;82;89;91;85;84;79;87;98;100;100,task:3;informational:35;navigational:37;commercial:16;transactional:9
+Caixas de Ventilação e Ventiladores,15,74,27;33;29;77;77;100;87;41;51;36;36;35,task:7;informational:58;navigational:4;commercial:24;transactional:7
+Ventiladores Polishop,16,1487,68;97;100;96;78;83;82;94;97;97;98;97,informational:35;navigational:43;commercial:11;transactional:11
+ar condicionado Hisense 18000 BTU,15,1005,3;54;58;36;36;32;50;96;87;100;90;87,task:3;informational:36;navigational:10;commercial:40;transactional:11
+Purificadores de ar para casa,55,49441,16;18;21;92;34;34;35;100;95;95;95;95,task:2;informational:48;navigational:2;commercial:36;transactional:12
+Radiadores MTF,17,2460,75;76;81;81;97;100;100;98;98;98;100;100,task:3;informational:68;navigational:14;commercial:12;transactional:3
+Balanças para Refrigeração e Ar Condicionado,22,1829,76;88;86;42;37;39;40;100;100;100;100;100,task:2;informational:56;navigational:5;commercial:26;transactional:11
+Gabinetes de PC,19,891,60;76;80;82;84;77;78;76;81;80;100;84,task:2;informational:42;navigational:7;commercial:32;transactional:17
+Tapa-fugas para ar condicionado,29,8386,35;40;40;54;99;100;100;98;100;100;99;99,task:8;informational:51;navigational:2;commercial:24;transactional:15
+Ar condicionado portátil Pinguino e Delonghi,29,9692,50;58;59;31;99;100;100;95;95;95;95;94,task:5;informational:48;navigational:14;commercial:24;transactional:9
+Aromatizadores de Ambiente Automáticos,22,2418,84;99;100;100;62;64;66;76;77;77;78;77,task:2;informational:49;navigational:4;commercial:35;transactional:10
+Refrigeração e ar condicionado em Recife,16,222,61;74;76;74;100;79;80;91;71;70;90;97,task:7;informational:39;navigational:18;commercial:26;transactional:10
+controles de ar condicionado Elgin,64,20663,38;54;59;66;72;73;73;98;100;100;100;100,task:2;informational:64;navigational:13;commercial:10;transactional:11
+Ar Condicionado 9000 BTU Silencioso,28,8303,29;36;42;67;84;85;85;100;100;99;99;99,task:2;informational:49;navigational:4;commercial:41;transactional:4
+Refrigeração e Expositores Refrimate,15,1010,61;84;86;82;87;93;94;96;96;97;100;100,task:3;informational:20;navigational:49;commercial:12;transactional:16
+Umidificadores de Ar Magalu,16,313,45;83;100;67;65;70;46;77;76;37;37;41,task:3;informational:28;navigational:42;commercial:14;transactional:13
+Ventiladores de Coluna 60 cm,19,374,43;64;100;84;82;62;72;62;52;53;54;56,task:3;informational:41;navigational:7;commercial:37;transactional:12
+Daikin 9000 BTU Inverter Ar Condicionado,24,5377,80;90;49;54;83;87;88;100;86;86;86;85,task:1;informational:53;navigational:15;commercial:19;transactional:12
+Ar Condicionado para Gol G3/G4,20,2593,37;41;41;30;33;36;36;100;68;67;67;67,task:8;informational:36;navigational:3;commercial:38;transactional:15
+Secadores de cabelo com difusor,18,3788,35;44;44;44;22;22;24;98;100;99;100;99,task:3;informational:50;navigational:4;commercial:32;transactional:11
+Capacitores para ar condicionado e compressores,20,476,29;30;32;51;92;92;100;73;73;69;68;68,task:3;informational:63;navigational:2;commercial:18;transactional:14
+Ar Condicionado do VW Fox,16,427,78;83;85;64;85;85;87;98;99;100;100;100,informational:84;navigational:5;commercial:10;transactional:1
+Tubulação e cobre para ar condicionado,18,1349,69;71;84;98;99;100;100;97;84;85;89;89,task:2;informational:64;navigational:5;commercial:26;transactional:3
+Refrigeração com R410a,47,21741,19;23;26;36;67;67;67;98;100;100;100;100,task:4;informational:61;navigational:5;commercial:25;transactional:5
+Bancadas Refrigeradas,15,87,26;68;100;89;85;98;30;58;64;31;31;31,task:10;informational:53;navigational:2;commercial:30;transactional:5
+Mangueiras de ar quente para carros populares,15,190,33;37;40;39;41;43;41;44;42;100;84;59,task:7;informational:45;navigational:4;commercial:28;transactional:16
+Secadores Gama Profissionais,37,6943,92;100;48;48;48;49;49;63;65;64;64;64,task:5;informational:38;navigational:15;commercial:34;transactional:8
+Zenith: Limpeza de Ar Condicionado,21,3170,19;20;21;41;60;60;60;72;75;74;73;100,task:5;informational:78;navigational:5;commercial:7;transactional:5
+Refrigeração e Ar Condicionado em Itatiba,15,922,4;29;33;34;34;42;42;100;51;47;45;86,task:3;informational:38;commercial:47;transactional:12
+compressor de ar condicionado para vectra,16,140,64;74;81;80;80;81;94;99;100;93;93;86,task:7;informational:37;navigational:5;commercial:26;transactional:25
+Ventiladores Fame,16,121,38;88;100;37;36;39;38;51;47;46;43;48,task:3;informational:54;navigational:12;commercial:17;transactional:14
+Ar Condicionado Hisense 10.000 BTU,15,316,16;19;20;17;20;21;19;100;85;35;22;22,task:5;informational:31;commercial:54;transactional:10
+Ar-condicionado no Uber,20,2453,46;71;79;100;93;81;80;75;73;83;85;84,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Coolers com LED,16,50,7;53;57;38;12;17;32;55;61;100;86;9,task:3;informational:58;navigational:11;commercial:21;transactional:7
+Ar Condicionado MS Campo Grande,15,407,44;100;100;99;97;84;82;59;63;60;74;100,task:10;informational:35;navigational:10;commercial:40;transactional:5
+Aquecedores 2 em 1 com Ventilador,17,702,65;82;100;58;57;54;52;65;55;56;57;56,task:5;informational:42;navigational:5;commercial:25;transactional:23
+Chuveiros de água quente,30,2783,37;45;56;87;93;97;100;93;90;89;90;90,task:8;informational:64;navigational:1;commercial:24;transactional:3
+Ar condicionado Elgin 24000 BTU,20,1845,33;55;60;47;42;44;45;81;78;100;95;89,task:3;informational:50;navigational:7;commercial:32;transactional:8
+Ar-condicionado Multi Split 24.000 BTU,17,710,31;55;64;50;50;62;76;86;52;91;86;100,task:5;informational:35;navigational:15;commercial:33;transactional:12
+Permutadores de Calor,17,434,87;98;100;52;52;52;52;100;100;100;100;100,task:2;informational:80;navigational:3;commercial:10;transactional:5
+Ar-condicionado GREE 30000 BTU,16,87,31;69;79;72;54;76;100;79;79;36;37;42,task:7;informational:41;navigational:18;commercial:23;transactional:11
+Ventilação vs. ar condicionado: saúde respiratória,81,15737,97;100;97;93;93;94;94;96;97;97;97;97,task:8;informational:82;navigational:3;commercial:6;transactional:1
+Ar condicionado Midea 18000 BTU inverter,42,7959,45;57;61;71;73;74;74;100;94;98;95;97,task:2;informational:43;navigational:5;commercial:19;transactional:31
+Ar Condicionado em Caxias do Sul,15,669,18;26;27;25;39;34;33;36;35;100;78;84,task:3;informational:18;navigational:39;commercial:35;transactional:5
+Ar comprimido: redes e sistemas industriais,24,11432,23;26;26;97;97;98;98;100;100;100;100;100,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Limpeza de Ar Condicionado de Janela,26,2364,71;81;57;72;100;100;100;79;88;88;89;89,task:8;informational:75;navigational:5;commercial:10;transactional:2
+Ventiladores Inox,16,330,37;48;50;44;50;52;43;57;100;45;45;43,task:3;informational:50;navigational:4;commercial:32;transactional:11
+Aquecedores Cardal,24,4294,52;74;78;98;99;100;100;93;94;94;97;97,task:3;informational:34;navigational:36;commercial:16;transactional:11
+Compressores no Brasil,16,183,38;62;60;42;41;55;100;74;85;52;52;71,task:3;informational:49;navigational:22;commercial:18;transactional:8
+Ventilação Residencial e Sistemas,25,8857,47;90;89;100;99;100;100;98;100;100;100;100,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Ar condicionado 22000 BTU Electrolux,15,308,14;19;22;14;74;64;33;93;82;83;88;100,task:10;informational:27;navigational:25;commercial:11;transactional:27
+Secadoras Midea,20,2500,40;49;49;39;40;45;45;87;70;76;91;100,task:5;informational:51;navigational:10;commercial:24;transactional:10
+Controle de ar condicionado Hitachi,25,2444,29;36;52;51;73;74;73;97;100;100;100;100,task:5;informational:70;navigational:10;commercial:9;transactional:6
+Ventiladores de parede 30 cm,15,597,39;50;53;50;52;52;43;42;44;99;95;100,task:3;informational:53;navigational:4;commercial:29;transactional:11
+Umidificadores de Ar Supermedy,16,95,19;23;27;98;100;66;78;16;17;40;27;28,task:3;informational:40;navigational:34;commercial:19;transactional:4
+Ar condicionado Fujitsu multi split,15,216,41;100;86;71;85;68;67;100;62;71;52;57,task:3;informational:32;navigational:20;commercial:23;transactional:22
+Controles de ar condicionado (Midea & Springer),88,26420,52;60;63;64;87;87;87;95;100;100;100;100,task:2;informational:70;navigational:10;commercial:10;transactional:8
+Coolers para Celulares,29,9931,16;22;23;26;31;32;32;99;100;100;100;100,task:10;informational:44;navigational:1;commercial:30;transactional:15
+Refrigeração Santana,15,72,74;77;81;88;94;100;91;83;84;84;84;84,task:4;informational:24;navigational:27;commercial:40;transactional:5
+Ar Condicionado em Fortaleza,15,79,34;40;46;46;76;50;100;52;55;73;89;72,task:10;informational:42;navigational:3;commercial:40;transactional:5
+Refrigeração Paraná,15,414,61;66;69;64;100;87;68;63;73;78;85;86,task:7;informational:34;navigational:29;commercial:19;transactional:11
+Hidráulica e Aquecedores,15,129,45;47;48;42;42;42;42;55;61;94;100;66,task:7;informational:49;navigational:22;commercial:10;transactional:12
+Refrigeradores Visa Cooler,17,594,73;76;81;100;100;82;77;61;61;64;66;74,task:8;informational:58;navigational:5;commercial:23;transactional:6
+Consul - Purificadores de Água,25,3559,83;98;100;64;69;72;73;72;68;67;65;65,task:5;informational:42;navigational:14;commercial:26;transactional:13
+Radiadores do Polo,16,226,69;87;87;85;85;96;95;92;97;100;99;97,task:7;informational:55;navigational:4;commercial:26;transactional:8
+Exaustores Axiais,17,1293,23;26;27;26;99;100;100;51;49;49;49;49,task:2;informational:60;navigational:14;commercial:21;transactional:3
+Contratos de Manutenção de Ar Condicionado,18,792,99;100;100;93;58;58;58;74;90;90;90;90,task:8;informational:70;navigational:2;commercial:18;transactional:2
+Refrigeração e Climatização: Cursos e Técnicos,149,68216,92;100;100;94;96;96;96;91;97;97;97;97,task:5;informational:63;navigational:5;commercial:15;transactional:12
+Mini Coolers Portáteis,16,1331,63;96;98;94;88;92;94;93;95;100;96;96,task:3;informational:52;navigational:5;commercial:25;transactional:15
+Ventiladores de 20 cm,17,1265,68;94;97;93;93;100;100;96;97;98;98;96,task:3;informational:48;navigational:4;commercial:31;transactional:14
+Ventiladores no Brasil: ofertas e modelos,32,10110,29;35;37;100;68;69;69;60;62;62;61;61,informational:52;navigational:6;commercial:31;transactional:11
+Ventiladores de Teto Volare,16,1952,16;19;19;18;23;28;31;46;68;100;94;92,task:2;informational:33;navigational:26;commercial:35;transactional:4
+Ventiladores de teto Tron Aventador,15,853,10;51;51;55;67;46;23;58;58;100;88;93,task:7;informational:40;navigational:5;commercial:32;transactional:16
+Ar condicionado LG: economia de energia,19,964,44;52;67;58;73;71;67;58;58;100;74;75,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Ar condicionado Elgin 18000 BTU,24,2144,85;97;99;98;97;100;100;54;57;58;58;56,task:2;informational:26;navigational:13;commercial:48;transactional:11
+Refrigeração Cacique,15,554,62;93;93;88;71;75;74;94;99;100;86;85,task:3;informational:15;navigational:67;commercial:10;transactional:5
+Equipamentos e Máquinas,17,9735,27;32;100;82;82;83;83;83;84;83;84;83,task:2;informational:68;navigational:5;commercial:19;transactional:6
+Umidificadores Suggar,17,670,11;31;33;21;15;27;18;100;81;36;30;32,task:3;informational:37;navigational:35;commercial:8;transactional:17
+Secadores Rotativos,16,564,30;31;32;32;32;32;33;100;83;83;83;83,task:3;informational:51;navigational:4;commercial:28;transactional:14
+Ventiladores Arno Turbo,29,3359,84;98;100;61;57;60;60;69;68;68;66;66,task:5;informational:38;navigational:15;commercial:25;transactional:17
+Aromatizadores e difusores de ar,17,354,53;63;64;95;94;78;59;100;92;93;93;94,task:2;informational:60;navigational:1;commercial:29;transactional:8
+Samsung WindFree Ar Condicionado,31,4918,82;100;61;71;75;77;77;73;74;85;74;73,task:2;informational:48;navigational:10;commercial:22;transactional:18
+Ar condicionado Gree Eco Garden,16,1348,21;37;43;53;52;45;44;53;42;96;79;100,task:5;informational:60;navigational:10;commercial:20;transactional:5
+Radiadores L200 e Refrigeração Veicular,15,49,23;39;44;26;26;31;100;49;49;26;26;26,task:10;informational:65;navigational:5;commercial:16;transactional:4
+Desinstalação e Desmontagem de Ar Condicionado,25,1944,26;33;75;100;70;72;72;78;90;90;90;90,task:5;informational:75;navigational:4;commercial:11;transactional:5

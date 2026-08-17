@@ -1,0 +1,1001 @@
+name,prompts_count,volume,volume_trend,intents
+Receitas de forno,24,1412,91;100;59;66;61;63;64;55;92;92;92;92,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Forno para Bolos,40,6970,19;32;40;76;88;89;89;100;100;100;100;100,task:2;informational:56;navigational:10;commercial:20;transactional:12
+Forno e Arte de Cozinha,17,239,18;85;100;38;28;34;46;69;47;61;66;27,task:10;informational:47;navigational:9;commercial:20;transactional:14
+Formas e assadeiras para forno,19,258,43;76;87;54;53;54;67;91;100;68;69;67,task:3;informational:48;navigational:1;commercial:39;transactional:9
+Forno de fundição,19,173,84;97;100;99;88;90;91;96;96;97;97;97,task:10;informational:67;navigational:4;commercial:15;transactional:4
+"Forno, Fogão e Pizza",15,130,53;61;63;69;69;72;74;96;100;89;85;85,task:3;informational:58;navigational:4;commercial:24;transactional:11
+Forno Combinado,32,19849,19;24;25;80;100;100;100;96;96;96;97;96,task:3;informational:55;navigational:6;commercial:22;transactional:14
+Forno a gás,15,41,8;26;29;17;31;34;8;100;9;9;9;9,task:7;informational:47;navigational:9;commercial:26;transactional:11
+Fogões e Fornos de Cozinha,15,677,35;56;67;47;60;57;71;100;72;75;68;87,task:8;informational:66;navigational:8;commercial:14;transactional:4
+Forno para Pão,21,1010,40;58;73;63;45;46;46;100;63;68;68;71,task:3;informational:54;navigational:7;commercial:20;transactional:16
+Fornos Elétricos,241,147415,42;40;41;53;100;100;100;97;79;79;79;79,task:2;informational:40;navigational:4;commercial:39;transactional:15
+Sforno Pizzerie Italiane,15,282,80;93;94;98;93;100;99;96;99;98;99;98,task:3;informational:29;navigational:42;commercial:15;transactional:11
+Fornos Industriais para Padarias,64,17688,91;42;49;64;82;83;83;100;96;96;96;96,task:2;informational:50;navigational:2;commercial:30;transactional:16
+fornos wictory,19,824,88;98;100;99;94;96;97;61;68;69;63;62,task:2;informational:39;navigational:36;commercial:14;transactional:9
+Forno autolimpante,30,5291,20;27;31;62;97;98;98;100;97;100;91;91,task:5;informational:65;navigational:2;commercial:20;transactional:8
+fornos a carvão,19,583,61;63;64;77;100;100;100;99;72;72;74;74,task:4;informational:70;navigational:2;commercial:15;transactional:9
+Air Fryer e Forno,59,31544,18;21;23;86;57;57;57;100;78;78;78;78,task:5;informational:55;navigational:4;commercial:24;transactional:12
+Bolos no Forno,111,28941,14;18;20;46;79;80;80;99;100;100;100;100,task:4;informational:79;navigational:5;commercial:8;transactional:4
+Cuisinart - Fornos e Air Fryers,16,467,64;81;100;92;96;84;85;92;91;92;84;84,task:3;informational:38;navigational:17;commercial:32;transactional:10
+Fornos Progas,31,3319,86;98;100;100;49;51;52;52;50;50;50;50,task:2;informational:32;navigational:24;commercial:25;transactional:17
+La Fornace Ristorante e Pizzeria,16,293,50;95;79;80;80;90;79;100;87;74;75;79,task:3;informational:36;navigational:37;commercial:16;transactional:8
+Forno Pietro e fornos de esteira,15,195,83;92;100;94;89;92;92;90;90;90;90;93,informational:53;navigational:20;commercial:11;transactional:16
+Forno Ooni e pizzas,18,1182,71;85;84;83;76;78;78;78;100;100;100;100,task:5;informational:64;navigational:12;commercial:16;transactional:3
+Forno industrial e assadeiras,15,43,24;96;100;30;34;37;35;38;41;32;32;34,task:3;informational:49;navigational:4;commercial:28;transactional:16
+Fornos de tratamento térmico,17,302,43;60;62;65;54;54;54;100;100;100;100;100,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Grill no forno,30,2652,87;90;90;89;92;93;93;82;100;100;100;100,task:2;informational:82;navigational:5;commercial:9;transactional:2
+Forno Rational Brasil,22,1486,78;89;91;90;97;100;100;61;58;58;58;58,task:2;informational:30;navigational:31;commercial:13;transactional:24
+Forno Elétrico Vicini,16,361,6;39;68;37;36;41;32;100;67;54;48;63,task:5;informational:52;navigational:26;commercial:12;transactional:5
+fornos para restaurantes,16,135,83;97;100;73;76;80;92;66;74;74;74;74,task:13;informational:37;navigational:5;commercial:26;transactional:19
+Fornos Franke,15,402,25;27;28;36;33;33;40;46;39;100;90;92,task:3;informational:23;navigational:44;commercial:11;transactional:19
+Forno de Lastro Industrial,27,4261,49;56;55;40;66;68;68;100;87;87;87;87,task:8;informational:45;navigational:4;commercial:33;transactional:10
+Forno elétrico embutido,15,620,42;61;65;57;70;71;44;45;50;48;85;100,task:1;informational:54;navigational:4;commercial:33;transactional:8
+Forno Italiano para Pizzarias,16,226,41;47;48;59;61;63;64;86;100;70;68;68,task:3;informational:17;navigational:4;commercial:58;transactional:18
+Forno a lenha de barro,26,3831,42;52;41;58;94;96;97;100;79;79;79;78,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Fornos Tecnopizza,15,139,71;76;79;79;95;100;82;82;83;83;83;83,task:3;informational:32;navigational:46;commercial:11;transactional:8
+Macarrão no Forno,31,23244,90;94;98;44;42;42;42;53;100;100;100;100,task:12;informational:67;navigational:3;commercial:10;transactional:8
+Fornos Elétricos Giratórios,18,839,65;71;73;71;71;76;76;80;100;98;76;75,task:2;informational:66;navigational:11;commercial:11;transactional:10
+Fritadeiras Air Fryer e Fornos,26,17475,44;48;52;42;58;58;59;100;75;74;75;74,task:4;informational:51;navigational:3;commercial:35;transactional:7
+Mesas para forno,15,247,33;62;67;55;32;33;38;100;100;27;27;37,task:3;informational:52;navigational:5;commercial:25;transactional:15
+Forno a Lenha para Padarias,16,428,91;96;99;97;86;100;88;59;76;76;78;76,task:5;informational:54;navigational:5;commercial:24;transactional:12
+Fogões com Forno Elétrico,34,8762,23;31;41;54;99;100;100;74;84;84;84;84,task:2;informational:49;navigational:5;commercial:33;transactional:11
+Fornos a Lenha Embutidos,15,243,48;55;59;63;62;59;64;59;61;100;94;97,task:3;informational:48;navigational:11;commercial:31;transactional:7
+Fornos e Fogões de Ferro Fundido,21,1213,76;88;87;44;65;68;67;100;72;73;72;72,task:5;informational:40;navigational:7;commercial:32;transactional:16
+Forno a gás no Brasil,21,2880,84;98;99;62;96;100;100;91;93;93;92;92,task:2;informational:56;navigational:4;commercial:32;transactional:6
+Forno de Embutir com Ventilação,23,1918,15;20;24;70;85;83;84;100;99;97;96;96,task:3;informational:61;navigational:2;commercial:26;transactional:8
+Forno Napolitano para Pizza,17,304,54;63;65;63;92;91;91;100;60;60;60;60,task:3;informational:54;navigational:16;commercial:22;transactional:5
+fornos e eletrodomésticos no Brasil,15,720,6;6;7;19;14;13;23;100;75;56;47;45,task:10;informational:56;navigational:8;commercial:12;transactional:14
+Forno elétrico embutido Itatiaia,16,1046,12;48;60;43;43;38;27;48;35;100;86;95,informational:33;navigational:24;commercial:29;transactional:14
+Formas de pizza e utensílios de forno,27,9007,26;32;52;88;99;100;100;93;62;62;62;62,task:8;informational:61;navigational:4;commercial:21;transactional:6
+Fornos Kilocal,15,142,78;78;86;88;86;87;88;94;96;96;100;96,task:7;informational:21;navigational:51;commercial:10;transactional:11
+Pizzarias e Fornos,18,4267,57;79;87;88;88;90;90;100;99;99;99;98,task:5;informational:62;navigational:11;commercial:15;transactional:7
+Forno Continental Embutido,39,3801,86;98;100;49;54;55;55;54;50;50;49;49,task:2;informational:54;navigational:15;commercial:20;transactional:9
+Fornos com convecção,55,12061,40;47;48;57;86;88;88;100;99;99;99;99,task:5;informational:62;navigational:4;commercial:26;transactional:3
+Fogões a Lenha com Forno,70,31876,37;40;100;45;56;56;56;59;47;47;47;47,task:1;informational:56;navigational:4;commercial:26;transactional:13
+Forno e air fryer Kitchenaid,19,725,84;94;94;95;90;92;100;92;73;71;73;72,task:8;informational:44;navigational:3;commercial:36;transactional:9
+Forno Elétrico Polishop,18,364,24;32;37;74;74;30;29;57;49;100;94;72,task:3;informational:26;navigational:44;commercial:11;transactional:16
+Fornos Elétricos Arno e Air Fryer,17,994,48;65;76;61;40;47;61;74;69;40;95;100,task:8;informational:67;navigational:5;commercial:12;transactional:8
+Fornos a Lenha com Fogão,16,5517,34;41;42;45;99;100;100;85;88;88;90;90,task:2;informational:48;navigational:15;commercial:12;transactional:23
+Forno Elétrico Progas,22,1517,83;93;94;48;43;47;46;100;71;72;94;100,informational:47;navigational:31;commercial:13;transactional:9
+Fogões e Cooktops,16,382,14;85;100;19;33;32;30;30;25;31;29;31,task:2;informational:50;navigational:19;commercial:15;transactional:14
+Forno Rio,16,1329,13;21;26;29;28;28;26;43;47;51;88;100,task:5;informational:39;navigational:29;commercial:19;transactional:8
+Fornos a gás embutidos,67,21263,59;83;91;84;97;97;98;98;100;100;100;100,task:2;informational:37;navigational:4;commercial:45;transactional:12
+Forno Industrial para Pizzaria,17,302,100;52;61;60;62;54;54;55;69;70;58;56,task:5;informational:23;navigational:3;commercial:58;transactional:11
+Marinex e Vidro para Forno,41,11759,69;74;77;89;89;90;90;100;100;99;100;99,task:2;informational:69;navigational:10;commercial:16;transactional:3
+Fornos de Cerâmica,48,24574,13;18;21;47;52;53;53;100;100;100;100;100,task:8;informational:50;navigational:4;commercial:30;transactional:8
+Forno Paulista para Pizza,16,4005,82;97;100;54;53;54;54;60;63;63;62;61,task:2;informational:50;navigational:12;commercial:14;transactional:22
+Fogões e fritadeiras para pastel,16,243,78;91;100;85;63;53;52;65;63;52;52;52,task:2;informational:56;navigational:4;commercial:28;transactional:10
+Pizzarias de Fornos,15,695,25;36;50;43;44;48;43;52;57;65;100;89,task:3;informational:47;navigational:15;commercial:15;transactional:20
+Fogões Industriais com Forno,40,41586,26;28;31;35;37;38;38;37;100;100;100;100,task:2;informational:37;navigational:4;commercial:42;transactional:15
+Forno Elétrico Espelhado,16,630,44;49;44;46;47;54;53;43;44;70;90;100,task:3;informational:31;navigational:38;commercial:24;transactional:4
+fornos elétricos digitais,15,127,14;17;21;19;36;43;30;100;61;18;17;17,task:3;informational:49;navigational:4;commercial:33;transactional:11
+Panelas para forno,29,2673,36;44;58;87;100;99;99;91;85;85;87;87,task:2;informational:74;navigational:5;commercial:16;transactional:3
+Fornos de Alto Forno e Siderurgia,21,6455,74;71;71;71;77;78;78;100;100;100;100;100,task:8;informational:76;navigational:3;commercial:11;transactional:2
+Pizzarias ao Forno,15,324,40;70;85;100;100;57;70;75;72;71;69;70,task:7;informational:32;navigational:17;commercial:29;transactional:15
+Forno Alemão,16,398,14;34;34;34;34;22;39;100;84;20;20;38,task:3;informational:51;navigational:18;commercial:14;transactional:14
+Forno e micro-ondas embutidos,56,29573,79;81;40;49;73;73;73;100;87;87;87;87,task:2;informational:52;navigational:4;commercial:33;transactional:9
+Móveis para forno de embutir,22,3595,70;94;100;97;91;95;96;96;96;96;96;95,task:2;informational:52;navigational:7;commercial:28;transactional:11
+Temperaturas de fogão e forno,31,3811,97;100;96;88;85;86;86;87;100;100;100;100,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Bolos na Airfryer,112,92901,16;18;34;40;61;61;61;100;100;100;100;100,task:7;informational:73;navigational:2;commercial:12;transactional:6
+Instalação de Forno de Embutir,21,2126,45;51;50;58;73;76;75;100;83;83;79;80,task:2;informational:79;navigational:5;commercial:8;transactional:6
+Cozinha Planejada com Forno Embutido,16,578,58;72;100;67;67;55;69;72;83;86;79;82,task:5;informational:78;navigational:5;commercial:10;transactional:2
+Forno Multifuncional com Micro-ondas,18,10156,7;17;21;96;96;97;97;100;100;100;100;100,task:6;informational:50;navigational:5;commercial:29;transactional:10
+Forno de Embutir Britânia,16,1002,19;41;44;36;35;37;29;100;84;98;47;60,task:3;informational:48;navigational:22;commercial:13;transactional:14
+Forno Rotativo Industrial,15,104,77;82;89;88;88;89;90;100;100;100;100;100,task:3;informational:70;navigational:5;commercial:15;transactional:7
+Forno esteira para pizzarias,15,195,51;68;70;83;83;65;63;96;100;59;59;88,task:10;informational:24;navigational:7;commercial:41;transactional:18
+Forno Embutido Panasonic,16,306,36;44;43;41;39;92;70;96;65;100;73;69,task:7;informational:31;navigational:18;commercial:19;transactional:25
+Fornos Elétricos com Vapor,25,2129,66;75;47;73;81;82;82;92;99;99;100;100,task:6;informational:63;navigational:4;commercial:25;transactional:2
+Forno Elétrico Mondial,48,9048,89;100;50;54;99;100;100;74;92;92;97;97,task:2;informational:39;navigational:27;commercial:22;transactional:10
+Forno de Embutir Consul Facilite,15,264,37;51;54;48;43;48;46;79;64;100;86;56,task:3;informational:32;navigational:38;commercial:18;transactional:9
+Fornos Embutidos Nardelli,16,692,91;100;36;29;27;37;33;34;42;41;41;39,task:2;informational:37;navigational:32;commercial:19;transactional:10
+Fogões Brastemp com forno,16,321,65;79;85;100;100;100;98;44;44;64;54;63,task:2;informational:63;navigational:5;commercial:15;transactional:15
+Fornos Venax embutidos,23,2217,89;100;100;56;81;84;84;83;91;98;85;85,task:2;informational:49;navigational:15;commercial:16;transactional:18
+Porcelana e travessas para forno,22,2505,59;64;64;84;99;100;100;95;94;95;95;95,task:10;informational:52;navigational:5;commercial:21;transactional:12
+Forno de pizza com esteira,22,4488,87;100;51;54;52;56;56;77;76;76;76;76,task:7;informational:44;navigational:5;commercial:28;transactional:16
+Fornos Cubilô,18,367,33;38;41;37;37;36;36;100;100;100;100;100,task:2;informational:70;navigational:15;commercial:10;transactional:3
+Forno elétrico de embutir Consul,49,6259,81;93;100;99;86;88;88;87;89;88;88;87,task:1;informational:34;navigational:40;commercial:13;transactional:12
+Forno elétrico cinza,16,223,7;34;29;18;18;34;18;87;100;23;23;23,task:3;informational:40;navigational:11;commercial:32;transactional:14
+forno 3 em 1 com cafeteira,18,552,61;68;68;67;100;100;100;46;47;50;50;68,task:3;informational:40;navigational:4;commercial:36;transactional:17
+"Fornos de pizza (elétrico, a gás e portáteis)",71,20830,40;43;49;58;78;78;78;100;73;73;73;73,task:5;informational:62;navigational:2;commercial:23;transactional:8
+Forno Embutido a Gás/Elétrico,109,60574,88;88;36;61;75;75;75;100;80;80;80;80,task:5;informational:56;navigational:3;commercial:23;transactional:13
+Forno Brastemp com Air Fryer,17,397,41;65;70;59;55;57;56;100;52;55;82;86,task:3;informational:46;navigational:12;commercial:20;transactional:19
+Fogatti fornos elétricos,25,1879,60;70;38;41;100;99;99;95;90;93;89;89,informational:44;navigational:23;commercial:23;transactional:10
+Forno Elétrico Fischer,112,36843,100;100;41;43;51;51;51;58;62;62;62;62,task:3;informational:40;navigational:23;commercial:17;transactional:17
+Forno Elétrico de Embutir,19,1560,84;99;100;98;86;88;97;66;67;69;69;69,task:5;informational:41;navigational:4;commercial:39;transactional:11
+Fornos elétricos Philco,52,12436,40;45;50;100;57;58;58;63;62;63;62;62,task:5;informational:54;navigational:8;commercial:13;transactional:20
+Fogões com forno duplo,23,8943,93;97;100;49;51;52;52;43;48;48;48;48,task:2;informational:44;navigational:4;commercial:37;transactional:13
+Cooktops com Forno Embutido,36,19149,42;46;49;60;90;90;90;100;95;95;95;95,task:5;informational:53;navigational:9;commercial:26;transactional:7
+Forno Industrial a Gás e Elétrico,25,4338,64;84;89;93;89;91;91;100;94;94;95;94,task:2;informational:46;navigational:4;commercial:34;transactional:14
+fornos elétricos retrô,15,795,6;16;19;17;9;17;25;89;92;100;94;93,task:3;informational:56;navigational:4;commercial:21;transactional:16
+Forno elétrico 40 L,26,2609,83;94;95;57;98;100;99;64;64;64;64;63,task:5;informational:57;navigational:4;commercial:26;transactional:8
+Forno elétrico Britânia,32,3646,88;98;100;100;47;50;50;51;51;51;53;53,task:5;informational:44;navigational:15;commercial:22;transactional:14
+Forno de pizza a lenha em alvenaria,16,205,30;18;20;100;93;94;94;37;26;26;26;26,task:8;informational:67;navigational:2;commercial:18;transactional:5
+Formas para pão e assadeiras,19,1729,44;54;61;75;97;97;98;100;81;80;78;77,informational:64;navigational:5;commercial:21;transactional:10
+Fogões e fornos por indução,22,3064,64;75;76;53;83;85;85;100;92;92;92;91,task:2;informational:60;navigational:2;commercial:22;transactional:14
+Fornos Mueller Sapore,17,862,38;66;74;56;62;57;61;96;85;100;89;73,task:4;informational:37;navigational:30;commercial:7;transactional:22
+Spazio di Pane,17,447,75;91;93;91;91;95;97;95;100;100;100;99,task:3;informational:32;navigational:32;commercial:15;transactional:18
+Forno de Embutir Philco,20,1916,69;95;95;89;76;82;87;70;78;78;95;100,task:3;informational:30;navigational:26;commercial:20;transactional:21
+Fornos Elétricos Venâncio,16,891,92;100;100;48;47;52;52;58;60;62;53;52,task:2;informational:40;navigational:19;commercial:30;transactional:9
+Pizzarias com forno a lenha,35,30185,49;32;32;100;92;92;92;64;91;91;91;91,informational:63;navigational:12;commercial:17;transactional:8
+Grelhas e Grades para Forno,21,1171,29;37;38;48;74;83;77;58;93;100;98;97,task:5;informational:34;navigational:1;commercial:46;transactional:14
+Mini Fornos Elétricos Portáteis,17,2195,69;91;94;90;88;94;95;98;100;97;97;95,task:7;informational:45;navigational:4;commercial:33;transactional:11
+Formas para assar bolos,21,1022,50;58;37;100;98;95;95;67;65;65;66;62,task:2;informational:61;navigational:5;commercial:19;transactional:13
+Fornos Elétricos Colombo,15,452,56;71;74;65;79;73;67;80;56;100;94;100,task:2;informational:27;navigational:39;commercial:7;transactional:25
+Fornos Ramalho,16,393,87;97;100;96;97;99;98;58;59;68;68;70,task:2;informational:20;navigational:33;commercial:33;transactional:12
+Forno Elétrico Mueller,36,6723,48;60;64;73;94;95;97;100;100;99;99;98,informational:54;navigational:21;commercial:16;transactional:9
+Locação de Fornos de Pizza,16,604,31;31;46;91;77;80;80;78;100;97;98;98,task:2;informational:56;navigational:7;commercial:27;transactional:8
+Isolantes Térmicos para Fornos e Fogões,20,1664,55;59;62;67;81;82;81;100;100;100;100;96,task:5;informational:55;navigational:2;commercial:28;transactional:10
+Pão Caseiro no Forno,59,14789,13;18;25;57;92;93;93;97;100;100;100;100,task:8;informational:78;navigational:5;commercial:6;transactional:3
+limpeza de forno elétrico,41,9869,29;31;38;86;99;100;100;56;56;56;57;56,task:8;informational:80;navigational:3;commercial:7;transactional:2
+Forno Brastemp Embutido 67L,16,1184,45;56;58;53;62;55;53;84;72;79;95;100,informational:51;navigational:9;commercial:28;transactional:12
+Forno da Pino Restaurante,16,1234,56;68;70;100;93;99;98;69;66;66;69;69,task:1;informational:40;navigational:30;commercial:21;transactional:8
+Forno Elétrico Industrial Semi-Industrial,16,225,63;75;74;86;85;84;63;100;97;65;65;74,task:7;informational:44;navigational:1;commercial:37;transactional:11
+Forno Turbo Elétrico,16,1019,85;95;100;97;91;88;88;58;52;52;55;55,task:5;informational:59;navigational:5;commercial:18;transactional:13
+Fornos Turbochef,16,132,45;48;50;51;49;100;94;53;54;60;60;57,task:3;informational:36;navigational:39;commercial:15;transactional:7
+Fornerie italiane,15,303,26;100;92;76;41;42;41;38;39;72;41;41,task:3;informational:57;navigational:15;commercial:15;transactional:10
+Fornos Ariete para Pizza,21,1074,70;88;90;98;100;100;97;79;95;96;89;90,task:5;informational:62;navigational:4;commercial:14;transactional:15
+Fornos elétricos Tramontina em inox,28,4000,34;47;47;63;92;94;95;100;73;73;72;72,task:2;informational:47;navigational:13;commercial:22;transactional:16
+Padarias e Restaurantes Forno de Minas,16,1681,49;65;66;68;68;67;68;100;75;74;71;68,task:3;informational:28;navigational:46;commercial:17;transactional:6
+Receitas de Bauru de Forno,25,7295,52;59;61;61;33;33;34;100;63;63;63;63,task:14;informational:71;navigational:3;commercial:10;transactional:2
+Cachorro-quente de forno,23,10297,91;97;100;97;96;97;97;63;65;65;65;64,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Fornos elétricos Layr,24,4656,90;98;100;46;42;43;43;43;45;45;45;44,task:3;informational:43;navigational:9;commercial:22;transactional:23
+Pudim no Forno Elétrico,25,4352,53;60;60;36;84;86;86;90;100;99;96;96,task:2;informational:75;navigational:5;commercial:11;transactional:7
+fornos elétricos Electrolux,43,24093,49;51;26;44;100;100;100;85;84;84;84;84,informational:54;navigational:26;commercial:14;transactional:6
+Forno Flex Brasil: preços e modelos,17,562,29;94;100;32;31;45;46;40;35;46;39;39,informational:44;navigational:12;commercial:23;transactional:21
+Fogões Industriais,20,975,26;30;30;32;97;93;93;100;100;100;100;100,task:8;informational:28;navigational:3;commercial:45;transactional:16
+Estufas para padarias,20,990,27;41;45;71;91;90;100;67;66;64;64;97,task:8;informational:63;navigational:2;commercial:24;transactional:3
+Forno de Embutir Elétrico,96,111086,33;33;37;41;47;47;47;47;100;100;100;100,task:5;informational:45;navigational:9;commercial:32;transactional:9
+Assadeiras e formas de inox,18,1355,81;87;88;90;89;94;96;95;94;94;94;100,task:5;informational:42;navigational:4;commercial:30;transactional:19
+Fogões e Fornos Pinhal,15,908,23;58;59;43;42;44;32;100;97;58;59;56,task:5;informational:28;navigational:49;commercial:12;transactional:6
+Forno Elétrico 80 Litros,18,1470,83;96;96;95;92;95;95;100;48;48;49;49,task:5;informational:30;navigational:6;commercial:42;transactional:17
+Fogões industriais de inox,15,429,83;100;98;94;69;79;79;58;73;59;60;59,task:3;informational:53;navigational:5;commercial:25;transactional:14
+Forno Samsung e Air Fryer,18,1585,5;49;55;35;38;20;24;65;42;100;74;77,task:6;informational:50;navigational:15;commercial:23;transactional:6
+Fogões e fornos Elettromec,15,1393,72;93;98;91;80;87;88;95;100;99;99;98,task:4;informational:27;navigational:46;commercial:6;transactional:17
+Forno elétrico em lojas brasileiras,15,987,23;53;71;44;44;49;58;53;54;84;85;100,informational:11;navigational:59;commercial:11;transactional:19
+Forno Elétrico 84L,19,530,34;63;63;60;43;42;41;100;52;56;75;84,task:3;informational:51;navigational:11;commercial:29;transactional:6
+fornos elétricos Fischer 44L,20,1623,84;96;96;93;96;98;100;88;52;53;100;100,task:2;informational:49;navigational:22;commercial:15;transactional:12
+Fornos de pizza a gás e a lenha,18,509,42;49;57;52;51;68;65;61;75;74;100;100,task:3;informational:55;navigational:5;commercial:25;transactional:12
+Assadeiras Tramontina,24,2885,84;99;100;54;54;58;59;53;58;58;58;57,task:2;informational:34;navigational:21;commercial:14;transactional:29
+Forno Elétrico 60 Litros,48,10287,75;83;90;87;94;96;96;100;94;94;94;94,task:2;informational:43;navigational:8;commercial:28;transactional:19
+Formas para bolos e assadeiras,25,8687,19;23;24;86;35;36;36;100;38;38;38;37,task:3;informational:49;navigational:5;commercial:37;transactional:6
+Forno Elétrico 17 Litros Philco,17,637,8;49;53;44;41;42;33;98;100;61;54;54,task:10;informational:29;navigational:5;commercial:30;transactional:26
+Forno Elétrico 42 Litros,16,349,39;77;91;62;100;93;87;86;90;70;71;71,task:7;informational:25;commercial:57;transactional:11
+Festpan Panificação,16,542,60;83;77;89;82;100;100;96;99;99;94;93,task:7;informational:33;navigational:34;commercial:10;transactional:16
+Padarias e Fornos,15,838,42;62;62;61;73;76;76;100;69;68;77;77,task:5;informational:50;navigational:19;commercial:17;transactional:9
+Termômetros de forno,18,2333,42;47;56;87;100;100;100;79;76;70;69;69,task:4;informational:60;navigational:4;commercial:27;transactional:5
+Formas de vidro para forno,69,16583,53;64;62;87;97;97;97;93;100;100;100;100,task:5;informational:78;navigational:5;commercial:10;transactional:2
+Forno elétrico 48L,21,501,23;45;55;46;45;58;41;100;87;76;40;47,task:8;informational:39;navigational:5;commercial:27;transactional:21
+Forno Elétrico com Espeto Giratório,15,1416,18;21;22;20;46;24;26;56;38;77;92;100,task:5;informational:65;navigational:5;commercial:15;transactional:10
+Fornos embutidos elétricos 20–46 L,19,561,70;99;100;50;62;65;72;47;56;63;51;58,task:5;informational:59;navigational:4;commercial:28;transactional:4
+Fondue em casa,46,12222,87;93;96;44;55;56;56;100;61;61;61;61,task:2;informational:60;navigational:5;commercial:21;transactional:12
+Fornos Unox no Brasil,15,227,82;92;90;88;88;91;92;98;100;100;100;100,task:3;informational:24;navigational:50;commercial:15;transactional:8
+Adoçantes para forno e fogão,54,18634,17;31;29;51;77;78;78;100;100;99;99;99,task:5;informational:68;navigational:2;commercial:22;transactional:3
+Forno de Embutir Mueller,20,856,42;56;55;55;64;68;63;65;81;100;78;79,task:3;informational:35;navigational:35;commercial:15;transactional:12
+Móveis para micro-ondas e forno,34,11873,93;95;100;97;92;92;92;84;84;84;84;84,task:2;informational:57;navigational:9;commercial:27;transactional:5
+fornos elétricos 45L,17,819,50;71;72;68;68;72;71;95;80;87;91;100,task:3;informational:50;navigational:4;commercial:29;transactional:14
+Forno elétrico e fryer Oster,34,6112,90;98;100;47;72;73;73;53;62;62;62;62,task:8;informational:35;navigational:2;commercial:31;transactional:24
+Bolos na panela,20,5996,30;41;42;43;42;45;45;94;98;98;100;100,task:14;informational:72;navigational:3;commercial:6;transactional:5
+Lâmpadas para Forno e Fogão,28,2483,32;45;46;46;74;77;77;100;93;93;92;91,task:3;informational:52;navigational:5;commercial:23;transactional:17
+Pastelão: massas e recheios,33,20161,34;40;43;43;43;43;43;88;100;100;100;100,task:5;informational:74;navigational:5;commercial:8;transactional:8
+Torre para Forno e Micro-ondas,17,267,16;37;43;33;36;28;37;100;84;22;21;22,task:7;informational:43;navigational:1;commercial:39;transactional:10
+Forno elétrico: melhores modelos e avaliações,25,4070,45;52;43;41;57;58;58;100;93;93;93;93,task:2;informational:57;navigational:4;commercial:24;transactional:13
+Fogões a lenha e fornos iglu pré-moldados para pizza,17,2971,86;99;100;53;65;69;67;50;49;49;49;48,task:5;informational:49;navigational:2;commercial:34;transactional:10
+Fornos Brastemp Embutidos,67,18924,98;99;100;44;46;47;47;44;44;44;44;44,task:2;informational:41;navigational:34;commercial:12;transactional:11
+Forno Elétrico Electrolux Home Pro,15,1455,9;39;52;42;42;33;18;86;61;37;34;100,task:3;informational:35;navigational:39;commercial:15;transactional:8
+forno elétrico Dako,26,1922,71;80;82;59;62;64;64;88;100;100;100;100,task:1;informational:39;navigational:31;commercial:19;transactional:10
+Utensílios de fritura,23,2272,77;87;89;56;97;100;100;52;47;47;46;45,task:1;informational:52;navigational:5;commercial:20;transactional:22
+Forno de pizza para churrasqueira,28,11853,49;26;40;55;59;60;60;100;96;95;95;95,task:2;informational:57;navigational:5;commercial:27;transactional:9
+Forno Oster 42L e Air Fryer,18,163,17;91;100;69;23;24;23;23;72;82;22;23,informational:61;navigational:13;commercial:12;transactional:14
+Pastel na Airfryer,62,47083,17;19;20;28;36;36;36;100;100;100;100;100,task:13;informational:76;navigational:3;commercial:6;transactional:2
+Forno elétrico Hamilton Beach,18,218,20;42;57;43;42;43;32;100;93;20;20;20,task:3;informational:46;navigational:12;commercial:18;transactional:21
+fornos elétricos Philco 46L,22,1991,61;80;84;78;79;85;83;98;96;100;83;84,task:3;informational:39;navigational:18;commercial:23;transactional:17
+Fogões Bemol,15,371,63;84;89;80;97;75;75;94;91;100;97;90,task:7;informational:31;navigational:29;commercial:11;transactional:22
+Marena Cucina e Ricami,15,1156,36;66;69;80;81;92;93;92;94;94;100;99,task:3;informational:37;navigational:35;commercial:21;transactional:4
+Fornos para torrar farinha de mandioca,19,860,37;54;44;77;76;64;100;87;85;59;59;69,task:2;informational:58;navigational:5;commercial:15;transactional:20
+Fornos Elétricos Suggar,30,5644,87;98;100;49;45;46;46;82;76;76;75;75,task:2;informational:41;navigational:22;commercial:15;transactional:20
+Tostadeiras de Pão,22,1354,84;100;100;99;54;56;56;74;74;74;74;74,task:5;informational:50;navigational:4;commercial:32;transactional:9
+Fornos elétricos 30 litros,16,290,63;81;86;72;69;86;77;100;89;83;82;84,task:7;informational:46;navigational:1;commercial:39;transactional:7
+Fogões e Cooktops Industriais,16,536,70;99;99;92;85;90;96;100;100;86;87;85,task:10;informational:45;navigational:4;commercial:32;transactional:9
+Torre de cocção para forno e micro-ondas,18,2165,47;62;85;81;80;82;82;100;92;92;92;91,task:2;informational:58;navigational:4;commercial:26;transactional:10
+Fornos elétricos de 31 litros,15,1142,2;24;31;22;22;15;25;65;59;100;91;94,task:3;informational:49;navigational:5;commercial:25;transactional:18
+Carne e Legumes Assados no Forno,128,77643,22;23;25;69;58;58;58;100;94;94;94;94,task:12;informational:75;navigational:3;commercial:8;transactional:2
+Fritadeiras Elétricas (Air Fryers),491,584548,17;16;18;25;100;100;100;30;39;39;39;39,task:5;informational:46;navigational:2;commercial:33;transactional:14
+air fryers e fornos elétricos,15,658,35;40;42;38;42;41;40;100;93;51;53;57,task:5;informational:73;navigational:3;commercial:12;transactional:7
+fornos elétricos de embutir Midea,22,1421,60;96;100;92;86;84;82;73;81;86;90;87,task:1;informational:30;navigational:37;commercial:13;transactional:19
+Forno elétrico Electrolux,17,480,46;54;49;48;75;100;72;99;77;60;78;86,task:3;informational:51;navigational:18;commercial:15;transactional:13
+Fornassa: restaurantes e pizzarias,17,2295,82;99;100;62;64;68;68;64;64;63;65;64,task:5;informational:44;navigational:17;commercial:24;transactional:10
+Air Fryer Inox,19,1091,80;93;100;76;84;87;82;70;86;86;87;87,task:2;informational:64;navigational:5;commercial:21;transactional:8
+Assadeiras de Porcelana,16,330,86;98;100;92;62;65;74;59;57;57;57;58,task:10;informational:44;navigational:4;commercial:36;transactional:6
+Fogões e Fornos Havan,20,3967,66;78;78;61;65;67;68;72;69;69;95;100,task:2;informational:18;navigational:47;commercial:7;transactional:26
+Sottile Pasticceria,15,517,70;88;83;65;65;72;73;71;73;98;95;100,task:3;informational:50;navigational:18;commercial:12;transactional:17
+Cozinha Industrial e Equipamentos,24,13468,31;38;42;98;99;100;100;100;100;100;100;100,task:5;informational:55;navigational:1;commercial:35;transactional:4
+Air Fryers e Fornos Mondial,36,11586,27;36;37;48;72;73;73;97;100;100;100;99,task:2;informational:48;navigational:12;commercial:25;transactional:13
+Forno elétrico 10L,18,852,70;98;100;97;81;85;85;79;85;89;78;77,task:10;informational:25;navigational:5;commercial:31;transactional:29
+Fogões industriais 6 bocas com forno,20,4073,90;98;100;46;43;44;45;44;47;47;47;47,task:8;informational:39;navigational:1;commercial:40;transactional:12
+Mini fogões e fogareiros,19,782,100;53;54;52;48;51;51;74;56;56;56;55,task:2;informational:63;navigational:5;commercial:19;transactional:11
+Assadeiras e formas de alumínio,24,6196,48;55;56;32;97;100;100;66;65;65;65;65,task:2;informational:62;navigational:4;commercial:27;transactional:5
+Panelas de ferro para assar pão,22,2176,33;38;37;30;34;34;34;100;85;85;84;84,informational:55;navigational:4;commercial:36;transactional:5
+Forno elétrico vermelho 15L,15,896,15;33;34;28;28;44;40;99;100;77;71;75,task:7;informational:29;navigational:18;commercial:30;transactional:16
+Fornos a gás com pedra refratária,16,305,48;50;47;68;40;41;66;100;70;53;49;49,task:2;informational:72;navigational:5;commercial:18;transactional:3
+Receitas de cocada de forno,17,5178,66;84;90;90;93;96;96;98;100;100;100;99,task:5;informational:77;navigational:2;commercial:9;transactional:7
+Forno de Embutir Casas Bahia,16,987,15;49;44;42;36;21;29;100;75;86;64;68,task:3;informational:15;navigational:54;commercial:11;transactional:17
+Fogões Online Fogaonet,15,1998,55;81;85;89;85;91;91;94;100;100;98;97,task:3;informational:13;navigational:69;commercial:10;transactional:5
+Forno Elétrico Black & Decker,18,723,63;85;82;75;79;83;84;100;85;86;76;75,task:7;informational:27;navigational:42;commercial:8;transactional:16
+Pão de Queijo Forno de Minas,21,3530,20;29;32;42;98;100;100;46;46;46;46;45,task:2;informational:43;navigational:30;commercial:11;transactional:14
+Forno Elétrico Mueller e Air Fryer,21,989,80;94;100;52;46;49;49;72;55;56;56;56,task:2;informational:58;navigational:7;commercial:23;transactional:10
+Pão na Airfryer,52,11811,55;61;64;73;80;82;82;93;100;100;100;100,task:2;informational:80;navigational:3;commercial:10;transactional:5
+Fornos Atlas Embutidos,18,452,36;38;39;38;74;38;38;48;46;76;69;100,task:5;informational:35;navigational:35;commercial:19;transactional:6
+Fogões com Air Fryer,27,5131,80;85;52;68;89;91;91;86;99;100;95;95,task:2;informational:63;navigational:5;commercial:22;transactional:8
+Pan e Spa,15,5310,56;73;92;92;93;95;95;99;100;100;100;99,task:7;informational:18;navigational:60;commercial:10;transactional:5
+Forros de Cozinha e Teto,19,266,54;46;49;83;99;100;99;90;56;61;33;32,task:2;informational:73;navigational:5;commercial:12;transactional:8
+Forno Fischer de Embutir a Gás,27,1589,86;100;100;52;58;61;65;48;71;80;56;54,task:2;informational:45;navigational:29;commercial:12;transactional:12
+Fogões e Fornos a Lenha Inox,15,118,18;20;22;19;32;33;31;39;33;100;24;24,task:7;informational:54;navigational:8;commercial:27;transactional:4
+Frittate: ricette e varianti,16,1242,36;36;51;58;95;96;96;100;88;88;93;91,task:8;informational:80;navigational:5;commercial:5;transactional:2
+Fogões sem forno,16,675,44;50;32;55;98;100;100;69;30;30;30;31,task:2;informational:64;navigational:5;commercial:23;transactional:6
+Bancada de Fogão e Cooktop,19,2496,49;68;69;66;55;58;59;93;100;100;95;94,task:2;informational:61;navigational:10;commercial:21;transactional:6
+Formões e Marcenaria,20,4559,53;75;79;78;79;80;81;99;100;100;100;99,task:2;informational:66;navigational:5;commercial:19;transactional:8
+Forno elétrico 65 litros,15,1185,8;52;61;29;30;30;38;68;59;100;92;89,task:7;informational:37;navigational:5;commercial:40;transactional:11
+fornos com air fryer Fischer,17,201,32;44;43;47;48;46;45;90;100;54;52;53,task:3;informational:47;navigational:11;commercial:21;transactional:18
+Conserto de Fornos Elétricos,19,922,89;100;100;96;47;53;53;77;85;85;87;88,task:13;informational:61;navigational:3;commercial:15;transactional:8
+Lasanha em casa: massas e forno,27,3329,16;25;36;77;67;68;68;91;100;100;100;100,task:5;informational:72;navigational:5;commercial:8;transactional:10
+Fornos Promaq Brasil,16,148,56;61;66;67;100;76;77;78;79;79;79;79,task:3;informational:37;navigational:48;commercial:8;transactional:4
+Panelas Fetti,15,385,29;93;99;78;80;87;65;100;87;86;78;74,task:10;informational:39;navigational:29;commercial:10;transactional:12
+Cozinha Planejada com Cooktop,16,675,34;51;55;49;67;53;53;100;77;78;50;55,task:3;informational:67;navigational:12;commercial:15;transactional:3
+Fornos de Indução para Fundição,19,862,15;20;20;20;100;98;98;39;40;40;40;40,task:5;informational:70;navigational:5;commercial:17;transactional:3
+Panelas de Ferro Fundido,55,60595,38;40;21;36;76;76;76;100;100;100;100;100,task:5;informational:36;navigational:5;commercial:43;transactional:11
+Padarias Della Panificadora,15,861,100;54;54;52;52;54;55;71;68;59;60;58,task:2;informational:61;navigational:16;commercial:14;transactional:7
+Forno Elétrico Philco 50L Full Glass,16,343,25;29;30;21;21;21;20;100;80;26;24;30,task:2;informational:36;navigational:28;commercial:11;transactional:23
+Fogões Espelhados,16,1434,27;40;47;41;37;39;40;65;58;59;91;100,task:7;informational:51;navigational:4;commercial:27;transactional:11
+fornos elétricos Amazon Brasil,17,193,25;25;19;16;19;18;40;100;92;20;20;23,task:1;informational:27;navigational:46;commercial:11;transactional:15
+Fogões a lenha caseiros,17,572,91;100;100;69;66;68;68;67;56;56;56;56,task:12;informational:59;navigational:2;commercial:24;transactional:3
+Padaria Bolos e Confeitaria,19,1765,68;81;95;98;98;100;100;65;73;73;73;73,task:2;informational:55;navigational:31;commercial:8;transactional:4
+Fogão a lenha com churrasqueira e forno,18,1090,53;59;52;62;65;63;61;100;75;75;75;74,task:2;informational:66;navigational:5;commercial:18;transactional:9
+Massas de pastel,139,110027,48;48;49;54;70;70;70;100;98;98;98;98,task:2;informational:78;navigational:5;commercial:9;transactional:6
+Pão Artesanal,17,4510,86;89;89;88;88;89;90;100;91;91;91;91,task:5;informational:67;navigational:5;commercial:12;transactional:11
+Fornos JJAC e Esteiras,15,125,75;100;100;77;77;78;79;96;94;79;77;79,task:3;informational:12;navigational:67;commercial:10;transactional:8
+Fogões Elétricos,94,39378,21;21;22;96;100;100;100;53;30;30;30;30,task:8;informational:45;navigational:4;commercial:25;transactional:18
+Forno elétrico de embutir Carrefour,17,2082,53;78;77;41;80;80;79;42;44;43;97;100,task:1;informational:19;navigational:48;commercial:7;transactional:25
+forno elétrico 42L Philco,17,1530,54;66;67;70;43;43;47;66;89;100;66;77,task:2;informational:14;navigational:23;commercial:54;transactional:7
+Air Fryer: Receitas e Usos,354,189428,87;87;87;91;95;95;95;99;100;100;100;100,task:3;informational:76;navigational:5;commercial:11;transactional:5
+Pedras Refratárias para Pizza,51,16360,16;21;27;58;100;100;100;94;84;83;83;83,task:8;informational:50;navigational:4;commercial:31;transactional:7
+Massa pronta para bolos,79,42366,17;20;26;36;62;62;62;92;100;100;100;100,task:8;informational:59;navigational:5;commercial:19;transactional:9
+Forno Elétrico 70 L,26,3313,89;100;52;52;47;50;51;50;53;56;61;60,task:2;informational:52;navigational:4;commercial:31;transactional:11
+Peças de Fogão,30,10720,87;94;50;56;86;87;87;98;100;100;100;100,task:5;informational:31;navigational:5;commercial:44;transactional:15
+Fogões e Fornos Importados,17,3287,73;86;51;55;96;98;99;96;98;100;97;97,task:2;informational:50;navigational:7;commercial:30;transactional:11
+Airfryer: vídeos e dicas,20,952,29;31;39;86;86;88;88;100;62;61;61;60,task:8;informational:72;navigational:13;commercial:4;transactional:3
+Pizzaria Bom Forno,16,309,41;62;59;59;92;100;83;95;52;51;54;53,task:3;informational:27;navigational:34;commercial:31;transactional:5
+Cooktops e Fogões Ferro Fundido,17,1044,88;99;100;62;74;80;81;77;56;57;54;54,task:5;informational:64;navigational:5;commercial:20;transactional:6
+Baking e Tradução,18,2118,100;93;91;89;48;49;49;54;54;54;54;54,task:20;informational:73;navigational:3;commercial:2;transactional:2
+forno elétrico philco 38l,22,2006,68;75;75;72;78;76;72;66;81;82;94;100,task:2;informational:47;navigational:22;commercial:18;transactional:11
+Airfryer em Português,32,7309,78;77;80;93;77;76;76;97;100;100;100;100,task:2;informational:71;navigational:10;commercial:12;transactional:5
+Cooktops e Fornos a Gás Brastemp,20,946,47;55;54;41;57;58;58;100;62;62;63;63,task:3;informational:58;navigational:10;commercial:19;transactional:10
+Forno e Fogão: Acender e Segurança,29,2481,45;48;55;77;100;100;100;95;94;94;94;93,task:2;informational:80;navigational:5;commercial:3;transactional:10
+Panelas Ballarini,17,288,44;84;100;51;50;61;61;65;57;87;84;90,task:7;informational:40;navigational:19;commercial:27;transactional:7
+Fogão a Lenha,18,1852,42;49;49;34;42;43;40;42;40;40;40;100,task:2;informational:60;navigational:5;commercial:12;transactional:21
+Fogões Gazin,16,372,33;46;46;39;52;58;72;40;91;100;38;39,task:7;informational:27;navigational:36;commercial:11;transactional:19
+Forno de Embutir 50L,41,5876,92;98;100;44;43;44;44;43;44;44;44;43,task:2;informational:52;navigational:4;commercial:29;transactional:13
+Coxinha de frango assada no forno,19,1375,90;99;100;54;93;95;96;86;98;97;98;97,task:2;informational:85;navigational:5;commercial:5;transactional:3
+Fratelli Panelas,18,715,34;39;30;36;52;50;43;64;55;100;41;41,task:2;informational:39;navigational:21;commercial:33;transactional:5
+Cozinha em L,15,5182,79;93;100;99;96;99;99;98;100;100;100;99,task:3;informational:68;navigational:4;commercial:20;transactional:5
+Rabanadas na Airfryer,15,1757,81;93;95;94;97;100;100;38;38;42;39;38,task:2;informational:79;navigational:2;commercial:8;transactional:9
+Fogões de vidro,29,4988,66;81;86;96;97;100;100;87;91;91;90;90,task:8;informational:55;navigational:5;commercial:22;transactional:10
+Termostatos para Forno Elétrico,24,2878,39;47;44;53;94;96;96;99;92;94;100;99,task:5;informational:56;navigational:2;commercial:26;transactional:11
+Fogões 4 bocas com forno duplo,16,535,59;69;83;43;38;39;47;100;36;36;36;38,task:2;informational:59;navigational:7;commercial:20;transactional:12
+Coifas Fogatti,21,1637,79;95;100;55;55;52;53;47;60;63;58;58,task:2;informational:38;navigational:30;commercial:20;transactional:10
+eletrodomésticos de cozinha,19,1940,16;21;28;41;99;100;99;54;46;46;47;47,task:2;informational:59;navigational:5;commercial:22;transactional:12
+Mundo dos Fogões,15,1199,40;61;63;60;60;67;70;83;91;100;93;94,task:7;informational:33;navigational:22;commercial:25;transactional:13
+Envelopamento de fogões,25,2329,74;74;60;63;75;77;77;100;65;65;65;65,task:8;informational:61;navigational:3;commercial:21;transactional:7
+Fogões Invita,15,537,53;64;66;67;67;84;89;87;97;100;88;91,task:10;informational:38;navigational:11;commercial:27;transactional:14
+fornos Brastemp Ative - manuais,21,1902,22;29;40;76;87;88;88;100;75;79;78;78,task:5;informational:70;navigational:5;commercial:13;transactional:7
+Conjuntos de Assadeiras,18,619,69;100;98;87;80;83;81;84;84;85;86;85,task:7;informational:42;navigational:4;commercial:36;transactional:11
+Pratos Fornasetti,16,190,39;54;59;78;78;100;82;56;53;50;51;53,task:7;informational:37;navigational:21;commercial:21;transactional:14
+Fogões digitais,18,482,46;60;65;54;59;65;91;62;59;60;68;100,task:3;informational:52;navigational:8;commercial:29;transactional:8
+Forno Elétrico 66 Litros,18,999,38;75;72;46;45;47;43;53;46;100;42;61,task:3;informational:34;navigational:14;commercial:28;transactional:21
+Fogões Industriais Dako,26,3199,87;98;100;49;51;51;52;48;47;46;45;45,informational:26;navigational:33;commercial:10;transactional:31
+Assadeiras de Carne para Forno,16,232,18;20;21;37;42;42;58;78;100;30;31;31,task:2;informational:54;navigational:4;commercial:31;transactional:9
+Fornos elétricos com grill 44–60 L,19,1909,77;88;91;55;64;66;66;78;66;66;100;100,task:3;informational:51;navigational:1;commercial:36;transactional:9
+Aparelhos e Acessórios de Cozinha,15,545,6;33;44;36;36;39;28;100;85;78;92;70,task:3;informational:60;navigational:9;commercial:18;transactional:10
+Cucina Italiana Antonietta,16,282,57;77;82;81;96;96;96;100;100;98;98;97,task:3;informational:44;navigational:35;commercial:8;transactional:10
+Pão Caseiro e Receitas,357,481228,40;40;41;41;44;44;44;83;100;100;100;100,task:5;informational:74;navigational:5;commercial:8;transactional:8
+Formas para tortas e tortinhas,18,2661,55;61;61;42;81;85;84;100;92;91;91;91,task:5;informational:69;navigational:2;commercial:15;transactional:9
+Forno a gás embutido 78L,17,761,45;53;53;51;55;56;41;72;90;100;41;55,task:4;informational:49;navigational:11;commercial:28;transactional:8
+Receitas de Focaccia,46,39293,32;34;38;43;92;92;92;99;100;100;100;100,task:8;informational:77;navigational:5;commercial:7;transactional:3
+Banneton e Cestos de Fermentação,19,310,67;98;100;98;75;80;80;75;77;76;77;76,task:3;informational:51;navigational:15;commercial:17;transactional:14
+Forno Salamandra e Gratinadores,19,1187,23;25;25;52;82;82;82;100;67;64;64;65,task:2;informational:62;navigational:5;commercial:23;transactional:8
+Acessórios para fritadeiras,17,209,42;99;100;74;77;90;99;71;63;59;60;56,task:7;informational:48;navigational:1;commercial:30;transactional:14
+Pizzarias da Fornalha,18,14302,49;77;79;27;54;55;55;100;74;74;74;73,task:2;informational:45;navigational:36;commercial:11;transactional:6
+Air Fryer Vintage e Retro,16,671,44;58;60;60;69;73;73;100;99;87;87;85,task:3;informational:52;navigational:1;commercial:22;transactional:22
+Petit Four: receitas e explicações,31,11247,19;23;24;86;95;96;96;100;48;48;48;47,task:17;informational:74;navigational:3;commercial:2;transactional:4
+Cookers e fogões,18,1083,70;74;74;75;93;93;99;100;38;39;39;43,task:2;informational:75;navigational:10;commercial:10;transactional:3
+Fogões industriais e semi-industriais,18,1038,88;100;53;63;52;54;58;52;54;54;49;49,task:5;informational:50;navigational:7;commercial:30;transactional:8
+Formas de Bolo e Utensílios,60,37975,37;39;40;43;93;93;93;100;98;98;98;98,task:5;informational:73;navigational:2;commercial:12;transactional:8
+Pizzarias Fornazza e Fornazzo,15,1102,44;62;63;60;67;72;72;100;76;77;74;74,informational:27;navigational:45;commercial:18;transactional:10
+Pizza na Air Fryer,40,9401,22;25;40;52;55;56;57;85;100;100;100;100,task:2;informational:81;navigational:4;commercial:11;transactional:2
+Lofra Fogões,16,259,53;75;94;73;79;84;95;86;86;96;100;96,task:6;informational:39;navigational:18;commercial:26;transactional:11
+Assadeiras de cerâmica,18,12392,31;37;38;37;98;99;99;100;100;100;100;100,task:1;informational:50;navigational:6;commercial:34;transactional:9
+Farinha Caputo Nuvola,16,258,28;28;29;100;100;100;100;66;100;100;100;100,task:2;informational:68;navigational:10;commercial:15;transactional:5
+Panelas e caldeirões de ferro,18,3421,88;99;100;99;67;70;71;75;76;75;72;72,task:5;informational:69;navigational:5;commercial:18;transactional:3
+Tecno Eletrodomésticos,16,511,38;46;49;47;58;60;60;100;77;85;52;51,task:12;informational:40;navigational:11;commercial:30;transactional:7
+Cozinha Itatiaia Florença,18,711,18;61;72;54;58;38;29;100;79;71;64;75,task:3;informational:35;navigational:38;commercial:17;transactional:7
+Assadeiras de Ferro Fundido,17,241,73;97;100;89;75;76;76;100;60;59;58;57,task:8;informational:54;navigational:4;commercial:26;transactional:8
+Casa e Cozinha,18,1155,37;64;74;72;72;77;77;82;84;88;100;100,task:3;informational:53;navigational:4;commercial:29;transactional:11
+Cibo e Pane Italiani,15,79,66;69;82;82;97;98;98;99;100;100;100;100,task:7;informational:51;navigational:21;commercial:10;transactional:11
+Cozinha em casa,26,3279,25;66;65;70;68;69;69;92;100;100;98;98,task:12;informational:72;navigational:3;commercial:5;transactional:8
+Empanar: Farinhas e Técnicas,26,2404,34;35;36;79;91;91;91;72;99;100;100;100,task:5;informational:76;navigational:4;commercial:12;transactional:3
+Pizzarias Boca do Forno,22,8689,78;74;78;74;88;90;90;94;100;100;100;100,task:2;informational:30;navigational:44;commercial:8;transactional:16
+Pizza e Massas Caseiras,290,342679,55;53;100;53;61;61;61;81;86;86;86;86,task:5;informational:67;navigational:4;commercial:17;transactional:7
+Financier: Bolo e Receitas,19,2097,14;19;18;17;98;99;100;38;39;39;38;40,task:12;informational:69;navigational:5;commercial:8;transactional:6
+Fogões Electrolux VaporBake,22,2162,19;38;42;53;58;54;55;100;79;82;77;78,informational:49;navigational:33;commercial:10;transactional:8
+Fritadeiras Arno e Air Fryer,29,5704,85;97;100;53;55;57;57;58;59;59;60;59,task:3;informational:51;navigational:3;commercial:30;transactional:13
+Airfryer: uso e cura,56,15827,52;36;39;49;92;93;93;100;99;99;100;99,informational:83;navigational:5;commercial:10;transactional:2
+Fornos Industriais Usados,15,255,69;79;76;75;73;100;99;98;100;78;78;78,task:20;informational:27;navigational:4;commercial:35;transactional:14
+Panelas e Utensílios de Cozinha,15,657,69;91;95;93;93;91;100;96;96;96;100;99,task:10;informational:38;navigational:7;commercial:37;transactional:8
+Pizza Tutto e Pizzerie,18,709,54;79;82;83;84;85;86;94;100;100;88;87,task:7;informational:32;navigational:34;commercial:20;transactional:7
+BoloseReceitas,16,950,60;66;66;64;63;65;65;100;89;74;75;73,task:15;informational:73;navigational:3;commercial:8;transactional:1
+Ferro a Vapor,18,1425,65;71;73;67;56;63;59;98;100;99;99;99,task:2;informational:60;navigational:4;commercial:28;transactional:6
+Assadeiras de pizza Tramontina,20,396,28;52;51;47;45;51;43;40;43;100;94;45,informational:51;navigational:18;commercial:14;transactional:17
+Picanha no forno e brasa,51,31319,75;37;35;50;47;47;48;99;100;100;100;100,task:7;informational:75;navigational:5;commercial:5;transactional:8
+Fogões de Madeira,15,59,14;95;100;17;18;67;50;16;16;16;16;16,task:3;informational:64;navigational:15;commercial:11;transactional:7
+Eletrodomésticos Bertazzoni,16,1175,88;99;100;100;53;56;54;57;60;60;62;62,task:5;informational:40;navigational:10;commercial:18;transactional:27
+Queimadores de Fogão,21,3327,49;59;59;48;67;68;69;100;90;90;91;91,task:2;informational:53;navigational:2;commercial:34;transactional:9
+Fritadeiras Nell,18,1045,90;98;100;46;52;53;53;67;54;54;62;62,task:5;informational:36;navigational:19;commercial:33;transactional:7
+Fogões 2 bocas,37,12687,100;44;51;52;67;67;67;55;55;55;55;55,task:2;informational:56;navigational:5;commercial:26;transactional:11
+Receitas e Modos de Preparo,21,18554,20;11;15;66;100;100;100;100;100;100;100;100,task:5;informational:85;navigational:3;commercial:5;transactional:2
+Nichos de cozinha para micro-ondas e forno,20,870,86;100;100;54;53;48;48;80;70;89;87;86,task:8;informational:58;navigational:5;commercial:19;transactional:10
+Pizzarias Forno de Ouro,15,713,41;82;85;86;87;98;82;100;80;73;81;100,task:7;informational:20;navigational:41;commercial:20;transactional:12
+Hot Grill e Fornos Elétricos,16,927,67;98;100;73;80;84;75;68;76;77;76;76,task:5;informational:60;navigational:6;commercial:15;transactional:14
+Pizzarias Fornatto e Fornatta,15,1511,46;84;88;86;87;92;93;99;100;100;100;99,task:3;informational:24;navigational:48;commercial:17;transactional:8
+Fogão de Minas Gerais,15,1402,62;77;78;76;81;88;87;80;53;61;98;100,task:2;informational:64;navigational:12;commercial:14;transactional:8
+Pasta Paglia e Fieno,17,1085,98;99;99;99;99;100;100;100;100;100;100;100,task:5;informational:75;navigational:5;commercial:10;transactional:5
+Limpeza de forno com Easy-Off,20,4498,28;30;26;44;93;94;94;100;96;95;95;96,task:2;informational:65;navigational:5;commercial:17;transactional:11
+Cozinha: fogão e geladeira,31,4756,85;93;94;95;96;97;98;89;100;100;100;100,task:2;informational:71;navigational:5;commercial:14;transactional:8
+Arroz de Forno: Receitas e Dicas,65,62196,44;45;47;47;56;56;56;71;100;100;100;100,task:10;informational:75;navigational:5;commercial:5;transactional:5
+Pão de alho,52,13719,24;32;39;54;75;76;76;97;100;100;100;100,task:7;informational:70;navigational:5;commercial:9;transactional:9
+Pizzaria Fornella,15,902,18;52;58;58;54;62;46;77;54;63;64;100,task:1;informational:27;navigational:46;commercial:19;transactional:7
+Bolo Fofo,60,53212,100;96;98;93;84;84;84;87;88;88;88;88,task:1;informational:82;navigational:5;commercial:6;transactional:6
+Fogões LG e Cooktops,16,350,22;64;70;95;95;61;39;86;64;100;92;100,task:3;informational:49;navigational:16;commercial:15;transactional:17
+Bonari Pizzarias e Fornos,16,593,19;24;23;27;60;69;52;100;74;51;55;55,task:10;informational:11;navigational:50;commercial:16;transactional:13
+Casseroles e Galeterias,17,5281,86;99;100;96;91;94;96;97;99;98;99;98,task:2;informational:52;navigational:20;commercial:15;transactional:11
+Fogões Portáteis,17,1549,55;80;85;82;85;90;91;93;99;100;93;94,task:3;informational:52;navigational:1;commercial:30;transactional:14
+Fritadeiras Venancio,17,277,24;100;95;78;46;50;36;26;58;59;31;30,task:3;informational:47;navigational:11;commercial:29;transactional:10
+Fogão Americano,17,372,20;29;32;46;45;39;39;100;71;35;34;35,task:2;informational:61;navigational:15;commercial:19;transactional:3
+Pizzarias de Barro,15,474,49;57;58;56;59;100;93;62;67;68;86;90,task:3;informational:25;navigational:37;commercial:26;transactional:9
+Fondue em Português,22,16744,16;19;22;81;98;99;99;100;100;100;100;100,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Forno Elétrico no Mercado Livre,15,1234,69;99;100;95;94;98;99;80;77;77;81;82,informational:24;navigational:51;commercial:6;transactional:19
+Cozinha com Cooktop e Gabinete,16,1188,34;48;52;49;45;48;48;58;95;100;53;58,task:10;informational:65;navigational:5;commercial:13;transactional:7
+Frigideiras Elétricas,17,1528,84;99;100;99;90;90;90;94;48;47;46;46,task:2;informational:46;navigational:4;commercial:35;transactional:13
+Fornos Reemaq no Brasil,16,273,73;79;87;87;87;100;93;89;89;87;87;87,task:3;informational:48;navigational:30;commercial:10;transactional:9
+Cannelloni: pasta ripiena italiana,16,317,81;97;98;100;82;86;87;89;83;83;83;82,task:7;informational:60;navigational:2;commercial:11;transactional:20
+Fogões de Barro e Carvão,20,1803,91;90;83;88;95;99;100;73;83;83;80;79,task:2;informational:71;navigational:5;commercial:15;transactional:7
+Derretimento de Alumínio,21,920,50;53;54;54;100;100;100;88;85;85;85;85,task:2;informational:78;navigational:2;commercial:8;transactional:10
+Pontos do Fogão,15,880,25;31;32;31;41;40;39;47;59;66;96;100,task:3;informational:56;navigational:26;commercial:11;transactional:4
+Formas para assar pão,29,4399,69;80;82;43;85;88;89;100;90;89;90;89,task:1;informational:62;navigational:3;commercial:22;transactional:12
+Filé mignon no forno - receitas,32,9898,54;60;61;59;62;64;64;93;100;100;100;100,task:12;informational:70;navigational:5;commercial:10;transactional:3
+Receitas de maminha,84,61068,36;37;68;70;100;100;100;97;97;97;97;97,task:10;informational:75;navigational:3;commercial:3;transactional:9
+gabinetes de cozinha,15,1320,86;96;100;98;49;52;48;46;49;47;70;72,task:2;informational:47;navigational:17;commercial:21;transactional:13
+Assadeiras e fritadeiras elétricas,16,1288,82;96;100;95;51;54;53;51;52;89;73;70,task:5;informational:54;navigational:4;commercial:26;transactional:11
+Panela de Ferro – restaurantes,16,1257,54;77;79;79;79;90;90;100;90;89;94;93,task:3;informational:40;navigational:36;commercial:8;transactional:13
+Antonow Fogões e Acessórios,17,596,62;84;98;96;95;86;87;87;98;100;90;89,task:1;informational:28;navigational:46;commercial:9;transactional:16
+Pizzarias Fornello,16,2647,32;44;45;44;44;47;48;100;80;80;80;80,task:3;informational:43;navigational:39;commercial:10;transactional:5
+Piccoli Cucine e Ristorazione,16,469,51;87;100;81;75;80;75;86;81;91;80;80,task:3;informational:52;navigational:18;commercial:15;transactional:12
+forno elétrico Philco 48L,16,1357,14;16;18;35;39;29;21;93;100;90;79;84,task:2;informational:36;navigational:13;commercial:42;transactional:7
+Balcões e Bancadas para Forno e Micro-ondas,17,1142,73;100;100;88;78;76;84;88;85;87;75;74,task:3;informational:37;navigational:24;commercial:28;transactional:8
+Formas para brownie,20,1801,57;69;69;91;58;59;58;100;80;75;75;75,task:8;informational:62;navigational:4;commercial:20;transactional:6
+Rei dos Fogões,16,376,35;47;84;66;77;49;31;100;47;50;35;38,task:2;informational:39;navigational:36;commercial:17;transactional:6
+Chef Mio Ricette & Servizi,15,241,84;99;100;94;72;88;87;60;68;68;68;67,task:7;informational:35;navigational:40;commercial:10;transactional:8
+Pratos de Micro-ondas,29,10088,22;28;35;50;91;93;93;100;94;94;94;94,task:5;informational:56;navigational:4;commercial:26;transactional:9
+Farofa com panko,17,2539,52;59;60;58;42;43;43;100;99;100;100;100,task:12;informational:74;navigational:7;commercial:5;transactional:2
+Fogões Venax 2 Bocas com Forno,18,729,93;100;98;93;89;98;94;55;46;50;36;38,task:5;informational:54;navigational:3;commercial:16;transactional:22
+Alcatra: churrasco e forno,36,15886,39;82;82;85;98;99;99;100;98;98;98;98,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Pães de frigideira rápidos,23,8430,89;97;100;100;53;54;55;73;79;79;79;78,task:8;informational:77;navigational:5;commercial:8;transactional:2
+Forno Elétrico Britânia 50 L,18,1878,69;79;79;76;69;71;71;60;92;92;96;100,informational:44;navigational:26;commercial:18;transactional:12
+Cookeria: padarias e cafés,16,151,23;27;29;31;90;100;75;30;47;49;31;31,task:3;informational:44;navigational:22;commercial:11;transactional:20
+Forno elétrico no OLX,16,303,23;94;100;29;40;34;36;38;39;50;44;47,task:3;informational:18;navigational:49;commercial:11;transactional:19
+Fogões Realce e Eletrodomésticos,16,1989,83;99;100;52;51;54;54;62;82;88;80;81,task:1;informational:33;navigational:35;commercial:26;transactional:5
+Conjuntos de Pratos Fundo e Porcelana,18,5358,91;98;100;54;51;51;51;63;58;58;59;58,task:2;informational:31;navigational:2;commercial:51;transactional:14
+Nichos e prateleiras para air fryer,15,190,22;78;100;75;75;69;23;76;80;77;60;69,task:17;informational:61;navigational:3;commercial:14;transactional:5
+central fogões,15,970,11;34;44;39;34;48;64;57;46;33;29;100,task:3;informational:18;navigational:47;commercial:23;transactional:9
+Fogões Gourmet e Profissionais,15,209,13;16;17;20;19;19;38;100;76;28;26;33,task:7;informational:41;navigational:8;commercial:33;transactional:11
+Pizzerie e Ristoranti,15,131,33;58;58;55;74;64;67;100;100;53;51;51,task:7;informational:41;navigational:18;commercial:12;transactional:22
+Panelas wok,26,15162,15;19;21;49;100;100;100;80;77;77;76;76,task:7;informational:56;navigational:5;commercial:23;transactional:9
+Entrevero: receitas gaúchas,53,31978,14;17;19;73;84;84;84;90;100;100;100;100,task:13;informational:71;navigational:8;commercial:5;transactional:3
+Omelete de Forno: Receitas,24,4881,87;98;100;51;52;53;53;59;65;64;64;64,task:8;informational:74;navigational:5;commercial:8;transactional:5
+Pietra Fina: Marmo e Pietre,15,140,77;85;100;79;79;91;81;73;73;73;73;73,task:3;informational:34;navigational:52;commercial:7;transactional:4
+Contra filé no forno - Receitas,37,10297,24;30;31;39;45;47;47;97;100;100;100;100,task:12;informational:67;navigational:5;commercial:13;transactional:3
+Formas de vidro redondas para forno,16,366,62;94;100;61;71;74;85;55;54;53;54;54,task:5;informational:52;navigational:4;commercial:33;transactional:6
+Cooktops e Fogões de Indução,268,417452,19;19;19;85;98;98;98;100;82;82;82;82,task:2;informational:49;navigational:4;commercial:37;transactional:8
+Brownies na Air Fryer,16,3938,82;91;93;95;96;100;100;81;82;82;82;81,task:17;informational:68;navigational:3;commercial:10;transactional:2
+Torradeiras Arno,15,206,59;61;64;91;100;79;74;70;71;69;69;74,task:7;informational:50;navigational:11;commercial:12;transactional:20
+fogões elétricos de bancada,16,141,5;18;23;16;16;11;32;100;74;17;14;21,task:3;informational:39;navigational:4;commercial:36;transactional:18
+Estufas e vitrines comerciais,15,369,95;100;100;100;97;99;99;100;68;100;68;68,task:2;informational:53;navigational:4;commercial:31;transactional:10
+Fogões e Cooktops Franke,15,564,30;33;34;33;47;61;52;58;51;35;35;100,task:4;informational:42;navigational:19;commercial:18;transactional:17
+Máquinas de Pão Arno,17,471,18;31;35;41;32;55;43;27;27;100;91;82,task:4;informational:26;navigational:44;commercial:19;transactional:7
+Carne moída no forno – receitas,21,3483,62;69;69;33;33;35;35;85;99;100;99;98,task:12;informational:75;navigational:5;commercial:5;transactional:3
+Farinha de Trigo Renata,20,1306,30;37;37;44;43;41;39;100;98;90;91;91,task:2;informational:55;navigational:22;commercial:13;transactional:8
+Panelas de Fritura,20,1969,47;55;54;55;98;100;100;41;62;62;60;60,task:8;informational:50;navigational:4;commercial:30;transactional:8
+Frigideiras Brinox,22,1429,59;85;86;82;84;88;89;93;100;100;96;96,task:3;informational:36;navigational:33;commercial:14;transactional:14
+Formas e acessórios para air fryer,17,856,27;32;52;73;94;100;100;69;59;66;66;65,task:8;informational:49;navigational:1;commercial:32;transactional:10
+Massa artesanal de pizza,17,521,100;88;89;85;75;75;75;67;67;67;67;67,task:2;informational:78;navigational:2;commercial:10;transactional:8
+Projetos de Cozinha,26,3771,59;73;88;100;96;99;100;81;91;91;91;91,task:5;informational:55;navigational:4;commercial:27;transactional:9
+Lasanha na Airfryer,47,9800,29;37;37;57;68;70;70;91;100;100;100;100,task:12;informational:73;navigational:3;commercial:10;transactional:2
+Pizzarias Forno Mineiro,15,649,26;36;40;39;40;80;64;92;73;65;100;77,task:7;informational:36;navigational:21;commercial:31;transactional:5
+Área gourmet com fogão a lenha,22,4998,100;94;91;72;68;70;70;58;69;69;69;68,task:3;informational:74;navigational:5;commercial:13;transactional:5
+Ceramiche italiane Del Favero,15,145,47;80;94;77;77;100;84;69;69;67;67;67,task:2;informational:32;navigational:55;commercial:8;transactional:3
+Forno de Embutir a Gás/Elétrico 70L,19,356,28;43;46;36;46;42;53;100;71;96;83;63,task:10;informational:37;navigational:7;commercial:41;transactional:5
+Formas e Assadeiras para Bolos,19,2535,39;19;19;18;54;55;55;92;92;100;92;92,task:8;informational:59;navigational:2;commercial:24;transactional:7
+Forno Elétrico 50L com Iluminação,16,793,6;23;100;10;25;28;25;56;55;62;62;53,task:7;informational:28;commercial:54;transactional:11
+Pizza Crocante e Massas Finas,18,949,37;55;55;100;54;54;54;95;92;91;92;91,task:2;informational:73;navigational:7;commercial:12;transactional:6
+Guindani Fogões,15,106,18;18;21;43;43;61;100;65;53;22;21;21,task:7;informational:21;navigational:61;commercial:7;transactional:4
+Decoração de cozinhas,38,12728,75;78;95;100;90;90;90;77;77;77;77;77,task:2;informational:66;navigational:5;commercial:23;transactional:4
+Grelhas e Trempes de Fogão,27,5181,21;27;31;36;99;100;100;67;62;62;62;62,task:2;informational:62;navigational:4;commercial:23;transactional:9
+Limpeza de Fogões,168,48653,64;67;71;89;97;97;97;95;100;100;100;100,task:2;informational:73;navigational:6;commercial:12;transactional:7
+Fogões Venax Embutidos,16,1286,54;73;76;68;64;68;69;92;95;100;71;70,task:3;informational:26;navigational:46;commercial:5;transactional:20
+Fouet e Fuê: Utensílios de Cozinha,25,14169,14;17;77;100;46;46;46;46;47;47;47;46,task:2;informational:75;navigational:5;commercial:15;transactional:3
+Tramontina Grano Panelas e Frigideiras,17,878,35;92;99;84;63;61;61;91;88;100;70;70,task:7;informational:32;navigational:25;commercial:20;transactional:16
+Crissair Fogões e Cooktops,15,1332,73;83;84;93;92;94;95;95;98;97;100;100,task:2;informational:44;navigational:37;commercial:7;transactional:10
+Formões Pacetta,15,63,6;7;9;9;9;100;40;79;72;19;20;20,task:3;informational:63;navigational:12;commercial:12;transactional:10
+Fondue elétrico Oster,19,903,50;66;71;65;64;68;72;100;73;73;72;71,task:3;informational:51;navigational:5;commercial:24;transactional:17
+Frigideiras Tramontina,32,9346,96;100;50;50;56;57;57;54;50;49;49;50,informational:54;navigational:7;commercial:16;transactional:23
+Pizza em Pan e Massas para Pizza,32,9844,78;88;46;85;91;92;92;92;100;100;100;100,task:5;informational:70;navigational:8;commercial:10;transactional:7
+Pastel de pizza,25,8156,19;24;24;30;51;53;53;100;100;100;100;100,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Fornos elétricos na Magazine Luiza,15,560,66;91;93;85;90;94;98;96;95;100;83;82,task:3;informational:17;navigational:48;commercial:11;transactional:21
+Biscotti: ricette e significato,17,2313,62;64;64;64;100;100;100;98;89;88;89;88,task:12;informational:75;navigational:3;commercial:10
+Bolos e Boleiras,15,21518,26;29;30;30;30;31;31;100;99;99;99;99,task:6;informational:44;navigational:9;commercial:36;transactional:5
+Fogões Samsung,20,2389,41;78;88;72;60;60;61;58;67;81;98;100,task:3;informational:36;navigational:21;commercial:16;transactional:24
+Fogões no Ponto Frio,15,1456,65;93;92;87;87;93;97;100;96;98;94;92,task:3;informational:24;navigational:51;commercial:9;transactional:13
+Pizzarias Forneiro,16,1597,94;100;21;21;9;10;10;12;11;11;11;11,task:2;informational:39;navigational:38;commercial:14;transactional:7
+Micro-ondas e Fornos de Micro-ondas,355,378717,18;21;22;100;45;45;45;46;46;46;46;46,task:8;informational:45;navigational:8;commercial:28;transactional:11
+Finestre e case,15,97,44;51;100;90;94;70;60;58;60;59;60;60,task:7;informational:52;navigational:11;commercial:17;transactional:13
+Torre Quente para Cozinha,29,11096,79;89;92;84;89;91;91;94;100;100;100;100,task:2;informational:51;navigational:5;commercial:33;transactional:9
+Panelas de Cozinha,25,4918,40;51;49;69;92;94;92;96;98;98;100;99,task:2;informational:62;navigational:2;commercial:27;transactional:7
+Frigideiras Fundo Triplo,17,443,66;96;98;92;91;97;85;100;98;88;87;87,task:7;informational:40;navigational:6;commercial:29;transactional:18
+Pastel e Massa de Pastel,17,870,54;54;55;78;78;78;78;87;100;100;100;100,task:6;informational:78;navigational:5;commercial:7;transactional:4
+Fogão de Embutir: Instalação e Acessórios,15,342,47;83;98;89;85;67;68;90;87;100;88;99,task:3;informational:74;navigational:5;commercial:14;transactional:4
+Peças e Acessórios para Fogões,16,601,68;78;57;100;100;100;99;72;91;93;92;92,task:5;informational:37;navigational:1;commercial:41;transactional:16
+Copa Lombo no Forno,16,218,94;98;99;99;99;100;100;100;89;89;89;89,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Fritadeiras Digitais,16,1323,61;86;91;85;87;93;94;100;91;91;91;89,task:7;informational:50;navigational:1;commercial:32;transactional:10
+Fogões a lenha caipira,17,1933,87;100;100;51;52;55;56;59;57;57;74;80,task:2;informational:47;navigational:5;commercial:19;transactional:27
+Forno e Micro-ondas Embutidos Electrolux,16,496,27;30;31;30;47;44;42;73;67;100;89;94,task:1;informational:48;navigational:18;commercial:18;transactional:15
+utensílios de cozinha e talheres,18,2828,68;72;73;72;89;90;89;90;88;89;100;98,task:8;informational:53;navigational:4;commercial:29;transactional:6
+Microondas com Airfryer,41,6606,21;29;29;35;99;100;100;64;71;72;72;70,task:2;informational:53;navigational:4;commercial:32;transactional:9
+Airfryer Agratto,17,827,35;38;38;26;30;44;36;100;30;83;77;72,task:2;informational:40;navigational:36;commercial:13;transactional:9
+Panelas elétricas Arno,18,1284,42;61;68;62;59;60;59;77;74;100;74;82,task:5;informational:43;navigational:6;commercial:34;transactional:12
+Ferro de passar com caldeira,20,286,66;71;82;78;86;87;100;100;54;52;53;53,task:2;informational:54;navigational:4;commercial:34;transactional:6
+Culinária para Alimentação,15,112,47;49;55;89;100;80;75;69;70;70;70;70,task:7;informational:50;navigational:15;commercial:11;transactional:17
+Forno elétrico e air fryer Walita/Philips,20,1191,54;72;89;64;62;63;67;62;75;83;100;82,task:2;informational:55;navigational:6;commercial:28;transactional:9
+Cozinha com Cooktop,22,7793,93;97;100;45;46;46;47;46;41;41;41;41,task:5;informational:68;navigational:5;commercial:14;transactional:8
+Massa Fina: pizza e reboco,24,4124,46;59;69;78;94;99;100;94;94;94;96;96,task:1;informational:77;navigational:5;commercial:12;transactional:5
+Pudim na Airfryer,33,12605,91;97;100;51;86;87;87;69;75;75;75;75,task:5;informational:79;navigational:6;commercial:8;transactional:2
+Forminhas para confeitaria,15,159,35;46;46;46;45;48;49;100;91;91;42;42,task:2;informational:39;navigational:30;commercial:17;transactional:12
+Pratos para pão,15,135,35;44;50;100;100;57;86;70;96;50;50;54,task:7;informational:44;navigational:13;commercial:23;transactional:13
+Fornerias Napolitanas,15,669,73;84;90;100;98;96;96;66;65;74;67;68,task:2;informational:47;navigational:13;commercial:15;transactional:23
+Massa de Pastel e Pastelarias,16,359,91;100;100;87;85;86;88;87;79;79;81;79,task:8;informational:67;navigational:2;commercial:12;transactional:11
+Resistências de fornos elétricos,33,8648,27;31;19;48;76;77;77;100;95;95;94;94,task:2;informational:64;navigational:4;commercial:20;transactional:10
+Prato Feito e Pratos do Dia,33,14717,82;53;75;81;100;100;100;76;45;45;45;45,task:4;informational:78;navigational:5;commercial:9;transactional:4
+Pizza no Cone,19,5783,97;86;87;100;83;85;84;95;97;97;97;96,task:5;informational:68;navigational:5;commercial:17;transactional:5
+Cooktop Safanelli,16,736,24;66;73;39;45;38;25;100;86;44;42;47,task:2;informational:17;navigational:47;commercial:9;transactional:25
+Fogões Campeiros,18,2046,35;49;51;49;47;48;50;52;73;80;88;100,task:3;informational:50;navigational:11;commercial:20;transactional:16
+Batedeiras KitchenAid,34,13764,93;97;100;46;46;47;47;56;57;57;57;57,task:3;informational:38;navigational:15;commercial:29;transactional:15
+Bolos e Doces Online,15,362,45;81;78;71;79;100;88;68;70;88;80;83,task:7;informational:33;navigational:12;commercial:22;transactional:26
+JM Equipamentos Gastronômicos,15,50,22;100;95;24;24;27;25;25;25;25;25;25,task:1;informational:27;navigational:49;commercial:8;transactional:15
+Cilindros de padaria,33,6494,24;35;61;63;98;100;100;87;89;89;88;87,task:2;informational:73;navigational:5;commercial:10;transactional:10
+Brunidores de Cilindro e Ferramentas,20,1968,55;66;68;60;98;100;100;65;59;59;59;58,task:3;informational:70;navigational:5;commercial:17;transactional:5
+Casa e Panelas,18,795,89;100;100;50;49;50;50;49;49;49;49;49,task:2;informational:54;navigational:10;commercial:24;transactional:10
+Piatti e Pizze Italiane,17,1827,69;81;81;82;79;82;83;100;93;79;79;78,task:13;informational:65;navigational:5;commercial:10;transactional:7
+Rangetop e fogões embutidos,16,1703,83;99;100;97;95;98;100;56;58;58;58;57,task:5;informational:41;navigational:9;commercial:37;transactional:8
+Formas de silicone para pão,20,1225,33;36;23;41;83;87;84;100;69;48;52;52,task:2;informational:50;navigational:4;commercial:30;transactional:14
+Pastéis Doces Brasileiros,16,4299,42;47;48;47;48;49;50;100;94;93;93;93,task:5;informational:71;navigational:10;commercial:10;transactional:4
+Panifici Mallet e Varianti,15,379,47;83;78;76;74;89;75;60;96;100;50;49,task:2;informational:57;navigational:22;commercial:10;transactional:9
+Fogão com grill e churrasqueira,30,7853,24;32;33;52;97;98;99;100;100;100;100;100,task:2;informational:62;navigational:4;commercial:21;transactional:11
+Fornerias Paulistanas,15,647,25;49;67;61;61;72;34;100;75;39;38;69,task:10;informational:52;navigational:17;commercial:17;transactional:4
+Fundição de Metais,30,10726,94;100;100;91;86;87;87;89;89;89;89;89,task:2;informational:72;navigational:7;commercial:16;transactional:3
+Pizzarias na Lenha,16,1565,53;76;79;79;78;91;92;98;99;99;100;100,task:3;informational:32;navigational:31;commercial:22;transactional:12
+Pizza Ovens,18,1769,84;100;100;99;84;88;89;83;89;89;86;86,task:1;informational:49;navigational:6;commercial:37;transactional:7
+Cozinha Divina,15,331,77;96;97;96;96;94;95;100;100;100;100;99,task:7;informational:44;navigational:18;commercial:27;transactional:4
+Travessas Refratárias de Porcelana,18,629,64;75;75;72;46;50;68;100;51;57;55;54,task:5;informational:43;navigational:6;commercial:34;transactional:12
+Fogões de mesa a gás inox,15,645,64;89;94;88;92;97;100;100;94;100;89;91,task:10;informational:35;navigational:4;commercial:32;transactional:19
+Fogões e Cooktops Embutidos (Indução e Gás),15,489,53;69;100;85;72;74;88;70;84;92;76;80,task:7;informational:47;navigational:4;commercial:31;transactional:11
+Frigideiras Quadradas,15,512,36;50;50;49;52;55;49;100;89;66;62;68,task:7;informational:48;navigational:4;commercial:30;transactional:11
+Pastéis e Salgados,21,1539,23;36;37;58;87;82;80;90;84;99;100;99,task:12;informational:70;navigational:5;commercial:10;transactional:3
+coifas de cozinha embutidas,21,8670,77;86;88;42;92;93;93;100;99;99;100;100,informational:61;navigational:9;commercial:26;transactional:4
+Marinex Opaline - Utensílios de Forno,24,4076,45;50;51;32;70;71;71;72;71;71;100;99,task:5;informational:38;navigational:25;commercial:23;transactional:9
+Confeitaria de Bolos,18,1006,76;89;89;100;83;83;83;30;58;58;58;59,task:5;informational:69;navigational:5;commercial:12;transactional:9
+Casa do Fogão no Brasil,18,2036,100;61;62;60;60;64;66;72;76;80;74;73,task:2;informational:50;navigational:25;commercial:19;transactional:4
+Botões de Fogão,18,499,55;80;80;77;83;80;78;81;86;87;85;100,task:10;informational:30;navigational:18;commercial:21;transactional:21
+Panelas T-Fal,18,441,87;97;100;94;94;96;94;93;78;71;68;77,task:5;informational:58;navigational:10;commercial:21;transactional:6
+Rechaud de Porcelana,15,460,70;100;96;87;73;79;85;66;67;78;78;79,task:7;informational:40;navigational:14;commercial:28;transactional:11
+Panasonic Fogões e Cooktops,19,891,38;57;60;56;51;55;55;80;83;100;61;62,task:3;informational:33;navigational:32;commercial:23;transactional:9
+Formas e forminhas de empada,51,23064,31;34;37;59;67;68;68;100;94;94;94;94,task:5;informational:68;navigational:2;commercial:20;transactional:5
+Piastrelle e ceramiche,16,330,27;33;35;30;26;26;26;21;19;20;99;100,task:3;informational:48;navigational:24;commercial:17;transactional:8
+Engenharia da Pizza,16,1192,44;58;59;58;58;62;63;91;81;83;100;100,task:10;informational:55;navigational:4;commercial:24;transactional:7
+Cozinha Industrial,15,1989,74;100;100;95;92;99;100;92;99;93;99;97,task:14;informational:44;navigational:4;commercial:30;transactional:8
+batedores de bolo,26,11552,13;64;64;70;96;97;98;100;99;100;100;100,task:5;informational:65;navigational:5;commercial:16;transactional:9
+Placas Refratárias para Forno e Churrasqueira,23,3215,22;26;26;39;55;56;56;92;99;100;95;94,task:2;informational:44;navigational:4;commercial:33;transactional:17
+Panelas Tramontina Spezia,17,137,25;80;100;40;53;35;28;37;32;50;47;54,task:10;informational:36;navigational:11;commercial:25;transactional:18
+Tampas para fogão e forno a lenha,17,745,24;44;46;30;28;30;36;72;82;100;91;95,task:10;informational:30;navigational:1;commercial:46;transactional:13
+Formaggi Frescatino,16,948,80;81;81;81;81;81;81;95;95;100;100;100,informational:65;navigational:29;commercial:5;transactional:1
+Revestimentos para Fogão a Lenha,18,821,67;75;87;88;100;95;95;84;85;85;85;85,task:4;informational:70;navigational:2;commercial:18;transactional:6
+Fogões Consul 4-6 bocas,32,6893,100;45;48;47;42;43;44;53;47;47;47;46,task:2;informational:50;navigational:10;commercial:18;transactional:20
+Pães Doces,38,22733,42;46;50;50;65;65;65;100;85;85;85;85,task:13;informational:73;navigational:4;commercial:10
+Cozinha de Fazenda,15,198,88;98;100;88;88;91;92;92;90;90;91;90,task:17;informational:55;navigational:4;commercial:17;transactional:7
+Panelas de Porcelana,16,264,78;100;96;100;69;73;77;59;53;60;53;53,task:1;informational:54;navigational:4;commercial:33;transactional:8
+Pão de Forma: Receitas e Lanches,53,15919,31;37;41;41;42;43;44;93;100;100;100;100,task:8;informational:77;navigational:5;commercial:8;transactional:2
+Frango de Peito no Forno,27,7301,80;91;93;50;51;53;53;95;100;100;100;100,task:2;informational:80;navigational:8;commercial:6;transactional:4
+Pizza Grill Brasil,16,363,84;100;91;90;78;78;79;72;74;75;74;73,task:3;informational:51;navigational:25;commercial:16;transactional:5
+Cooktops e Ponto Frio,15,213,12;46;74;50;64;36;32;79;61;100;89;99,task:7;informational:18;navigational:47;commercial:10;transactional:18
+Máquinas de fazer bolos,30,2689,70;93;92;97;91;96;100;95;87;87;90;89,task:5;informational:50;navigational:8;commercial:16;transactional:21
+Fogões vitrocerâmicos,33,5893,16;20;20;42;65;66;67;100;94;95;92;92,task:3;informational:56;navigational:4;commercial:31;transactional:6
+Pão de alho na Airfryer,39,11476,34;39;40;38;43;45;45;100;76;76;76;76,task:12;informational:79;navigational:3;commercial:5;transactional:1
+Massa Madre: Fermento Natural,19,819,38;42;96;100;99;100;100;25;27;27;27;27,task:12;informational:66;navigational:5;commercial:14;transactional:3
+Osteria Francescana,15,94,76;81;91;86;86;89;93;95;100;91;91;91,task:3;informational:39;navigational:24;commercial:17;transactional:17
+Formas para Pão de Queijo,18,336,63;70;71;33;33;35;32;89;44;100;97;28,task:3;informational:78;navigational:5;commercial:9;transactional:5
+Fogões Antigos e Vintage,16,2198,60;84;87;87;88;95;95;100;100;100;99;98,task:3;informational:58;navigational:1;commercial:30;transactional:8
+Brastemp Gourmand Fogões,22,4836,85;98;100;96;95;98;99;82;72;72;74;74,informational:44;navigational:20;commercial:22;transactional:14
+Fogões de Brinquedo Infantis,16,2776,73;98;100;97;81;87;90;81;88;94;85;84,task:3;informational:55;navigational:5;commercial:25;transactional:12
+Fogões industriais 4 bocas Venâncio,17,496,75;97;98;88;67;71;72;100;75;76;67;64,task:13;informational:44;navigational:8;commercial:24;transactional:11
+Frigideiras Tramontina Grill,15,391,5;12;14;13;10;10;8;18;12;100;73;94,task:3;informational:47;navigational:18;commercial:15;transactional:17
+Receitas de bolos brasileiros,93,51331,36;37;40;43;90;90;90;100;78;78;78;78,task:5;informational:73;navigational:6;commercial:10;transactional:6
+Culinária Online,16,9632,94;98;99;99;99;100;100;100;100;100;100;100,task:8;informational:70;navigational:5;commercial:10;transactional:7
+farinha de trigo,16,209,72;93;100;88;79;79;75;77;79;79;79;87,task:4;informational:54;navigational:5;commercial:21;transactional:16
+Cestos para Air Fryer,22,2367,85;100;100;54;75;78;80;65;75;75;74;73,task:4;informational:54;navigational:3;commercial:31;transactional:8
+Massas e bolos para festas,28,7806,39;45;45;44;54;54;54;100;68;68;68;67,task:5;informational:69;navigational:5;commercial:13;transactional:8
+Assadeiras para Biscoitos,20,573,79;100;79;72;73;76;62;99;99;95;95;96,task:2;informational:51;navigational:2;commercial:35;transactional:10
+Panelas e Tachos em Ferro Fundido,22,24231,28;15;16;94;96;97;97;100;100;100;100;100,task:3;informational:58;navigational:4;commercial:25;transactional:10
+Panela de pressão Tramontina,41,5422,87;99;100;50;53;54;54;64;71;71;71;71,informational:54;navigational:10;commercial:25;transactional:11
+Forno de Embutir Electrolux 73 L,15,317,13;15;14;13;35;27;47;100;84;54;46;34,task:3;informational:73;navigational:5;commercial:12;transactional:7
+Fogões de Inox 4 Bocas,22,3475,75;99;100;95;90;92;93;87;89;88;90;90,task:7;informational:30;navigational:5;commercial:47;transactional:11
+frigideiras de cerâmica,16,150,58;68;77;72;71;99;100;71;71;64;65;66,task:3;informational:45;navigational:4;commercial:37;transactional:11
+Massa Folhada: Receitas e Preparos,41,13052,42;47;100;59;63;63;63;70;73;73;73;73,task:5;informational:77;navigational:5;commercial:10;transactional:3
+Fogões e Cooktops Rosa,15,382,51;92;100;84;78;59;70;47;48;98;59;60,task:13;informational:42;navigational:4;commercial:30;transactional:11
+Formas de bolo redondas antiaderentes,16,163,43;64;66;56;57;53;78;89;89;97;99;100,task:5;informational:38;navigational:4;commercial:44;transactional:9
+Pizzaria Fornetto,15,1651,52;77;79;81;82;89;86;99;100;100;94;93,task:3;informational:22;navigational:55;commercial:11;transactional:9
+La Tavola Pizzeria,16,1263,58;76;78;74;78;84;85;88;100;100;93;90,task:3;informational:24;navigational:43;commercial:21;transactional:9
+Primi Piatti Italiani,16,934,100;90;90;91;90;93;94;97;98;98;99;98,task:8;informational:55;navigational:5;commercial:11;transactional:21
+bolos sem forno,17,11857,33;37;99;98;98;99;100;100;100;100;100;100,task:5;informational:75;navigational:2;commercial:10;transactional:8
+Quentão Pronto,19,855,50;58;59;84;99;100;100;97;98;98;98;98,task:5;informational:57;navigational:5;commercial:20;transactional:13
+Bolo no Brasil,16,639,20;28;29;28;30;38;39;100;61;50;49;53,task:3;informational:80;navigational:5;commercial:9;transactional:3
+Forno Elétrico Turbo 5 Esteiras,17,75,59;63;68;64;57;56;100;98;90;51;52;51,task:1;informational:22;navigational:43;commercial:23;transactional:11
+Receitas e Despesas,120,53779,46;53;57;72;82;83;83;97;100;100;100;100,task:12;informational:71;navigational:4;commercial:13
+"Fratelli: hotel, pizza e mobili",15,416,40;63;100;93;55;59;57;76;73;72;62;62,informational:39;navigational:30;commercial:16;transactional:15
+Padoca e Padarias,16,3959,75;85;86;84;83;86;86;97;100;100;98;97,task:5;informational:46;navigational:24;commercial:20;transactional:5
+Panelas e frigideiras de ferro fundido,18,422,86;94;95;96;91;93;97;100;60;69;68;68,task:2;informational:38;navigational:4;commercial:47;transactional:9
+Cozinha Rústica,16,3319,76;95;100;97;84;87;87;89;90;90;90;89,task:13;informational:60;navigational:5;commercial:18;transactional:4
+Air fryers: Bella Cucina Britânia,25,4563,22;28;27;36;95;96;96;97;100;100;100;100,task:2;informational:46;navigational:16;commercial:16;transactional:20
+Fundição Alea,15,66,42;100;94;72;53;68;58;94;87;54;54;83,task:3;informational:31;navigational:51;commercial:11;transactional:4
+Esteiras para panificação,17,225,75;98;100;82;94;94;66;61;61;75;72;73,task:2;informational:53;navigational:2;commercial:34;transactional:9
+Josper: grelhadores e fornos,19,1765,24;25;25;31;31;31;31;100;100;100;100;100,task:2;informational:50;navigational:17;commercial:20;transactional:11
+Cozinha com fogão e pia embutidos,21,2932,64;83;85;85;94;99;100;77;73;73;81;82,informational:70;navigational:4;commercial:23;transactional:3
+Massa de Pastel,31,5475,23;30;43;74;98;100;100;84;75;73;73;73,task:8;informational:56;navigational:2;commercial:16;transactional:18
+Frigideiras Rochedo,19,1711,71;98;100;97;80;86;87;90;91;92;84;83,task:3;informational:27;navigational:41;commercial:24;transactional:5
+Móveis e suportes para air fryer,16,431,77;97;100;96;99;94;92;84;83;74;75;88,task:2;informational:63;navigational:2;commercial:23;transactional:10
+Fogões Electrolux 4 a 6 bocas com forno duplo,23,6322,92;100;50;65;85;86;86;58;56;65;63;62,task:5;informational:48;navigational:5;commercial:24;transactional:18
+La Vera Pizzerie,16,869,92;100;100;100;72;70;71;95;95;87;87;87,task:2;informational:40;navigational:26;commercial:11;transactional:21
+Porta Panetone e Panetoneiras,15,819,49;73;74;69;78;83;88;86;90;100;100;99,task:7;informational:53;navigational:11;commercial:22;transactional:7
+Frigideiras Tefal,17,174,25;29;30;28;28;30;44;100;73;31;31;31,task:1;informational:46;navigational:7;commercial:40;transactional:6
+Fogões e cooktops em pedra,25,1961,72;93;89;91;93;94;100;85;79;79;74;73,task:5;informational:58;navigational:5;commercial:24;transactional:8
+Panificadora Tramontina,18,2004,24;39;44;47;40;41;43;48;97;100;95;96,task:2;informational:50;navigational:19;commercial:18;transactional:11
+Fogões Rocket Stove,18,627,95;100;67;77;78;79;80;82;84;81;82;81,task:3;informational:54;navigational:10;commercial:14;transactional:19
+Fogões Itatiaia e Cooktops,21,2245,43;27;30;50;75;75;77;100;91;72;71;77,task:5;informational:53;navigational:12;commercial:19;transactional:11
+Panelas de pressão italianas e marcas,17,629,88;94;100;72;72;74;75;65;90;85;81;83,task:5;informational:58;navigational:4;commercial:27;transactional:6
+Confeitaria: fazer bolos,15,824,86;100;100;100;100;97;98;80;65;65;65;65,task:8;informational:42;navigational:14;commercial:4;transactional:32
+Fogões a Lenha no Brasil,17,2064,57;62;63;33;99;93;100;43;44;44;60;71,task:1;informational:61;navigational:4;commercial:29;transactional:5
+Ristoranti italiani: pizzerie e osterie,15,311,89;91;95;94;100;100;100;81;82;87;87;93,task:2;informational:67;navigational:7;commercial:14;transactional:10
+Fermentos em Pó para Bolos,78,22422,34;71;75;100;93;93;93;96;74;74;74;74,task:8;informational:58;navigational:5;commercial:15;transactional:14
+Piccola Pizzerie,16,552,31;75;78;75;57;55;51;50;100;88;73;78,task:3;informational:23;navigational:40;commercial:24;transactional:10
+Pizza frita: receitas,20,2067,38;43;44;43;43;45;45;100;25;25;25;25,task:2;informational:79;navigational:5;commercial:10;transactional:4
+Sanduicheiras e Torradeiras para Fogão,19,2904,64;73;72;71;47;50;49;91;91;90;100;97,task:5;informational:49;navigational:4;commercial:38;transactional:4
+Braslar Fogões e Cooktops,23,2625,86;100;99;48;46;49;48;74;72;75;75;76,task:2;informational:31;navigational:34;commercial:23;transactional:10
+Pizza e Massa,16,1178,100;54;54;51;49;53;54;57;59;57;61;60,task:5;informational:56;navigational:6;commercial:21;transactional:12
+Formas com Fundo Removível,30,6592,67;35;51;65;100;100;100;66;56;56;56;56,task:5;informational:60;navigational:4;commercial:22;transactional:9
+Frigideiras de Alumínio,18,1168,35;42;45;90;99;100;95;57;91;88;87;88,task:5;informational:45;navigational:1;commercial:35;transactional:14
+Bolo em Marmita para Festas,23,5020,78;87;100;93;79;81;81;81;77;77;76;76,task:2;informational:60;navigational:2;commercial:27;transactional:9
+Crema Italia,16,98,85;89;82;82;95;99;98;98;100;100;100;100,task:7;informational:50;navigational:18;commercial:15;transactional:10
+Receitas de Farofa,105,81411,42;45;48;52;62;62;62;84;100;100;100;100,task:5;informational:72;navigational:3;commercial:10;transactional:10
+Fogões Carrefour,24,4023,89;99;100;48;47;49;50;42;50;50;58;58,task:2;informational:28;navigational:36;commercial:7;transactional:27
+Marmitas Soprano,17,356,52;98;100;75;56;49;47;50;49;47;48;48,task:2;informational:29;navigational:30;commercial:8;transactional:31
+Fogões e Cooktops Tramontina,41,4192,74;95;100;99;94;96;96;94;97;96;96;95,task:7;informational:39;navigational:13;commercial:17;transactional:24
+Fritadeiras Airfryer Rotativas,18,1442,58;72;67;89;96;98;100;100;100;100;100;100,task:2;informational:59;navigational:4;commercial:26;transactional:9
+Pães Recheados Caseiros,54,28423,96;98;100;100;40;40;40;72;79;79;79;79,task:15;informational:73;navigational:5;commercial:5;transactional:2
+Panelas Euro Colorstone,24,2525,79;94;95;62;78;80;76;100;85;94;62;89,task:5;informational:46;navigational:11;commercial:29;transactional:9
+Fogão a lenha de tijolo,25,7914,75;79;83;99;99;100;100;78;75;75;75;74,task:5;informational:72;navigational:5;commercial:12;transactional:6
+Fritadeiras Marchesoni,16,109,38;41;43;100;93;44;40;40;40;37;37;37,task:3;informational:33;navigational:31;commercial:17;transactional:16
+Gabinetes Lian Li Lancool,15,358,10;21;20;18;26;16;21;18;100;37;30;17,informational:54;navigational:18;commercial:18;transactional:10
+Porta-Pão e Utensílios de Armazenamento,20,487,55;75;67;64;54;72;89;100;93;61;74;74,task:7;informational:51;navigational:5;commercial:27;transactional:10
+Forniture Da Vinci,15,138,62;66;73;72;74;75;76;75;94;96;100;98,task:3;informational:20;navigational:60;commercial:7;transactional:10
+Fritadeiras Rosa,15,967,63;87;89;73;73;77;81;100;93;86;75;74,task:3;informational:54;navigational:11;commercial:20;transactional:12
+Pizza e Massa Pronta,26,13573,15;21;22;27;43;44;44;95;100;100;100;100,task:8;informational:60;navigational:2;commercial:16;transactional:14
+Suportes para micro-ondas e forno elétrico,34,9076,86;94;100;100;96;97;97;96;92;93;93;93,task:8;informational:50;navigational:4;commercial:32;transactional:6
+Fogões a gás: tipos e modelos,19,1320,56;66;70;100;97;99;99;47;56;75;68;70,task:3;informational:63;navigational:2;commercial:24;transactional:8
+Massas Refratárias para Alta Temperatura,44,17676,31;30;38;45;73;74;73;98;100;100;100;100,task:2;informational:59;navigational:5;commercial:22;transactional:12
+Oficinas Culinárias,16,451,53;53;54;57;60;60;60;34;42;100;94;42,task:2;informational:69;navigational:9;commercial:15;transactional:5
+Fogões e bocas,16,623,54;70;77;66;64;81;72;100;71;47;48;48,task:2;informational:52;navigational:5;commercial:19;transactional:22
+Vicino Cucina e Vino,15,869,51;71;70;69;74;79;79;99;100;100;100;99,task:3;informational:40;navigational:28;commercial:17;transactional:12
+Sonhos e Receitas de Padaria,72,39610,60;67;86;86;86;86;86;95;100;100;100;100,task:12;informational:73;navigational:6;commercial:6;transactional:3
+Tampas de Fogão,22,1580,51;64;64;61;77;80;81;68;100;100;80;80,task:8;informational:56;navigational:4;commercial:22;transactional:10
+Pastas Primo,16,569,18;19;21;22;57;50;34;37;55;69;60;100,task:10;informational:43;navigational:20;commercial:14;transactional:13
+Sofrito e Receitas,18,947,13;23;23;27;95;100;99;30;28;28;28;28,task:12;informational:71;navigational:5;commercial:8;transactional:4
+Fogões elétricos Agratto,17,866,86;94;93;87;83;84;85;96;97;100;97;97,task:2;informational:34;navigational:24;commercial:21;transactional:19
+Estufas refrigeradas para confeitaria,16,1004,91;100;85;92;78;80;81;88;91;90;88;88,task:2;informational:51;navigational:4;commercial:34;transactional:9
+Fogatti: cooktops e fogões,15,237,16;42;57;43;45;26;23;100;73;31;28;36,task:3;informational:25;navigational:45;commercial:15;transactional:12
+Assadeiras 40cm Tramontina,15,527,6;15;19;75;75;73;40;68;52;93;82;100,task:3;informational:25;navigational:38;commercial:22;transactional:12
+Fraldinha e maminha na airfryer,17,13730,50;55;57;26;26;26;26;28;100;100;100;100,task:12;informational:65;navigational:5;commercial:5;transactional:13
+Cozinha Organizada,22,1899,27;30;31;48;99;99;100;89;100;99;99;99,task:1;informational:49;navigational:30;commercial:16;transactional:4
+Frango empanado no forno,16,406,77;81;82;100;99;80;80;82;46;46;47;46,task:8;informational:75;navigational:6;commercial:7;transactional:4
+Polenta Frita,26,6723,22;27;30;29;28;29;29;100;42;42;42;41,task:17;informational:74;navigational:3;commercial:4;transactional:2
+Forno elétrico 36 litros: Philco e Britânia,19,1529,37;49;50;47;45;45;44;97;45;47;100;90,task:10;informational:40;navigational:4;commercial:37;transactional:9
+Brodo Vero,16,835,20;22;23;23;100;100;100;28;32;35;25;25,task:2;informational:19;navigational:33;commercial:10;transactional:36
+Fogões 4 bocas com grill,15,407,23;35;43;33;33;34;53;100;72;42;37;44,task:3;informational:46;navigational:1;commercial:46;transactional:4
+Fogões brancos 4 bocas,24,3805,79;96;100;96;85;89;90;96;94;94;93;93,task:2;informational:40;navigational:2;commercial:47;transactional:9
+Balcão de Pizzaria,15,193,72;99;100;80;78;81;82;84;85;85;85;84,task:7;informational:29;navigational:31;commercial:23;transactional:10
+Formas e Moldes para Pães e Pães de Mel,28,10195,41;49;51;55;49;51;51;97;100;100;100;100,task:5;informational:55;navigational:2;commercial:28;transactional:10
+Panelas Tefal,23,2402,70;79;83;60;59;62;62;99;100;100;99;100,task:3;informational:48;navigational:15;commercial:22;transactional:12
+Churrasqueiras de Fogão,16,438,32;36;38;83;100;98;96;91;66;68;50;50,task:5;informational:63;navigational:5;commercial:19;transactional:8
+Pastelaria e Cia,16,2155,100;56;57;58;55;59;60;62;65;65;65;64,informational:36;navigational:31;commercial:27;transactional:6
+Portas e acessórios para fogão a lenha,15,414,51;71;68;62;65;70;69;58;94;100;58;58,task:7;informational:38;navigational:14;commercial:29;transactional:12
+Fogões Esmaltec,42,13583,97;98;100;43;41;41;41;42;46;47;46;46,task:3;informational:47;navigational:16;commercial:23;transactional:11
+Eletrodomésticos para Cozinha,70,27782,35;38;50;72;80;80;80;93;100;100;100;100,task:2;informational:62;navigational:2;commercial:26;transactional:8
+Fogões de Indução Brancos,16,476,40;78;100;84;84;61;76;96;96;84;66;74,task:13;informational:43;navigational:4;commercial:32;transactional:8
+La Farina pizzarias e restaurantes,17,870,38;65;66;65;65;71;66;91;94;100;75;82,task:10;informational:23;navigational:41;commercial:12;transactional:14
+Receitas de Massas,45,10887,33;37;37;43;87;87;87;100;54;54;55;55,task:2;informational:79;navigational:5;commercial:8;transactional:6
+Pastéis SBC (Pastéis e Paztel),16,423,49;81;82;100;98;73;73;75;75;70;70;70,task:3;informational:37;navigational:38;commercial:18;transactional:4
+Louceiros e armários de cozinha,17,2193,68;76;86;73;98;95;94;100;94;94;95;95,task:2;informational:71;navigational:5;commercial:17;transactional:5
+Bolos sem Fermento,73,23363,26;31;37;69;60;61;61;75;100;100;100;100,task:8;informational:72;navigational:2;commercial:10;transactional:8
+Estufas Elétricas,17,1132,92;100;99;93;42;45;45;46;49;49;73;69,task:3;informational:48;navigational:4;commercial:35;transactional:10
+Artesanato de Cozinha,19,960,48;30;30;29;26;27;28;100;67;43;44;51,task:5;informational:72;navigational:5;commercial:14;transactional:4
+Ferro de passar Philco,22,744,88;100;100;96;95;98;97;55;51;51;49;48,informational:22;navigational:33;commercial:9;transactional:36
+Pizza no Micro-ondas,44,9775,27;30;30;45;66;66;67;100;99;99;99;99,task:2;informational:80;navigational:5;commercial:8;transactional:5
+Suportes e Mesas para Pizza,19,386,65;80;80;89;83;93;87;77;77;100;96;83,task:10;informational:40;navigational:5;commercial:27;transactional:18
+Pizza Artesanal,15,1108,88;94;92;90;90;100;100;99;98;99;99;99,informational:65;navigational:5;commercial:22;transactional:8
+Passa-Pratos de Cozinha,18,1714,68;90;92;95;92;95;100;89;94;94;96;95,task:2;informational:78;navigational:2;commercial:14;transactional:4
+Brastemp fogões BFS5NCR,17,1157,24;65;74;40;44;39;45;70;38;100;81;81,task:2;informational:19;navigational:31;commercial:44;transactional:4
+Equipamentos para batata frita,19,2233,48;57;48;62;98;97;100;86;80;80;80;80,task:2;informational:63;navigational:5;commercial:24;transactional:6
+Máquinas de Cozinha Automatizadas,18,138,27;31;38;35;35;36;68;100;87;44;44;44,task:4;informational:65;navigational:1;commercial:23;transactional:7
+Panelas no Shoptime,23,9939,40;42;44;19;20;20;20;100;20;20;20;20,informational:42;navigational:30;commercial:20;transactional:8
+Comida e Restaurantes,27,3761,95;100;98;76;57;59;58;53;65;68;65;65,task:10;informational:66;navigational:8;commercial:10;transactional:6
+Lareiras de Canto,17,2178,71;89;89;84;81;92;94;100;97;97;98;97,task:5;informational:57;navigational:5;commercial:21;transactional:12
+Formas e moldes para bolos,18,145,61;80;81;71;86;100;61;52;53;53;53;53,task:7;informational:56;navigational:1;commercial:30;transactional:6
+Frigideiras com divisórias,15,1036,4;18;23;11;10;13;11;4;4;100;90;82,task:7;informational:56;navigational:5;commercial:22;transactional:10
+Fritadeiras Tramontina,17,163,6;23;27;21;23;22;23;100;94;8;7;9,task:3;informational:43;navigational:20;commercial:24;transactional:10
+Fornerias no Brasil,15,258,49;65;70;100;99;91;80;100;98;74;75;80,task:1;informational:53;navigational:14;commercial:21;transactional:11
+Pãezinhos e Pães Pequenos,25,3950,64;70;71;73;85;87;85;100;93;93;94;96,task:8;informational:67;navigational:7;commercial:10;transactional:8
+Sfogliatine e biscotti sfogliati,17,1069,23;29;30;35;100;96;96;95;94;96;97;97,task:5;informational:76;navigational:2;commercial:8;transactional:9
+Pizza a domicilio,15,121,16;31;30;25;25;29;23;100;18;20;23;20,task:7;informational:28;navigational:11;commercial:19;transactional:35
+Formas e chapas para waffles,17,253,63;30;31;29;62;62;69;100;98;45;46;46,task:8;informational:49;navigational:5;commercial:19;transactional:19
+Pudim: ponto e forno em banho-maria,54,13248,32;56;57;79;99;100;100;96;96;96;96;96,task:12;informational:77;navigational:3;commercial:7;transactional:1
+Forno Air Fryer 25 Litros,15,207,16;21;23;22;22;20;40;100;72;20;19;19,task:10;informational:35;navigational:9;commercial:20;transactional:26
+cabos de frigideira,15,89,13;100;95;47;50;60;22;54;67;30;30;31,informational:78;navigational:4;commercial:13;transactional:5
+Panelas e Caçarolas Antiaderentes,26,5040,67;76;77;41;98;100;100;74;73;73;72;71,task:2;informational:44;navigational:14;commercial:30;transactional:10
+Fogões Smeg e Cooktops,15,179,33;36;39;99;100;43;42;53;49;47;49;47,task:3;informational:44;navigational:12;commercial:18;transactional:23
+Pratos de sobremesa,18,8101,78;83;41;52;100;100;100;65;55;55;55;54,task:12;informational:57;navigational:2;commercial:26;transactional:3
+Assadeiras para airfryer,19,481,53;59;58;57;97;100;99;45;56;41;41;44,task:5;informational:42;navigational:1;commercial:38;transactional:14
+Pizzarias e Fornos em BH,15,1654,48;77;100;98;98;93;94;98;100;100;100;99,task:3;informational:56;navigational:11;commercial:19;transactional:11
+amendoim na airfryer,32,7981,54;65;68;73;78;79;79;99;100;100;100;100,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Fogões e Fornos nas Lojas Brasileiras,16,1570,59;75;76;70;63;75;78;79;76;79;97;100,task:7;informational:39;navigational:17;commercial:18;transactional:19
+Ferro de passar Arno,37,6909,91;97;100;50;66;67;67;51;48;49;48;48,task:5;informational:28;navigational:20;commercial:22;transactional:25
+Pães e Cestas de Pão,24,5097,76;88;93;93;98;99;100;88;90;90;90;89,task:2;informational:66;navigational:5;commercial:15;transactional:12
+Casa e Festa,15,3010,84;98;100;99;94;98;100;96;98;97;98;97,task:10;informational:62;navigational:6;commercial:14;transactional:8
+Papel para Air Fryer,34,11641,32;37;39;45;99;100;100;94;93;93;94;94,task:8;informational:59;navigational:4;commercial:17;transactional:12
+Formas de Muffin,18,1308,43;44;44;76;70;71;80;100;100;100;100;100,task:5;informational:70;navigational:5;commercial:14;transactional:6
+Facas Tramontina Plenus,16,244,80;96;100;91;81;92;85;81;82;80;79;100,informational:39;navigational:38;commercial:12;transactional:11
+Formas de Bolo Vulcão,17,314,68;79;80;67;66;56;55;100;92;50;51;50,task:12;informational:65;navigational:4;commercial:17;transactional:2
+Bandejas para Air Fryer,16,446,42;52;52;51;47;54;69;100;86;58;57;58,task:3;informational:49;navigational:1;commercial:33;transactional:14
+Bolos Cenográficos,18,542,60;64;64;63;67;69;63;100;53;52;49;47,task:12;informational:60;navigational:5;commercial:14;transactional:9
+Gustare Pizzarias e Fornerias,15,529,31;87;93;98;99;93;70;88;80;82;92;100,task:3;informational:61;navigational:5;commercial:16;transactional:15
+Torneiras Forusi,17,945,73;97;100;60;52;54;51;84;54;57;42;42,task:2;informational:42;navigational:17;commercial:27;transactional:12
+Bolos caseiros tradicionais,20,3799,40;49;49;40;40;42;43;100;91;91;91;90,task:2;informational:67;navigational:7;commercial:10;transactional:14
+Fogões Itatiaia 5 bocas,24,3152,66;94;100;99;89;93;94;91;94;94;94;93,task:3;informational:22;navigational:28;commercial:36;transactional:11
+Fogões Electrolux Chef,18,3216,36;50;58;47;43;41;44;54;80;83;100;98,informational:36;navigational:27;commercial:30;transactional:7
+Fondue: acendedores e álcool,36,9968,17;22;28;36;70;70;70;100;97;97;97;97,task:5;informational:76;navigational:5;commercial:7;transactional:7
+Airfryer de Brinquedo,15,183,52;100;98;75;84;95;77;100;82;45;46;46,task:3;informational:56;navigational:8;commercial:16;transactional:17
+Fundição de Alumínio,15,163,88;99;100;99;91;93;94;98;99;99;100;99,task:7;informational:47;navigational:4;commercial:34;transactional:8
+Fritadeira a ar Seara,15,678,28;51;50;51;57;58;64;100;62;93;93;96,task:3;informational:57;navigational:18;commercial:15;transactional:7
+Pés de Fogão e Acessórios,21,1459,100;58;61;67;62;65;66;52;57;57;56;56,task:4;informational:57;navigational:15;commercial:17;transactional:7
+Itajobi Fogões,15,11324,33;39;40;39;38;39;40;29;100;100;100;100,task:2;informational:36;navigational:44;commercial:10;transactional:8
+Receitas de bolachas com nata,33,44308,82;83;85;85;81;81;81;100;55;55;55;55,task:12;informational:72;navigational:3;commercial:5;transactional:8
+Macarrão: receitas fáceis,270,254237,46;46;46;54;64;64;64;98;100;100;100;100,task:12;informational:78;navigational:3;commercial:5;transactional:2
+Móveis e Utensílios de Cozinha,15,140,7;62;100;28;28;15;26;68;75;28;26;28,task:7;informational:61;navigational:3;commercial:18;transactional:11
+Fritadeiras Labravia,20,1091,56;59;55;41;97;100;100;88;88;89;91;92,informational:60;navigational:15;commercial:16;transactional:9
+Pizzarias Mangiare,16,1627,59;64;65;64;96;100;100;43;40;40;42;41,task:2;informational:25;navigational:26;commercial:33;transactional:14
+Padarias Bello Pane,16,643,63;70;70;100;64;76;76;79;74;82;79;85,informational:44;navigational:32;commercial:16;transactional:8
+Utilita Cozinha,15,177,20;100;100;31;34;36;33;32;28;84;99;31,task:7;informational:28;navigational:40;commercial:20;transactional:5
+Gabinetes de PC,19,891,60;76;80;82;84;77;78;76;81;80;100;84,task:2;informational:42;navigational:7;commercial:32;transactional:17
+Topema cozinhas profissionais,16,199,81;90;93;91;93;96;99;98;100;100;100;100,task:3;informational:18;navigational:61;commercial:7;transactional:11
+Air fryer e grill Philips Walita,19,1286,26;32;33;42;100;100;100;55;90;90;91;90,task:2;informational:56;navigational:15;commercial:23;transactional:4
+Marmita Elétrica,18,722,62;78;79;74;75;91;83;100;82;82;89;87,task:5;informational:50;navigational:8;commercial:24;transactional:13
+Assadeiras de vidro com tampa,18,426,65;79;76;74;76;81;100;87;90;77;80;75,task:7;informational:38;navigational:18;commercial:27;transactional:10
+Cozinhas Planejadas e Moduladas,76,59520,89;90;91;91;98;98;98;100;99;99;99;99,task:5;informational:47;navigational:5;commercial:29;transactional:14
+Tradução de Cozinha,32,6993,95;58;100;54;48;49;49;47;46;46;46;46,task:29;informational:59;navigational:4;commercial:6;transactional:2
+Acessórios para Panelas,26,3463,87;100;52;61;62;63;63;54;51;51;51;50,task:8;informational:53;navigational:2;commercial:25;transactional:12
+Fritadeiras Lenoxx,15,134,79;95;99;87;77;100;95;85;83;78;81;79,task:7;informational:28;navigational:34;commercial:22;transactional:9
+ferro a vapor Black & Decker FX3060,19,1923,36;38;39;39;82;92;87;80;100;88;88;88,task:5;informational:49;navigational:27;commercial:14;transactional:5
+Air fryers com duas gavetas,18,1173,84;100;100;96;95;98;99;46;48;47;47;47,task:2;informational:64;navigational:2;commercial:22;transactional:10
+Fogões industriais de 3 bocas,19,1968,70;96;100;95;84;90;91;82;92;93;100;100,task:10;informational:46;navigational:4;commercial:31;transactional:9
+Massa filo: receitas e onde comprar,27,5836,15;19;20;30;83;84;84;100;47;46;46;46,informational:57;navigational:15;commercial:12;transactional:16
+Fritadeiras Philco,70,29807,96;98;100;44;53;53;53;62;73;73;73;73,informational:57;navigational:10;commercial:16;transactional:17
+Formica inox e aço escovado,15,25,29;31;32;100;57;60;52;38;38;34;34;34,task:3;informational:54;navigational:8;commercial:21;transactional:14
+Pão de Queijo de Minas,15,88,67;67;73;73;76;77;77;78;79;87;100;80,task:7;informational:47;navigational:4;commercial:29;transactional:13
+Pratos para bolo e apresentação em porcelana,19,4592,54;64;34;40;98;100;100;60;61;61;62;61,task:8;informational:53;navigational:5;commercial:24;transactional:10
+Ferros de passar roupas,196,167332,32;34;37;42;73;73;73;70;100;100;100;100,task:5;informational:34;navigational:9;commercial:39;transactional:13
+Pizzarias La Pasta,15,635,26;50;53;50;49;54;59;49;43;100;96;84,task:1;informational:30;navigational:38;commercial:25;transactional:6
+Frango na Airfryer,96,40991,34;35;39;45;60;61;61;92;100;100;100;100,task:17;informational:73;navigational:3;commercial:5;transactional:2
+Cucina Toscana,17,3350,58;99;99;98;51;51;52;100;100;100;100;100,task:5;informational:70;navigational:10;commercial:7;transactional:8
+Fogões industriais com chapa,16,554,45;51;50;44;42;44;44;76;88;100;64;84,task:3;informational:58;navigational:5;commercial:24;transactional:10
+Panelas de Inox,17,946,91;100;100;100;52;60;67;63;63;67;65;65,task:5;informational:31;navigational:5;commercial:24;transactional:35
+Suportes para airfryer,16,472,24;29;30;29;30;32;29;100;90;43;42;40,task:5;informational:57;navigational:1;commercial:26;transactional:11
+Pizzerie e ristoranti italiani,15,669,51;79;78;76;84;87;86;100;98;98;95;95,task:3;informational:38;navigational:18;commercial:23;transactional:18
+Fontignac Panelas,19,392,29;34;30;75;98;100;98;72;51;25;25;25,task:5;informational:59;navigational:13;commercial:20;transactional:3
+Fogões Elétricos Industriais,19,485,90;99;100;96;56;60;58;50;56;56;56;57,task:4;informational:48;navigational:4;commercial:34;transactional:10
+Torradas e torradinhas,50,17798,44;47;75;88;81;81;82;100;54;54;54;54,task:8;informational:79;navigational:5;commercial:5;transactional:3
+Maquinas de Assar Frango,66,19702,41;46;51;59;81;82;82;99;100;100;100;100,task:5;informational:48;navigational:5;commercial:27;transactional:15
+Bolos e Cia,15,557,42;62;63;98;100;86;75;85;76;85;82;85,task:3;informational:26;navigational:38;commercial:20;transactional:13
+Fogões Colombo,17,521,38;52;54;48;47;51;50;100;68;86;57;64,task:3;informational:26;navigational:39;commercial:11;transactional:21
+Milanesa e parmegiana na air fryer,17,2167,82;89;89;86;97;99;100;98;99;100;99;99,task:12;informational:70;navigational:5;commercial:5;transactional:8
+Casas de Panificação,15,1116,50;71;73;76;88;94;94;96;96;97;100;100,task:3;informational:54;navigational:20;commercial:12;transactional:11
+Torneiras de Cozinha,74,73611,59;58;60;100;68;68;68;71;70;70;70;70,task:8;informational:42;navigational:4;commercial:33;transactional:13
+Pinsa Romana e Pane Italiano,17,430,97;100;100;99;99;100;100;19;19;17;17;17,task:2;informational:83;navigational:5;commercial:5;transactional:5
+Formas e embalagens para bolos,26,2954,40;45;48;75;98;100;100;73;64;64;62;62,task:1;informational:71;navigational:7;commercial:15;transactional:6
+Cozinhas Italinea e interiores,16,220,76;76;79;79;79;79;79;97;97;97;97;100,task:2;informational:50;navigational:4;commercial:34;transactional:10
+Utensílios de cerâmica para cozinha,17,963,61;87;89;81;85;86;94;100;100;95;95;96,task:3;informational:52;navigational:7;commercial:30;transactional:8
+Fogões e fornos industriais Metalmaq,16,707,55;80;83;77;75;81;80;79;85;85;100;98,task:3;informational:24;navigational:44;commercial:18;transactional:11
+Fogões Novo Mundo,17,288,10;24;31;20;19;24;19;100;68;20;19;20,task:1;informational:24;navigational:47;commercial:11;transactional:17
+Panelas Tognana,19,5405,78;85;84;37;71;73;74;99;100;100;99;99,task:2;informational:50;navigational:11;commercial:26;transactional:11
+Estufas Caseiras,18,970,36;16;49;50;99;100;100;70;68;68;68;68,task:5;informational:73;navigational:5;commercial:12;transactional:5
+Congelados Faleiro,16,374,77;90;97;89;93;93;94;100;100;98;98;99,task:3;informational:37;navigational:38;commercial:13;transactional:9
+Fogões Clarice e Eletrodomésticos,15,1326,28;48;53;42;49;54;43;56;38;37;98;100,task:4;informational:20;navigational:42;commercial:17;transactional:17
+Fogões usados no Brasil,16,2449,66;96;100;97;85;92;93;96;97;97;93;91,task:7;informational:35;navigational:8;commercial:28;transactional:22
+Pães de Micro-ondas,29,3290,90;49;63;62;46;50;50;92;100;100;100;100,task:12;informational:73;navigational:5;commercial:8;transactional:2
+Lareiras de Ferro e Ferro Fundido,16,2118,68;74;72;70;69;75;75;100;92;92;93;92,task:2;informational:49;navigational:4;commercial:36;transactional:9
+Pizza Napolitana e Massas,21,2103,47;56;64;80;79;81;82;83;97;97;100;100,task:2;informational:72;navigational:5;commercial:14;transactional:7
+Pizzarias Fit de Fato,15,265,42;46;47;48;88;87;74;77;71;100;48;48,task:3;informational:26;navigational:34;commercial:21;transactional:16
+Saleiros de cozinha,15,661,40;84;82;59;53;68;65;52;57;68;62;100,task:7;informational:36;navigational:4;commercial:32;transactional:21
+Artesanato em Ferro,18,1010,70;100;98;91;89;95;95;96;94;95;90;88,task:5;informational:62;navigational:8;commercial:19;transactional:6
+Pizza 40 cm e Formas/Utensílios,21,1682,28;26;49;72;93;96;95;77;85;93;100;100,task:5;informational:73;navigational:2;commercial:17;transactional:3
+panelas de cozinha e casa,16,982,25;40;53;48;46;35;51;55;52;78;79;100,task:3;informational:38;navigational:26;commercial:20;transactional:13
+Caffè e ristoranti italiani,17,1672,66;86;87;70;97;100;99;62;64;64;66;65,task:5;informational:58;navigational:9;commercial:17;transactional:11
+Panelas e Woks Tramontina,22,1985,86;99;100;99;89;92;94;88;41;41;40;40,task:6;informational:42;navigational:9;commercial:14;transactional:29
+Hambúrguer na AirFryer,69,21734,46;45;46;64;94;95;95;99;100;100;100;100,task:12;informational:78;navigational:2;commercial:8
+Receitas na AirFryer,27,2190,57;62;62;68;67;68;68;35;70;68;100;80,task:5;informational:80;navigational:2;commercial:8;transactional:5
+Armazenamento de Eletrodomésticos na Cozinha,16,714,70;84;100;58;41;37;37;45;35;35;40;40,task:8;informational:59;navigational:4;commercial:24;transactional:5
+Fritadeiras Mallory,16,614,92;100;100;56;48;54;52;50;55;51;49;49,task:2;informational:38;navigational:27;commercial:11;transactional:22
+Porta-pão de madeira,15,191,43;81;100;81;86;85;53;57;58;55;53;55,task:7;informational:34;navigational:5;commercial:40;transactional:14
+Bolos de chocolate na airfryer,26,17318,42;47;48;31;31;31;31;94;100;100;100;100,task:10;informational:70;navigational:5;commercial:10;transactional:5
+Croissants com Massa Folhada,19,1664,86;98;100;99;99;99;100;57;66;66;66;65,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Frango ao Molho de Laranja,16,4787,85;98;100;48;51;53;54;64;81;81;79;78,task:12;informational:70;navigational:5;commercial:8;transactional:5
+Panelas Imperial,19,1636,19;19;19;54;59;61;67;63;100;88;87;89,task:2;informational:43;navigational:29;commercial:20;transactional:6
+Ravioli: Moldes e Formas,16,831,39;40;41;94;100;100;98;64;66;71;69;57,task:3;informational:62;navigational:4;commercial:23;transactional:8
+Pipoca na Airfryer,49,22018,30;32;30;65;48;48;48;100;99;99;99;99,task:10;informational:78;navigational:2;commercial:2;transactional:8
+Air Fryer 5 Litros Branca,16,602,34;48;51;48;86;88;81;100;92;74;80;84,task:3;informational:49;navigational:11;commercial:25;transactional:12
+Formas de Panetone,29,4950,64;71;72;73;84;86;87;100;100;100;100;100,task:2;informational:63;navigational:2;commercial:23;transactional:10
+Oficina de Bolos,16,1265,65;84;85;80;78;82;83;100;97;94;94;94,task:5;informational:60;navigational:5;commercial:13;transactional:17
+Grelhas para Fogão,19,542,52;63;61;66;100;72;73;94;65;64;64;64,task:10;informational:31;navigational:1;commercial:42;transactional:16
+Paladare: restaurantes e pizzarias,16,628,38;60;61;74;74;100;79;54;54;69;73;79,task:10;informational:28;navigational:10;commercial:40;transactional:12
+Pão Italiano no Brasil,35,21695,26;30;31;31;28;29;29;100;94;94;94;94,informational:75;navigational:12;commercial:9;transactional:4
+Coifas e Exaustores de Cozinha,18,839,83;93;99;89;86;87;89;100;74;74;68;67,informational:40;navigational:28;commercial:30;transactional:2
+Espagueteiras de Inox,16,1280,96;100;100;98;92;95;95;44;44;46;46;53,task:2;informational:65;navigational:5;commercial:18;transactional:10
+Panelas Fortlar,16,229,67;93;92;95;95;98;91;100;99;98;96;93,task:6;informational:30;navigational:32;commercial:24;transactional:8
+Coifas Franke,16,551,60;73;72;65;89;84;82;81;95;100;74;73,task:3;informational:29;navigational:41;commercial:9;transactional:18
+Massas Sofioli,22,1675,38;46;47;62;56;58;58;96;100;100;100;100,task:5;informational:65;navigational:15;commercial:13;transactional:2
+Tramontina Micro-ondas,17,526,74;83;85;77;77;77;75;79;78;100;93;98,task:2;informational:59;navigational:17;commercial:10;transactional:12
+Formas redondas de alumínio,18,1466,76;90;91;100;98;100;100;78;80;80;90;83,task:2;informational:53;navigational:4;commercial:35;transactional:6
+Bases para Bolos,17,1373,46;49;65;65;48;48;48;100;100;100;100;100,task:7;informational:59;navigational:5;commercial:18;transactional:11
+Larroyd: imóveis e fornos,15,233,37;88;89;78;82;100;73;88;70;72;70;38,task:5;informational:51;navigational:19;commercial:13;transactional:12
+Panificadoras e Máquinas de Pão,181,144571,25;26;32;66;55;55;55;100;93;93;93;93,task:8;informational:50;navigational:4;commercial:23;transactional:15
+Panelas antiaderentes com teflon,173,93466,63;65;65;74;91;91;91;99;100;100;100;100,task:2;informational:51;navigational:4;commercial:36;transactional:7
+Calefatores e Lareiras,22,4654,15;18;19;62;65;66;66;100;25;25;25;24,task:2;informational:63;navigational:4;commercial:25;transactional:6
+Grupo Grand Chef Eletrodomésticos,18,554,63;90;92;87;81;85;72;100;92;96;91;97,task:3;informational:42;navigational:29;commercial:11;transactional:15
+Agnolotti: ricette di pasta ripiena,15,755,73;93;95;93;87;93;94;97;98;98;100;99,informational:68;navigational:5;commercial:12;transactional:15
+Coifas e Depuradores de Fogão,53,10974,73;80;86;94;99;100;100;89;91;91;91;91,task:2;informational:69;navigational:10;commercial:16;transactional:3
+Fogões Atlas Embutidos,15,226,33;79;100;77;76;71;54;30;31;77;67;40,task:1;informational:35;navigational:37;commercial:22;transactional:5
+Pastéis e Mini Pastéis: Formas e Moldes,21,3793,69;80;41;54;64;67;67;100;90;90;90;89,task:8;informational:74;navigational:3;commercial:10;transactional:5
+Torresmo e panceta na air fryer,41,10228,74;65;68;76;74;75;76;91;100;100;100;100,task:8;informational:77;navigational:2;commercial:5;transactional:8
+Fogões Fischer Embutidos,21,2277,75;89;88;55;54;56;57;44;70;72;87;100,task:2;informational:28;navigational:38;commercial:22;transactional:10
+Fogões a alta pressão,24,1447,42;54;55;57;97;100;98;88;79;79;73;73,task:2;informational:58;navigational:4;commercial:30;transactional:6
+Bombardino italiano,16,1425,72;92;95;93;81;86;88;99;100;100;100;99,task:3;informational:65;navigational:5;commercial:9;transactional:18
+Formas antiaderentes para bolos e assados,21,2173,76;97;98;97;96;100;100;99;95;94;94;93,task:5;informational:60;navigational:4;commercial:22;transactional:9
+Fogões de vidro brancos,16,146,17;53;64;36;31;19;19;92;100;50;46;22,task:3;informational:58;navigational:4;commercial:29;transactional:6
+Airfryer 4 litros,30,4320,55;76;80;79;78;83;83;89;100;100;100;99,task:2;informational:56;navigational:2;commercial:28;transactional:12
+Micro-ondas Consul Facilite,15,999,8;15;18;14;32;44;11;100;28;65;64;72,task:7;informational:32;navigational:24;commercial:26;transactional:11
+Panelas a vapor,71,37053,23;22;31;65;89;89;90;100;97;97;97;97,task:2;informational:63;navigational:5;commercial:20;transactional:10
+Pastelarias do Fernando,15,793,54;81;100;93;84;91;82;92;82;82;71;70,task:3;informational:27;navigational:41;commercial:19;transactional:10
+Pães de fermentação longa,18,347,46;46;50;98;100;55;55;89;51;51;51;51,task:5;informational:75;navigational:5;commercial:10;transactional:5
+Pizzarias Fornés no Brasil,15,211,37;81;100;90;90;99;77;37;34;63;34;36,task:3;informational:18;navigational:37;commercial:37;transactional:5
+Fogões 4 Bocas com Tampo de Vidro,34,13323,91;94;100;96;91;91;91;92;93;93;93;93,task:3;informational:46;navigational:1;commercial:37;transactional:13
+Bolos Mesclados,26,19297,61;62;67;65;68;68;68;95;100;100;100;100,task:2;informational:78;navigational:8;commercial:8;transactional:4
+Padarias e Frotas Gourmet,15,560,22;25;47;45;46;47;50;100;73;50;46;60,task:7;informational:26;navigational:33;commercial:15;transactional:19
+Duchas Fame,33,7927,38;50;55;57;98;100;100;97;100;100;100;99,task:5;informational:51;navigational:4;commercial:19;transactional:21
+Pizzarias Fornão no Brasil,15,1700,55;74;76;75;89;95;94;98;100;99;100;100,task:3;informational:48;navigational:13;commercial:26;transactional:10
+Fórmica e Laminados para Madeira,66,36081,20;22;24;50;94;94;94;80;100;100;100;100,task:2;informational:52;navigational:7;commercial:27;transactional:12
+Panelas Le Creuset,44,24887,97;100;48;52;55;55;55;66;68;68;68;68,task:2;informational:29;navigational:21;commercial:27;transactional:21
+Máquinas de macarrão,44,10580,39;47;62;77;85;86;86;100;94;94;94;93,task:2;informational:54;navigational:5;commercial:22;transactional:17
+Pizza Pronta,16,165,14;86;75;25;25;49;16;100;17;83;21;22,task:3;informational:46;navigational:10;commercial:33;transactional:8
+Arredamento Sottile Casa,16,815,67;89;89;89;81;86;87;91;93;100;100;99,task:3;informational:55;navigational:5;commercial:15;transactional:22
+Cozinha Completa e Móveis de Cozinha,25,11969,90;94;100;93;90;90;91;90;90;90;90;90,task:5;informational:39;navigational:6;commercial:37;transactional:13
+Ninja Air Fryer,20,3495,78;98;100;67;70;74;75;70;75;75;76;75,task:5;informational:48;navigational:9;commercial:30;transactional:8
+Pizza de Liquidificador e Massas,65,42239,52;54;57;59;59;59;59;83;100;100;100;100,task:2;informational:74;navigational:5;commercial:12;transactional:7
+Padarias e Pizzarias Italianinha,18,1441,59;90;96;92;81;80;80;86;84;84;94;100,task:3;informational:28;navigational:49;commercial:5;transactional:15
+Cozinha em U,15,479,82;95;100;95;95;90;92;90;93;92;93;92,task:7;informational:55;navigational:4;commercial:26;transactional:8
+Churrasqueira de ferro fundido,15,30,5;17;22;24;23;20;5;100;5;43;5;5,task:3;informational:55;navigational:1;commercial:30;transactional:11
+Hambúrguer assado no forno,31,11211,21;26;27;92;69;69;69;100;75;75;75;75,task:12;informational:69;navigational:4;commercial:7;transactional:8
+Eletrodomésticos Gorenje,16,864,47;98;100;88;66;68;67;82;82;88;75;83,task:3;informational:27;navigational:42;commercial:16;transactional:12
+Carne de Porco no Forno,38,9603,39;43;28;50;71;73;73;91;100;100;100;100,task:12;informational:78;navigational:3;commercial:5;transactional:2
+Fogões a lenha antigos,15,306,55;74;75;60;60;75;73;100;84;64;62;64,task:3;informational:59;navigational:8;commercial:26;transactional:4
+Chaminés e componentes para fogão a lenha,23,4551,19;25;34;45;100;100;100;61;60;60;60;60,task:3;informational:59;navigational:2;commercial:21;transactional:15
+Instalação de Cooktop,71,18213,26;31;40;73;83;84;84;97;100;100;100;100,task:12;informational:77;navigational:4;commercial:5;transactional:2
+Frangueiras e Acessórios de Grelhar,22,2499,61;73;51;59;98;100;100;72;69;68;69;68,task:4;informational:47;navigational:9;commercial:29;transactional:11
+Miniaturas de Cozinha,15,342,68;100;100;98;86;90;91;87;87;91;81;82,task:3;informational:63;navigational:11;commercial:19;transactional:4
+Pizza em Casa,15,1217,54;73;74;74;88;100;93;92;94;84;93;92,task:14;informational:38;navigational:10;commercial:17;transactional:21
+fogões cristal aço,16,265,28;43;41;36;38;39;41;51;91;100;33;33,task:10;informational:27;navigational:21;commercial:27;transactional:15
+Fogões a lenha e a gás,19,1904,19;29;31;58;98;100;89;79;68;58;59;98,task:9;informational:50;navigational:4;commercial:30;transactional:7
+Receitas Caseiras,63,25654,13;17;19;34;88;89;89;96;100;100;100;100,task:2;informational:66;navigational:16;commercial:10;transactional:6
+Panelas Cuisinox,22,3484,45;19;20;19;43;44;44;100;91;91;91;91,task:2;informational:44;navigational:31;commercial:13;transactional:10
+Provare: Padarias e Alimentação,15,247,20;65;68;65;70;56;42;100;57;45;45;45,task:3;informational:51;navigational:15;commercial:19;transactional:12
+Micro-ondas Consul 32/34L,16,292,30;40;41;38;100;83;82;50;52;62;40;45,task:7;informational:39;navigational:18;commercial:16;transactional:20
+Formas Retangulares para Bolos,25,12632,41;48;49;30;70;71;71;97;100;100;100;100,task:2;informational:60;navigational:10;commercial:21;transactional:7
+Torta de Salsicha — Receitas,16,8320,89;95;99;99;99;100;100;51;54;54;53;53,task:5;informational:70;navigational:8;commercial:12;transactional:5
+Panelas Roichen,18,1054,24;53;58;49;42;38;47;100;77;69;63;64,task:3;informational:52;navigational:14;commercial:28;transactional:3
+Chef e utilidades Brasil,17,1280,77;100;99;98;98;99;99;96;91;91;92;92,task:2;informational:46;navigational:32;commercial:14;transactional:6
+Peças Fischer para Fogão e Forno,19,367,68;72;76;68;100;100;100;82;62;66;65;65,task:5;informational:25;navigational:6;commercial:38;transactional:26
+Pudim na Air Fryer,20,6050,89;97;100;95;43;44;44;50;48;48;49;48,task:2;informational:83;navigational:5;commercial:5;transactional:5
+Padarias e Panificação no Brasil,16,1658,100;54;55;55;55;59;60;72;64;64;62;62,informational:62;navigational:13;commercial:18;transactional:7
+Cozinhas sob medida,15,1274,91;90;90;97;94;99;100;93;87;87;88;86,task:3;informational:48;navigational:4;commercial:36;transactional:9
+Arno: Processadores e Multiprocessadores,33,4890,44;62;65;79;86;90;91;100;92;92;92;92,task:5;informational:62;navigational:5;commercial:11;transactional:17
+Pizza de frigideira: receitas rápidas,19,1760,86;98;100;96;96;99;100;66;84;84;84;83,task:10;informational:75;navigational:2;commercial:8;transactional:5
+Formas para bolo e torta suíça,17,275,41;44;45;85;100;100;100;87;61;58;58;58,task:5;informational:60;navigational:4;commercial:27;transactional:4
+Porcelana e Cia,15,243,45;71;100;88;58;83;79;59;61;59;59;69,task:3;informational:26;navigational:47;commercial:15;transactional:9
+Eletrodomésticos Amazon Brasil,15,825,29;35;39;36;36;43;58;77;78;78;62;100,task:7;informational:19;navigational:40;commercial:11;transactional:23
+Fondue na Pedra,24,1762,73;83;83;53;85;87;87;100;76;76;98;91,task:12;informational:62;navigational:2;commercial:20;transactional:4
+Cerâmica Fria,53,71736,15;17;19;79;87;87;87;99;100;100;100;100,task:12;informational:61;navigational:2;commercial:21;transactional:4
+Micro-ondas Consul,22,3300,84;99;100;51;47;50;52;54;61;62;75;76,task:2;informational:39;navigational:23;commercial:20;transactional:16
+Panelas quadradas,18,1014,85;100;100;96;38;41;42;39;40;41;40;40,task:2;informational:33;navigational:10;commercial:23;transactional:32
+Tesouras de cozinha,15,743,57;73;76;70;69;73;75;74;77;100;93;72,task:7;informational:53;navigational:4;commercial:26;transactional:10
+Chapinhas e pranchas com controle de temperatura,21,1243,18;30;41;87;88;81;80;92;79;100;92;65,task:1;informational:62;navigational:3;commercial:30;transactional:4
+Capellini Massa,17,4978,54;58;59;62;62;63;63;100;57;58;57;57,task:2;informational:62;navigational:8;commercial:12;transactional:16
+Decorare la Casa,15,879,75;98;97;95;92;99;100;80;82;82;83;82,task:7;informational:45;navigational:4;commercial:29;transactional:15
+Pinças e utensílios de cozinha,22,1111,83;97;99;96;97;100;100;67;79;80;75;75,task:5;informational:51;navigational:2;commercial:36;transactional:6
+Fritadeiras a ar VestCasa,17,109,33;74;91;96;100;78;60;73;80;50;46;46,task:3;informational:29;navigational:48;commercial:16;transactional:4
+Panelas de Pressão Penedo,23,466,68;98;100;86;82;88;87;84;92;97;79;80,task:3;informational:28;navigational:38;commercial:27;transactional:4
+Rodabanca e Frontões de Cozinha,46,13383,45;70;75;86;99;100;100;95;95;95;95;94,task:7;informational:61;navigational:10;commercial:17;transactional:5
+Móveis de Cozinha com Pia,60,97517,95;92;94;97;85;85;85;100;88;88;88;88,task:3;informational:50;navigational:4;commercial:28;transactional:15
+Cantinho do Pastel,15,945,79;53;51;53;88;100;89;57;53;53;54;55,task:5;informational:58;navigational:22;commercial:7;transactional:8
+Rolos de massa e utensílios para cozinha,25,5241,49;66;72;87;86;88;88;100;96;96;94;93,task:5;informational:52;navigational:9;commercial:26;transactional:8
+Formas de bolo com furo,22,2667,42;47;47;83;95;96;96;100;97;96;92;92,task:6;informational:75;navigational:5;commercial:13;transactional:1
+Portas de Incenso,17,3050,61;89;92;90;91;97;97;100;99;98;98;98,task:10;informational:51;navigational:4;commercial:31;transactional:4
+Panificadora Ceci,17,2026,45;71;74;69;61;72;72;100;77;76;76;76,task:1;informational:40;navigational:34;commercial:20;transactional:5
+Ferro e Farinha - Restaurante e Bar,16,3099,47;70;75;81;83;89;89;92;96;100;95;94,task:3;informational:39;navigational:41;commercial:11;transactional:6
+Caparroz e formas de bolo,15,448,48;93;93;68;68;70;59;60;60;100;91;88,task:3;informational:42;navigational:27;commercial:17;transactional:11
+Fogões a gás 4 bocas,85,30925,60;61;63;76;85;85;85;97;100;100;100;100,task:4;informational:21;navigational:3;commercial:53;transactional:19
+fogões Mueller Fratello,17,290,34;60;69;54;48;40;37;100;92;42;38;22,task:5;informational:42;navigational:21;commercial:27;transactional:5
+Fechamento de Pastéis,22,2525,69;69;78;90;86;88;88;92;96;96;100;100,task:5;informational:67;navigational:5;commercial:16;transactional:7
+Pastel no Brasil,16,771,51;62;63;64;76;80;80;100;76;74;77;75,task:5;informational:66;navigational:7;commercial:7;transactional:15
+Cozinhas e Armários Demobile Firenze,16,2303,16;20;18;17;15;29;21;36;18;18;100;96,task:3;informational:44;navigational:18;commercial:27;transactional:8
+portas de micro-ondas,16,643,65;85;87;89;77;98;100;77;78;81;81;80,task:10;informational:53;navigational:6;commercial:16;transactional:15
+Formas para Cupcake,45,19061,20;25;25;46;72;73;73;100;96;96;96;95,task:13;informational:62;navigational:2;commercial:18;transactional:5
+Panelas para Fogão a Lenha,28,4490,25;28;34;34;79;80;80;97;99;99;100;100,task:5;informational:45;navigational:4;commercial:32;transactional:14
+Frango de Padaria,26,4123,21;28;28;31;26;26;26;88;99;99;100;100,task:8;informational:73;navigational:5;commercial:10;transactional:4
+Receitas de Massa,20,5124,34;38;88;88;89;90;89;96;99;99;99;100,task:5;informational:75;navigational:2;commercial:10;transactional:8
+Fogo e Chamas,20,3139,37;47;50;61;60;63;64;83;100;98;93;93,task:2;informational:75;navigational:10;commercial:8;transactional:5
+Frigo: Equipamentos de Cozinha Industrial,15,961,35;59;64;65;61;65;65;67;68;82;100;97,task:7;informational:18;navigational:30;commercial:30;transactional:15
+chapinhas de cerâmica,22,1044,70;84;94;88;83;84;81;100;85;85;86;86,task:3;informational:42;navigational:7;commercial:29;transactional:19
+Pirex e Vidro Pyrex,20,14607,22;26;26;69;94;95;97;98;100;100;99;99,task:5;informational:61;navigational:7;commercial:20;transactional:7
+Fogões Continental 5 Bocas,22,4050,70;92;97;97;92;94;93;100;97;93;97;95,task:7;informational:29;navigational:3;commercial:38;transactional:23
+Fogões Inox em Promoção,16,1323,56;80;83;69;66;70;72;86;90;100;74;82,task:13;informational:12;navigational:3;commercial:50;transactional:22
+Ateliê de Pizza e Pizzarias,15,784,51;64;67;66;88;83;83;100;84;84;76;75,task:5;informational:50;navigational:11;commercial:22;transactional:12
+Panelas de Cerâmica,247,212759,21;22;23;41;82;82;82;100;63;63;63;63,task:5;informational:38;navigational:7;commercial:42;transactional:8
+Padarias e Padeiros,19,8295,78;98;98;97;97;99;99;100;100;100;100;100,task:2;informational:62;navigational:16;commercial:15;transactional:5
+Esfiha: receitas e massas,97,86434,63;68;69;76;86;86;86;100;100;100;100;100,task:8;informational:79;navigational:5;commercial:4;transactional:4
+Torta com Massa Folhada,16,906,69;87;83;79;77;83;84;87;100;98;92;91,task:17;informational:67;navigational:5;commercial:8;transactional:3
+Baguete e Padarias,17,721,86;91;93;91;91;93;100;96;97;97;97;97,task:2;informational:65;navigational:10;commercial:16;transactional:7
+Salgados de Padaria,20,1484,20;21;21;36;86;87;87;100;87;87;87;87,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Franccino Móveis e Decoração,15,231,78;87;92;91;91;94;95;98;100;100;100;99,task:1;informational:22;navigational:59;commercial:11;transactional:7
+Franui chocolate e sorvetes,33,24335,94;95;100;25;86;86;86;25;25;25;25;25,informational:69;navigational:10;commercial:12;transactional:9
+Container de Lanches,18,1809,87;100;100;98;62;65;66;62;59;59;58;57,task:10;informational:33;navigational:6;commercial:42;transactional:9
+Restaurantes com Fogão a Lenha,16,6618,44;57;61;60;78;80;80;98;100;100;100;99,task:2;informational:62;navigational:10;commercial:18;transactional:8
+Cozinhas Planejadas,16,51,33;32;29;100;100;84;29;30;30;30;30;30,task:4;informational:52;navigational:1;commercial:23;transactional:20
+Fogões e Cooktops Mondial,22,1309,77;98;100;94;91;97;98;98;98;98;97;96,task:3;informational:27;navigational:31;commercial:25;transactional:14
+Massa La Molisana,18,3123,28;34;34;27;45;48;47;100;97;97;98;98,task:2;informational:41;navigational:35;commercial:18;transactional:4
+Tempero Sazon,36,16126,17;67;19;21;32;32;33;100;43;43;43;43,task:7;informational:52;navigational:15;commercial:16;transactional:10
+Queijo Grana Padano,32,14618,16;54;93;100;79;79;79;100;58;58;58;57,task:5;informational:58;navigational:5;commercial:15;transactional:17
+Receitas Online,15,1015,84;100;100;99;90;92;90;59;60;62;58;63,informational:71;navigational:15;commercial:7;transactional:7
+Registros e peças para fogões industriais,23,2079,31;39;39;49;99;100;100;91;93;93;93;92,task:2;informational:53;navigational:4;commercial:30;transactional:11
+Pasta alla Norma,16,1044,55;59;60;59;99;100;100;60;38;38;39;38,task:12;informational:68;navigational:5;commercial:5;transactional:10
+Cozinhas Compactas e Integradas,44,29983,100;98;100;92;90;90;90;94;93;93;93;93,task:5;informational:68;navigational:5;commercial:14;transactional:8
+Estufas para Marmita,17,556,22;24;25;64;82;82;100;53;53;54;54;54,task:3;informational:58;navigational:4;commercial:27;transactional:8
+Churrasqueiras redondas,15,576,63;86;87;84;87;93;93;83;84;100;85;85,task:3;informational:45;navigational:11;commercial:30;transactional:11
+Condessa Padaria e Confeitaria,15,1010,29;100;91;67;56;70;49;51;49;44;39;40,task:1;informational:49;navigational:39;commercial:7;transactional:4
+Air Fryer Brasil — Avaliações,15,105,29;44;58;43;100;70;95;79;66;57;55;70,task:3;informational:63;navigational:4;commercial:26;transactional:4
+Formas quadradas para bolos,17,1874,65;75;50;56;97;100;100;40;48;48;50;49,task:5;informational:54;navigational:4;commercial:31;transactional:6
+Padaria Sem Segredos,15,201,80;86;85;82;69;72;72;74;75;100;100;77,task:3;informational:32;navigational:39;commercial:11;transactional:15
+Fogões e Cooktops por Indução,53,12086,93;97;100;100;44;44;44;83;55;55;55;55,task:8;informational:43;navigational:4;commercial:36;transactional:9
+Pizza no Brasil,16,382,35;93;100;65;65;63;44;44;45;45;45;44,task:4;informational:68;navigational:4;commercial:16;transactional:8
+frigideiras rosas Tramontina,15,391,9;53;72;56;55;62;22;99;100;80;68;75,task:10;informational:41;navigational:23;commercial:11;transactional:15
+Talheres e Faqueiros,41,13973,20;23;25;48;48;48;49;100;50;50;50;50,task:2;informational:39;navigational:4;commercial:45;transactional:10
+Sobrado e Restaurante no Brasil,16,1140,44;66;69;67;73;76;77;67;98;100;82;83,task:2;informational:64;navigational:10;commercial:14;transactional:10
+O Farinheiro Padaria e Esfiharia,15,556,33;40;40;74;71;93;76;100;68;54;64;63,task:1;informational:32;navigational:53;commercial:10;transactional:4
+Cooktops Gourmand e Eletrodomésticos de Cozinha,15,359,20;38;43;32;50;33;30;43;42;66;58;100,task:7;informational:57;navigational:5;commercial:18;transactional:13
+Salgados Assados e Massas,47,22242,32;36;40;40;48;49;49;94;100;100;100;100,task:2;informational:56;navigational:25;commercial:12;transactional:5
+Conservação de Alimentos,15,430,76;85;85;84;80;82;83;94;100;100;100;100,task:1;informational:75;navigational:5;commercial:10;transactional:9
+Chapas Progas,17,109,54;83;100;82;82;61;61;64;57;57;58;57,task:3;informational:32;navigational:39;commercial:8;transactional:18
+Pamesa Cerâmica e Revestimentos,16,965,62;75;79;50;71;71;70;100;100;82;83;82,task:3;informational:35;navigational:39;commercial:15;transactional:8
+Fogões Mueller,17,553,23;27;25;30;35;31;37;100;80;34;32;32,task:5;informational:42;navigational:27;commercial:12;transactional:14
+Empadas fitness na air fryer,20,1819,72;82;81;78;60;61;62;71;99;100;100;100,task:10;informational:75;navigational:5;commercial:8;transactional:2
+Panelas para indução,215,126098,30;30;33;66;86;86;86;100;100;100;100;100,task:5;informational:59;navigational:4;commercial:28;transactional:4
+Pães e Panificação Industrial,23,4062,79;90;100;95;75;77;76;76;77;77;77;77,task:2;informational:59;navigational:5;commercial:25;transactional:9
+Pizzaria Di Mare,15,355,37;41;41;41;100;48;49;50;51;39;39;61,task:7;informational:14;navigational:44;commercial:21;transactional:14
+Fraldinha: Receitas e Preparo,141,82291,68;73;75;75;87;87;87;100;79;79;79;79,task:5;informational:78;navigational:3;commercial:7;transactional:7
+Cooktops Itatiaia,31,7689,94;100;48;51;54;55;56;61;62;62;62;62,task:2;informational:35;navigational:22;commercial:31;transactional:10
+Panelas Gourmet e Premium,16,293,52;83;100;65;75;79;71;72;72;90;86;79,task:10;informational:46;navigational:8;commercial:29;transactional:7
+Padarias Ypeaman,15,488,17;72;60;48;100;61;55;22;23;64;61;66,task:3;informational:47;navigational:39;commercial:8;transactional:3
+Mini Bolos e Bolinhos,29,8860,59;68;69;77;99;100;100;95;85;85;86;85,task:10;informational:72;navigational:5;commercial:10;transactional:3
+Fogões pretos 4 bocas,15,187,14;19;22;36;36;30;43;100;99;19;17;22,task:7;informational:39;navigational:1;commercial:35;transactional:18
+Fogões 6 Bocas Inox,93,23395,72;75;80;88;93;93;93;100;95;95;95;95,task:5;informational:36;navigational:10;commercial:31;transactional:18
+Dolmas e Uniformes de Chefs,34,17665,19;25;26;81;100;100;100;97;97;97;97;97,task:5;informational:56;navigational:4;commercial:26;transactional:9
+Fogões Esmaltec Topázio,28,2394,90;100;100;99;45;49;53;47;51;53;70;69,task:2;informational:44;navigational:32;commercial:17;transactional:5
+Fogões a Lenha Maestro,22,2980,83;96;76;73;91;95;95;100;100;99;98;97,task:2;informational:34;navigational:24;commercial:29;transactional:11
+Massa Podre para Tortas e Empadões,28,33457,95;98;100;42;52;52;52;78;96;96;96;96,task:5;informational:82;navigational:5;commercial:5;transactional:3
+Fermentação: Câmaras e Fermentadores,17,679,32;34;34;34;38;37;33;65;100;91;91;91,task:7;informational:52;navigational:4;commercial:33;transactional:4
+Panelinha - Receitas e Cozinha Prática,36,26915,46;49;53;52;65;65;65;100;100;100;100;100,informational:62;navigational:20;commercial:13;transactional:5
+Porcelana e Utensílios de Cozinha,17,4490,33;14;15;94;98;100;100;96;98;98;97;97,task:2;informational:66;navigational:5;commercial:21;transactional:6
+telas para pizza,23,1133,57;65;49;66;98;100;99;100;100;99;100;99,task:5;informational:54;navigational:4;commercial:26;transactional:11
+Franzoni Materiais de Construção,16,561,16;17;18;18;50;100;23;22;22;87;79;91,informational:41;navigational:39;commercial:12;transactional:8
+Fogões no Armazém Paraíba,16,285,36;48;51;48;45;42;42;100;86;73;50;56,informational:44;navigational:49;commercial:6;transactional:1
+Frigideiras Neoflam,16,149,11;39;41;36;40;45;25;100;97;12;11;12,task:10;informational:45;navigational:8;commercial:20;transactional:17
+facas KitchenAid,15,112,30;32;34;100;99;83;38;41;41;48;49;50,task:3;informational:46;navigational:4;commercial:33;transactional:14
+Pastéis de Vento,17,1812,43;49;50;100;88;90;90;91;28;27;27;26,task:12;informational:65;navigational:7;commercial:9;transactional:7
+Panelas e frigideiras Electrolux,18,490,65;83;81;78;74;73;72;93;89;100;97;96,informational:35;navigational:41;commercial:17;transactional:7
+fritadeiras Skymsen,15,179,24;38;39;50;56;50;39;100;97;31;30;31,informational:42;navigational:27;commercial:15;transactional:16
+Panelas de Alumínio,41,26576,30;32;34;38;88;89;89;100;100;100;100;100,task:2;informational:57;navigational:5;commercial:26;transactional:10
+Brinox: Utensílios de Cozinha,16,726,26;34;34;34;35;38;37;54;46;100;88;96,task:1;informational:30;navigational:41;commercial:12;transactional:16
+Fornos elétricos Britânia 52L,17,148,24;31;37;34;35;100;63;67;58;43;39;36,task:7;informational:32;navigational:18;commercial:25;transactional:18
+Luci di Design,15,25,66;88;94;100;94;75;75;79;82;79;79;79,task:7;informational:43;navigational:18;commercial:15;transactional:17
+Marmita Banho-Maria,28,3180,51;56;56;80;100;100;100;82;80;80;82;82,task:2;informational:72;navigational:5;commercial:17;transactional:4
+Topo de Bolo e Decoração,39,20996,60;44;48;95;100;100;100;98;97;97;97;97,task:6;informational:70;navigational:2;commercial:16;transactional:6
+Fermentação natural na panificação,35,7403,43;48;51;56;78;79;80;100;99;99;99;98,task:8;informational:79;navigational:4;commercial:7;transactional:2
+Pães Bauducco,25,3781,40;51;70;86;97;100;100;65;69;68;69;68,task:3;informational:57;navigational:12;commercial:24;transactional:4
+Pastéis Fit Saudáveis,18,513,49;53;59;58;59;60;61;83;82;100;82;81,task:10;informational:73;navigational:5;commercial:10;transactional:2
+Rolos e furadores para massa de pizza,18,713,57;65;48;76;75;71;79;100;98;89;88;89,task:2;informational:50;navigational:4;commercial:36;transactional:8
+Foglia: Fornerie e Pizzerie a Vila Nova Conceição,15,723,15;24;100;40;38;30;24;35;80;75;65;51,task:3;informational:58;navigational:5;commercial:19;transactional:15
+Padella Trattoria e Restaurantes,16,573,89;100;58;57;56;59;58;55;56;58;58;57,task:2;informational:46;navigational:33;commercial:10;transactional:9
+Fogões de Embutir Continental,15,1024,8;27;37;25;25;25;32;97;47;100;82;81,task:7;informational:40;navigational:18;commercial:28;transactional:7
+Fogões Retrô no Brasil,15,1238,84;100;100;56;54;57;59;93;70;78;60;82,task:2;informational:38;navigational:10;commercial:19;transactional:31
+Tempero Maggi Fondor,22,6289,26;34;34;33;61;62;62;100;100;100;100;100,task:5;informational:65;navigational:10;commercial:15;transactional:5
+Fritadeiras AirFama,16,615,73;99;100;97;74;79;80;69;70;78;78;94,task:1;informational:53;navigational:11;commercial:27;transactional:8
+Bolos Decorados,16,917,75;79;80;79;89;95;87;98;100;90;90;94,task:10;informational:57;navigational:8;commercial:15;transactional:10
+frigideiras com tampa,18,1761,68;96;100;89;86;92;94;96;95;96;94;94,task:7;informational:55;navigational:8;commercial:21;transactional:9
+Casalingo,16,553,57;81;82;78;76;83;83;84;100;100;98;98,task:13;informational:35;navigational:33;commercial:7;transactional:12
+Fogões industriais 2 bocas,23,5329,93;98;100;99;42;43;43;42;41;42;42;41,task:12;informational:56;navigational:5;commercial:23;transactional:4
+Fritadeiras Gaabor,27,11171,18;24;25;29;53;55;55;100;99;99;99;99,task:5;informational:41;navigational:18;commercial:19;transactional:17
+Fogões 4-5 bocas com timer digital,20,3118,85;100;59;66;58;60;60;70;76;76;76;78,task:5;informational:49;navigational:4;commercial:31;transactional:11
+Chapas de Esquentar Pão,17,567,4;11;12;10;10;9;25;11;11;100;74;68,task:7;informational:46;navigational:3;commercial:36;transactional:8
+Padarias Bonitas,17,775,15;19;21;21;24;87;81;17;18;32;100;91,task:7;informational:24;navigational:27;commercial:29;transactional:13
+Padarias e Confeitarias Kuffura,16,599,16;40;38;23;23;37;32;43;38;100;96;61,task:3;informational:25;navigational:47;commercial:11;transactional:14
+Frigideiras e Panelas Inox,24,5899,39;48;49;48;99;100;100;71;68;68;68;68,task:5;informational:39;navigational:4;commercial:40;transactional:12
+Macarrão na Panela de Pressão,21,2613,89;100;100;98;96;99;99;48;50;50;50;50,task:12;informational:68;navigational:3;commercial:12;transactional:5
+Pasta Nobre - Restaurantes,15,562,26;60;61;71;71;100;75;84;60;73;79;86,task:3;informational:35;navigational:32;commercial:10;transactional:20
+Utensílios de Cozinha,122,91261,24;27;50;80;100;100;100;99;100;100;100;100,task:4;informational:53;navigational:9;commercial:28;transactional:6
+Carrinho de pão e padaria,15,176,14;29;29;38;30;34;40;100;65;36;36;35,task:1;informational:34;navigational:30;commercial:24;transactional:11
+Aventais de Cozinha,15,3781,74;96;100;100;94;96;97;98;99;99;100;99,task:7;informational:33;navigational:1;commercial:33;transactional:26
+Forminhas personalizadas para docinhos,15,133,60;69;72;72;91;97;100;99;98;74;74;74,task:10;informational:32;navigational:1;commercial:35;transactional:22
+Fogões industriais de 8 bocas,16,807,71;89;88;82;79;84;85;100;99;92;89;89,task:3;informational:44;navigational:4;commercial:34;transactional:15
+fondue canecas,19,1215,74;86;86;91;89;92;92;87;87;98;100;97,task:4;informational:69;navigational:4;commercial:19;transactional:4
+Pizza de alho,18,769,92;100;100;99;53;55;55;76;94;94;95;94,task:14;informational:66;navigational:5;commercial:10;transactional:5
+Cooktops e Fogões de Inox e Aço Escovado,15,1162,62;95;100;86;72;77;80;77;77;77;78;77,task:3;informational:43;navigational:4;commercial:38;transactional:12
+Bar e cozinha,16,811,79;100;100;95;83;88;90;79;82;79;79;78,task:10;informational:51;navigational:2;commercial:21;transactional:16
+Bolos de Maizena,25,17538,95;100;47;47;46;46;46;78;78;78;78;78,task:5;informational:82;navigational:4;commercial:5;transactional:4
+Faqueiro Tramontina Renascença,16,80,10;25;30;22;22;26;100;25;24;28;28;32,task:3;informational:25;navigational:36;commercial:11;transactional:25
+Ramequins e Porcelana,28,21350,15;19;55;72;74;75;75;100;100;100;100;100,task:8;informational:57;navigational:1;commercial:30;transactional:4
+Torradeiras elétricas,35,12648,100;45;49;52;71;71;71;61;62;62;62;62,task:2;informational:35;navigational:4;commercial:40;transactional:19
+Fogo e Cores,51,14344,67;71;63;62;96;97;97;98;100;100;100;100,task:2;informational:74;navigational:5;commercial:11;transactional:8
+Fogões a Lenha Portáteis,19,3469,73;95;100;97;94;96;94;96;95;95;95;93,task:7;informational:53;navigational:5;commercial:23;transactional:12
+Panela de pressão e utensílios de cozinha,18,4153,85;98;100;49;47;49;49;63;61;60;60;60,task:2;informational:46;navigational:4;commercial:42;transactional:6
+Funda (estilingue) e armas de Davi,25,19727,19;55;76;21;23;23;23;100;100;100;100;100,task:2;informational:83;navigational:5;commercial:5;transactional:5
+Nativa Churrascaria e Pizzaria,15,694,50;87;84;79;80;87;97;100;86;96;97;97,task:3;informational:32;navigational:38;commercial:17;transactional:10
+Frigideiras para panquecas,16,930,34;46;49;55;100;96;95;50;42;42;100;90,task:2;informational:38;navigational:2;commercial:48;transactional:10
+papel manteiga online,16,262,25;44;58;28;51;29;73;23;26;100;100;92,task:3;informational:32;navigational:8;commercial:36;transactional:21
+Airfryer Philco Brasil,21,1487,87;100;100;97;45;49;49;47;51;51;83;83,task:2;informational:48;navigational:14;commercial:28;transactional:8
+Pão enlatado,19,761,45;50;52;48;66;66;72;100;98;82;82;79,task:2;informational:65;navigational:10;commercial:15;transactional:8
+Enxoval de Cozinha Preto,16,1257,21;28;36;87;97;89;90;81;80;100;97;96,task:5;informational:52;navigational:15;commercial:20;transactional:8
+Fogões de indução invisíveis,26,2341,22;22;52;78;93;98;100;90;93;93;93;93,task:8;informational:62;navigational:4;commercial:20;transactional:6
+Acessórios para fogão de indução,23,1248,84;99;100;97;93;90;90;58;68;68;67;68,task:5;informational:48;navigational:4;commercial:36;transactional:7
+Pizza Del Mondo: Pizzerie e Pizzaioli,16,221,91;94;98;97;45;53;51;96;96;100;100;100,task:3;informational:47;navigational:35;commercial:12;transactional:3
+Frigideiras Tramontina de Cerâmica e Indução,21,1135,61;86;87;85;89;96;96;98;100;100;100;99,task:10;informational:51;navigational:1;commercial:22;transactional:16

@@ -1,0 +1,1001 @@
+name,prompts_count,volume,volume_trend,intents
+Fogões e Eletrodomésticos de Cozinha,16,826,16;14;7;15;14;26;33;25;91;100;86;18,task:7;informational:33;navigational:7;commercial:37;transactional:16
+Fogões e Fogareiros Elétricos,18,1666,14;15;15;16;40;48;55;100;82;61;50;61,task:2;informational:42;navigational:8;commercial:44;transactional:4
+Eletrodomésticos Brasil,16,3860,5;5;6;4;10;10;17;54;39;100;80;87,task:2;informational:51;navigational:9;commercial:31;transactional:7
+Prática e Equipamentos de Cozinha,16,599,100;71;63;19;15;98;88;88;77;41;37;62,task:7;informational:55;navigational:13;commercial:14;transactional:11
+utensílios de cozinha,16,1642,22;42;49;50;57;49;42;63;57;55;63;100,task:2;informational:55;navigational:4;commercial:31;transactional:8
+Fogões de Indução e Panelas Compatíveis,22,541,9;10;9;19;100;60;52;23;22;22;22;21,task:5;informational:59;navigational:2;commercial:26;transactional:8
+Jogo de Panelas e Panelas de Cerâmica,15,1653,26;26;26;26;22;54;47;66;61;100;83;85,task:8;informational:29;navigational:3;commercial:45;transactional:15
+Fondue e utensílios de fondue,16,1488,17;16;22;63;90;72;78;97;89;100;73;97,task:10;informational:40;navigational:8;commercial:28;transactional:14
+Forno e Fogão de Embutir Elétrico,18,1110,13;13;19;17;49;38;37;100;95;14;14;75,task:3;informational:37;navigational:11;commercial:27;transactional:22
+Panelas para fogão de indução e elétrico,17,4780,2;2;3;3;7;6;16;5;5;86;72;100,task:2;informational:52;navigational:1;commercial:38;transactional:7
+Torneiras de Cozinha,17,160,19;29;15;17;41;38;32;87;87;100;7;8,task:7;informational:32;navigational:4;commercial:41;transactional:16
+faqueiros e talheres,16,172,12;12;76;79;100;85;53;7;8;8;11;11,task:3;informational:47;navigational:9;commercial:33;transactional:8
+Fogões a Lenha e suas Variedades,16,536,35;34;33;31;50;42;50;25;28;100;63;100,task:3;informational:72;navigational:1;commercial:18;transactional:6
+Eletrodomésticos Samsung,15,5820,64;36;45;28;28;22;25;100;74;50;42;70,task:3;informational:28;navigational:32;commercial:11;transactional:26
+Fritadeiras Elétricas e Air Fryers,15,188,27;27;60;49;13;12;16;18;85;100;22;18,task:10;informational:41;navigational:1;commercial:34;transactional:14
+Electrodomésticos para Cocina,16,738,33;23;23;21;32;32;7;100;89;36;31;37,task:2;informational:50;navigational:4;commercial:33;transactional:11
+Técnico de Electrodomésticos,15,1341,6;11;14;15;39;25;20;48;40;82;64;100,task:5;informational:72;navigational:8;commercial:10;transactional:5
+Churrasqueiras Elétricas,15,1677,5;4;52;60;54;10;9;100;26;22;85;91,task:3;informational:51;navigational:4;commercial:26;transactional:16
+Cozinhas Modulares e Completas,16,136,8;10;9;26;26;26;27;100;100;10;10;10,task:7;informational:31;navigational:5;commercial:48;transactional:9
+Aquecedores de Água a Gás e Elétricos,16,543,11;11;11;10;12;12;12;9;5;100;68;15,task:4;informational:34;navigational:1;commercial:47;transactional:14
+aventais de cozinha,16,324,53;77;64;57;57;51;14;100;74;38;25;35,task:10;informational:25;navigational:4;commercial:43;transactional:18
+Batedeiras e Utensílios de Cozinha,18,333,49;50;54;94;66;64;100;57;36;39;39;43,informational:60;navigational:4;commercial:26;transactional:10
+Gás de Cozinha e Botijão,24,1429,21;22;23;53;40;30;29;100;100;46;46;46,task:2;informational:67;navigational:5;commercial:16;transactional:10
+Gabinetes de Cozinha,15,19,12;7;6;14;14;13;13;73;100;1;1;1,task:10;informational:35;navigational:3;commercial:47;transactional:5
+Lava Louças e Máquinas de Lavar Louça,26,4147,38;36;100;70;72;31;26;57;64;78;61;100,task:2;informational:37;navigational:9;commercial:41;transactional:11
+Torradeiras Elétricas,16,188,18;33;85;75;75;86;23;47;100;94;37;41,task:10;informational:41;navigational:4;commercial:28;transactional:17
+Quemadores y cocinas eléctricas,15,2105,78;51;63;62;60;46;44;51;19;17;81;100,task:7;informational:52;navigational:1;commercial:20;transactional:20
+Aquecedores Elétricos e Portáteis,18,1200,17;15;17;100;100;97;14;68;83;74;67;62,task:3;informational:36;navigational:4;commercial:37;transactional:20
+Chaleiras Elétricas,17,327,50;51;53;92;88;100;95;100;93;84;66;76,task:5;informational:42;navigational:4;commercial:37;transactional:12
+Panelas de Pressão Elétricas,17,916,30;40;44;100;100;61;49;32;30;34;31;64,task:3;informational:57;navigational:1;commercial:23;transactional:16
+Panelas elétricas de arroz,17,1482,18;21;24;25;25;14;49;11;14;13;79;100,task:3;informational:44;navigational:2;commercial:37;transactional:14
+Kitchen and Home Appliances,21,3939,97;73;20;16;53;52;62;34;18;23;81;100,task:1;informational:57;navigational:11;commercial:23;transactional:8
+Geladeiras e Refrigeradores no Brasil,20,1534,29;28;28;29;57;43;52;100;32;38;40;42,task:3;informational:45;navigational:3;commercial:41;transactional:8
+Cafeteiras Elétricas,15,448,3;4;100;77;35;8;5;17;48;50;31;30,task:10;informational:28;navigational:3;commercial:47;transactional:12
+Armários de Cozinha,15,185,25;29;29;28;26;26;85;95;67;92;100;23,task:3;informational:39;navigational:5;commercial:40;transactional:13
+Cozinhas Planejadas e Modernas,18,432,22;23;100;77;22;22;23;22;42;44;31;33,task:10;informational:59;navigational:5;commercial:19;transactional:7
+Quemadores y Hornillas de Cocina,20,646,100;79;19;18;19;16;31;48;77;83;12;14,task:2;informational:49;navigational:3;commercial:17;transactional:29
+Cocinas y Fogones de Gas,25,1019,100;86;96;81;70;63;54;38;43;40;35;36,task:2;informational:46;navigational:9;commercial:35;transactional:8
+cozinhas de brinquedo para crianças,15,2095,50;32;34;28;73;49;44;100;79;90;69;78,task:7;informational:43;navigational:4;commercial:30;transactional:16
+Fogones y Estufas de Leña,20,2734,47;53;50;55;100;89;85;65;60;59;59;79,task:4;informational:59;navigational:5;commercial:22;transactional:10
+Churrasqueiras e Churrasqueiras Portuguesas,15,3875,20;22;18;18;22;22;19;71;85;30;29;100,task:5;informational:64;navigational:7;commercial:16;transactional:8
+Estufas y electrodomésticos KitchenAid,16,3399,7;4;18;7;8;20;34;2;96;100;83;89,task:3;informational:31;navigational:22;commercial:18;transactional:26
+Ventiladores e Exaustores de Fumo,16,3603,5;13;13;10;10;61;49;44;6;6;92;100,task:5;informational:51;navigational:4;commercial:36;transactional:4
+Panelas de Barro,15,125,17;17;98;100;100;17;17;20;31;29;31;40,task:5;informational:59;navigational:4;commercial:26;transactional:6
+panelas Ninja,16,286,76;71;36;61;14;23;32;100;22;24;30;27,task:9;informational:33;navigational:2;commercial:42;transactional:14
+Panelas Tramontina Brasil,16,5249,4;4;22;23;23;21;9;2;20;30;100;99,task:1;informational:21;navigational:44;commercial:19;transactional:15
+Assistência Técnica e Peças Electrolux,17,159,65;70;70;96;100;93;92;68;84;85;85;87,informational:39;navigational:37;commercial:8;transactional:16
+pipoqueiras elétricas,16,223,17;15;64;79;100;76;32;31;16;18;16;15,informational:43;navigational:1;commercial:45;transactional:11
+Céu Eletrônico e Eletrônico,16,55,100;93;68;56;82;80;62;43;43;3;3;4,task:3;informational:67;navigational:11;commercial:12;transactional:7
+Kitchenaid Brasil,16,101,63;100;37;29;29;29;39;37;86;88;26;33,task:3;informational:17;navigational:48;commercial:8;transactional:24
+Aspiradores de Pó e Água,16,7139,41;31;32;29;20;33;27;16;16;16;100;100,task:3;informational:36;navigational:7;commercial:41;transactional:13
+Empilhadeiras e Máquinas de Movimentação,17,68,40;39;59;49;48;19;17;17;100;99;16;17,task:2;informational:53;navigational:11;commercial:20;transactional:14
+Materiais Elétricos,17,20172,3;3;11;9;10;12;10;6;24;23;18;100,task:2;informational:30;navigational:11;commercial:45;transactional:12
+Appareils électroménagers et outils de cuisine,16,235,1;4;14;15;14;15;13;19;76;100;8;8,task:10;informational:39;navigational:1;commercial:44;transactional:6
+Panelas de Pedra Sabão e Pedra para Cozinha,19,2981,10;10;10;8;35;35;23;17;18;100;72;99,task:5;informational:44;navigational:6;commercial:34;transactional:11
+Geladeiras Electrolux,16,3010,8;9;8;8;8;26;20;17;15;21;18;100,informational:37;navigational:21;commercial:23;transactional:19
+Estufas y Hornos Frigidaire,16,190,8;71;100;75;69;62;14;9;13;15;13;13,task:3;informational:35;navigational:31;commercial:15;transactional:16
+Sartenes eléctricas y cazuelas eléctricas,17,1334,51;49;100;88;100;82;60;45;21;21;74;85,task:5;informational:43;navigational:4;commercial:37;transactional:11
+Móveis e acessórios para penteadeiras,15,1971,12;8;5;4;5;80;67;34;74;94;72;100,task:10;informational:37;navigational:4;commercial:35;transactional:14
+panelas de aço cirúrgico,16,74,9;18;18;24;23;19;28;100;84;9;9;9,task:5;informational:48;navigational:10;commercial:29;transactional:8
+Puxadores de Gaveta e Armário de Cozinha,15,7456,1;1;1;1;1;1;12;33;36;100;75;92,task:10;informational:36;navigational:4;commercial:28;transactional:22
+Ferro de passar roupa e vaporizadores,16,177,35;34;36;20;20;17;100;21;19;20;21;19,task:8;informational:31;navigational:3;commercial:48;transactional:10
+Encendedores de Cocina y Estufa,15,1232,10;7;12;17;38;38;28;46;96;100;73;45,task:3;informational:50;navigational:12;commercial:25;transactional:10
+ollas y sartenes de inducción y eléctricas,25,950,41;54;53;44;44;59;61;100;30;30;30;32,task:8;informational:52;navigational:4;commercial:29;transactional:7
+Cocinas y Estufas de Inducción y Eléctricas,34,8969,52;45;41;42;70;65;72;81;88;90;98;100,task:5;informational:48;navigational:9;commercial:26;transactional:12
+Jogo de Jantar e Porcelanas,17,1210,17;11;11;10;34;29;22;100;92;49;40;55,task:8;informational:27;navigational:6;commercial:43;transactional:16
+utensilios y equipos de cocina y restaurante,35,7018,31;23;23;33;71;89;82;80;72;72;99;100,task:2;informational:47;navigational:4;commercial:37;transactional:10
+Lixeiras de Cozinha,15,314,9;8;9;60;100;92;71;52;36;16;11;13,task:5;informational:57;navigational:4;commercial:22;transactional:12
+Parafusadeiras e Furadeiras,16,144,11;12;13;18;100;27;68;17;18;12;12;12,task:3;informational:39;navigational:3;commercial:47;transactional:8
+Balanças de Cozinha e Precisão,16,83,100;57;24;20;22;5;3;19;32;44;5;6,task:3;informational:45;navigational:3;commercial:40;transactional:9
+Panelas de pressão Tramontina e similares,18,872,36;41;55;60;59;64;100;35;40;49;53;60,task:5;informational:46;navigational:4;commercial:30;transactional:15
+utensílios de cozinha de silicone,16,2707,13;23;61;63;63;17;10;16;8;11;83;100,informational:51;navigational:4;commercial:40;transactional:5
+Vasos e Tazas de Cerâmica,16,107,2;3;4;6;4;4;3;4;94;100;2;3,task:17;informational:35;navigational:1;commercial:30;transactional:17
+hornillas y hornillas de cocina,25,1474,38;38;56;41;46;46;100;41;47;47;46;47,task:2;informational:76;navigational:5;commercial:12;transactional:5
+Cocinare and Kitchen Appliances,15,166,27;21;59;37;13;4;4;56;100;16;12;12,task:3;informational:47;navigational:15;commercial:18;transactional:17
+Panelas Le Creuset no Brasil,16,89,16;12;13;89;100;23;13;7;7;7;6;7,task:7;informational:35;navigational:30;commercial:15;transactional:13
+Sartenes y Ollas para Cocinar,62,9309,50;48;48;53;63;65;65;100;95;95;88;88,task:6;informational:51;navigational:5;commercial:28;transactional:10
+panelas de cerâmica,17,322,26;55;52;65;61;45;27;46;33;100;82;26,task:2;informational:52;navigational:4;commercial:35;transactional:7
+Maquinas de Assar Frango,15,29,6;5;6;7;7;6;100;92;65;3;3;3,task:3;informational:46;navigational:4;commercial:30;transactional:17
+Cortinas de Cozinha,15,1396,5;4;98;86;17;74;52;100;3;3;67;69,task:7;informational:49;navigational:4;commercial:26;transactional:14
+Lojas e Componentes de Eletrônicos e Informática,23,1324,79;77;81;69;90;94;72;69;100;98;93;99,task:5;informational:25;navigational:18;commercial:40;transactional:12
+Kitchen Appliances: Ovens and Stoves,119,29741,63;61;59;74;79;83;81;84;94;98;96;100,task:5;informational:34;navigational:4;commercial:47;transactional:10
+Móveis e Decoração,19,4606,13;14;17;20;19;25;22;38;43;39;38;100,task:2;informational:48;navigational:7;commercial:34;transactional:9
+Cozinhas e Salas Integradas,15,61,86;88;99;99;100;100;100;99;97;97;97;97,task:15;informational:72;navigational:3;commercial:4;transactional:6
+paneleiro e paneleira,16,122,95;45;100;91;37;33;34;16;16;16;16;16,task:2;informational:80;navigational:6;commercial:6;transactional:6
+sanduicheiras eletricas,15,2567,2;3;3;3;4;3;17;90;100;46;42;48,task:5;informational:30;navigational:2;commercial:58;transactional:5
+Ilhas na Cozinha,15,113,59;60;64;65;62;63;63;96;100;57;56;57,task:7;informational:50;navigational:6;commercial:23;transactional:14
+électroménager et appareils ménagers,16,3169,36;30;100;99;99;70;56;94;45;58;49;93,task:3;informational:48;navigational:2;commercial:38;transactional:9
+Hotte de cuisine et appareils de ventilation,18,436,16;16;10;12;69;52;49;28;89;100;18;18,task:3;informational:62;navigational:2;commercial:30;transactional:3
+Estufas eléctricas y hornos eléctricos,53,12056,25;25;26;98;100;99;98;51;34;36;83;75,task:5;informational:59;navigational:4;commercial:25;transactional:7
+Utensilios y tiendas de cocina,16,1755,59;53;75;98;100;74;40;8;6;17;15;51,task:1;informational:59;navigational:9;commercial:27;transactional:4
+Facas e Cutelaria,18,3584,36;28;57;64;38;17;17;21;100;100;99;100,task:6;informational:62;navigational:3;commercial:26;transactional:3
+Cocinas y Estufas Recargables y Eléctricas,16,174,100;69;61;60;60;63;24;37;12;11;9;12,task:3;informational:46;navigational:4;commercial:28;transactional:19
+Hornos de Cocina y Empotrados,18,2284,19;26;26;28;33;61;52;20;80;100;66;80,task:2;informational:45;navigational:4;commercial:37;transactional:12
+Máquinas de Lavar Roupas,22,5512,28;22;23;43;33;31;25;29;41;51;100;87,task:8;informational:44;navigational:2;commercial:41;transactional:5
+Cômodas e Móveis de Quarto,22,8342,58;59;39;40;44;42;43;73;46;44;81;100,task:2;informational:37;navigational:15;commercial:39;transactional:7
+Churrasqueiras a Carvão,15,177,38;33;35;50;58;53;100;16;15;23;18;20,task:5;informational:41;navigational:4;commercial:40;transactional:10
+Estufas y Cocinas General Electric,16,5771,7;7;2;2;8;7;20;1;92;100;72;80,task:3;informational:47;navigational:18;commercial:20;transactional:12
+Ferramentas e Ferramentaria,17,4154,12;12;12;12;19;39;33;15;15;74;61;100,task:2;informational:55;navigational:12;commercial:27;transactional:4
+Churrasqueiras a Gás,16,4013,5;5;20;20;20;13;12;50;4;4;79;100,task:5;informational:22;navigational:3;commercial:60;transactional:10
+Estufas de cerámica y eléctricas,15,223,52;35;39;33;49;15;13;96;73;100;12;14,task:3;informational:53;navigational:11;commercial:29;transactional:4
+Iluminação e Luminárias,17,615,25;37;37;40;29;28;28;34;34;100;89;37,task:4;informational:50;navigational:7;commercial:34;transactional:5
+Cocinas eléctricas de 2 y 4 hornillas,16,3265,4;4;3;4;5;3;41;79;75;92;68;100,task:7;informational:44;navigational:1;commercial:23;transactional:25
+Aspiradores e Lavadoras de Estofados,15,905,22;11;9;9;13;13;100;24;21;67;61;58,task:10;informational:54;navigational:2;commercial:26;transactional:8
+Armarinhos e Aviamentos,20,1624,21;23;56;28;52;43;41;69;69;100;85;93,task:2;informational:45;navigational:25;commercial:20;transactional:8
+Purificadores e Filtros Electrolux,15,89,4;4;4;4;4;85;26;71;100;4;4;5,task:3;informational:45;navigational:14;commercial:20;transactional:18
+Fours électriques et encastrables,17,378,44;42;42;43;86;100;86;15;27;43;36;45,task:2;informational:41;navigational:9;commercial:41;transactional:7
+Produtos e Dicas para Limpar Forno,16,2170,8;9;34;48;49;7;5;23;85;100;64;59,task:2;informational:59;navigational:3;commercial:18;transactional:18
+Peças e componentes de máquinas agrícolas e ferramentas,17,51,75;77;52;50;100;88;79;53;52;50;54;55,task:3;informational:52;navigational:5;commercial:18;transactional:22
+Ollas y utensilios de cocina Essen,18,269,63;100;87;84;59;60;59;45;66;65;64;65,task:2;informational:41;navigational:29;commercial:22;transactional:6
+Marmitas Térmicas Elétricas,15,63,100;66;44;43;69;91;14;16;15;12;11;12,task:3;informational:55;navigational:5;commercial:18;transactional:19
+Electrodomésticos en inglés y cocina,20,6061,29;22;24;6;11;11;15;23;33;24;25;100,task:2;informational:73;navigational:4;commercial:15;transactional:6
+Calderas para cocinar y utensilios de cocina,15,835,49;94;61;59;30;25;20;29;55;61;100;86,task:7;informational:35;navigational:11;commercial:22;transactional:25
+Produtos de Cuidados Pessoais e Alimentação,16,51,47;39;42;52;49;80;68;100;85;4;4;4,task:3;informational:48;navigational:4;commercial:32;transactional:13
+Móveis e Painéis para TV e Sala de Estar,15,5403,6;6;6;40;39;28;22;15;29;27;24;100,task:8;informational:32;navigational:4;commercial:28;transactional:28
+Produtos de Limpeza e Higiene,17,3287,26;22;19;23;22;23;22;23;22;100;85;89,task:2;informational:50;navigational:4;commercial:38;transactional:6
+Máquinas de Corte e Afeitar Wahl,19,376,64;87;100;85;54;59;52;28;29;29;23;24,task:5;informational:49;navigational:5;commercial:17;transactional:24
+Geladeiras Brastemp,16,1617,9;9;9;12;13;12;11;22;10;10;94;100,task:3;informational:35;navigational:35;commercial:8;transactional:19
+kitchenware and appliances,19,3116,75;49;69;80;100;58;29;31;31;41;44;58,task:5;informational:50;navigational:10;commercial:22;transactional:13
+Electrodomésticos de cocina automáticos,17,236,79;56;44;40;81;54;38;100;71;63;22;25,task:2;informational:51;navigational:2;commercial:33;transactional:12
+Geladeiras Pequenas e Promoções,16,3086,10;14;11;9;9;9;29;53;30;100;81;82,task:10;informational:22;navigational:7;commercial:46;transactional:15
+Estufas y Hornos Amana,17,254,8;10;65;47;45;37;31;100;4;5;16;17,task:4;informational:40;navigational:18;commercial:15;transactional:23
+Electrolux Kitchen Appliances,29,2234,33;70;94;92;100;99;97;77;72;72;72;73,task:2;informational:42;navigational:16;commercial:16;transactional:24
+Home Appliance Repair and Parts,531,369832,49;52;52;53;84;84;84;100;66;66;66;66,task:2;informational:41;navigational:10;commercial:27;transactional:20
+Tomadas e Adaptadores para Viagem e Uso Doméstico,22,998,56;67;56;56;84;73;66;100;99;99;99;99,task:8;informational:51;navigational:4;commercial:28;transactional:9
+Energia e Energéticos,18,1771,11;27;26;27;40;43;42;44;100;59;54;58,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Escovas de cabelo elétricas e rotativas,17,527,35;29;29;29;100;93;86;44;47;46;40;41,task:2;informational:58;navigational:5;commercial:20;transactional:15
+Ovens and Hobs,15,445,48;30;33;29;100;71;65;69;9;11;14;17,task:5;informational:48;navigational:4;commercial:23;transactional:20
+Cocinas y Ollas de Vapor,21,2843,23;20;24;24;28;26;23;20;45;50;73;100,task:5;informational:56;navigational:7;commercial:18;transactional:14
+Planchas de Cocina y Parrillas Eléctricas,32,4157,28;29;28;28;77;78;78;75;92;100;85;87,task:3;informational:48;navigational:4;commercial:30;transactional:15
+Grifería y accesorios de cocina,18,364,11;62;62;60;60;100;80;10;19;21;12;14,task:5;informational:24;navigational:10;commercial:52;transactional:9
+reparação e conserto,18,722,26;20;21;60;60;52;100;13;42;57;52;39,task:2;informational:63;navigational:15;commercial:15;transactional:5
+Bancadas e banquetas para cozinha,15,4056,5;16;18;16;16;24;23;55;52;88;74;100,task:7;informational:27;navigational:1;commercial:52;transactional:13
+Estufas y Cocinas Whirlpool,23,530,69;59;41;41;54;47;100;32;33;33;35;36,task:2;informational:38;navigational:30;commercial:10;transactional:20
+Electric Cookers and Hobs,19,3612,23;15;27;18;58;51;81;25;27;26;79;100,task:2;informational:45;navigational:4;commercial:40;transactional:9
+Peças e Acessórios Automotivos,21,1961,25;24;38;49;51;42;43;50;47;48;48;100,task:3;informational:42;navigational:3;commercial:43;transactional:9
+Trituradores e Batedores de Alho,15,332,100;23;24;40;40;24;6;50;28;17;15;17,task:7;informational:53;navigational:2;commercial:18;transactional:20
+Lojas e Grupos de Varejo no Brasil,15,1533,11;20;6;100;100;69;40;55;36;53;41;48,task:3;informational:44;navigational:24;commercial:11;transactional:18
+Escorredores de Louça,15,90,94;72;63;70;70;70;64;100;63;6;6;6,task:5;informational:50;navigational:8;commercial:22;transactional:15
+Processadores de alimentos e multiprocessadores,16,719,27;85;72;35;35;33;17;63;48;100;77;88,task:12;informational:30;navigational:3;commercial:35;transactional:20
+Electric Cooking Appliances,463,119244,57;64;62;70;76;76;76;100;91;91;92;92,task:3;informational:38;navigational:4;commercial:41;transactional:14
+Aparadores de sala de jantar e buffet,15,5451,3;7;22;25;16;16;16;23;20;24;76;100,task:3;informational:28;navigational:39;commercial:18;transactional:12
+Ferro a vapor e vaporizadores de roupas,15,83,100;60;75;70;70;88;50;8;4;5;9;7,task:5;informational:49;navigational:1;commercial:25;transactional:20
+Plaina elétrica,15,259,5;17;30;25;25;8;7;100;4;5;12;58,task:7;informational:46;navigational:5;commercial:12;transactional:30
+Chuveiros Elétricos e de Parede,19,271,12;13;15;49;100;92;82;41;17;13;13;13,task:2;informational:58;navigational:4;commercial:31;transactional:5
+Instalações e Instalação,18,3589,23;24;25;21;76;76;75;65;73;71;82;100,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Electrodomestics and Domestic Appliances,16,2280,100;70;69;50;61;39;33;80;82;62;49;57,task:2;informational:70;navigational:5;commercial:18;transactional:5
+Recipientes Stanley e Acessórios Térmicos,16,316,57;42;35;31;100;85;67;89;92;81;86;26,informational:60;navigational:12;commercial:20;transactional:8
+Poêles et cuisson en cuisine,23,1484,42;37;50;46;45;45;44;65;89;89;88;100,task:8;informational:69;navigational:2;commercial:15;transactional:6
+Mobiliário e Valores Mobiliários,21,2609,24;25;25;33;33;34;33;33;100;100;97;97,task:8;informational:66;navigational:7;commercial:16;transactional:3
+Cocinas con horno eléctrico,16,2606,65;35;39;27;72;66;45;57;84;88;72;100,task:3;informational:32;navigational:3;commercial:47;transactional:15
+Churrasqueiras Brasileiras,15,19,1;1;5;4;21;29;22;36;87;100;1;1,task:3;informational:70;navigational:5;commercial:15;transactional:7
+Electric Cookers and Pots,24,7103,33;37;37;36;36;36;43;78;100;100;99;100,task:5;informational:35;navigational:2;commercial:36;transactional:22
+Aparelhos de Barbear Elétricos,15,162,45;29;25;19;88;88;72;100;74;18;16;17,task:10;informational:39;navigational:8;commercial:32;transactional:11
+Limpeza e Organização,16,308,37;49;27;32;31;24;24;22;22;95;66;100,task:17;informational:39;navigational:14;commercial:16;transactional:14
+Fontes de alimentação para PC,21,666,100;100;92;68;80;72;78;74;76;55;53;53,task:2;informational:46;navigational:4;commercial:39;transactional:9
+Extensões e Tomadas Elétricas,17,403,29;28;27;16;28;29;83;100;76;65;58;74,task:3;informational:52;navigational:4;commercial:30;transactional:11
+Cocinas infrarrojas y hornillas eléctricas,17,274,70;54;50;40;23;12;8;100;84;10;10;10,task:8;informational:66;navigational:5;commercial:12;transactional:9
+Calentadores y calentadores de comida,17,131,29;27;28;41;74;71;81;100;97;6;5;6,task:3;informational:57;navigational:5;commercial:18;transactional:17
+Repuestos y componentes de electrodomésticos,15,2332,10;9;10;7;10;13;12;21;17;90;81;100,task:3;informational:56;navigational:4;commercial:26;transactional:11
+Crosso e Crossos,16,3276,8;8;3;3;8;6;3;100;75;17;16;14,task:5;informational:50;navigational:9;commercial:27;transactional:9
+Refrigeración y Electrodomésticos Sub Zero,15,1109,100;43;65;32;32;19;6;5;5;19;5;56,informational:70;navigational:11;commercial:12;transactional:7
+Fios de Cabo e Energia,17,138,8;6;5;29;29;100;84;22;11;7;7;7,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Cacerolas y Ollas Grandes,16,1914,73;59;57;64;100;73;54;12;29;33;100;93,task:3;informational:47;navigational:5;commercial:22;transactional:23
+Tabaco Aquecido e Dispositivos Eletrônicos,30,864,47;42;38;37;60;63;70;98;100;33;33;33,task:5;informational:66;navigational:5;commercial:18;transactional:6
+Culinária Brasileira,18,467,80;86;81;100;77;84;80;96;100;100;100;100,task:2;informational:80;navigational:5;commercial:10;transactional:3
+VEM Motores e Componentes,15,49,32;28;11;6;7;7;7;100;4;4;4;7,task:7;informational:30;navigational:46;commercial:13;transactional:4
+ollas y cazuelas de acero inoxidable y cerámica,42,5320,19;20;20;28;31;30;31;62;99;100;60;61,task:5;informational:48;navigational:9;commercial:24;transactional:14
+Maçarico e Ferramentas de Solda,18,351,10;27;25;37;66;62;32;82;100;27;27;27,task:8;informational:59;navigational:1;commercial:28;transactional:4
+utensilios de cocina y accesorios de chef,18,206,35;29;45;46;30;28;39;100;94;46;45;47,task:5;informational:46;navigational:9;commercial:29;transactional:11
+Encimeras de Cocina y Materiales,25,2574,28;32;38;74;100;91;91;91;89;88;89;90,task:2;informational:57;navigational:4;commercial:27;transactional:10
+Tabelas de Medidas na Cozinha,51,2616,92;88;93;97;100;100;100;98;99;99;98;99,task:4;informational:77;navigational:5;commercial:10;transactional:4
+Whirlpool Electric Cooktops and Stoves,16,3905,70;33;48;42;41;51;36;6;24;25;89;100,task:2;informational:57;navigational:15;commercial:10;transactional:16
+Stoves and Ovens Sale and Purchase,26,13879,99;78;79;41;59;60;59;55;76;78;91;100,task:5;informational:21;navigational:2;commercial:47;transactional:25
+Lavatórios Portáteis,15,695,3;3;4;4;68;24;16;4;4;100;62;99,task:7;informational:48;navigational:5;commercial:18;transactional:22
+Vasos sanitários e bacias sanitárias,16,1538,10;15;14;9;9;12;42;68;100;89;66;71,task:7;informational:53;navigational:2;commercial:28;transactional:10
+Home Appliances and Kitchen Gadgets,16,2456,54;20;29;28;100;62;13;4;26;31;52;60,task:5;informational:36;navigational:18;commercial:16;transactional:25
+cooking heaters and flame stoves,16,10809,13;10;11;12;9;7;7;8;20;25;65;100,task:8;informational:48;navigational:4;commercial:36;transactional:4
+Cocina con sartenes y ollas de cerámica,27,5398,26;36;33;49;64;59;58;81;80;80;96;100,task:2;informational:60;navigational:7;commercial:22;transactional:9
+tapetes para cozinha,15,2633,14;6;36;34;34;27;15;22;56;67;56;100,task:10;informational:18;navigational:4;commercial:50;transactional:18
+Motos e Lavadoras Semi-Automáticas,19,1046,66;36;35;51;95;96;98;100;99;81;77;84,task:2;informational:56;navigational:4;commercial:24;transactional:14
+Appareils de cuisine sous vide et hydroponie,15,2508,18;13;1;2;10;66;52;19;5;4;51;100,task:3;informational:59;navigational:4;commercial:26;transactional:8
+Secadores de cabelo,17,1398,73;47;40;49;100;67;55;83;56;57;55;77,task:2;informational:48;navigational:7;commercial:34;transactional:9
+Cerâmicas na Linha,15,3413,5;10;7;8;3;4;4;4;7;100;72;80,task:7;informational:31;navigational:34;commercial:17;transactional:11
+Kitchen Appliances,22,1269,100;79;84;56;56;54;22;50;29;31;25;43,task:2;informational:61;navigational:5;commercial:24;transactional:8
+Home Appliances and Electronics,16,5310,87;54;46;49;55;28;24;53;41;88;74;100,task:3;informational:57;navigational:12;commercial:18;transactional:10
+Monitores e Babás Eletrônicas,16,185,31;46;28;98;34;33;32;100;95;30;31;33,task:5;informational:56;navigational:4;commercial:31;transactional:4
+Casinhas de Cerâmica,15,27,11;10;12;38;38;100;19;11;9;7;7;7,task:3;informational:49;navigational:5;commercial:18;transactional:25
+Quemadores de estufas eléctricas,15,1834,86;57;42;34;38;100;66;55;53;73;82;84,task:3;informational:65;navigational:5;commercial:13;transactional:14
+Transpaletes e Paleteiras Elétricas,16,63,26;57;51;47;100;92;52;41;27;26;23;23,task:8;informational:61;navigational:5;commercial:15;transactional:11
+Cucharas de Cocina y Utensilios de Cocina,15,240,27;18;13;16;17;11;6;100;16;19;15;20,task:1;informational:60;navigational:6;commercial:22;transactional:11
+Cuscuzeiras e Utensílios de Cuscuz,15,105,77;87;97;99;100;96;87;100;77;77;76;77,task:10;informational:39;navigational:11;commercial:27;transactional:13
+hornillos eléctricos pequeños y grandes,16,268,24;18;78;76;93;100;75;97;19;20;56;65,task:3;informational:50;navigational:8;commercial:23;transactional:16
+Estufas y cocinas eléctricas y de gas LG,18,9242,18;7;7;5;24;20;11;2;64;70;94;100,task:1;informational:46;navigational:12;commercial:18;transactional:23
+Escovas de Limpeza Elétricas,15,820,100;55;60;73;85;10;39;8;10;44;38;40,task:5;informational:43;navigational:4;commercial:39;transactional:9
+frigidaire stove and oven,161,32657,58;58;61;69;85;86;85;90;100;100;97;99,informational:54;navigational:17;commercial:15;transactional:14
+Escovas de Dente Elétricas,17,214,100;88;74;20;20;15;61;100;67;53;50;9,task:3;informational:41;navigational:10;commercial:35;transactional:11
+Teteras y Hervidores Eléctricos,27,772,63;100;75;75;63;65;45;44;35;34;34;34,task:2;informational:64;navigational:4;commercial:22;transactional:8
+Receitas e Gastronomia,15,362,100;91;86;86;83;83;76;62;64;85;72;91,task:10;informational:53;navigational:16;commercial:11;transactional:10
+Ferramentas Gerais e Serviços Relacionados,15,878,7;7;6;5;8;56;43;75;100;26;20;28,task:3;informational:39;navigational:15;commercial:27;transactional:16
+Microondas y Hornos de Microondas,35,9392,60;49;50;57;88;90;95;53;86;91;89;100,task:5;informational:47;navigational:6;commercial:32;transactional:10
+Gastronomia Caseira e Bem-Estar,16,98,6;100;75;30;30;92;79;62;59;4;4;4,task:7;informational:65;navigational:10;commercial:11;transactional:7
+Estufas y Cocinas Samsung,20,7188,45;31;48;48;47;31;41;5;54;83;88;100,task:2;informational:39;navigational:28;commercial:12;transactional:19
+Motores elétricos,16,168,100;66;20;19;18;18;18;32;29;29;39;45,task:2;informational:64;navigational:4;commercial:26;transactional:4
+Lava Louça Portátil,16,3763,2;30;34;34;34;33;28;65;65;100;70;80,task:7;informational:39;navigational:4;commercial:27;transactional:23
+Geradores de Energia Residencial e Elétricos,18,672,26;26;17;23;41;34;15;29;36;100;60;22,task:1;informational:57;navigational:4;commercial:28;transactional:10
+Filtros de Água Eletrônicos e Loja,15,2496,21;36;47;39;47;20;15;54;4;4;73;100,task:2;informational:34;navigational:24;commercial:34;transactional:6
+Estufas y electrodomésticos en Coppel,20,479,31;29;37;62;63;61;54;60;100;23;23;24,task:2;informational:23;navigational:43;commercial:8;transactional:24
+Electrodomésticos de Lavavajillas,18,1003,60;38;42;48;44;34;29;100;22;21;17;23,task:2;informational:58;navigational:5;commercial:27;transactional:8
+Geladeiras Consul,15,49,2;3;2;25;25;100;59;21;16;2;2;3,task:3;informational:56;navigational:18;commercial:19;transactional:4
+Gabinetes y Muebles de Cocina,19,6216,98;99;100;86;88;92;89;86;94;94;92;92,task:5;informational:42;navigational:4;commercial:31;transactional:18
+Aspiradores de pó melhores,15,2004,48;29;29;25;58;33;44;23;18;98;88;100,task:3;informational:35;navigational:3;commercial:47;transactional:12
+Fechaduras Eletrônicas e Digitais,20,2010,27;19;24;20;20;11;100;8;11;9;67;96,task:3;informational:45;navigational:3;commercial:31;transactional:18
+Armários e Gabinetes de Banheiro,15,5804,7;6;5;4;21;19;19;30;37;42;34;100,task:10;informational:14;navigational:12;commercial:47;transactional:17
+Pias e Cubas para Banheiro,17,5127,4;4;4;4;38;35;20;3;3;3;74;100,task:7;informational:57;navigational:3;commercial:24;transactional:9
+Home Goods Cookware and Kitchenware,17,748,100;62;67;68;73;41;31;46;34;61;46;17,task:6;informational:57;navigational:8;commercial:16;transactional:13
+Refrigeradores e Filtros de Água Brastemp B Blend,17,324,15;16;16;15;61;100;15;14;13;15;15;19,task:5;informational:43;navigational:11;commercial:35;transactional:6
+Baterias Eletrônicas e Elétricas,15,89,22;28;96;96;100;84;61;73;65;69;40;53,task:3;informational:55;navigational:4;commercial:34;transactional:4
+Caixas Organizadoras para Armazenamento e Cozinha,15,4918,2;3;22;17;44;37;30;23;37;41;74;100,task:1;informational:53;navigational:1;commercial:32;transactional:13
+Electrónica y Electrodomésticos,21,12649,35;30;26;32;25;35;32;37;72;79;83;100,task:3;informational:44;navigational:12;commercial:37;transactional:4
+Luxury Kitchen Appliances and Parts,15,2854,50;35;13;16;16;19;12;42;52;76;91;100,task:5;informational:67;navigational:3;commercial:18;transactional:7
+Electric Cooktops Comparison and Reviews,20,4149,75;75;76;46;45;38;53;70;66;76;62;100,task:5;informational:28;commercial:62;transactional:5
+Painéis para TV e Decoração de Quarto,16,2276,42;22;23;14;18;23;25;29;17;100;79;87,task:10;informational:24;navigational:4;commercial:51;transactional:11
+Elettrodomestici Frigorifero e Congelatore,15,3974,4;4;34;44;44;38;26;58;53;100;74;86,task:2;informational:37;navigational:9;commercial:43;transactional:9
+Cuisinières électriques,17,132,100;62;65;56;99;87;64;89;90;7;6;6,task:5;informational:33;navigational:5;commercial:42;transactional:15
+Receitas e Culinária,18,1038,36;36;37;37;37;36;35;18;100;100;100;100,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Secadoras de Roupas no Brasil,17,4101,4;4;31;29;23;17;25;4;35;45;75;100,task:3;informational:46;navigational:4;commercial:42;transactional:5
+Cookware Sets and Pots,15,420,70;45;84;81;84;84;51;100;23;23;17;23,task:3;informational:35;navigational:11;commercial:39;transactional:12
+ollas y calderos de aluminio para cocinar,17,2021,16;37;16;15;17;17;16;38;60;70;82;100,task:3;informational:61;navigational:5;commercial:23;transactional:8
+Cuisine et Décoration de Cuisine,15,2405,29;30;34;9;10;35;22;10;14;100;80;74,task:17;informational:41;navigational:24;commercial:10;transactional:8
+IDOS e suas variações,17,1586,27;27;27;24;24;24;23;100;80;31;28;31,task:8;informational:60;navigational:2;commercial:13;transactional:17
+Foyers électriques,16,33,44;35;49;57;57;12;14;63;100;3;2;2,task:7;informational:32;navigational:3;commercial:46;transactional:12
+Lixadeiras Elétricas e Orbital,15,530,8;7;100;90;41;72;54;46;63;79;27;61,task:7;informational:44;navigational:5;commercial:19;transactional:25
+caixa de ferramentas,16,1653,2;5;19;19;18;18;15;100;100;92;39;45,task:7;informational:41;navigational:4;commercial:32;transactional:16
+Energia elétrica e eletricidade,20,458,77;85;80;62;55;55;100;59;41;41;45;47,task:2;informational:70;navigational:5;commercial:13;transactional:10
+Home Appliances and Appliance Stores,865,578864,44;45;68;66;100;100;100;91;100;100;100;100,task:2;informational:33;navigational:11;commercial:34;transactional:20
+Repuestos y Partes de Electrodomésticos y Hogar,15,1491,8;5;11;8;10;10;6;96;14;21;82;100,task:3;informational:70;navigational:8;commercial:12;transactional:7
+Calefacción eléctrica y estufas portátiles,21,688,80;39;40;39;74;100;84;27;71;75;28;27,task:2;informational:54;navigational:6;commercial:29;transactional:9
+Electric and Gas Ovens and Stoves,21,5629,60;17;30;25;28;23;35;6;58;65;70;100,task:2;informational:53;navigational:5;commercial:24;transactional:16
+Secadores e Pranchas de Cabelo,15,565,89;42;14;12;100;76;55;85;14;15;72;61,task:10;informational:35;navigational:5;commercial:29;transactional:21
+kitchenware and cooking supplies,20,4091,24;19;75;70;60;48;43;35;47;48;75;100,task:3;informational:40;navigational:11;commercial:37;transactional:9
+Estate Kitchen Appliances,19,713,100;59;17;39;67;52;28;27;36;40;33;33,task:2;informational:45;navigational:9;commercial:38;transactional:6
+Quentão e Vinho Quente,18,633,56;68;68;68;58;58;58;100;100;100;100;100,task:5;informational:78;navigational:6;commercial:7;transactional:4
+Fregaderos y Tarjas de Cocina,26,2062,24;29;23;23;39;36;24;27;93;100;24;25,task:8;informational:51;navigational:4;commercial:26;transactional:11
+Hornos Unox,15,18,14;23;100;73;20;22;18;32;18;19;19;20,task:3;informational:25;navigational:39;commercial:11;transactional:22
+Cantinho Brasileiro e do Brasil,15,866,26;81;55;61;87;100;42;28;12;12;55;28,task:3;informational:51;navigational:12;commercial:12;transactional:22
+Kitchen Fixtures and Appliances,16,3382,41;35;27;13;16;40;24;54;52;100;78;95,task:1;informational:66;navigational:5;commercial:22;transactional:6
+Forni Bosch,15,3351,3;3;9;9;10;13;8;4;95;100;83;92,task:3;informational:20;navigational:32;commercial:12;transactional:33
+Campanas y Extractores de Cocina,29,3629,100;69;70;65;67;66;66;87;75;73;72;73,task:2;informational:43;navigational:15;commercial:23;transactional:17
+Home Appliances and Kitchen Equipment,15,4592,39;27;30;26;31;20;22;10;79;100;47;60,task:7;informational:32;navigational:18;commercial:18;transactional:25
+Cookware for Home and Kitchen,16,3306,40;19;24;30;28;58;46;8;45;55;100;96,task:5;informational:50;navigational:1;commercial:32;transactional:12
+Luxury and Modern Kitchen Appliances,53,7850,50;49;41;48;81;78;81;89;96;100;99;99,task:5;informational:36;navigational:12;commercial:31;transactional:16
+Áreas Gourmet e Lazer,16,190,86;88;65;65;87;87;88;88;86;86;92;100,task:3;informational:65;navigational:15;commercial:9;transactional:8
+Gas Cooktops and Appliance Parts,16,396,63;50;72;80;68;89;63;62;100;14;15;13,task:7;informational:54;navigational:11;commercial:15;transactional:13
+Secadores e escovas de cabelo Revlon e Dyson,16,1258,81;46;84;58;56;39;100;7;26;20;83;86,task:10;informational:32;navigational:5;commercial:32;transactional:21
+Kitchen Utensils and Equipment,745,359244,37;37;48;64;80;80;80;100;88;88;88;88,task:8;informational:41;navigational:4;commercial:40;transactional:7
+Calefones a gas y eléctricos,19,754,8;8;13;14;41;100;66;27;34;33;33;34,task:2;informational:63;navigational:2;commercial:18;transactional:15
+Acabamentos Residenciais e de Construção,17,1218,100;90;80;100;62;61;70;36;35;36;36;37,task:2;informational:72;navigational:5;commercial:13;transactional:8
+Target Hot Plates and Electric Stoves,15,170,67;46;65;56;65;14;40;4;67;100;4;5,task:7;informational:24;navigational:24;commercial:17;transactional:28
+Encimeras y laminados para cocina y madera,18,2283,36;27;60;68;87;93;58;25;29;30;73;100,task:2;informational:51;navigational:4;commercial:32;transactional:11
+Köksapparater och vitvaror,15,2629,40;25;30;39;51;33;31;100;81;77;56;81,task:7;informational:67;navigational:8;commercial:15;transactional:3
+Estufas Industriales y Comerciales,18,105,48;86;83;100;100;78;16;28;26;19;17;13,task:3;informational:42;navigational:12;commercial:22;transactional:21
+Micro-ondes et fours micro-ondes,16,4170,26;17;23;40;39;15;13;39;34;100;74;71,task:2;informational:48;navigational:5;commercial:38;transactional:7
+Smart Kitchen Appliances and Electronics,15,5738,67;46;5;5;11;11;10;50;40;54;79;100,task:7;informational:32;navigational:3;commercial:46;transactional:12
+Hornos eléctricos pequeños y portátiles,17,189,6;6;9;13;33;30;7;5;89;100;5;6,task:3;informational:51;navigational:1;commercial:23;transactional:22
+Geladeiras e Ar Condicionado Casas Bahia,15,114,2;3;3;100;100;14;11;6;7;4;4;6,task:3;informational:18;navigational:64;commercial:10;transactional:5
+Alacenas y Muebles de Cocina,16,515,13;23;11;11;25;19;18;9;90;100;9;9,task:5;informational:43;navigational:9;commercial:35;transactional:8
+Parrillas y Asadores de Gas y Estufa,18,1286,79;31;89;23;27;27;48;30;94;100;31;32,task:8;informational:39;navigational:4;commercial:28;transactional:21
+Cerâmica Bordallo Pinheiro e Claudia Schiffer,15,551,18;56;41;24;8;7;4;11;9;10;66;100,task:10;informational:45;navigational:5;commercial:18;transactional:22
+Air Fryers and Cooking Appliances,20,476,50;47;39;36;29;38;57;100;79;26;23;27,task:7;informational:52;navigational:13;commercial:14;transactional:14
+Móveis de Madeira e Rústicos,16,47,7;8;9;9;100;69;13;8;8;8;8;8,task:3;informational:38;navigational:14;commercial:24;transactional:21
+Thermador Kitchen Appliances and Ranges,47,12197,86;95;98;96;99;100;100;99;100;100;99;99,informational:37;navigational:24;commercial:17;transactional:22
+hornos a gas y comerciales,15,31,33;63;71;69;43;54;48;26;94;100;15;16,task:10;informational:41;navigational:4;commercial:31;transactional:14
+Home Appliances and Appliance Parts,15,3486,100;89;84;66;63;56;35;25;18;62;48;86,task:7;informational:57;navigational:5;commercial:18;transactional:13
+Mesas Pequenas para Cozinha,15,934,2;20;20;21;100;75;58;56;32;31;29;44,task:10;informational:40;navigational:1;commercial:43;transactional:6
+Armadilhas Elétricas para Mosquitos,16,1311,6;6;27;20;25;10;10;100;5;5;62;85,task:5;informational:47;navigational:4;commercial:34;transactional:10
+Bombas de combustível e abastecimento,16,1305,7;8;13;10;10;11;10;36;15;15;72;100,task:2;informational:45;navigational:9;commercial:37;transactional:7
+Wood-Burning Ovens and Stoves,19,604,40;79;52;52;48;46;50;62;100;66;49;82,task:5;informational:56;navigational:10;commercial:20;transactional:9
+Home Appliances and Home Improvement,15,494,68;45;33;31;31;25;27;43;84;100;7;8,task:7;informational:42;navigational:8;commercial:18;transactional:25
+Kitchen Ranges and Ovens,16,969,100;67;79;70;68;61;43;36;26;39;36;33,task:2;informational:30;navigational:46;commercial:14;transactional:8
+Radiatoare și calorifere,16,320,45;52;55;50;77;77;77;100;93;78;77;78,task:3;informational:58;navigational:9;commercial:27;transactional:3
+Kitchenware and Cooking Tools,19,2586,10;10;13;9;12;10;9;24;46;91;61;100,task:8;informational:44;navigational:4;commercial:36;transactional:8
+Calentadores de agua y eléctricos,66,28360,31;23;23;33;40;40;40;76;100;100;100;100,task:2;informational:52;navigational:2;commercial:31;transactional:13
+Plaques à induction et appareils de cuisson,17,195,26;83;100;77;45;36;55;9;32;45;7;7,task:2;informational:42;navigational:1;commercial:43;transactional:12
+Chiuvete de bucătărie,15,3783,21;10;9;42;38;35;20;23;24;100;78;100,task:3;informational:64;navigational:5;commercial:18;transactional:10
+Mechones y Mechones de Gas para Cocina,17,1999,13;11;8;7;100;100;12;9;12;5;97;83,task:1;informational:57;navigational:4;commercial:32;transactional:6
+Household and Electric Appliances,16,1298,64;55;54;72;100;79;66;38;37;34;44;43,task:1;informational:73;navigational:5;commercial:15;transactional:6
+Forni Professionali e Industriali,18,83,53;62;64;100;100;92;56;68;72;54;54;54,task:3;informational:32;navigational:10;commercial:44;transactional:11
+kitchen hob and stove terminology,63,31901,26;28;33;78;80;80;80;95;100;100;100;100,task:2;informational:72;navigational:4;commercial:18;transactional:4
+Sopletes y Encendedores de Gas,16,6358,16;20;19;44;44;46;54;39;62;66;100;100,task:10;informational:50;navigational:4;commercial:21;transactional:15
+Extratores de Dados e Ferramentas de Retirada,17,301,83;86;23;19;35;100;70;48;11;9;41;50,task:3;informational:55;navigational:2;commercial:18;transactional:22
+Automação Residencial,18,563,88;64;64;75;94;100;52;67;63;52;44;50,task:8;informational:67;navigational:5;commercial:15;transactional:5
+hornos tostadores,15,614,33;22;49;39;20;16;12;79;100;78;27;33,task:7;informational:43;navigational:2;commercial:18;transactional:30
+Farberware Kitchen Appliances and Cookware,16,376,100;78;13;14;11;8;17;2;2;2;22;18,task:3;informational:31;navigational:18;commercial:26;transactional:22
+Lavadoras de Alta Pressão,16,212,2;3;34;28;25;11;7;32;97;100;4;4,task:3;informational:30;navigational:17;commercial:39;transactional:11
+Organizadores de Cestos e Cestinhas,15,1696,11;8;25;22;76;68;52;65;68;86;54;100,task:10;informational:48;navigational:15;commercial:19;transactional:8
+Farberware Electric and Induction Cooktops,18,3016,13;16;58;49;34;29;12;13;34;26;72;100,task:5;informational:53;navigational:4;commercial:32;transactional:6
+Instrumentos Musicais e Lojas,17,208,92;100;88;41;41;53;41;37;28;33;26;31,task:2;informational:58;navigational:9;commercial:27;transactional:4
+Tasty Cookware and Kitchenware,23,824,33;23;24;43;46;49;49;20;83;100;25;22,task:2;informational:38;navigational:19;commercial:30;transactional:11
+Hornos y Freidoras de Aire,17,648,33;25;100;71;46;41;85;20;34;38;43;43,task:2;informational:55;navigational:10;commercial:16;transactional:17
+Xícaras e Canecas,16,416,41;80;100;85;61;39;23;98;71;26;26;26,task:5;informational:36;navigational:9;commercial:44;transactional:6
+ollas para freír,16,81,100;58;12;12;13;53;35;3;4;4;5;5,task:10;informational:23;navigational:5;commercial:36;transactional:26
+Accessoires et pièces pour appareils Cuisinart,16,61,17;14;11;9;100;8;6;92;76;22;17;24,task:3;informational:17;navigational:8;commercial:25;transactional:47
+Cocinas Industriales y Muebles para Cocina,15,93,100;55;38;32;17;89;92;41;34;27;23;33,task:10;informational:46;navigational:4;commercial:32;transactional:8
+Churrasco e Espetinhos,17,1009,100;100;79;68;38;38;38;35;89;89;89;89,task:12;informational:69;navigational:3;commercial:11;transactional:5
+Sabão e detergente para louça,16,671,9;10;43;55;16;17;15;10;19;17;54;100,task:5;informational:46;navigational:9;commercial:31;transactional:9
+Italian Kitchen Appliances and Tools,29,1321,79;65;68;71;81;76;78;78;100;100;96;97,task:2;informational:35;navigational:9;commercial:43;transactional:11
+Móveis e Cadeiras de Escritório,25,4528,22;24;25;100;32;29;28;27;30;29;38;42,task:5;informational:52;navigational:5;commercial:28;transactional:10
+Máquinas de fazer salgados e coxinhas,17,96,15;23;17;17;68;100;81;79;63;59;46;17,task:3;informational:46;navigational:6;commercial:25;transactional:20
+Ceramic Cooktops and Stoves,65,12343,32;25;32;68;79;77;77;87;98;100;94;94,task:8;informational:54;navigational:2;commercial:31;transactional:5
+Kitchen and Home Gadgets,15,4394,73;50;45;45;54;41;22;57;69;89;75;100,task:10;informational:45;navigational:12;commercial:18;transactional:15
+bếp điện và bếp từ,24,2003,37;30;31;21;21;20;69;100;61;69;51;71,task:5;informational:74;navigational:2;commercial:15;transactional:4
+Secadores de cabelo para rolos e mesa,17,984,100;46;13;9;9;13;9;38;11;13;21;23,task:7;informational:64;navigational:5;commercial:17;transactional:7
+L&D Appliances and Home Equipment,15,1375,59;58;62;52;66;35;25;100;48;37;39;38,task:7;informational:39;navigational:3;commercial:43;transactional:8
+Luminárias de Teto para Cozinha e Ambientes,16,1980,3;5;3;3;3;79;78;55;61;79;74;100,task:10;informational:28;navigational:1;commercial:38;transactional:23
+Haushaltsgeräte und Elektronik,15,3134,10;8;7;7;40;47;33;19;13;100;90;80,task:10;informational:64;navigational:6;commercial:15;transactional:5
+Geladeiras Duas Portas,15,2163,26;16;19;21;98;62;41;69;64;100;88;97,task:2;informational:43;navigational:22;commercial:24;transactional:9
+Kitchen Gadgets and Tools,16,2186,100;68;58;61;59;47;13;15;88;89;53;69,task:5;informational:42;navigational:4;commercial:40;transactional:9
+Cook's Appliance Services and Repairs,15,1886,34;28;25;13;14;32;36;15;85;100;50;66,informational:14;navigational:62;commercial:19;transactional:5
+Identificadores de electrodomésticos y marcas,17,252,95;74;79;57;57;16;15;100;83;19;11;17,task:7;informational:67;navigational:5;commercial:11;transactional:10
+Tesouras de Poda Elétricas,15,39,57;38;13;12;100;81;59;79;31;35;13;15,task:4;informational:45;navigational:5;commercial:18;transactional:28
+Discos de Arado para Cozinhar e Agricultura,15,62,36;35;34;23;23;23;100;22;19;19;18;19,task:2;informational:56;navigational:2;commercial:36;transactional:4
+Duchas Higiênicas e Higienização de Banheiros,16,3659,2;2;2;2;23;56;31;4;5;100;74;98,task:3;informational:59;navigational:5;commercial:17;transactional:16
+Cocinas y Estufas de Gas y Eléctricas de Dos Quemadores,15,7700,7;6;6;8;24;21;14;9;47;56;88;100,task:3;informational:57;navigational:5;commercial:22;transactional:13
+Freidoras eléctricas de aceite,18,2440,25;73;79;62;50;52;49;76;28;25;84;100,task:7;informational:28;navigational:4;commercial:40;transactional:21
+Termos relacionados a banheiros,16,244,13;92;83;100;84;80;38;8;8;8;8;8,task:8;informational:84;navigational:3;commercial:3;transactional:2
+ollas y utensilios de cocina Imusa,16,381,10;30;81;67;99;100;23;26;12;13;31;34,task:7;informational:37;navigational:13;commercial:29;transactional:14
+Parrillas y Asadores Eléctricos,23,3340,23;24;22;22;39;40;31;27;32;33;100;91,task:5;informational:47;navigational:2;commercial:32;transactional:14
+Descascadores de batatas e utensílios de cozinha,17,3981,10;8;9;11;10;9;21;6;28;100;81;91,task:8;informational:60;navigational:3;commercial:17;transactional:12
+Lave-vaisselle et vaisselle,15,4788,10;28;30;29;34;27;10;10;76;90;100;100,task:3;informational:63;navigational:2;commercial:24;transactional:8
+Facas para Churrasco e Cutelaria,15,5209,1;1;1;1;1;1;3;15;12;96;64;100,task:7;informational:32;navigational:3;commercial:46;transactional:12
+Recherches de produits d'appareils électroménagers,15,5105,26;17;16;20;20;17;14;14;17;100;75;89,task:3;informational:52;navigational:2;commercial:18;transactional:25
+Estufas de mesa a gas,17,1389,26;26;100;83;32;19;15;19;23;23;62;72,task:3;informational:47;navigational:7;commercial:20;transactional:23
+Ovente Electric Cooktops and Hot Plates,15,19,93;63;38;41;50;37;33;100;2;2;2;2,task:3;informational:44;navigational:12;commercial:18;transactional:23
+roupa de mesa e acessórios,16,931,5;4;5;100;100;39;53;20;13;50;38;68,task:7;informational:30;navigational:5;commercial:43;transactional:15
+Juego de sartenes y ollas en Amazon,18,1509,22;20;19;8;8;8;13;32;19;100;67;87,task:7;informational:18;navigational:32;commercial:20;transactional:23
+Gás para Ar Condicionado Automotivo e Residencial,19,228,49;100;73;76;76;32;31;29;28;28;28;28,task:5;informational:56;navigational:2;commercial:22;transactional:15
+Cocinas de 2 quemadores,15,2717,6;38;37;31;31;11;9;88;7;7;89;100,task:5;informational:40;navigational:4;commercial:42;transactional:9
+Secadores e centrifugadoras de salada,16,578,100;69;18;21;22;27;16;52;51;63;31;29,task:5;informational:60;navigational:5;commercial:15;transactional:15
+Cocinas y Fondos de Cocina,18,535,84;100;92;47;47;46;37;36;35;35;35;35,task:2;informational:62;navigational:19;commercial:10;transactional:7
+Sartenes y Ollas de Hierro Fundido,26,4176,44;30;31;54;78;75;77;79;73;73;100;95,task:3;informational:51;navigational:4;commercial:27;transactional:15
+Vevor Kitchen Appliances,16,1580,64;5;7;5;57;52;38;4;92;100;72;44,task:3;informational:24;navigational:35;commercial:18;transactional:20
+ollas multifuncionales y de presión Oster,16,361,22;15;13;100;100;22;34;76;38;32;23;35,task:5;informational:30;navigational:27;commercial:15;transactional:23
+Pornografia Incestuosa Mãe e Filho,15,3943,46;49;45;57;57;57;39;7;7;95;73;100,task:7;informational:44;navigational:28;commercial:11;transactional:10
+Penteadeiras com Espelho e LED,15,4856,2;11;2;2;39;10;12;42;63;82;100;98,task:7;informational:26;navigational:6;commercial:32;transactional:29
+Máquinas de Café Expresso e Cápsulas,17,369,71;51;51;44;44;48;100;35;42;42;43;43,task:6;informational:36;navigational:8;commercial:27;transactional:23
+Electric Hot Pot and Cooker,85,21394,39;42;45;80;85;85;85;100;97;100;91;90,task:8;informational:51;navigational:4;commercial:27;transactional:10
+Vocabulario y traducción de electrodomésticos en español,25,4567,52;63;89;50;49;58;59;90;100;89;80;87,task:12;informational:70;navigational:5;commercial:8;transactional:5
+Enxadas e Hosting,17,1234,16;16;15;16;100;91;7;32;35;60;50;65,task:7;informational:53;navigational:10;commercial:11;transactional:19
+Thermador Cooktops and Ranges,22,2428,97;100;99;98;93;95;98;89;93;92;90;91,task:2;informational:40;navigational:11;commercial:16;transactional:31
+Ovente Electric Cookware,15,1496,4;33;31;22;11;2;18;12;84;100;43;35,task:6;informational:18;navigational:28;commercial:26;transactional:22
+Fotile Gas Cooktops and Stoves,15,10845,1;1;1;1;3;2;3;37;47;53;89;100,task:3;informational:40;navigational:12;commercial:12;transactional:33
+Planchas de gas y eléctricas para cocina industrial,17,212,41;38;41;100;100;95;95;93;37;45;46;46,task:5;informational:46;navigational:4;commercial:31;transactional:14
+Electrodomésticos y Muebles en Argentina,15,35,41;31;38;27;40;25;18;100;26;8;7;5,task:4;informational:32;navigational:30;commercial:18;transactional:16
+Ferramentas de corte de grama e jardim,79,12621,68;68;74;70;95;96;99;81;81;81;100;100,task:8;informational:51;navigational:3;commercial:31;transactional:7
+Cocinas portátiles y hornillos de gas para camping y uso portátil,19,565,96;100;40;36;7;7;9;13;10;10;19;19,task:2;informational:53;navigational:5;commercial:17;transactional:23
+Fotile Multi-Function Ovens,16,5114,5;6;8;8;4;3;4;2;4;4;94;100,task:7;informational:40;navigational:8;commercial:22;transactional:23
+Baterías de Cocina de Acero Inoxidable y Vidrio,19,2182,57;35;13;15;18;12;12;6;6;6;93;100,task:4;informational:47;navigational:1;commercial:26;transactional:22
+Máquinas de Água com Gás,16,421,33;100;54;42;57;17;17;37;8;8;28;28,task:2;informational:36;navigational:9;commercial:41;transactional:12
+Fri Jado y Equipos de Rotisserie,16,153,62;68;42;42;46;59;57;85;82;92;100;63,task:6;informational:35;navigational:17;commercial:20;transactional:22
+Revestimentos de Porcelanato,16,75,15;17;17;18;17;17;100;36;42;18;18;18,task:3;informational:56;navigational:5;commercial:19;transactional:17
+Accesorios para cocinitas y juegos de cocina infantiles,15,2739,2;7;8;5;2;15;11;14;15;76;58;100,task:3;informational:43;navigational:2;commercial:29;transactional:23
+ollas de presión eléctricas y multifuncionales,37,14277,21;22;21;27;100;100;96;50;88;88;88;88,task:2;informational:52;navigational:5;commercial:27;transactional:14
+Aspiradores Industriais e Profissionais,15,31,20;12;44;30;30;31;24;9;100;79;15;17,task:7;informational:37;navigational:3;commercial:47;transactional:6
+Electrodomésticos de segunda mano y outlet,22,1617,93;85;27;22;38;66;40;31;100;70;55;60,task:5;informational:28;navigational:4;commercial:46;transactional:17
+Electric Stove Burners and Elements,17,2480,57;45;62;52;46;56;56;9;14;13;80;100,task:2;informational:52;navigational:4;commercial:28;transactional:14
+Máquinas de Café Philips Série 5400,21,794,38;58;37;100;98;89;89;23;43;43;43;43,task:2;informational:34;navigational:16;commercial:38;transactional:10
+chimeneas eléctricas y de pared,16,6420,11;20;18;16;17;17;13;7;7;7;91;100,task:2;informational:45;navigational:5;commercial:22;transactional:26
+Belling Kitchen Appliances,15,120,50;63;66;66;77;69;69;65;77;100;68;75,task:2;informational:23;navigational:30;commercial:10;transactional:35
+Meubles de cuisine et décoration,18,7147,6;4;3;4;4;8;6;2;2;57;49;100,task:5;informational:39;navigational:9;commercial:36;transactional:11
+Luminárias de Mesa,15,4469,24;14;13;8;61;32;22;24;24;26;78;100,task:3;informational:53;navigational:4;commercial:32;transactional:8
+Cast Iron and Electric Stove Cookware,45,6218,46;51;52;74;91;91;91;93;100;100;100;100,task:1;informational:59;navigational:4;commercial:31;transactional:5
+Home Depot Kitchenware and Gardening Supplies,16,5905,53;56;77;75;62;59;42;7;45;46;80;100,task:2;informational:15;navigational:38;commercial:18;transactional:27
+Ollas Instant Pot y eléctricas,18,335,36;86;76;26;31;32;33;100;90;28;27;28,task:2;informational:60;navigational:8;commercial:17;transactional:13
+Lavadoras y Secadoras Frigidaire,15,8618,14;19;8;6;15;15;11;40;36;38;77;100,task:2;informational:50;navigational:28;commercial:10;transactional:10
+"Acessórios, Calçados e Moda Infantil",16,1226,10;12;6;6;100;38;33;56;34;32;28;40,task:5;informational:44;navigational:31;commercial:13;transactional:7
+Estufas Mabe,16,243,54;49;47;49;49;87;100;73;92;53;37;42,task:2;informational:44;navigational:26;commercial:26;transactional:2
+adesivos e papéis de parede para cozinha,15,54,11;9;9;9;51;8;79;100;65;19;18;21,task:3;informational:27;commercial:58;transactional:12
+Dyson no Brasil,16,151,76;86;71;88;88;100;90;84;80;55;55;55,task:5;informational:25;navigational:33;commercial:32;transactional:5
+Forminhas para Empada,16,328,23;23;25;26;26;29;38;31;31;87;65;100,task:5;informational:46;navigational:4;commercial:36;transactional:9
+ollas para sopa y caldo,15,721,62;58;39;44;100;54;38;54;63;73;17;26,task:2;informational:64;navigational:2;commercial:20;transactional:12
+Luxurious Kitchen Appliances,15,26,21;29;16;15;78;65;9;74;100;5;4;4,task:7;informational:32;commercial:50;transactional:11
+Embalagens descartáveis para marmitas,15,206,19;56;49;51;78;100;78;69;72;67;49;63,task:3;informational:46;navigational:4;commercial:34;transactional:13
+Painéis de LED e Iluminação Digital,15,311,35;21;22;26;20;53;92;67;51;100;66;38,task:2;informational:36;navigational:3;commercial:48;transactional:11
+Air Fryer Ninja Brasil,17,179,17;14;11;11;11;11;20;64;100;20;20;19,task:2;informational:31;navigational:21;commercial:37;transactional:9
+Cookware and Kitchenware Essentials,44,4431,44;37;38;53;63;72;66;78;96;100;66;67,task:5;informational:39;navigational:6;commercial:38;transactional:12
+Luxury Kitchen Appliances and Design,15,71,4;15;4;26;26;75;80;100;74;23;18;13,task:7;informational:63;navigational:5;commercial:18;transactional:7
+Iluminação LED Residencial,17,363,5;5;10;16;19;19;26;4;91;100;11;12,task:2;informational:49;navigational:1;commercial:32;transactional:16
+batidor y utensilios de cocina,16,831,100;44;31;30;56;49;42;67;60;61;56;56,task:7;informational:50;navigational:4;commercial:35;transactional:4
+Afiadores de Facas,16,83,93;66;33;30;40;29;20;100;39;57;5;6,task:7;informational:42;navigational:1;commercial:27;transactional:23
+Decoración y diseño de cocinas,15,641,60;58;58;81;100;98;87;74;61;61;60;61,task:10;informational:69;navigational:5;commercial:11;transactional:5
+Cadeiras e Mesas de Jantar,16,1977,16;34;37;15;15;34;40;79;69;98;81;100,task:3;informational:40;navigational:4;commercial:39;transactional:14
+Veículos Elétricos e Híbridos,21,1882,100;76;56;59;67;65;67;34;24;51;46;91,task:5;informational:69;navigational:5;commercial:12;transactional:9
+Estufas portátiles de gas y eléctricas,24,1449,42;60;45;43;40;90;73;100;37;37;61;59,task:10;informational:37;navigational:8;commercial:24;transactional:21
+Doimo Cucine e Arredamento,16,44,50;51;56;56;77;77;77;100;95;75;75;75,task:3;informational:38;navigational:34;commercial:11;transactional:14
+Hornos Oster Eléctricos,15,256,4;3;4;7;20;31;28;100;21;25;18;15,task:3;informational:54;navigational:6;commercial:18;transactional:19
+Vaporera y utensilios de cocina,16,583,21;53;49;36;34;34;27;100;20;20;17;18,task:5;informational:54;navigational:7;commercial:21;transactional:13
+Hervidores y cocedores de huevos,20,1733,12;12;21;33;36;22;22;64;11;11;91;100,task:8;informational:43;navigational:2;commercial:20;transactional:27
+Smeg Kitchen Appliances and Ranges,22,3367,42;43;47;54;50;51;73;49;71;70;77;100,informational:53;navigational:14;commercial:17;transactional:16
+Vidro e Vidros,17,3544,100;87;100;87;81;81;82;60;60;60;59;60,task:2;informational:67;navigational:8;commercial:12;transactional:11
+Appliance Parts and Gas Appliances,17,8673,32;24;31;16;15;12;15;10;6;23;22;100,task:5;informational:27;navigational:14;commercial:40;transactional:14
+Electric Skillets and Cooking Appliances,157,35376,65;78;80;89;89;89;89;100;100;100;99;99,task:3;informational:44;navigational:4;commercial:38;transactional:11
+Higiene e Banho,16,541,13;12;12;11;100;54;23;21;20;13;13;17,task:8;informational:67;navigational:5;commercial:15;transactional:5
+Appliance Parts for Stoves and Ranges,138,31459,82;78;79;96;100;100;100;97;97;96;96;96,task:6;informational:41;navigational:5;commercial:34;transactional:14
+Repuestos y componentes de electrodomésticos Samsung y similares,16,1125,82;55;69;70;35;25;22;100;63;47;42;42,task:2;informational:58;navigational:2;commercial:30;transactional:8
+Electrodomésticos de Cocina: Lavaplatos,24,1176,100;88;65;54;49;52;49;28;32;32;27;27,task:2;informational:61;navigational:2;commercial:20;transactional:15
+Fogos de Artifício,17,348,75;100;83;77;77;79;89;61;55;89;69;83,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Lojas de Ferramentas e Mecânica,16,1646,10;10;11;10;44;44;50;62;58;100;78;44,task:1;informational:30;navigational:33;commercial:19;transactional:17
+Estufas Wolf y Equipamiento de Cocina,16,103,31;23;22;40;40;57;51;82;85;100;88;57,task:3;informational:46;navigational:14;commercial:28;transactional:9
+Wood Heaters and Cook Stoves,16,366,65;18;16;13;12;21;13;47;100;80;39;61,task:3;informational:56;navigational:5;commercial:18;transactional:18
+Cocinas eléctricas para Cuba,16,2405,4;5;5;5;49;56;32;42;38;79;59;100,task:3;informational:67;navigational:5;commercial:20;transactional:5
+ProChef et équipements de cuisine professionnels,16,178,45;53;57;44;44;41;27;58;47;100;94;42,task:7;informational:63;navigational:2;commercial:18;transactional:10
+Fotile Kitchen Appliances and Global Presence,15,369,4;67;8;10;70;75;51;100;32;22;11;14,task:7;informational:32;navigational:30;commercial:23;transactional:8
+Placas Mãe e Componentes de Computador,17,677,39;30;83;32;100;96;77;28;51;51;77;74,task:8;informational:41;navigational:3;commercial:37;transactional:11
+Gas Stoves and Ranges,786,324506,52;48;51;65;75;75;75;78;100;100;100;100,task:4;informational:37;navigational:4;commercial:42;transactional:13
+Estufas de gas propano y fogones en Walmart,16,555,14;81;69;57;56;63;13;100;50;45;44;44,task:2;informational:8;navigational:27;commercial:15;transactional:48
+Guarda-Roupas e Móveis de Armazenamento,16,2277,26;25;25;27;43;49;62;100;33;36;64;83,task:8;informational:29;navigational:3;commercial:52;transactional:8
+Secadores de cabelo sem fio,15,96,17;9;51;32;86;100;87;22;7;7;10;11,informational:57;navigational:4;commercial:35;transactional:4
+Kochsysteme Cookware,15,2994,8;36;42;30;97;64;55;100;95;62;52;78,task:5;informational:50;navigational:9;commercial:30;transactional:6
+Aspiradores de Pó Sem Fio,15,3865,23;9;14;31;31;22;17;23;22;100;88;82,task:13;informational:32;navigational:3;commercial:47;transactional:5
+Calentadores y calefactores eléctricos,29,2707,33;38;39;37;82;78;39;100;65;68;68;72,task:5;informational:45;navigational:7;commercial:28;transactional:15
+TVS Cookware and Kitchenware,15,270,17;19;100;88;74;16;19;2;2;3;10;10,task:7;informational:21;navigational:35;commercial:20;transactional:17
+cadeiras e móveis de assento,15,2587,21;16;15;9;30;35;44;23;22;85;73;100,task:3;informational:51;navigational:4;commercial:34;transactional:8
+Electric Cookware for Electric Stoves,18,2621,15;15;13;12;14;13;25;25;29;26;85;100,task:5;informational:35;navigational:3;commercial:48;transactional:9
+Gabinetes para Computadores Gamer e Mid Tower,16,394,100;77;59;53;100;79;39;30;22;29;33;39,informational:34;navigational:3;commercial:57;transactional:6
+Chef'n Kitchen Gadgets and Utensils,15,750,97;100;67;75;64;54;27;24;23;24;49;55,task:3;informational:30;navigational:29;commercial:17;transactional:21
+Équipement et Matériel pour Cuisine Professionnelle,16,189,17;17;25;100;30;30;29;43;33;31;21;21,task:2;informational:28;navigational:8;commercial:55;transactional:7
+Forni e elettrodomestici Bertazzoni,15,46,6;8;100;65;9;10;11;92;8;8;10;13,task:3;informational:17;navigational:35;commercial:12;transactional:33
+Banheiras e Hidromassagem,17,4544,6;6;6;28;28;30;38;5;5;32;27;100,task:3;informational:49;navigational:4;commercial:31;transactional:13
+Energy-Efficient Cooking Appliances,18,831,100;83;76;60;35;29;28;13;59;72;21;21,task:5;informational:44;navigational:7;commercial:33;transactional:11
+Cuisinart Electric Fondue Sets,17,743,7;6;7;6;8;8;12;7;78;100;8;8,task:2;informational:53;navigational:10;commercial:19;transactional:16
+Estufas blancas de gas y eléctricas,15,2772,60;37;40;34;33;22;8;78;100;52;42;43,task:7;informational:38;navigational:4;commercial:37;transactional:14
+Luzes de emergência e segurança,19,619,57;59;60;31;46;48;100;72;70;69;66;66,task:2;informational:46;navigational:5;commercial:25;transactional:22
+Sartenes Tefal y T-Fal,18,243,16;17;36;44;100;77;25;18;44;79;91;57,task:3;informational:41;navigational:1;commercial:37;transactional:18
+Poêles à bois et design,17,2244,8;9;9;15;24;21;35;8;12;100;68;93,task:2;informational:64;navigational:4;commercial:26;transactional:4
+Gas Cooktops and Ranges,134,26509,65;58;62;93;97;100;98;85;99;100;94;94,task:5;informational:48;navigational:2;commercial:38;transactional:7
+fire forno and pizza oven,16,183,46;72;75;99;100;79;74;80;92;94;93;88,task:5;informational:58;navigational:14;commercial:17;transactional:6
+Roçadeiras a gasolina e marcas populares,18,858,6;6;7;25;24;6;12;16;20;100;76;71,task:10;informational:41;commercial:31;transactional:18
+Kitchen Items and Utensils,20,671,100;77;83;80;69;61;55;84;78;61;60;59,task:2;informational:70;navigational:5;commercial:15;transactional:8
+Componentes electrónicos y equipos de prueba,15,105,40;29;22;29;100;11;9;82;80;34;29;39,task:3;informational:67;navigational:2;commercial:18;transactional:10
+Secadores de cabelo profissionais e melhores,18,1422,30;15;70;80;100;99;54;27;62;69;83;95,informational:47;navigational:4;commercial:40;transactional:9
+Conserto de Geladeiras,15,370,44;43;35;47;47;54;51;100;82;28;21;39,task:2;informational:49;navigational:4;commercial:36;transactional:9
+Ventilación y campanas de cocina,16,2444,61;5;4;4;28;31;23;70;96;97;84;100,task:3;informational:54;navigational:5;commercial:18;transactional:20
+Utensilios y artículos de repostería,20,531,43;100;83;75;41;44;25;62;69;68;55;56,task:2;informational:42;navigational:6;commercial:42;transactional:8
+Kitchenware and Food Delivery Services,15,2143,34;40;23;22;25;29;22;88;96;100;41;35,task:10;informational:39;navigational:8;commercial:18;transactional:25
+Kitchen Appliance and Fixture Combos,15,2291,43;32;42;45;45;39;20;75;100;44;33;39,task:10;informational:38;navigational:4;commercial:28;transactional:20
+Forno Appliances and Reviews,57,10437,96;87;87;86;94;94;92;90;100;100;89;89,task:2;informational:47;navigational:5;commercial:36;transactional:10
+Caloric Kitchen Appliances,27,957,70;74;88;52;79;81;80;100;70;69;69;72,task:2;informational:47;navigational:9;commercial:33;transactional:9
+grifos y accesorios de baño y cocina,16,3173,39;34;39;51;51;49;32;30;92;100;56;70,task:2;informational:27;navigational:32;commercial:19;transactional:20
+Locais de Ferro Velho e Desmanches,17,806,51;53;46;33;73;72;73;100;91;85;86;90,task:2;informational:58;navigational:30;commercial:8;transactional:2
+Modelos de Dispositivos Samsung,18,5516,30;24;33;32;41;28;28;61;100;89;64;69,informational:82;navigational:8;commercial:8;transactional:2
+Muebles con chimenea para TV y chimeneas de pared,15,52,4;59;7;8;14;100;77;35;58;63;5;5,task:7;informational:45;navigational:11;commercial:27;transactional:10
+Elektrikli Isıtıcılar ve Sobalar,15,3265,4;4;4;4;34;34;63;3;3;3;100;97,task:1;informational:42;navigational:3;commercial:45;transactional:9
+Embaralhamento de Bombas e Entretenimento Digital,15,1422,24;100;77;84;2;2;2;2;61;98;63;85,task:13;informational:38;navigational:34;commercial:10;transactional:5
+fornelli Bertazzoni,15,2977,1;1;2;2;3;2;2;15;2;2;85;100,task:3;informational:40;navigational:32;commercial:12;transactional:13
+Topes de Cocina y Medidas,16,139,17;17;19;18;20;20;20;95;100;21;21;21,task:2;informational:64;navigational:5;commercial:21;transactional:8
+Pinzas de Cocina y Utensilios de Cocina,17,965,26;16;40;43;43;18;54;11;11;11;100;88,task:10;informational:55;navigational:3;commercial:17;transactional:15
+Sofás e Camas Casal,15,1407,22;10;7;24;21;24;15;100;82;63;51;78,task:10;informational:32;navigational:4;commercial:36;transactional:18
+Pho e Fogo de Chão em Brea,15,1031,5;6;6;6;8;100;75;7;5;19;17;25,task:3;informational:23;navigational:47;commercial:5;transactional:22
+abraçadeiras de metal e aço inox,16,767,14;17;34;32;41;23;23;64;48;45;77;100,task:5;informational:50;navigational:7;commercial:26;transactional:12
+frigidaire induction and electric cooktops,16,1028,30;24;53;56;100;90;28;6;78;95;54;71,informational:54;navigational:18;commercial:12;transactional:16
+Electrodomésticos Thermador,15,2372,4;5;3;3;4;3;3;3;3;3;98;100,task:7;informational:52;navigational:8;commercial:18;transactional:15
+Ferramentas de Recuperação e Reparação de Sistemas,17,620,47;39;38;26;99;97;88;100;91;68;66;67,task:5;informational:65;navigational:8;commercial:16;transactional:6
+Electric Skillets and Frying Pans,15,2547,6;7;7;6;27;30;27;26;13;22;64;100,task:3;informational:38;navigational:4;commercial:40;transactional:15
+Cômodas Castanho e Camaflexi,15,10167,16;15;34;33;31;34;24;23;35;39;86;100,task:3;informational:22;navigational:48;commercial:16;transactional:11
+Everhot Appliances and Cookers,17,163,61;67;74;71;100;96;77;80;82;81;80;81,task:3;informational:46;navigational:18;commercial:25;transactional:8
+Built-in Wall Ovens and Cooktops,21,5551,21;13;16;16;16;14;12;7;43;51;83;100,task:3;informational:60;navigational:4;commercial:25;transactional:8
+Frigidere și electrocasnice de răcire,15,6494,33;18;23;45;45;32;23;59;64;44;39;100,task:5;informational:55;navigational:2;commercial:30;transactional:8
+Mesas y fogatas de Coronado,17,30,26;26;44;39;39;2;61;100;3;3;2;3,task:10;informational:42;navigational:3;commercial:40;transactional:5
+Luminárias de chão e abajures,15,3850,5;8;8;6;43;31;22;6;7;91;76;100,task:2;informational:43;navigational:4;commercial:45;transactional:6
+pilhas e baterias redondas,15,68,37;37;18;47;39;100;79;33;43;8;8;8,task:3;informational:59;navigational:4;commercial:23;transactional:11
+Estufas empotrables y eléctricas,15,2133,52;32;33;22;100;94;61;64;45;73;81;100,task:10;informational:46;navigational:4;commercial:30;transactional:10
+Induction Cookware and Pots,15,123,10;8;37;27;55;38;52;85;89;100;8;9,task:10;informational:35;navigational:6;commercial:26;transactional:23
+Muebles y Estantes para Microondas,16,281,100;84;67;67;53;51;90;23;21;61;54;21,task:5;informational:47;navigational:10;commercial:27;transactional:11
+Maquinas de cortar cabelo Gama,15,584,3;3;16;14;14;50;34;7;6;6;100;84,task:7;informational:25;navigational:18;commercial:32;transactional:18
+Mini Chef e Kits para Crianças,15,563,3;4;100;31;35;15;16;13;6;6;37;40,task:7;informational:47;navigational:11;commercial:28;transactional:7
+Tabletop Kitchen Appliances and Accessories,19,4140,70;9;12;11;51;41;39;6;27;33;83;100,task:7;informational:41;navigational:7;commercial:18;transactional:27
+Sopradores de Folhas,16,7062,10;7;4;3;3;31;20;47;63;66;94;100,task:3;informational:52;navigational:2;commercial:18;transactional:25
+All Clad Electric Kitchen Appliances,16,3560,7;6;20;21;18;7;4;13;51;70;71;100,task:3;informational:39;navigational:23;commercial:31;transactional:4
+ollas y sartenes de vidrio para cocinar,23,760,50;60;64;58;95;73;80;86;99;100;89;90,task:2;informational:40;navigational:4;commercial:40;transactional:14
+Poêles et casseroles en inox,19,1997,17;12;11;15;20;12;12;19;8;91;70;100,task:8;informational:50;navigational:4;commercial:25;transactional:13
+Repuestos y componentes para electrodomésticos LG y similares,15,780,22;21;19;21;21;28;36;100;66;63;63;78,task:7;informational:30;navigational:2;commercial:18;transactional:43
+Máquinas de Sorvete e Equipamentos para Sorveterias,16,308,13;58;41;38;82;100;74;55;10;10;11;11,task:2;informational:40;navigational:2;commercial:40;transactional:16
+Desentupimento de Pias e Ralos,22,935,87;47;54;59;38;29;30;92;94;93;93;100,task:12;informational:35;navigational:5;commercial:19;transactional:29
+Ar Condicionado Portátil,19,1809,10;13;14;14;20;34;27;32;88;100;34;34,task:4;informational:49;navigational:4;commercial:35;transactional:8
+Cookware Accessories and Kitchen Table Items,16,1497,22;16;100;95;71;62;41;42;51;66;36;60,task:7;informational:41;navigational:4;commercial:28;transactional:20
+induction and electric cooktops,255,79255,56;58;70;88;92;93;92;89;99;99;100;100,task:2;informational:36;navigational:3;commercial:49;transactional:10
+Cubiertos y utensilios de cocina,16,1073,78;31;47;52;53;17;10;45;100;95;36;51,task:10;informational:52;navigational:3;commercial:22;transactional:13
+Aparamentos eléctricos,15,176,100;6;54;13;14;15;14;10;9;13;10;10,task:5;informational:55;navigational:5;commercial:27;transactional:8
+Telha Norte e Telhanorte - Materiais de Construção,15,102,10;11;11;10;20;100;66;15;12;14;15;19,task:3;informational:12;navigational:73;commercial:7;transactional:5
+Geladeiras de 3 portas,15,6104,30;20;29;24;24;14;21;50;40;100;69;92,task:10;informational:29;commercial:53;transactional:8
+Electric Cooktops and Viking Appliances,16,118,100;77;29;27;84;40;74;18;22;27;18;28,informational:54;navigational:11;commercial:25;transactional:10
+Chocadeiras de ovos,15,64,7;7;7;7;10;100;16;38;39;7;7;7,task:2;informational:51;navigational:4;commercial:33;transactional:10
+Magasin d'électronique et électrodomestiques,18,4597,30;37;30;30;29;41;38;100;79;88;73;91,task:3;informational:28;navigational:53;commercial:4;transactional:12
+Kitchenware and Cookware Reviews,55,7874,98;75;72;64;66;68;65;68;63;62;90;100,task:3;informational:41;navigational:11;commercial:38;transactional:7
+Partes y reparación de estufas eléctricas y de gas,18,2788,71;53;61;43;37;32;39;31;29;97;78;100,task:5;informational:58;navigational:3;commercial:22;transactional:12
+motos elétricas e scooters,20,738,40;32;33;73;87;96;100;45;49;49;53;55,informational:48;navigational:4;commercial:38;transactional:10
+Cooking Pots and Pans,21,458,100;50;51;61;61;31;78;27;32;32;35;37,task:10;informational:43;navigational:8;commercial:34;transactional:5
+Limpeza com Rodos e Mops,16,3091,22;17;16;13;13;14;10;45;49;100;81;86,task:10;informational:53;navigational:4;commercial:22;transactional:11
+Termogênicos e Emagrecedores,17,598,16;100;79;46;37;71;53;43;37;30;30;30,task:2;informational:69;navigational:2;commercial:19;transactional:8
+Limpeza e Higienização de Estofados e Sofás,25,974,78;100;97;84;83;83;83;71;73;74;74;75,task:5;informational:64;navigational:2;commercial:14;transactional:15
+Brinquedos e Móveis para Crianças,15,3072,28;26;33;6;6;6;31;42;30;84;58;100,task:2;informational:32;commercial:58;transactional:8
+La Cuisine Appliances and International,15,106,19;27;19;14;12;13;15;99;100;22;13;15,task:7;informational:31;navigational:27;commercial:24;transactional:11
+Televisores e Smart TVs,20,4552,68;42;49;60;60;43;34;53;6;53;78;100,task:5;informational:38;navigational:3;commercial:39;transactional:15
+Fome Core e Corboard,17,167,16;16;16;100;36;40;34;13;11;44;49;32,task:2;informational:65;navigational:7;commercial:18;transactional:8
+Decorative Kitchen Appliances and Cookware,15,795,49;43;34;26;100;70;61;79;28;40;73;87,task:3;informational:52;navigational:5;commercial:25;transactional:15
+Conserto de Máquinas de Lavar,15,626,14;14;15;90;30;100;72;14;14;71;75;90,task:15;informational:41;navigational:2;commercial:10;transactional:32
+Jarras para Cafeteira,15,150,3;4;41;48;48;26;20;10;96;100;22;13,task:10;informational:38;navigational:4;commercial:28;transactional:20
+Aromatizadores e Cheiros para Casa,18,1589,100;64;67;34;34;21;20;70;60;55;42;78,task:8;informational:51;navigational:4;commercial:24;transactional:13
+Appliance and Electronics Retail,15,5039,68;58;55;44;32;19;17;44;38;100;80;83,task:3;informational:40;navigational:18;commercial:28;transactional:11
+Equipamentos de Academia e Exercícios em Casa,28,921,87;79;80;86;86;82;82;94;99;100;100;100,task:2;informational:55;navigational:5;commercial:27;transactional:11
+GE Electric Cooktops and Stoves,25,6473,19;24;28;28;31;29;30;42;84;78;93;100,informational:33;navigational:18;commercial:41;transactional:8
+Cheminée électrique,15,3579,1;3;25;27;27;23;15;15;84;100;93;94,task:1;informational:39;navigational:7;commercial:47;transactional:6
+Stainless Steel Electric Cooktops,16,2546,56;12;17;14;44;33;54;17;39;27;87;100,task:3;informational:50;navigational:4;commercial:30;transactional:13
+Cousances Cast Iron Cookware,17,718,24;24;29;37;41;41;39;100;57;58;67;68,task:5;informational:31;navigational:11;commercial:44;transactional:9
+Fontes de Alimentação 500W e 650W,17,550,87;76;83;55;91;100;97;45;54;74;67;78,task:2;informational:55;navigational:4;commercial:33;transactional:6
+High-End Kitchen Appliances and Brands,15,101,100;65;41;34;41;35;14;11;84;99;14;14,task:3;informational:67;navigational:12;commercial:15;transactional:3
+Vasos Decorativos e Decoração,15,1927,9;17;19;16;8;72;60;68;29;33;76;100,task:7;informational:59;navigational:3;commercial:27;transactional:4
+Specialty Appliances and Kitchens,16,1698,100;92;83;82;83;84;84;66;39;41;40;41,task:5;informational:42;navigational:22;commercial:21;transactional:10
+Telhas e Fontes de Telhado,17,671,32;37;37;51;50;50;50;72;86;98;94;100,task:5;informational:70;navigational:8;commercial:10;transactional:7
+Hearth and Home Retail and Services,19,3484,73;58;76;68;49;46;45;55;70;64;87;100,task:2;informational:28;navigational:24;commercial:36;transactional:10
+Kitchen Utensils and Gadgets,17,783,100;69;91;68;95;91;76;85;49;49;49;49,task:5;informational:44;navigational:4;commercial:31;transactional:16
+Forminhas para Doces Finos e Brigadeiro,17,756,54;58;54;28;28;26;26;100;100;99;97;98,task:2;informational:48;navigational:9;commercial:29;transactional:12
+Estufas de gas y eléctricas en México,36,10213,60;58;55;100;51;65;57;68;44;49;68;76,task:3;informational:56;navigational:4;commercial:27;transactional:10
+Cazuelas y Ollas de Acero Inoxidable,17,909,100;64;17;19;65;73;43;74;12;12;71;72,task:2;informational:33;navigational:4;commercial:52;transactional:9
+balanças de pesagem e precisão,16,1106,86;78;96;38;41;37;28;34;82;91;87;100,task:2;informational:46;navigational:4;commercial:39;transactional:9
+Commercial and Industrial Ovens and Stoves,79,17276,58;59;62;83;74;74;74;100;92;92;92;92,task:2;informational:38;navigational:4;commercial:43;transactional:13
+Home Appliance Parts and Accessories,15,8049,27;20;11;11;22;16;12;37;77;90;94;100,task:10;informational:57;navigational:5;commercial:18;transactional:10
+"Cook in, on, and with various cookware and appliances",17,268,37;30;36;100;82;81;79;22;24;26;22;22,task:12;informational:57;navigational:14;commercial:9;transactional:8
+Suportes para Banheira e Trocador,15,1545,2;7;13;10;10;20;31;38;28;100;65;83,task:10;informational:2;commercial:70;transactional:18
+Inversores e Convertidores de Corriente,35,2510,29;29;32;50;88;89;90;100;66;66;64;65,task:2;informational:51;navigational:7;commercial:24;transactional:16
+Telemóveis e Tecnologia Móvel,19,1661,66;50;45;80;79;59;46;9;7;100;83;59,task:4;informational:72;navigational:6;commercial:12;transactional:6
+Três Corações e Café,21,557,44;59;71;92;98;100;83;29;24;29;29;29,task:5;informational:52;navigational:15;commercial:22;transactional:6
+best cookware and pots review,15,1129,44;39;22;16;97;51;19;100;14;14;39;41,task:5;informational:33;navigational:15;commercial:43;transactional:4
+Máquinas de fazer pão,20,557,84;100;47;42;42;36;18;65;17;17;26;29,task:2;informational:47;navigational:7;commercial:33;transactional:11
+Almofadas e Capas de Decoração,16,3997,28;26;21;17;17;17;6;29;26;66;54;100,task:3;informational:25;navigational:17;commercial:41;transactional:14
+inoxforni and stainless steel ovens,15,72,83;65;100;91;77;66;6;48;53;7;7;7,task:2;informational:50;navigational:5;commercial:15;transactional:28
+Estufas y Cocinas de Exterior,17,1845,4;5;15;17;52;51;31;60;6;6;56;100,task:7;informational:41;navigational:4;commercial:24;transactional:24
+Stove Parts and Accessories,15,2511,19;17;21;33;59;36;11;3;3;70;100;95,task:8;informational:44;navigational:4;commercial:38;transactional:6
+Prateleiras de Quarto e Decoração,15,609,18;18;12;12;100;93;59;20;18;32;32;41,task:7;informational:45;navigational:1;commercial:35;transactional:12
+Home Appliance and Appliance Retailers,15,6229,37;21;18;15;15;13;15;77;82;100;73;84,task:3;informational:42;navigational:15;commercial:15;transactional:25
+Gold and Stainless Steel Kitchen Appliances,20,1235,23;40;49;51;58;100;74;13;47;58;27;35,task:2;informational:44;navigational:7;commercial:37;transactional:10
+Franklin Stoves and Electric Fireplaces,90,18544,33;45;46;72;84;76;76;92;100;100;93;93,task:5;informational:36;navigational:14;commercial:31;transactional:14
+Electrolux Gas Ranges and Cooktops,18,521,57;66;66;69;68;100;94;20;63;98;50;49,task:3;informational:46;navigational:13;commercial:13;transactional:25
+Rocks Appliances and Home Fixtures,15,2986,66;61;65;39;39;75;58;18;85;100;16;90,task:7;informational:44;navigational:18;commercial:18;transactional:13
+Impressoras e Acessórios,17,1286,100;76;72;50;38;56;38;29;13;60;52;69,task:12;informational:20;navigational:3;commercial:54;transactional:11
+Cambros de Cocina y Porcelanas,15,363,41;72;56;54;68;59;55;100;86;49;36;53,task:2;informational:80;navigational:3;commercial:10;transactional:5
+Cafeteiras Philips Walita,15,52,52;14;15;14;34;41;100;92;50;11;14;12,task:3;informational:41;navigational:10;commercial:41;transactional:5
+Hushållsapparater och reservdelar,15,524,100;70;4;5;97;94;66;86;84;84;15;25,task:3;informational:57;navigational:12;commercial:18;transactional:10
+Home Appliances and Fixtures,20,991,70;96;100;68;32;31;87;40;41;41;41;41,task:2;informational:70;navigational:5;commercial:15;transactional:8
+bombril,17,1076,46;54;54;51;100;100;62;61;56;56;56;56,task:2;informational:73;navigational:10;commercial:10;transactional:5
+Magefesa Produtos e Catálogo,15,130,58;100;88;40;40;40;40;50;50;50;50;50,task:2;informational:37;navigational:46;commercial:11;transactional:4
+Decoración y mobiliario de madera para cocina,15,1476,5;3;3;2;1;20;10;51;86;100;65;74,task:3;informational:52;navigational:5;commercial:18;transactional:22
+Farberware Electric Skillets and Griddles,18,90,20;69;16;18;17;17;17;100;48;78;18;18,task:3;informational:39;navigational:10;commercial:40;transactional:8
+Scooters e Mobilidade Elétrica,15,55,4;8;100;81;70;52;51;12;51;43;6;6,task:5;informational:39;navigational:21;commercial:14;transactional:21
+Cubiertas de Cocina y Piedra,16,2601,55;28;24;5;5;5;4;29;28;100;87;91,task:7;informational:36;navigational:4;commercial:42;transactional:11
+Abridores elétricos de vinho,15,979,21;14;50;64;76;11;10;100;36;52;82;55,task:5;informational:41;navigational:2;commercial:38;transactional:14
+Electric Coil Cooktops,17,1096,20;51;45;38;63;92;78;100;39;23;45;54,task:2;informational:46;navigational:9;commercial:31;transactional:12
+Microondas de Acero Inoxidable,16,3670,37;18;54;44;62;43;21;47;11;17;93;100,task:5;informational:36;navigational:4;commercial:32;transactional:23
+Electrodomésticos y Muebles en Walmart,25,7684,47;61;46;41;37;39;44;37;50;53;82;100,task:3;informational:21;navigational:39;commercial:7;transactional:30
+fireplaces and stoves,15,214,45;42;75;64;60;40;100;6;70;56;27;37,task:5;informational:46;navigational:3;commercial:40;transactional:6
+Limpa Alumínio,16,128,100;77;84;92;11;19;7;73;91;15;15;15,task:2;informational:75;navigational:8;commercial:10;transactional:5
+distinctive kitchen appliances,15,2664,46;30;28;18;18;16;15;91;40;100;83;96,task:8;informational:66;navigational:13;commercial:12;transactional:1
+Lang Commercial Kitchen Equipment,16,31,43;52;24;24;62;100;31;42;37;33;27;28,task:3;informational:15;navigational:52;commercial:18;transactional:12
+Lacador e Login Online,20,474,36;67;55;100;24;23;22;32;32;31;32;33,task:2;informational:45;navigational:33;commercial:10;transactional:10
+Recipientes y Platos para Hornear,16,169,23;46;20;19;19;10;9;16;92;100;10;10,task:2;informational:54;navigational:7;commercial:29;transactional:8
+Mesas de Escritório e Estudo,15,3210,25;18;17;15;38;34;28;23;34;43;88;100,task:7;informational:18;navigational:3;commercial:60;transactional:12
+Paninhos e Panos de Limpeza,15,3776,10;18;25;21;11;17;14;36;42;34;86;100,task:7;informational:44;navigational:1;commercial:34;transactional:14
+Cookware and Kitchenware Reviews,20,871,29;11;10;13;5;5;14;4;78;100;18;14,task:8;informational:31;navigational:5;commercial:50;transactional:6
+Bases y soportes para electrodomésticos,15,6947,5;4;8;7;39;39;27;7;14;21;96;100,task:3;informational:30;navigational:11;commercial:38;transactional:18
+Home Appliance and Electronics Search,15,2329,100;63;67;58;58;85;87;93;91;72;87;76,task:3;informational:60;navigational:12;commercial:18;transactional:7
+Kitchen and Dining Services,15,2503,98;72;68;26;26;30;35;100;86;50;62;67,task:7;informational:45;navigational:15;commercial:18;transactional:15
+Gabinetes de Cocina y Modernos,17,225,23;50;100;83;86;26;35;45;54;60;57;12,task:8;informational:54;navigational:1;commercial:33;transactional:4
+Home Appliance Parts and Support,15,3689,2;23;43;34;32;15;13;43;13;17;95;100,task:7;informational:63;navigational:8;commercial:12;transactional:10
+Balanças e suas traduções e usos,17,1495,31;30;44;65;66;68;70;50;93;96;95;100,task:3;informational:63;navigational:5;commercial:10;transactional:19
+Linguagem e Expressões Relacionadas a Intimidade e Prazer,15,1398,77;19;77;60;77;58;100;32;31;53;39;64,task:13;informational:58;navigational:2;commercial:8;transactional:19
+Energy Efficient Kitchen Appliances,28,3096,45;36;34;35;71;92;100;77;63;60;59;59,task:5;informational:52;navigational:2;commercial:31;transactional:10
+Serviços Locais e de Atendimento,21,3220,18;26;39;98;100;76;59;48;42;48;51;73,task:2;informational:65;navigational:17;commercial:10;transactional:6
+Repuestos y servicios para electrodomésticos Thermador,16,74,100;95;45;45;50;51;45;45;44;44;46;48,task:10;informational:40;navigational:5;commercial:8;transactional:37
+Electrodomésticos y Tiendas en El Salvador,18,927,80;86;100;42;43;52;38;38;37;36;35;37,task:2;informational:35;navigational:31;commercial:14;transactional:18
+Magic Chef Electric Cooktops and Stoves,16,2520,52;35;20;15;25;51;68;2;2;2;70;100,task:3;informational:47;navigational:5;commercial:26;transactional:19
+Kits de Sobrevivência e Emergência,16,561,100;96;70;56;50;50;13;43;38;26;27;23,task:2;informational:55;navigational:4;commercial:33;transactional:6
+Lavadoras de Carros,17,1218,6;8;13;12;4;27;17;100;30;35;22;31,task:7;informational:43;navigational:6;commercial:22;transactional:22
+Comales para tortillas y electrodomésticos de cocina,22,5282,27;27;27;29;30;43;32;38;94;94;98;100,task:10;informational:39;navigational:10;commercial:29;transactional:12
+Forni Massimo e gamme di forni,16,148,100;78;4;3;2;15;31;77;15;16;9;12,task:3;informational:25;navigational:34;commercial:26;transactional:12
+Limpiadores y Desengrasantes para Cocina y Estufas,50,11514,27;28;28;38;51;46;46;46;60;60;100;98,task:2;informational:56;navigational:5;commercial:22;transactional:15
+Auto Elétrica e Serviços Automotivos,17,333,100;94;57;96;79;82;84;47;82;83;83;82,task:2;informational:65;navigational:15;commercial:13;transactional:5
+Leites Culinária and Culinary Content,17,2330,46;46;46;70;70;59;77;100;89;89;66;79,task:10;informational:57;navigational:16;commercial:7;transactional:10
+Ecrãs e Telas,17,3547,28;25;19;22;23;23;49;53;43;100;78;95,task:5;informational:61;navigational:19;commercial:9;transactional:6
+Vibradores e Uso Pessoal,19,413,100;30;30;27;27;27;28;13;24;23;23;23,task:2;informational:69;navigational:6;commercial:17;transactional:6
+bauer stoves and fireplaces,15,3626,13;36;2;3;5;3;3;10;5;6;4;100,task:1;informational:28;navigational:61;commercial:7;transactional:3
+Induction Cooktops and Cookware,1348,851764,36;40;47;67;89;89;89;100;100;100;100;100,task:8;informational:49;navigational:4;commercial:32;transactional:7
+Ventiladores de Coluna e Pé,15,287,17;19;100;83;93;9;7;95;4;6;22;21,task:7;informational:42;navigational:3;commercial:40;transactional:8
+Cocinas Empotradas y Modernas,15,108,65;72;76;96;100;88;88;92;91;90;90;90,task:3;informational:64;navigational:2;commercial:21;transactional:10
+countertop cooking appliances and surfaces,18,5524,38;26;96;93;94;100;85;81;85;85;84;86,task:2;informational:50;navigational:4;commercial:38;transactional:6
+Sacos e Estojos de Garrafas,15,65,26;23;93;67;90;100;86;9;11;12;9;9,task:5;informational:18;navigational:2;commercial:33;transactional:42
+Repuestos y accesorios para estufas de gas,15,1896,17;13;9;47;61;46;36;69;100;79;60;74,task:2;informational:15;navigational:3;commercial:59;transactional:21
+Estufas de gas Whirlpool,16,1418,34;25;12;9;13;12;4;3;99;100;35;33,task:3;informational:32;navigational:32;commercial:11;transactional:22
+Bruno Kitchen Appliances and Cookware,17,245,91;100;14;15;15;17;15;15;15;15;15;16,task:6;informational:38;navigational:18;commercial:25;transactional:13
+Bosch Electric Cooktops,15,306,19;17;100;71;76;11;4;19;34;38;33;38,task:1;informational:56;navigational:11;commercial:19;transactional:13
+Tábua de Frios e Petiscos,18,4223,13;14;14;30;26;26;26;27;28;100;77;99,task:5;informational:65;navigational:5;commercial:16;transactional:9
+Cast Iron and Wood Stove Accessories,85,10447,54;42;49;58;99;100;100;67;69;69;70;70,task:3;informational:46;navigational:4;commercial:38;transactional:9
+Cuscuzeiras Tramontina,15,25,65;60;67;98;100;53;53;58;53;55;55;60,task:4;informational:40;navigational:28;commercial:18;transactional:10
+Escovas Elétricas Infantis,15,103,31;22;31;28;28;30;23;37;100;90;5;4,task:7;informational:41;navigational:4;commercial:28;transactional:20
+Protectores para Estufas,17,3894,23;12;7;11;13;4;3;16;87;93;87;100,task:7;informational:42;navigational:5;commercial:21;transactional:25
+Kitchenaid Appliances and Cookware,45,8254,73;73;62;70;74;75;75;77;96;100;70;70,task:2;informational:39;navigational:14;commercial:30;transactional:15
+hornos de encastre a gas,15,2402,4;3;2;5;5;3;45;68;47;69;59;100,informational:41;commercial:47;transactional:12
+Cocinas Modernas y Pequeñas,28,10694,96;100;82;79;71;72;72;76;72;72;72;72,task:2;informational:56;navigational:2;commercial:31;transactional:9
+Electrodomésticos de neveras y frigoríficos,24,2586,42;42;37;52;88;85;71;100;63;73;51;52,task:2;informational:45;navigational:2;commercial:41;transactional:10
+BBQ Grills and Accessories,15,40,15;7;13;79;100;88;53;14;11;18;23;21,task:3;informational:34;navigational:5;commercial:18;transactional:40
+Éviers de cuisine,17,5366,43;30;20;26;43;34;26;23;68;71;81;100,task:7;informational:47;navigational:1;commercial:34;transactional:11
+Eletricistas e Cursos de Eletricidade,21,1419,32;35;64;61;63;66;63;85;93;94;95;100,task:2;informational:64;navigational:12;commercial:10;transactional:12
+Vajillas y Juegos de Platos Modernos y Elegantes,23,2900,77;50;51;47;47;47;50;41;45;44;76;100,task:5;informational:44;navigational:4;commercial:35;transactional:12
+Well-Equipped Kitchen Essentials,21,498,89;43;73;68;73;54;41;100;63;66;57;18,task:8;informational:57;navigational:6;commercial:26;transactional:3
+Umidificadores de Ar,20,1118,62;96;18;70;67;68;72;47;71;100;48;48,task:2;informational:48;navigational:4;commercial:27;transactional:19
+Escrivaninhas e Mesas de Quarto,15,1900,9;14;11;9;63;60;73;85;85;89;83;100,task:2;informational:31;navigational:3;commercial:54;transactional:10
+Gas Stove Images and Photos,15,6536,46;28;32;23;31;26;19;17;25;26;91;100,task:3;informational:27;navigational:38;commercial:20;transactional:12
+Cafeteiras Italianas Moka,15,303,45;60;50;75;70;63;57;100;91;56;56;56,task:1;informational:49;navigational:5;commercial:15;transactional:30
+Materiais de Construção e Lojas de Materiais,21,3522,37;39;28;42;61;54;48;48;52;100;82;99,task:5;informational:47;navigational:10;commercial:30;transactional:8
+Decoração de Casa,19,1039,25;20;17;84;100;96;73;53;50;72;66;76,task:10;informational:61;navigational:4;commercial:19;transactional:6
+Pratos e Pratinhos Descartáveis para Festas e Uso Diário,15,880,11;11;11;9;13;14;29;57;42;84;79;100,task:7;informational:25;navigational:1;commercial:44;transactional:23
+Parrillas y Asadores a Gas,16,2903,20;19;29;30;30;22;8;3;74;85;94;100,task:1;informational:46;navigational:14;commercial:26;transactional:13
+Carvão e Carvão Ativado,23,2269,23;20;21;100;37;38;38;86;86;86;86;86,task:2;informational:78;navigational:5;commercial:12;transactional:3
+Smart TV e Televisores,15,1913,50;32;36;40;46;31;22;100;75;95;75;44,task:5;informational:27;navigational:2;commercial:58;transactional:8
+Abafadores de Ruído,15,1141,19;19;22;22;22;63;51;95;100;40;37;39,task:7;informational:35;navigational:3;commercial:43;transactional:12
+Repuestos y reparación de electrodomésticos Thermador,15,22,18;34;24;100;23;19;22;22;20;17;17;20,task:3;informational:62;navigational:5;commercial:12;transactional:18
+Discos para cocinar y arar,19,518,32;32;53;48;48;50;36;100;36;36;36;36,task:5;informational:66;navigational:4;commercial:19;transactional:6
+Medidores de Pressão Arterial,20,304,73;47;36;54;72;65;86;100;8;8;8;9,task:5;informational:41;navigational:4;commercial:41;transactional:9
+Balanças de Peso,15,60,53;37;50;40;40;15;2;100;90;67;6;5,task:3;informational:41;navigational:11;commercial:37;transactional:8
+Estufas con plancha de leña y gas,15,5473,8;8;22;25;21;13;9;15;16;23;62;100,task:7;informational:45;navigational:8;commercial:24;transactional:16
+Cocinas Cosori en Amazon,15,725,100;41;34;16;19;14;46;77;64;52;56;57,task:3;informational:11;navigational:39;commercial:18;transactional:29
+Frying Pans and Skillets,276,160706,38;38;38;72;94;94;94;83;100;100;100;100,task:2;informational:51;navigational:4;commercial:36;transactional:7
+Ovens and Wall Ovens,240,50828,76;66;70;77;79;79;79;100;78;78;83;86,task:2;informational:38;navigational:4;commercial:42;transactional:14
+Bombas de tirar leite e ordenha,17,575,56;46;73;52;24;25;100;24;27;27;57;61,task:2;informational:41;navigational:3;commercial:45;transactional:9
+Impressoras Portáteis e Térmicas,16,1276,23;24;44;39;55;100;64;68;55;58;75;87,task:4;informational:55;navigational:4;commercial:31;transactional:6
+Cubetas y Botes de Basura para Cocina,15,2490,25;18;16;20;21;28;31;57;100;59;51;44,task:3;informational:40;navigational:7;commercial:34;transactional:16
+Tecnologia de Segurança e Dispositivos IoT,19,698,89;19;23;21;100;100;45;39;47;47;52;65,task:9;informational:56;navigational:13;commercial:10;transactional:12
+Chef Ovens and Cooking Equipment,15,130,100;56;60;48;44;35;69;53;51;55;56;48,task:5;informational:57;navigational:2;commercial:26;transactional:10
+Microondas portátiles y accesorios,15,50,7;100;98;87;51;56;22;10;8;5;5;6,task:3;informational:42;navigational:8;commercial:29;transactional:18
+Cookware Sets and Kitchen Pots,22,3414,37;39;38;42;65;59;44;31;96;100;61;63,task:5;informational:40;navigational:4;commercial:37;transactional:14
+Luxury and High-End Kitchen Appliances,303,105013,66;63;71;86;95;95;95;100;99;99;100;100,task:2;informational:48;navigational:4;commercial:36;transactional:10
+Televisão e Mídia Digital,15,7595,37;41;42;30;29;31;29;7;12;76;49;100,task:7;informational:42;navigational:33;commercial:10;transactional:8
+Leroy Merlin e Bricomarché em Portugal e Brasil,15,161,16;17;17;87;89;100;52;96;71;18;18;18,task:3;informational:59;navigational:17;commercial:10;transactional:11
+Carrinhos elétricos infantis,16,909,6;14;10;9;37;37;28;35;81;100;25;38,task:2;informational:42;navigational:3;commercial:44;transactional:9
+mamavation cookware and kitchen appliances,16,194,8;8;8;12;12;51;100;8;6;18;13;17,task:6;informational:28;navigational:24;commercial:21;transactional:21
+Chauffage et systèmes de chauffage,15,310,100;88;26;26;26;26;22;27;27;35;32;38,task:3;informational:61;navigational:4;commercial:21;transactional:11
+Extractor de humos y succionadores de humo,15,3128,26;27;49;40;40;47;30;40;98;100;68;73,task:10;informational:42;navigational:5;commercial:25;transactional:18
+Lojas e Peças de Motos,20,245,80;100;91;57;64;79;73;53;45;46;49;46,task:3;informational:30;navigational:21;commercial:42;transactional:4
+Used Kitchen Appliances and Home Goods,22,5009,87;85;96;98;83;81;81;87;100;99;87;87,task:8;informational:23;navigational:4;commercial:35;transactional:30
+kits e acessórios para banheiro,15,5633,3;2;3;45;27;35;24;15;15;100;81;95,task:2;informational:25;navigational:3;commercial:55;transactional:15
+All Clad Kitchen Appliances and Cookware,19,426,100;39;65;57;57;40;16;22;30;25;21;23,task:2;informational:30;navigational:31;commercial:30;transactional:7
+Cuisipro Kitchen Tools and Accessories,16,4684,3;11;54;50;50;48;33;46;8;10;74;100,task:1;informational:39;navigational:18;commercial:29;transactional:13
+Kitchen Appliances and Storage Solutions,16,1906,95;44;56;55;70;37;43;65;50;67;62;100,task:7;informational:50;navigational:4;commercial:28;transactional:11
+Fohere Kitchen Appliances and Reviews,18,1460,17;16;13;29;30;26;39;71;30;81;74;100,informational:42;navigational:11;commercial:37;transactional:10
+Controle de TV e Dispositivos de Entretenimento,16,807,100;80;45;39;45;32;42;1;1;1;21;24,task:12;informational:53;navigational:5;commercial:12;transactional:18
+Acessórios para cabelo e enfeites,15,20,12;70;3;3;3;5;5;83;92;100;3;3,task:3;informational:49;navigational:4;commercial:33;transactional:11
+Household and Commercial Appliance Manufacturing,16,2976,100;77;72;54;49;38;34;92;76;73;59;70,task:8;informational:70;navigational:5;commercial:15;transactional:2
+Engenharia Elétrica,16,1474,94;100;77;11;11;14;13;18;18;64;34;52,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Vajillas y Sartenes,16,393,6;15;17;20;59;30;20;100;22;38;8;11,task:6;informational:41;navigational:5;commercial:35;transactional:13
+Mesones de Cocina y Materiales,17,310,61;61;63;64;64;64;64;94;100;67;67;82,task:8;informational:72;navigational:3;commercial:17
+fireplace accessories and supplies,40,19007,18;43;26;25;24;28;25;62;70;69;97;100,task:10;informational:30;navigational:5;commercial:44;transactional:11
+Bakers and Chefs Kitchenware and Culinary Tools,21,731,97;100;87;38;35;24;21;32;35;36;34;32,task:2;informational:45;navigational:6;commercial:38;transactional:9
+French Kitchenware and Cookware,37,8193,44;47;40;54;64;64;65;88;100;100;100;100,task:2;informational:45;navigational:14;commercial:31;transactional:8
+All-in-One Appliance and Furniture Shopping,16,3475,1;61;58;32;45;26;16;54;51;91;90;100,task:7;informational:35;navigational:1;commercial:32;transactional:25
+Forza Kitchen Appliances and Ranges,15,164,43;100;46;64;95;16;14;94;50;7;10;12,task:3;informational:25;navigational:42;commercial:18;transactional:12
+Empava Kitchen Appliances,34,13737,34;28;25;25;30;28;26;59;52;56;91;100,task:2;informational:34;navigational:32;commercial:22;transactional:10
+kotły i piece centralnego ogrzewania,17,318,14;6;6;7;13;12;44;88;100;9;9;9,task:5;informational:59;navigational:2;commercial:31;transactional:3
+Cozinha das Flores,15,150,7;100;56;69;64;66;54;5;5;5;9;10,task:3;informational:45;navigational:33;commercial:8;transactional:11
+Cucharas y utensilios de cocina de madera y silicona,16,1542,29;46;21;28;22;21;22;13;14;14;100;91,task:3;informational:62;navigational:2;commercial:20;transactional:13
+Cocinas y Gabinetes de Madera,17,135,27;26;26;21;21;100;64;27;29;51;54;21,task:10;informational:35;navigational:1;commercial:38;transactional:16
+Types of Stoves and Cooktops,58,10342,87;83;82;82;81;81;79;100;88;88;89;89,task:4;informational:68;navigational:3;commercial:20;transactional:5
+Baicons e Beacons,17,1327,9;33;25;43;43;49;48;38;24;100;66;84,task:5;informational:64;navigational:10;commercial:10;transactional:11
+Bancos e Móveis para Vanities,15,8534,1;1;19;18;12;16;12;22;29;34;78;100,task:7;informational:32;navigational:11;commercial:29;transactional:21
+Kitchen Utensils and Cooking Tools,15,85,32;59;7;7;7;11;59;100;69;65;6;6,task:7;informational:41;navigational:10;commercial:24;transactional:18
+Chineros y Gabinetes de Cocina de Madera,16,286,41;33;23;22;22;29;95;95;100;92;30;39,task:7;informational:62;navigational:5;commercial:23;transactional:3
+Arrocera eléctrica y ollas arrocera,30,2604,29;27;25;62;62;83;77;100;84;99;48;47,task:2;informational:55;navigational:3;commercial:25;transactional:15
+Ar Condicionado LG,15,338,34;30;43;29;5;6;48;9;5;100;14;8,task:3;informational:28;navigational:32;commercial:18;transactional:19
+Backofen und Backofenbau,16,273,24;31;27;27;32;31;100;27;27;27;26;27,task:3;informational:70;navigational:5;commercial:12;transactional:10
+French Cookware and Kitchenware,27,2405,73;20;21;21;55;54;53;56;100;99;82;81,task:5;informational:39;navigational:9;commercial:37;transactional:10
+Electrodomésticos y utensilios de cocina en Walmart,17,140,96;60;100;67;72;66;17;29;28;14;10;12,task:3;informational:21;navigational:40;commercial:12;transactional:24
+Pièces d'appareils électroménagers Eau,17,3400,17;15;22;19;21;18;21;49;76;100;76;72,task:2;informational:73;navigational:10;commercial:10;transactional:5
+Gas Stoves,15,3863,71;57;40;30;31;67;60;65;28;24;85;100,task:10;informational:32;navigational:15;commercial:25;transactional:18
+Calefacción y calentadores domésticos,99,15999,54;55;47;50;54;55;55;100;93;93;92;93,task:2;informational:67;navigational:5;commercial:17;transactional:9
+Electrodomésticos y Muebles en Curazao,15,841,52;62;65;91;78;51;17;100;53;43;54;72,task:4;informational:28;navigational:39;commercial:24;transactional:5
+Hornos Unox Anna,15,13,79;69;100;71;32;15;11;11;11;14;13;14,task:3;informational:18;navigational:34;commercial:40;transactional:5
+Chaves de Ferramenta e Ferramentas Manuais,16,121,38;63;100;84;13;13;12;81;42;45;21;22,task:3;informational:52;navigational:2;commercial:18;transactional:25
+Zerofeud e Acessórios Compactos,15,103,19;100;52;45;18;18;21;14;14;14;14;14,task:10;informational:26;navigational:28;commercial:17;transactional:19
+Ceramic and Tile Stoves,16,414,100;58;54;30;26;29;37;22;24;33;27;29,task:8;informational:53;navigational:4;commercial:27;transactional:8
+Produtos e Serviços Brasileiros,16,751,10;13;15;17;47;46;39;100;19;16;46;54,informational:74;navigational:10;commercial:12;transactional:4
+Quemadores para discos de cocina,17,210,19;13;100;67;67;26;17;88;30;36;10;12,task:3;informational:54;navigational:2;commercial:24;transactional:17
+Cafeteiras Oster,15,53,23;31;100;92;91;5;5;4;13;11;8;11,task:5;informational:38;navigational:20;commercial:22;transactional:15
+Multi-Functional Electric Cookers,28,2989,50;62;51;46;76;90;75;80;94;100;84;85,task:8;informational:42;navigational:4;commercial:29;transactional:17
+Calentadores y loncheras eléctricas para comida,17,748,59;36;31;31;68;100;53;56;40;44;57;63,task:7;informational:44;navigational:5;commercial:26;transactional:18
+Armários de Quarto,15,947,23;12;7;47;55;55;35;100;97;97;63;52,task:7;informational:36;navigational:4;commercial:42;transactional:11
+Stainless Steel Cookware and Kitchen Sets,1185,635881,34;47;62;82;92;92;92;100;90;90;90;90,task:8;informational:33;navigational:4;commercial:44;transactional:11
+Kitchenaid Ovens and Appliances,19,1972,62;28;29;34;48;56;100;34;41;40;73;84,task:1;informational:49;navigational:27;commercial:11;transactional:12
+Tecas e Tacos,16,2721,98;100;100;100;100;100;100;99;98;99;98;99,task:5;informational:50;navigational:20;commercial:10;transactional:15
+Programas y electrodomésticos Thermador,15,39,90;59;100;80;40;40;44;48;72;89;41;34,task:3;informational:55;navigational:5;commercial:12;transactional:25
+Chimeneas y Estufas de Leña,18,454,9;10;21;23;25;23;100;11;24;25;20;31,task:7;informational:60;navigational:2;commercial:18;transactional:13
+Portable Electric Cooking and Power Devices,17,344,100;62;49;36;36;39;6;28;16;8;14;15,task:3;informational:40;navigational:9;commercial:27;transactional:21
+Acessórios Nespresso para Café,15,129,14;6;8;7;47;12;7;72;100;94;8;15,task:3;informational:42;navigational:12;commercial:18;transactional:25
+Electrodomésticos y Lavadoras,73,20612,62;56;56;67;46;49;47;100;63;65;67;69,task:6;informational:44;navigational:3;commercial:34;transactional:13
+Kitchen Appliance Ideas and Remodels,18,258,50;33;34;43;43;45;11;100;68;11;7;9,task:5;informational:47;navigational:4;commercial:38;transactional:6
+retro and vintage electric stoves and ovens,33,6204,15;16;16;19;19;20;26;17;100;100;55;60,task:1;informational:38;navigational:3;commercial:48;transactional:10
+Tops Appliances and Cabinetry,17,2581,88;54;64;47;53;41;24;45;28;90;74;100,task:2;informational:49;navigational:21;commercial:20;transactional:8
+Ollas y Cazuelas Princess House,16,525,47;60;57;59;61;98;72;47;100;89;45;40,informational:29;navigational:31;commercial:11;transactional:29
+Forni da Incasso di Alta Qualità,17,1240,27;27;25;25;28;61;68;94;75;80;60;100,task:12;informational:30;navigational:4;commercial:50;transactional:4
+Expressões de Música e Moda,16,568,45;72;74;76;100;99;97;74;74;74;88;88,task:12;informational:45;navigational:5;commercial:23;transactional:15
+Dezin Electric Hot Pots and Cookers,15,545,42;93;100;73;63;58;34;21;21;21;31;40,task:7;informational:34;navigational:22;commercial:20;transactional:17
+Sistemas de Segurança Residencial,18,1369,70;52;100;73;73;26;41;39;50;47;35;67,task:2;informational:50;navigational:4;commercial:38;transactional:6
+Microondas Industriales,16,314,40;31;22;24;24;100;92;26;24;39;38;43,task:5;informational:62;navigational:4;commercial:23;transactional:6
+Fregaderos de Cocina Modernos y Tradicionales,16,332,16;32;44;38;29;4;4;56;95;100;7;9,task:2;informational:59;navigational:4;commercial:31;transactional:4
+Encendedores y su Uso en Inglés,18,853,60;56;82;77;58;37;38;100;30;29;29;30,task:29;informational:40;navigational:2;commercial:27;transactional:2
+Carrinhos de Controle Remoto a Gasolina,15,18,27;29;71;81;100;17;17;20;24;25;16;14,task:7;informational:41;navigational:4;commercial:28;transactional:20
+Classic Ovens and Gas Ranges,16,407,99;59;61;48;100;86;61;3;13;14;14;17,task:7;informational:45;navigational:4;commercial:28;transactional:16
+Italian Induction Cooktops and Ranges,16,58,11;10;59;29;29;90;100;8;7;7;5;5,task:5;informational:59;navigational:3;commercial:29;transactional:4
+Prateleiras e Portas para Closet,15,3690,3;2;2;31;31;38;22;81;95;100;73;89,task:7;informational:32;navigational:1;commercial:46;transactional:14
+Torra e Marcas Associadas,15,232,73;76;76;100;98;88;74;48;49;47;48;48,task:5;informational:65;navigational:17;commercial:10;transactional:3
+Appliance Parts and Electronics,15,440,35;55;100;85;85;86;65;28;24;34;34;40,task:3;informational:67;navigational:5;commercial:18;transactional:7
+Farmhouse Kitchen Appliances,15,255,48;32;79;100;100;85;7;10;93;62;14;47,task:10;informational:37;navigational:7;commercial:35;transactional:11
+LG Cooktops and Stoves,19,972,56;68;72;67;100;85;58;18;32;32;29;31,task:5;informational:34;navigational:11;commercial:16;transactional:34
+Cast Iron Combo Cookers and Dutch Ovens,25,3874,30;26;24;22;22;23;23;42;45;45;100;93,task:8;informational:46;navigational:5;commercial:31;transactional:10
+Cookware Comparison and Reviews,29,4819,86;57;61;41;77;58;43;58;78;85;95;100,task:8;informational:41;navigational:5;commercial:36;transactional:10
+Configurações de Dispositivos e Tecnologia,21,1531,56;37;40;43;39;41;44;100;33;39;37;37,task:5;informational:63;navigational:7;commercial:8;transactional:17
+Siemens und Bosch Haushaltsgeräte,16,122,62;40;47;32;100;93;63;17;13;12;11;11,task:3;informational:41;navigational:30;commercial:21;transactional:5
+Automação e Engenharia Mecatrônica,16,424,20;23;20;40;40;42;41;90;100;82;71;84,task:8;informational:75;navigational:5;commercial:10;transactional:2
+Repuestos y accesorios para electrodomésticos Thermador,15,22,100;73;17;17;21;23;19;53;19;22;19;20,task:17;informational:40;navigational:5;commercial:18;transactional:20
+GE 36-inch Cooktops and Ranges,18,1174,32;16;17;16;15;17;100;15;19;19;38;54,task:3;informational:34;navigational:21;commercial:30;transactional:12
+Organizadores y especieros de cocina,15,4182,39;28;24;23;29;27;38;74;79;90;78;100,task:10;informational:39;navigational:5;commercial:24;transactional:22
+Aga Kitchen Appliances and Ranges,125,65056,35;65;66;97;100;100;100;100;99;99;99;99,informational:36;navigational:33;commercial:27;transactional:4
+Climatizadores de Ar,16,275,29;33;27;39;60;62;74;95;100;14;10;13,task:8;informational:65;navigational:5;commercial:12;transactional:10
+Cookpots and Brands,15,1709,100;48;32;40;52;40;7;12;9;10;91;64,task:3;informational:39;navigational:3;commercial:47;transactional:8
+Torches de cuisine pour chefs,15,544,4;7;10;9;9;11;6;7;7;8;100;61,task:7;informational:41;navigational:5;commercial:22;transactional:25
+Transvolt e Transvolt.in,15,13,15;4;4;13;13;15;16;100;54;5;5;5,task:7;informational:26;navigational:52;commercial:11;transactional:4
+Armazenamento NAS Orico,16,699,43;61;70;89;59;75;72;71;49;77;64;100,task:3;informational:18;navigational:30;commercial:40;transactional:9
+Barras y desayunadores para cocinas,23,1645,68;70;75;76;71;74;75;100;77;81;68;69,task:1;informational:63;navigational:10;commercial:19;transactional:7
+Cookline and Kitchen Equipment,15,213,29;34;33;85;100;99;69;38;41;39;66;68,task:1;informational:49;navigational:19;commercial:18;transactional:13
+Calefacción y Aceite para Boilers,16,983,10;11;11;11;11;10;42;26;36;44;16;100,task:2;informational:55;navigational:4;commercial:33;transactional:6
+Climatisation et appareils électroménagers Frigidaire,16,2553,7;4;38;32;32;5;7;1;100;100;65;80,task:3;informational:49;navigational:18;commercial:12;transactional:18
+Fotile Kitchen Hoods and Appliances,21,1850,36;85;100;86;90;78;48;39;81;41;41;41,task:3;informational:35;navigational:28;commercial:22;transactional:12
+Portuguese Pottery and Dinnerware,42,3204,43;47;59;85;77;79;78;100;77;77;75;76,task:6;informational:43;navigational:6;commercial:39;transactional:6
+Forni e Forni Pizza Ovens,16,908,25;17;100;66;63;45;21;41;54;93;34;42,task:3;informational:35;navigational:24;commercial:27;transactional:11
+ollas y sartenes Royal Prestige,32,2333,99;91;88;81;89;100;96;90;97;98;98;95,task:8;informational:33;navigational:25;commercial:24;transactional:10
+Induction Cooktops and Ranges,21,3661,63;93;100;88;59;50;41;57;64;77;75;75,task:5;informational:35;navigational:4;commercial:42;transactional:14
+Kitchen Appliance Models and Brands,16,3270,49;33;18;21;22;55;26;2;2;2;93;100,task:7;informational:62;navigational:6;commercial:15;transactional:10
+Teclados e Mouses Sem Fio,16,1355,56;39;64;48;26;25;17;58;54;74;93;100,task:10;informational:34;navigational:4;commercial:35;transactional:17
+CorningWare Electric Skillet,18,1049,36;36;6;17;6;47;36;56;74;73;100;100,task:7;informational:28;navigational:13;commercial:47;transactional:5
+Home Depot Stove and Cooktop Products,15,7950,22;13;17;13;14;15;23;9;74;95;79;100,task:3;informational:17;navigational:48;commercial:13;transactional:19
+Appliance Retail and Repair,15,1275,65;55;49;36;36;18;20;17;100;80;46;18,task:3;informational:28;navigational:40;commercial:17;transactional:12
+Tazones y batidoras KitchenAid,15,70,24;30;100;47;53;15;8;10;9;9;9;13,task:3;informational:47;navigational:1;commercial:41;transactional:8
+Babás eletrônicas Motorola,15,280,21;46;31;38;9;8;9;12;36;84;100;85,informational:34;navigational:18;commercial:26;transactional:22
+Miniature Kitchen Appliances and Stoves,19,387,48;55;67;63;46;54;77;47;100;98;49;52,task:5;informational:47;navigational:7;commercial:21;transactional:20
+Agarraderas de Cocina,16,1612,25;16;18;18;26;26;12;39;53;61;82;100,task:6;informational:50;navigational:2;commercial:28;transactional:14
+Holiday Kitchen Appliances,17,1161,100;54;66;61;85;79;41;82;74;31;24;38,task:7;informational:34;navigational:4;commercial:34;transactional:21
+Picatodo y electrodomésticos de cocina,15,900,9;8;7;100;100;83;10;41;18;74;70;67,task:5;informational:49;navigational:22;commercial:9;transactional:15
+Maquinas de Limpeza de Carpete,15,408,20;11;100;90;43;39;24;53;75;70;15;15,task:3;informational:45;navigational:1;commercial:33;transactional:18
+Ropa interior femenina y sostenes,19,972,52;54;100;91;50;40;50;89;57;60;87;84,task:2;informational:49;navigational:9;commercial:30;transactional:10
+Nomes e Referências Pessoais,17,352,77;100;98;97;96;96;96;17;17;13;13;13,task:5;informational:62;navigational:8;commercial:10;transactional:15
+Frigidaire Electric Ranges and Ovens,40,8035,35;23;25;27;43;43;46;32;98;100;68;77,informational:51;navigational:15;commercial:26;transactional:8
+La Nordica and Italian Wood Stoves,16,205,38;35;41;38;38;38;63;32;100;70;42;48,task:10;informational:40;navigational:11;commercial:28;transactional:11
+Carrinhos de Controle Remoto,15,102,39;35;39;34;100;71;63;88;38;37;46;43,task:4;informational:44;navigational:4;commercial:28;transactional:20
+Talheres Dourados e Dourados Decorativos,15,3156,6;5;5;10;9;12;20;40;30;100;78;99,informational:25;navigational:11;commercial:49;transactional:15
+Frieling Cookware and Kitchen Equipment,15,730,14;12;17;12;69;68;39;100;83;20;16;31,task:7;informational:21;navigational:49;commercial:9;transactional:14
+Cuia de Chimarrão e Acessórios,17,188,71;85;87;87;96;96;100;32;32;32;32;32,task:10;informational:38;navigational:4;commercial:37;transactional:11
+Motak Kitchen Appliances,16,76,27;25;15;15;15;100;83;16;27;29;36;35,task:1;informational:53;navigational:11;commercial:15;transactional:20
+Kitchen and Food Service Utility,18,1149,81;56;70;42;51;61;53;100;82;40;44;50,task:8;informational:60;navigational:5;commercial:21;transactional:6
+Violões Elétricos,15,84,30;67;99;100;100;59;58;81;21;15;27;47,task:3;informational:61;navigational:4;commercial:18;transactional:14
+Electric Fireplace and Stove Styles and Parts,15,7241,28;17;26;9;9;11;7;12;42;100;55;71,task:5;informational:56;navigational:1;commercial:23;transactional:15
+Hornos de Convección y Convencionales,24,889,20;22;20;55;100;87;85;64;54;84;74;54,task:2;informational:68;navigational:5;commercial:19;transactional:6
+Tablas de cocina y corte de alimentos,20,1545,70;92;62;65;41;33;46;36;96;100;87;94,task:5;informational:55;navigational:5;commercial:19;transactional:16
+Vintage and Retro Style Ovens and Stoves,16,156,15;2;9;11;10;40;33;64;95;100;4;4,task:7;informational:53;navigational:1;commercial:26;transactional:13
+febal casa arredamento e design,16,87,91;81;89;78;78;100;97;69;72;66;73;72,informational:25;navigational:54;commercial:11;transactional:10
+Fırınlar ve Modelleri,15,3882,66;33;42;30;27;26;18;3;46;97;70;100,task:7;informational:50;navigational:4;commercial:31;transactional:8
+Tostadoras de pan y electrodomésticos,22,10355,12;10;23;37;32;28;32;27;52;54;91;100,task:2;informational:45;navigational:6;commercial:35;transactional:12
+Home Comfort Wood and Wrought Iron Stoves,17,317,6;8;6;9;9;9;10;75;86;100;12;12,task:3;informational:43;navigational:9;commercial:39;transactional:6
+Whirlpool Kitchen Appliances,15,3048,52;29;34;32;28;30;10;6;41;15;87;100,task:3;informational:34;navigational:18;commercial:12;transactional:33
+Reparación de cocinas,15,74,100;69;67;72;13;19;14;73;51;6;7;7,task:2;informational:55;navigational:5;commercial:15;transactional:23
+Cocina y utensilios de acero quirúrgico e inoxidable,22,3670,13;15;15;16;82;81;84;93;92;91;100;98,task:5;informational:49;navigational:4;commercial:35;transactional:7
+Electrodomésticos Alkosto,15,924,12;9;11;46;66;52;24;100;87;62;70;50,task:3;informational:20;navigational:55;commercial:8;transactional:14
+Smart Kitchen Gadgets and Tools,131,28872,64;62;66;82;75;75;75;100;94;94;94;94,task:5;informational:33;navigational:5;commercial:45;transactional:12
+Cocinas Industriales y Comerciales para Restaurantes,16,208,72;74;74;66;75;77;77;100;76;73;66;67,task:3;informational:53;navigational:8;commercial:26;transactional:10
+Cazuelas y Ollas de Acero Inoxidable para Cocina y Restaurante,18,2824,51;42;26;26;26;49;43;30;60;83;85;100,task:2;informational:37;navigational:5;commercial:41;transactional:15
+hornos industriales y profesionales para hostelería,16,536,49;51;52;51;50;55;100;23;43;78;73;95,task:2;informational:34;navigational:3;commercial:25;transactional:36
+Caixas de Bombom e Chocolates,16,2068,4;4;19;25;37;4;4;37;89;100;49;71,task:2;informational:42;navigational:2;commercial:38;transactional:16
+Manteles y Bandejas para Cocina,16,4678,8;13;12;9;13;15;8;8;57;70;73;100,task:5;informational:32;navigational:4;commercial:44;transactional:15
+Calentadores y accesorios para piscinas y electrodomésticos portátiles,21,344,42;70;58;50;97;100;29;28;16;16;14;14,task:5;informational:42;navigational:2;commercial:32;transactional:19
+Tiny Home and Small Kitchen Appliances,118,18918,53;47;53;68;71;72;72;100;92;93;85;85,task:5;informational:36;navigational:4;commercial:42;transactional:13
+Ollas y Sartenes Ninja,20,506,100;85;86;63;50;47;25;28;11;13;33;25,task:3;informational:36;navigational:17;commercial:33;transactional:11
+Produtos de Limpeza Veja,15,15,47;58;100;76;51;24;27;55;96;99;5;5,task:3;informational:8;navigational:57;commercial:27;transactional:5
+Revestimentos e Pinturas para Encimeras de Cozinha e Granito,16,21,4;17;4;4;4;5;4;49;100;5;5;5,task:10;informational:53;navigational:1;commercial:32;transactional:4
+Home Appliances and Entertainment Devices,16,3433,100;53;59;46;39;31;22;61;61;60;56;65,task:10;informational:54;navigational:5;commercial:18;transactional:13
+British Kitchen and Home Appliances,17,1858,100;77;64;23;31;28;27;79;39;32;33;84,task:8;informational:61;navigational:7;commercial:21;transactional:3
+Torresmo e Porco,16,1676,82;83;87;100;35;35;35;86;86;86;86;86,task:8;informational:72;navigational:5;commercial:7;transactional:8
+Glass Cookware and Kitchenware,142,43770,23;23;25;57;68;68;68;100;92;92;92;93,task:2;informational:49;navigational:4;commercial:36;transactional:9
+induction cooktops and stoves,94,15189,43;39;44;64;78;76;80;93;95;100;92;95,task:2;informational:45;navigational:5;commercial:38;transactional:10
+Isiler Kitchen Appliances,18,451,28;59;100;25;17;15;14;46;67;50;50;50,task:2;informational:39;navigational:22;commercial:31;transactional:6
+Caixas de Som Bluetooth e para PC,15,1268,84;42;51;47;81;81;46;68;75;79;94;100,task:7;informational:38;navigational:4;commercial:42;transactional:9
+Infuse Cookware and Aluminum Caldero,15,2901,3;4;39;47;81;46;39;26;78;100;47;46,task:3;informational:54;navigational:4;commercial:31;transactional:8
+Fermento para Bolos e Padeiro,20,615,55;94;94;70;90;91;97;92;100;82;82;83,task:5;informational:42;navigational:4;commercial:32;transactional:17
+Pirolise de Madeira e Sustentabilidade,15,1026,100;90;54;45;52;53;48;53;51;36;36;36,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Wood Burning Stoves and Heaters,31,4130,10;44;56;29;48;44;44;100;52;46;58;62,task:2;informational:57;navigational:4;commercial:27;transactional:10
+roupa de cama e lençóis,18,2186,12;12;12;63;63;49;39;78;100;26;26;95,task:8;informational:55;navigational:2;commercial:25;transactional:10
+Fagor Induction Cooktops and Cookware,17,233,94;100;24;35;100;83;69;15;8;17;13;14,task:5;informational:42;navigational:6;commercial:40;transactional:7
+emileexo e emelliexo nude,15,1054,83;68;56;43;43;85;67;100;87;67;38;38,task:40;informational:34;navigational:4;commercial:18;transactional:4
+Organizadores de Cocina y Gabinetes,15,6913,31;21;36;28;6;6;30;45;32;47;94;100,task:10;informational:43;navigational:11;commercial:24;transactional:12
+Calefacción y sistemas de climatización,34,1696,57;71;59;74;76;76;76;100;79;79;79;79,task:5;informational:73;navigational:3;commercial:15;transactional:4
+Wood Stove and Pellet Stove Parts & Accessories,45,5433,59;59;56;61;69;71;72;75;100;100;58;59,task:10;informational:27;navigational:2;commercial:45;transactional:16
+Backofen mit Mikrowelle,15,2368,39;25;33;30;18;40;32;100;6;7;77;86,task:10;informational:38;navigational:7;commercial:40;transactional:5
+Kitchen Gadgets and Gizmos,16,343,54;31;20;30;21;3;3;27;81;100;9;9,task:3;informational:39;navigational:11;commercial:36;transactional:11
+Appliance and Cafe Equipment,15,484,66;40;47;46;91;100;29;16;39;70;64;79,task:3;informational:38;navigational:34;commercial:17;transactional:8
+Asadores y parrillas de cerámica y huevo verde,15,43,48;66;23;22;22;22;23;100;27;30;37;39,task:3;informational:46;navigational:12;commercial:23;transactional:16
+Electric Woks and Electric Skillets,33,2546,58;100;98;90;72;73;75;78;76;76;74;76,task:5;informational:32;navigational:3;commercial:46;transactional:14
+Quemadores con plancha,15,4804,2;5;13;8;8;21;18;17;19;21;100;92,task:3;informational:56;navigational:12;commercial:18;transactional:11
+Gas Cookers and Ranges,23,4584,70;42;56;52;52;30;46;22;64;76;100;100,task:4;informational:35;commercial:53;transactional:8
+Cocinas en El Salvador,15,2040,9;7;8;7;4;30;22;38;25;99;75;100,task:3;informational:56;navigational:11;commercial:23;transactional:7
+Esfiha e Receitas Brasileiras,24,821,47;45;75;100;66;68;53;30;27;26;26;26,task:2;informational:80;navigational:6;commercial:8;transactional:4
+kibe e quibe assados e fritos,28,1407,67;68;68;66;67;68;68;91;100;100;100;100,task:8;informational:75;navigational:5;commercial:10;transactional:2
+Cocina moderna y renovaciones,15,21,5;5;7;6;6;47;100;7;7;7;7;7,task:7;informational:52;navigational:4;commercial:26;transactional:11
+Friteuses et appareils de cuisson sans huile,18,975,27;25;35;32;29;34;31;82;83;87;96;100,task:2;informational:49;navigational:2;commercial:38;transactional:9
+Ímãs de Neodímio e Magnéticos,19,2360,8;8;8;8;19;21;22;27;24;80;49;100,task:2;informational:66;navigational:5;commercial:13;transactional:14
+Incêndios na Califórnia e Los Angeles,15,215,72;75;53;46;40;44;6;2;100;91;69;2,task:5;informational:72;navigational:5;commercial:8;transactional:10
+Cuisinart Electric Skillets and Frying Pans,19,274,33;58;97;95;100;65;41;11;31;38;15;15,task:3;informational:48;navigational:10;commercial:28;transactional:11
+Commercial Kitchen Equipment and Appliances,19,527,79;100;88;96;99;38;35;79;31;31;31;32,task:10;informational:48;navigational:10;commercial:26;transactional:6
+Food & Wine Cookware,15,306,21;14;15;20;100;35;4;23;22;19;16;18,task:7;informational:29;navigational:20;commercial:33;transactional:11
+Extractores portátiles de cocina y humos,15,92,5;5;100;82;80;80;4;4;4;4;4;4,task:5;informational:58;navigational:3;commercial:20;transactional:14
+Equipamiento y maquinaria para hostelería,17,315,100;85;97;76;74;74;71;68;65;59;62;62,task:2;informational:43;navigational:4;commercial:42;transactional:9
+Tefal Cookware and Kitchenware,26,3001,38;40;38;37;49;37;37;34;53;54;87;100,task:2;informational:34;navigational:15;commercial:36;transactional:13
+Induction and Oven Steamer Cookware,16,470,3;7;9;9;28;19;85;100;5;5;28;28,task:10;informational:51;navigational:2;commercial:36;transactional:1
+Cottura e Ceramiche Italiane,16,193,12;16;16;23;21;21;34;100;74;13;13;13,task:1;informational:68;navigational:4;commercial:23;transactional:4
+Parrillas de inducción,16,620,81;56;80;55;72;59;65;89;66;100;23;26,task:5;informational:56;navigational:4;commercial:31;transactional:4
+Avanti Kitchen Appliances,17,602,13;6;7;8;9;7;23;6;83;100;10;14,task:5;informational:31;navigational:19;commercial:29;transactional:16
+Chitãozinho e Xororó,18,577,100;100;69;76;75;71;69;70;70;70;71;71,task:5;informational:61;navigational:10;commercial:10;transactional:14
+Hornos y Cocina Mexicana,18,248,70;73;78;84;94;83;83;100;100;100;99;100,task:5;informational:70;navigational:5;commercial:8;transactional:12
+Mesas de Cabeceira,16,4994,33;26;8;7;7;14;22;2;20;24;77;100,task:3;informational:46;navigational:4;commercial:33;transactional:14
+Wood Stove and Furnace Parts and Brands,28,3295,43;54;47;45;54;52;47;91;100;99;99;100,task:8;informational:57;navigational:8;commercial:16;transactional:11
+Organizadores Giratórios e Giratórios,15,2062,3;3;61;54;54;25;18;13;7;7;69;100,task:3;informational:46;navigational:12;commercial:12;transactional:27
+Riscaldamento e scaldabagni elettrici,15,36,2;3;21;20;20;6;5;5;100;77;3;3,task:7;informational:45;navigational:4;commercial:39;transactional:5
+Lekitchen Kitchen Appliances and Supplies,15,7119,23;19;20;11;11;2;9;20;12;97;73;100,task:3;informational:15;navigational:64;commercial:10;transactional:8
+Philippines Appliance Retail and Repair,22,4769,47;48;53;46;47;55;51;57;63;68;85;100,task:2;informational:40;navigational:17;commercial:35;transactional:6
+Grills et Barbecues Électriques,16,237,7;7;6;9;52;36;26;86;100;36;25;27,task:10;informational:38;navigational:4;commercial:28;transactional:20
+Toalhas de Banho e Casa,16,625,9;9;10;8;36;26;18;19;18;100;69;20,task:5;informational:41;navigational:9;commercial:34;transactional:11
+Portuguese Stoneware Dinnerware,16,1075,15;14;18;16;100;24;60;22;36;73;48;70,task:5;informational:44;navigational:5;commercial:24;transactional:22
+Depiladores Elétricos Femininos,15,433,5;25;50;36;36;5;4;7;95;100;32;30,task:3;informational:40;navigational:12;commercial:18;transactional:27
+Wood Burning and Cooking Stoves,73,8124,42;43;43;46;52;53;53;71;100;96;84;85,task:8;informational:48;navigational:2;commercial:35;transactional:7
+Tomadas RJ45 e Outlets,15,60,4;14;13;29;10;9;8;95;60;100;9;7,task:2;informational:64;navigational:3;commercial:10;transactional:21
+induction cooktops and stoves in India,21,2342,35;36;35;35;58;58;58;58;95;100;63;63,task:3;informational:44;navigational:3;commercial:41;transactional:9
+Ópticas e Óculos,25,2431,88;91;100;85;82;79;74;75;80;80;81;81,task:5;informational:41;navigational:14;commercial:33;transactional:7
+Blue Kitchen Appliances and Ovens,25,2653,11;23;27;26;31;44;34;27;83;100;38;44,task:10;informational:56;navigational:6;commercial:23;transactional:5
+Aluguel de Imóveis e Apartamentos,21,5995,42;30;23;31;39;36;17;83;79;100;93;95,task:5;informational:65;navigational:10;commercial:15;transactional:5
+Cimento e Votorantim,18,791,23;30;30;45;26;26;27;31;31;100;93;33,task:2;informational:48;navigational:29;commercial:13;transactional:8
+Menards Kitchen Appliances and Cookware,16,1055,5;6;8;18;18;8;7;100;7;14;28;11,task:1;informational:18;navigational:54;commercial:8;transactional:19
+KitchenAid Electric Stoves,16,6835,25;13;23;16;18;24;22;3;100;94;88;95,task:3;informational:48;navigational:12;commercial:12;transactional:25
+"roupa de cama e itens de cama, mesa e banho",18,1947,6;46;39;94;100;63;35;22;19;57;42;51,task:5;informational:35;navigational:5;commercial:49;transactional:6
+Fisher & Paykel Kitchen Appliances,20,1141,90;95;100;71;86;78;75;65;80;71;74;75,task:2;informational:37;navigational:18;commercial:29;transactional:14
+Asadores y Parrillas de Gas Portátiles y Pequeñas,18,130,15;14;59;54;54;24;10;100;9;9;9;9,task:7;informational:41;navigational:4;commercial:32;transactional:16
+Pesadelo na Cozinha,16,614,84;89;46;44;100;93;40;17;17;17;48;56,task:8;informational:62;navigational:15;commercial:5;transactional:10
+Cordless Kitchen Appliances and Gadgets,23,767,39;32;34;49;55;54;79;53;94;100;42;42,task:3;informational:33;navigational:3;commercial:41;transactional:20
+Amazon Stove and Cooktop Products,21,1735,39;25;25;24;100;76;35;17;62;85;46;60,task:7;informational:19;navigational:37;commercial:11;transactional:26
+Repuestos y partes para calentadores y boilers de gas y eléctricos,16,397,21;16;13;29;29;24;74;43;40;100;73;20,task:2;informational:35;navigational:2;commercial:41;transactional:20
+Home and Kitchen Comforts,19,509,65;65;65;76;84;100;78;96;60;60;56;56,task:3;informational:46;navigational:8;commercial:21;transactional:22
+Armários Pequenos para Casa,15,1196,5;10;16;13;11;13;7;61;100;100;29;40,task:3;informational:46;navigational:11;commercial:25;transactional:15
+Mesas de Madeira Rústicas e Maciças,15,2195,6;5;5;5;5;28;17;5;19;19;56;100,task:10;informational:51;navigational:4;commercial:31;transactional:4
+Hungarian Cooking and Kitchen Appliances,20,2390,83;74;80;97;100;100;99;68;52;51;51;51,task:5;informational:70;navigational:5;commercial:17;transactional:3
+Caixas para Mudança,15,2150,2;2;2;73;73;81;56;87;90;100;68;76,task:7;informational:22;navigational:3;commercial:53;transactional:15
+Bebedouros de Água,16,2991,6;19;15;19;38;53;35;13;9;100;74;82,task:1;informational:62;navigational:4;commercial:27;transactional:6
+Xícaras de Café e Chá,18,777,14;17;18;19;31;31;100;41;31;74;57;47,task:5;informational:51;navigational:4;commercial:32;transactional:8
+Mesas e Escritorios em L,15,1112,20;53;55;51;85;76;48;4;4;100;71;85,task:7;informational:41;navigational:4;commercial:37;transactional:11
+Tower Appliances and Kitchenware,16,975,56;35;30;54;54;46;38;100;92;87;87;64,task:3;informational:28;navigational:47;commercial:10;transactional:12
+Large Stoves and Cookers,15,182,75;56;40;31;22;100;41;5;5;5;9;9,task:2;informational:63;navigational:8;commercial:10;transactional:17
+Hearth and Home Technologies,16,460,46;47;45;40;43;49;40;41;37;38;63;100,task:3;informational:38;navigational:38;commercial:16;transactional:5
+Ralladores y ralladores eléctricos de cocina,18,1205,27;27;70;76;31;29;95;100;23;23;78;75,task:3;informational:56;navigational:5;commercial:22;transactional:14
+ollas eléctricas y de presión en Walmart,20,478,56;100;27;22;22;45;40;38;63;78;57;34,task:3;informational:23;navigational:43;commercial:12;transactional:19
+houseful and ross cookware and kitchenware,15,1262,67;77;61;78;78;88;79;100;83;58;63;57,task:5;informational:49;navigational:15;commercial:24;transactional:7
+Accessoires et pièces pour Thermomix,17,107,100;56;91;67;59;28;42;28;28;28;28;28,task:5;informational:16;navigational:3;commercial:48;transactional:28
+Home Heating and Fireplace Supplies,16,8115,7;5;3;3;2;15;11;20;61;57;72;100,task:3;informational:67;navigational:5;commercial:18;transactional:7
+ollas y vaporeras Princess House para tamales y cocina,16,1359,51;64;59;62;57;60;49;45;42;42;70;100,task:3;informational:26;navigational:5;commercial:41;transactional:25
+Sotaques e Termos Regionais de 'Chucos' e 'Sua Ves',17,14099,17;19;19;77;77;76;76;93;100;92;92;92,task:5;informational:71;navigational:17;commercial:4;transactional:3
+Volinhas e Bolinhas,18,1731,15;17;17;91;96;96;99;96;96;100;99;100,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Maquinas de cortar pelo Andis,15,40,18;13;24;22;22;7;7;19;88;100;5;5,task:3;informational:24;navigational:28;commercial:21;transactional:24
+Microondas de Embutir,15,2086,3;4;6;6;21;60;41;2;2;100;79;92,task:1;informational:47;navigational:2;commercial:32;transactional:18
+Apeiro e Design,18,291,100;85;77;22;26;26;26;27;26;26;26;26,task:7;informational:64;navigational:9;commercial:13;transactional:7
+Repuestos y electrodomésticos Thermador,15,129,7;38;97;100;99;11;9;9;28;71;27;23,task:3;informational:37;navigational:25;commercial:18;transactional:17
+Corte de cabelo e máquinas de aparar,17,393,96;87;93;78;81;100;70;63;24;24;22;22,task:7;informational:53;navigational:5;commercial:15;transactional:20
+Chaveiros e Chaveiros Online,16,826,25;35;41;38;38;33;55;54;100;95;54;54,task:2;informational:47;navigational:27;commercial:21;transactional:3
+C&D Appliances,16,1208,85;66;93;81;81;76;76;91;52;100;88;50,task:3;informational:18;navigational:58;commercial:7;transactional:14
+Menards Electric Cooktops and Stoves,15,760,6;6;8;7;6;6;5;84;100;9;11;11,task:3;informational:18;navigational:67;commercial:7;transactional:5
+GE Induction Cookware and Cooktops,16,863,10;24;22;18;20;39;43;3;78;100;18;22,task:2;informational:48;navigational:10;commercial:14;transactional:26
+Amzchef Kitchen Appliances,16,1432,22;19;94;100;91;72;56;61;9;8;49;52,task:2;informational:29;navigational:19;commercial:34;transactional:16
+Electric Thermo Pots and Water Dispensers,17,967,40;43;41;50;31;33;35;23;58;65;95;100,task:2;informational:46;navigational:5;commercial:23;transactional:24
+L&S Appliances,15,4181,10;8;5;10;10;21;17;44;67;100;52;58,task:3;informational:22;navigational:23;commercial:44;transactional:8
+Encimeras y Bancadas de Madera para Cocina,15,52,64;32;27;100;69;92;33;8;6;7;7;7,task:10;informational:42;navigational:5;commercial:29;transactional:14
+Credenze e credenze cucina,15,249,4;35;88;100;100;58;70;11;45;45;11;11,task:5;informational:62;navigational:5;commercial:20;transactional:8
+Renaware Cookware and Kitchenware,21,1003,53;56;68;51;50;51;100;44;49;49;47;49,task:3;informational:33;navigational:29;commercial:20;transactional:15
+Samsung Kitchen Appliances,155,32500,90;89;92;73;74;74;75;100;95;93;89;88,task:5;informational:43;navigational:13;commercial:22;transactional:17
+Electric Stove and Range Receptacles and Connectors,20,979,21;32;37;35;40;28;100;11;38;31;32;46,task:2;informational:43;navigational:3;commercial:40;transactional:12
+Silga Cookware and Teknika Kitchenware,22,4553,39;35;41;61;51;52;57;37;70;74;75;100,task:1;informational:27;navigational:26;commercial:36;transactional:10
+Arçelik ve Ürünleri,17,1184,15;16;17;46;46;43;33;100;44;30;26;30,task:2;informational:54;navigational:28;commercial:9;transactional:7
+Hornos Thermador PRG366WG,16,56,100;75;58;56;67;65;55;57;44;47;43;43,informational:43;navigational:33;commercial:4;transactional:20
+Geradores AP5000 e SUA5000,18,777,2;1;1;3;3;3;11;67;100;15;13;13,task:3;informational:50;navigational:8;commercial:35;transactional:4
+Appliance Purchase and Service,15,3488,100;58;66;62;46;44;29;77;95;76;59;74,task:3;informational:28;navigational:34;commercial:17;transactional:18
+Lampes et lampadaires,17,2112,23;18;68;66;15;13;10;34;75;89;86;100,task:2;informational:68;navigational:15;commercial:13;transactional:2
+Cooking Performance Group and Oven Equipment,15,594,100;78;28;19;19;11;10;5;21;17;18;21,task:2;informational:34;navigational:15;commercial:38;transactional:11
+Home Appliances and Retail,15,4241,50;40;16;19;19;18;37;1;99;100;76;79,task:3;informational:50;navigational:9;commercial:18;transactional:20
+Gas Hotpot and Gas Stove Equipment,16,732,33;26;19;17;74;48;35;23;79;100;23;32,task:7;informational:38;commercial:44;transactional:11
+Small Cooktops and Burners,15,4217,3;30;32;29;41;27;42;1;1;1;68;100,task:3;informational:48;navigational:4;commercial:40;transactional:5
+Cajoneros y Cajones de Cocina,15,1602,43;22;23;18;18;33;26;97;100;86;79;66,task:10;informational:47;navigational:22;commercial:18;transactional:3
+Revestimientos y Cerámicas para Cocina y Paredes,19,675,33;43;28;27;37;37;53;100;92;99;96;40,task:6;informational:57;navigational:4;commercial:23;transactional:10
+Gas Stove and Cooktop Options,31,7739,62;40;48;74;82;84;84;82;93;96;97;100,task:2;informational:42;navigational:6;commercial:41;transactional:9
+Unox Commercial Kitchen Equipment,21,714,100;100;100;55;65;68;74;61;53;52;58;59,task:2;informational:41;navigational:18;commercial:12;transactional:27
+Massajadores Elétricos e de Pescoço,15,92,4;6;4;100;100;58;38;4;4;7;5;6,task:10;informational:41;navigational:4;commercial:26;transactional:19
+Pastelões de Carne e Frango,18,1732,15;19;19;18;16;16;17;26;100;100;100;100,task:3;informational:67;navigational:5;commercial:10;transactional:15
+Fournitures et pièces pour plomberie et appareils ménagers,15,5115,25;15;40;38;29;21;16;6;25;28;87;100,task:7;informational:56;navigational:5;commercial:22;transactional:10
+Acordeão e Instrumentos Musicais de Acordeão,16,235,54;56;15;31;31;51;45;100;37;37;47;54,task:5;informational:65;navigational:5;commercial:7;transactional:18
+Organización y Estantes para Cocina,16,455,31;36;34;34;34;38;71;27;93;100;28;28,task:7;informational:53;navigational:1;commercial:23;transactional:16
+Vidraçarias e Serviços de Vidraçaria,17,311,16;40;37;53;73;100;80;40;40;36;36;36,task:2;informational:70;navigational:13;commercial:10;transactional:5
+brinquedos eróticos e sexuais,16,65,84;98;89;100;92;93;84;94;84;83;83;83,task:3;informational:51;navigational:6;commercial:24;transactional:16
+Forni e Pizzerie Classiche,15,495,55;40;37;33;28;23;31;100;27;27;26;39,task:7;informational:46;navigational:22;commercial:7;transactional:18
+Electrónica y Electrónicos,22,13276,34;69;77;43;87;90;88;100;84;84;84;85,task:2;informational:70;navigational:10;commercial:13;transactional:5
+Elevadores de Tesoura e Plataformas Elevatórias,15,135,64;65;74;74;74;77;100;79;76;82;93;96,task:5;informational:43;navigational:4;commercial:20;transactional:28
+Farberware Cookware and Pots,74,13792,69;70;73;76;84;84;85;100;85;86;84;84,task:5;informational:43;navigational:11;commercial:18;transactional:23
+Melhores Vibradores,15,31,100;79;70;69;69;52;33;2;2;1;1;1,task:3;informational:42;navigational:4;commercial:43;transactional:8
+Portable Cooking Devices and Accessories,17,108,44;91;100;83;27;24;28;14;6;6;8;9,task:3;informational:52;navigational:8;commercial:21;transactional:16
+Cocinas en forma de L y modernas,16,128,78;79;84;88;90;90;90;95;100;94;92;92,task:5;informational:72;navigational:8;commercial:12;transactional:3
+Bertazzoni Kitchen Appliances and Ranges,49,8759,69;75;71;75;78;78;79;100;100;100;100;100,task:2;informational:39;navigational:21;commercial:26;transactional:12
+Plastificadoras e Laminadoras,16,51,6;6;30;21;28;15;18;100;19;17;5;5,task:3;informational:48;navigational:4;commercial:29;transactional:16
+Máquinas Kemei para Corte de Cabelo,16,139,14;14;49;43;66;100;71;70;13;13;21;23,task:2;informational:16;navigational:33;commercial:38;transactional:11
+High Performance Cookers and Pots,16,814,100;7;7;7;28;19;37;5;19;17;52;39,task:3;informational:50;navigational:15;commercial:18;transactional:14
+GE and Black Kitchen Appliances,15,1933,84;67;76;58;100;94;83;4;36;40;82;100,task:3;informational:36;navigational:11;commercial:33;transactional:17
+Commercial Kitchen Equipment Parts,15,109,23;26;100;80;71;16;20;8;8;8;11;13,task:8;informational:22;navigational:2;commercial:58;transactional:10
+Acessórios de Comunicação Tática,17,513,80;98;99;98;99;98;100;62;65;66;66;69,task:5;informational:41;navigational:4;commercial:38;transactional:12
+Porcelain Cookware and Pottery,16,357,17;24;17;13;100;87;38;6;7;7;14;18,task:10;informational:51;navigational:4;commercial:29;transactional:6
+Ovention Commercial Ovens,16,128,52;50;53;39;40;44;45;100;95;48;45;52,task:1;informational:44;navigational:17;commercial:15;transactional:23
+Cuisinières hybrides,18,579,51;44;17;25;100;93;84;28;74;97;48;48,task:8;informational:52;navigational:1;commercial:36;transactional:3
+Gas and Electric Cooktops with Multiple Burners,15,3164,42;35;19;16;23;22;26;2;95;100;37;44,informational:46;navigational:5;commercial:30;transactional:19
+Retro and Unique Appliances,15,4148,18;52;44;40;24;3;11;2;4;3;95;100,task:10;informational:32;navigational:10;commercial:23;transactional:25
+Continente e Comércio em Portugal,25,9813,20;19;20;22;22;22;23;100;99;98;98;98,task:7;informational:25;navigational:41;commercial:9;transactional:18
+Ollas Mexicanas y Restaurantes,27,7204,45;72;46;43;96;97;97;53;100;100;98;99,task:5;informational:46;navigational:18;commercial:17;transactional:14
+KitchenAid Ranges and Ovens,58,10685,60;62;65;77;89;100;90;82;80;79;79;79,task:2;informational:41;navigational:10;commercial:19;transactional:28
+Repuestos y componentes Cera-Mite para HVAC y electrónica,18,274,27;32;26;93;100;38;28;27;21;19;19;22,task:5;informational:24;navigational:3;commercial:56;transactional:12
+Fechaduras de Portão,15,531,12;12;71;61;61;47;34;100;26;33;32;36,task:3;informational:55;navigational:5;commercial:22;transactional:15
+Braisers and Cast Iron Cookware,15,325,20;26;89;86;100;34;30;19;27;28;64;80,task:1;informational:52;navigational:4;commercial:29;transactional:14
+Vocabulário de Talheres e Comida em Inglês,19,194,17;17;15;19;100;99;18;16;11;11;10;11,task:5;informational:83;navigational:5;commercial:5;transactional:2
+Copper Cookware from Portugal,22,826,40;34;33;30;53;50;49;93;94;100;87;87,task:5;informational:41;navigational:8;commercial:39;transactional:7
+Electrodomésticos Samsung para Cocina y Lavado,17,4370,27;14;19;22;29;21;14;100;82;71;56;47,informational:52;navigational:15;commercial:18;transactional:15
+Hornos para panadería y panadería eléctrica,41,3665,73;52;53;66;76;78;80;70;100;98;94;95,task:8;informational:49;navigational:4;commercial:21;transactional:18
+Robinetterie et Mitigeurs de Cuisine et Salle de Bain,15,145,10;10;65;61;41;18;16;56;100;91;9;9,task:8;informational:55;navigational:4;commercial:25;transactional:8
+T-fal Cookware and Kitchen Solutions,15,250,61;23;16;13;22;18;18;24;90;100;8;10,task:1;informational:37;navigational:40;commercial:18;transactional:4
+induction ovens and ranges,16,4419,68;43;65;52;49;41;11;2;83;100;71;93,task:3;informational:32;navigational:5;commercial:40;transactional:20
+keukenzaken en keukens,18,889,69;80;96;93;80;79;47;90;100;31;30;30,task:5;informational:43;navigational:3;commercial:42;transactional:7
+Cuisine et Gril,15,20,100;50;71;88;100;37;36;43;44;36;36;36,task:3;informational:41;navigational:18;commercial:21;transactional:17
+Luxury and Elegant Kitchenware,16,578,71;26;63;70;49;100;94;13;29;31;47;69,task:3;informational:49;navigational:3;commercial:40;transactional:5
+Forni da pizza e arredamento per esterni,15,1889,3;4;3;5;39;3;2;100;83;86;62;79,task:7;informational:31;navigational:15;commercial:28;transactional:19
+Conexiones y cables para estufas eléctricas,22,2965,11;17;10;23;24;23;45;76;100;80;64;78,task:5;informational:64;navigational:5;commercial:14;transactional:12
+Extintores y Extinguidores de Incendios,40,6343,40;42;43;46;56;57;57;100;96;95;94;94,task:3;informational:71;navigational:2;commercial:16;transactional:8
+Made in Cookware and Kitchenware,133,48794,73;61;69;90;93;93;93;100;99;99;99;99,task:2;informational:38;navigational:20;commercial:31;transactional:9
+Electrolux Home Appliances and Services,35,7286,47;60;50;58;67;67;63;76;100;92;83;86,task:2;informational:35;navigational:43;commercial:12;transactional:8
+Cuchillos eléctricos,15,59,55;38;54;54;70;51;42;22;83;100;11;10,task:7;informational:49;navigational:1;commercial:32;transactional:11
+Decoração de Mesas de Jantar,15,5303,6;6;6;5;19;19;13;5;5;34;34;100,task:2;informational:71;navigational:5;commercial:18;transactional:4
+Electrodomésticos y Envíos en Cuba,15,951,26;25;21;18;18;42;49;9;8;93;62;100,task:6;informational:41;navigational:18;commercial:21;transactional:14
+Prateleiras e Organização de Espaços,16,115,13;15;14;54;77;100;98;13;13;13;13;13,task:17;informational:50;navigational:4;commercial:25;transactional:4
+Amana Kitchen Appliances,45,6112,37;29;28;29;29;30;31;45;99;100;68;73,task:2;informational:32;navigational:23;commercial:18;transactional:25
+Promoções e Descontos,20,2426,17;16;16;16;68;37;32;100;88;71;73;73,task:5;informational:61;navigational:10;commercial:19;transactional:5
+Restaurantes Los Hornos,16,92,12;16;16;100;100;11;11;96;70;13;13;12,task:3;informational:37;navigational:42;commercial:5;transactional:13
+Eurocast Cookware and Kitchenware,16,472,15;14;23;31;63;56;38;100;83;29;32;29,task:5;informational:44;navigational:8;commercial:35;transactional:8
+Iluminación para cocinas y comedores,22,837,100;68;67;66;65;64;66;29;27;27;25;25,task:8;informational:60;navigational:5;commercial:21;transactional:6
+reguladores de voltagem,15,875,2;2;10;8;17;15;11;13;100;98;25;47,task:7;informational:50;navigational:5;commercial:11;transactional:27
+hornos empotrados en pared,15,3447,17;10;15;9;9;13;15;50;94;100;73;89,task:7;informational:52;navigational:4;commercial:26;transactional:11
+Battery-Powered and Cordless Cooking Appliances,17,182,95;72;17;17;19;16;73;88;91;100;11;11,task:4;informational:56;navigational:2;commercial:32;transactional:6
+Kitchenware and Cooking Accessories,15,1348,80;47;19;21;51;64;100;43;45;63;35;52,task:3;informational:37;navigational:2;commercial:18;transactional:40
+Fones e Acessórios para iPhone,17,684,81;100;81;54;73;92;10;66;36;34;40;40,task:2;informational:30;navigational:9;commercial:39;transactional:20
+Kitchen Cabinet and Accessories,18,2711,46;42;23;26;26;21;16;11;88;100;35;45,task:5;informational:44;navigational:1;commercial:46;transactional:4
+Ceramic Wood Stoves and Heaters,31,2201,33;32;31;56;100;98;99;94;100;92;84;99,task:2;informational:49;navigational:4;commercial:35;transactional:10
+Guitarras Elétricas,15,46,41;42;100;100;84;31;20;35;16;15;39;25,task:3;informational:48;navigational:4;commercial:37;transactional:8
+Kitchen Gadgets and Culinary Tools,16,289,100;81;90;95;24;16;13;28;30;10;11;11,task:3;informational:48;navigational:5;commercial:22;transactional:22
+Fregaderos de cocina con muebles,15,3399,24;17;19;16;1;1;1;73;100;92;66;84,task:3;informational:37;navigational:17;commercial:35;transactional:8
+Máquinas de Cortar Cabelo Wahl,15,21,14;13;6;6;36;6;5;100;6;8;2;2,task:3;informational:53;navigational:4;commercial:28;transactional:12
+Home Appliance Parts and Filters,15,5534,33;31;24;18;51;48;35;51;69;92;65;100,task:7;informational:45;navigational:5;commercial:18;transactional:25
+Thermador Range and Appliance Parts,21,631,61;60;59;80;80;81;79;100;92;95;90;91,task:2;informational:34;navigational:28;commercial:11;transactional:25
+Cocottes et Marmites Le Creuset,16,1080,8;6;7;7;100;64;43;17;7;7;70;79,task:2;informational:60;navigational:10;commercial:22;transactional:6
+Frullatori e Elettrodomestici da Cucina,16,2940,15;12;12;11;94;50;34;87;63;94;81;100,task:3;informational:35;navigational:3;commercial:47;transactional:12
+ollas Tramontina,16,1377,16;8;24;36;49;28;19;100;35;39;76;61,task:4;informational:24;navigational:17;commercial:32;transactional:23
+Afiadores de Alicates de Unha e Cutículas,16,443,5;37;28;34;18;18;25;100;48;32;38;36,task:5;informational:37;navigational:4;commercial:42;transactional:12
+Appliance Parts and Supply,16,3380,30;28;40;25;14;12;17;47;50;100;73;78,task:2;informational:58;navigational:8;commercial:17;transactional:15
+Home Appliances and Appliances Retailers,15,8139,25;18;50;42;34;19;13;36;25;27;86;100,task:5;informational:52;navigational:11;commercial:12;transactional:20
+Criados Mudos,16,251,25;25;25;37;38;40;52;100;94;23;23;23,task:5;informational:57;navigational:5;commercial:21;transactional:12
+Óleos Mobil e Logotipos,17,484,6;13;10;8;8;6;20;10;6;100;71;13,task:2;informational:45;navigational:20;commercial:10;transactional:23
+Purificadores de Ar para Casa,17,962,71;67;98;81;100;46;45;42;42;42;73;77,task:2;informational:40;navigational:4;commercial:38;transactional:16
+Luxury Home Appliance Market,15,4735,27;17;20;13;15;13;9;31;6;15;9;100,task:6;informational:52;navigational:14;commercial:22;transactional:6
+CookRite Commercial Kitchen Equipment,17,210,88;88;93;94;88;88;95;86;88;91;90;100,informational:28;navigational:40;commercial:22;transactional:10
+Brazilian Flame Grills,15,84,31;28;16;15;18;23;100;7;11;11;7;8,task:3;informational:45;navigational:22;commercial:11;transactional:19
+Sartenes de acero inoxidable,18,982,28;25;56;48;88;85;81;15;84;100;55;44,task:2;informational:46;navigational:5;commercial:28;transactional:19
+Termini correlati a carburanti e combustibili,15,28,9;7;5;3;1;1;1;100;82;1;1;1,task:5;informational:59;navigational:5;commercial:11;transactional:20
+Electric Stove Coils and Elements,107,23134,45;42;46;54;80;80;81;98;91;91;93;100,task:8;informational:53;navigational:4;commercial:27;transactional:8
+Cooktek Induction Equipment and Systems,15,94,20;16;17;16;17;100;82;18;33;34;18;17,task:4;informational:37;navigational:30;commercial:11;transactional:18
+Barzinhos para Sala e Casa,15,2794,5;6;8;6;6;7;34;46;45;62;49;100,task:8;informational:47;navigational:4;commercial:32;transactional:9
+Sartenes ecológicas y no tóxicas,19,1710,21;18;15;12;12;43;28;40;34;100;70;97,task:2;informational:50;navigational:1;commercial:38;transactional:9
+Cucine di Design e Lusso Italiane,25,654,84;100;86;76;62;65;65;59;62;62;62;66,task:2;informational:53;navigational:3;commercial:38;transactional:4
+chopeira and electric chopeira,15,24,4;5;4;4;4;6;100;4;4;4;4;4,task:3;informational:42;navigational:3;commercial:44;transactional:8
+Electric Built-in and Wall Ovens,15,2688,59;18;24;17;33;58;44;9;65;85;77;100,task:3;informational:35;navigational:3;commercial:47;transactional:12
+paella i utensilis relacionats,16,683,3;5;4;4;28;19;47;7;5;100;80;89,task:3;informational:77;navigational:5;commercial:12;transactional:3
