@@ -1,0 +1,1389 @@
+{
+ "players": {
+  "electrolux": {
+   "chave": "electrolux",
+   "kw": 900,
+   "volume": 711670,
+   "descoberta": 24.8,
+   "escolha": 27.1,
+   "posse": 4.4,
+   "nao_class": 43.3,
+   "ai_overview": 14,
+   "intent": [
+    [
+     "Informational",
+     40
+    ],
+    [
+     "Commercial",
+     34
+    ],
+    [
+     "Navigational",
+     21
+    ]
+   ],
+   "familias": {
+    "nao classificado": 43.3,
+    "especificacao produto": 26.9,
+    "marca e navegacao": 24.8,
+    "peca e consumivel": 2.6,
+    "assistencia e reparo": 1.2
+   },
+   "categorias": {
+    "sem categoria": 36.4,
+    "geladeira": 33.4,
+    "lavanderia": 11.3,
+    "coccao": 10.1,
+    "purificador": 3.1,
+    "aspirador": 2.6,
+    "lava loucas": 1.5,
+    "ar condicionado": 1.1
+   },
+   "top_keywords": [
+    [
+     "eletrolux",
+     110000
+    ],
+    [
+     "geladeira electrolux frost free",
+     90500
+    ],
+    [
+     "geladeira eletrolux",
+     27100
+    ],
+    [
+     "electrolux geladeira",
+     27100
+    ],
+    [
+     "geladeira frost free electrolux",
+     27100
+    ],
+    [
+     "geladeira electrolux inox",
+     14800
+    ]
+   ],
+   "serie": [
+    656328,
+    621089,
+    646346,
+    660990,
+    626472,
+    649041,
+    950522,
+    723548,
+    807143,
+    704019,
+    759536,
+    725645
+   ],
+   "serie_relativa": [
+    0.10325,
+    0.10806,
+    0.10448,
+    0.10912,
+    0.09785,
+    0.09963,
+    0.11077,
+    0.08253,
+    0.09776,
+    0.11085,
+    0.10727,
+    0.11825
+   ],
+   "inclinacao_bruta": 1.08,
+   "inclinacao_vs_categoria": 0.99,
+   "nome": "Electrolux"
+  },
+  "brastemp": {
+   "chave": "brastemp",
+   "kw": 1998,
+   "volume": 2949270,
+   "descoberta": 17.9,
+   "escolha": 21.5,
+   "posse": 3.5,
+   "nao_class": 57.1,
+   "ai_overview": 22,
+   "intent": [
+    [
+     "Informational",
+     66
+    ],
+    [
+     "Navigational",
+     17
+    ],
+    [
+     "Commercial",
+     12
+    ]
+   ],
+   "familias": {
+    "nao classificado": 57.1,
+    "especificacao produto": 20.9,
+    "marca e navegacao": 17.9,
+    "assistencia e reparo": 2.6,
+    "aquisicao e comparacao": 0.6,
+    "peca e consumivel": 0.5
+   },
+   "categorias": {
+    "sem categoria": 26.9,
+    "geladeira": 26.2,
+    "coccao": 24.4,
+    "lavanderia": 15.7,
+    "lava loucas": 4.1,
+    "purificador": 0.9,
+    "adega": 0.9,
+    "freezer": 0.7
+   },
+   "top_keywords": [
+    [
+     "brastemp",
+     201000
+    ],
+    [
+     "geladeira brastemp",
+     201000
+    ],
+    [
+     "geladeira brastemp frost free",
+     49500
+    ],
+    [
+     "maquina de lavar brastemp",
+     40500
+    ],
+    [
+     "brastemp geladeira",
+     27100
+    ],
+    [
+     "frigobar brastemp",
+     27100
+    ]
+   ],
+   "serie": [
+    3034898,
+    2831327,
+    3007338,
+    2939124,
+    2680140,
+    2870551,
+    3692637,
+    2784574,
+    3141509,
+    2479630,
+    2834273,
+    2998998
+   ],
+   "serie_relativa": [
+    0.47742,
+    0.49259,
+    0.48611,
+    0.48522,
+    0.41863,
+    0.44066,
+    0.43033,
+    0.31761,
+    0.3805,
+    0.39042,
+    0.4003,
+    0.48871
+   ],
+   "inclinacao_bruta": 0.95,
+   "inclinacao_vs_categoria": 0.86,
+   "nome": "Brastemp"
+  },
+  "consul": {
+   "chave": "consul",
+   "kw": 1064,
+   "volume": 1483110,
+   "descoberta": 15.1,
+   "escolha": 26.1,
+   "posse": 8.1,
+   "nao_class": 50.8,
+   "ai_overview": 27,
+   "intent": [
+    [
+     "Informational",
+     53
+    ],
+    [
+     "Commercial",
+     22
+    ],
+    [
+     "Navigational",
+     15
+    ]
+   ],
+   "familias": {
+    "nao classificado": 50.8,
+    "especificacao produto": 25.7,
+    "marca e navegacao": 15.1,
+    "peca e consumivel": 5.8,
+    "assistencia e reparo": 1.7,
+    "aquisicao e comparacao": 0.4
+   },
+   "categorias": {
+    "geladeira": 33.0,
+    "sem categoria": 29.4,
+    "coccao": 15.5,
+    "lavanderia": 6.8,
+    "ar condicionado": 6.8,
+    "purificador": 5.3,
+    "freezer": 3.1
+   },
+   "top_keywords": [
+    [
+     "consul",
+     110000
+    ],
+    [
+     "geladeira consul",
+     110000
+    ],
+    [
+     "cervejeira consul",
+     49500
+    ],
+    [
+     "geladeira consul frost free",
+     40500
+    ],
+    [
+     "consul geladeira",
+     14800
+    ],
+    [
+     "fogão 4 bocas consul",
+     14800
+    ]
+   ],
+   "serie": [
+    1416537,
+    1264129,
+    1379379,
+    1407662,
+    1398534,
+    1407184,
+    1785894,
+    1671666,
+    1681043,
+    1340045,
+    1460786,
+    1541500
+   ],
+   "serie_relativa": [
+    0.22284,
+    0.21993,
+    0.22296,
+    0.23239,
+    0.21845,
+    0.21602,
+    0.20813,
+    0.19067,
+    0.20361,
+    0.21099,
+    0.20631,
+    0.2512
+   ],
+   "inclinacao_bruta": 1.07,
+   "inclinacao_vs_categoria": 0.97,
+   "nome": "Consul"
+  },
+  "samsung": {
+   "chave": "samsung",
+   "kw": 300,
+   "volume": 125460,
+   "descoberta": 5.5,
+   "escolha": 29.6,
+   "posse": 4.6,
+   "nao_class": 59.1,
+   "ai_overview": 18,
+   "intent": [
+    [
+     "Informational",
+     78
+    ],
+    [
+     "Navigational",
+     9
+    ],
+    [
+     "-",
+     5
+    ]
+   ],
+   "familias": {
+    "nao classificado": 59.1,
+    "especificacao produto": 29.5,
+    "marca e navegacao": 5.5,
+    "assistencia e reparo": 2.1,
+    "peca e consumivel": 1.8,
+    "conectividade e smart": 1.2,
+    "manual e uso": 0.5
+   },
+   "categorias": {
+    "geladeira": 100.0
+   },
+   "top_keywords": [
+    [
+     "geladeira samsung",
+     40500
+    ],
+    [
+     "geladeira samsung inverter",
+     8100
+    ],
+    [
+     "geladeira samsung side by side",
+     5400
+    ],
+    [
+     "geladeira side by side samsung",
+     4400
+    ],
+    [
+     "samsung geladeira",
+     4400
+    ],
+    [
+     "geladeira da samsung",
+     2900
+    ]
+   ],
+   "serie": [
+    118235,
+    120888,
+    128064,
+    121782,
+    119595,
+    121796,
+    164115,
+    120179,
+    143738,
+    104253,
+    121605,
+    115630
+   ],
+   "serie_relativa": [
+    0.0186,
+    0.02103,
+    0.0207,
+    0.0201,
+    0.01868,
+    0.0187,
+    0.01913,
+    0.01371,
+    0.01741,
+    0.01641,
+    0.01717,
+    0.01884
+   ],
+   "inclinacao_bruta": 0.95,
+   "inclinacao_vs_categoria": 0.85,
+   "nome": "Samsung"
+  },
+  "midea": {
+   "chave": "midea",
+   "kw": 101,
+   "volume": 552800,
+   "descoberta": 24.6,
+   "escolha": 30.2,
+   "posse": 0.0,
+   "nao_class": 45.2,
+   "ai_overview": 25,
+   "intent": [
+    [
+     "Informational",
+     50
+    ],
+    [
+     "Navigational",
+     40
+    ],
+    [
+     "Commercial",
+     6
+    ]
+   ],
+   "familias": {
+    "nao classificado": 45.2,
+    "especificacao produto": 30.2,
+    "marca e navegacao": 24.6
+   },
+   "categorias": {
+    "sem categoria": 29.7,
+    "ar condicionado": 29.3,
+    "lavanderia": 16.6,
+    "geladeira": 15.9,
+    "lava loucas": 5.6,
+    "freezer": 3.0
+   },
+   "top_keywords": [
+    [
+     "midea",
+     110000
+    ],
+    [
+     "geladeira midea",
+     40500
+    ],
+    [
+     "lava e seca midea",
+     33100
+    ],
+    [
+     "ar condicionado midea",
+     18100
+    ],
+    [
+     "frigobar midea",
+     18100
+    ],
+    [
+     "midea ar condicionado",
+     14800
+    ]
+   ],
+   "serie": [
+    434058,
+    447675,
+    468293,
+    500908,
+    494583,
+    516312,
+    721659,
+    770661,
+    745030,
+    502848,
+    527171,
+    504404
+   ],
+   "serie_relativa": [
+    0.06828,
+    0.07789,
+    0.0757,
+    0.08269,
+    0.07725,
+    0.07926,
+    0.0841,
+    0.0879,
+    0.09024,
+    0.07917,
+    0.07445,
+    0.0822
+   ],
+   "inclinacao_bruta": 1.19,
+   "inclinacao_vs_categoria": 1.06,
+   "nome": "Midea"
+  },
+  "hisense": {
+   "chave": "hisense",
+   "kw": 493,
+   "volume": 172660,
+   "descoberta": 41.9,
+   "escolha": 17.0,
+   "posse": 2.7,
+   "nao_class": 37.5,
+   "ai_overview": 49,
+   "intent": [
+    [
+     "Informational",
+     52
+    ],
+    [
+     "Navigational",
+     24
+    ],
+    [
+     "Commercial",
+     16
+    ]
+   ],
+   "familias": {
+    "marca e navegacao": 41.9,
+    "nao classificado": 37.5,
+    "especificacao produto": 16.9,
+    "assistencia e reparo": 1.1,
+    "manual e uso": 1.0,
+    "conectividade e smart": 1.0
+   },
+   "categorias": {
+    "sem categoria": 48.7,
+    "ar condicionado": 32.2,
+    "lavanderia": 9.1,
+    "geladeira": 7.3,
+    "tv e outros": 1.9
+   },
+   "top_keywords": [
+    [
+     "hisense",
+     33100
+    ],
+    [
+     "ar condicionado hisense",
+     9900
+    ],
+    [
+     "geladeira hisense",
+     5400
+    ],
+    [
+     "hisense é boa",
+     5400
+    ],
+    [
+     "ar condicionado hisense é bom",
+     4400
+    ],
+    [
+     "hisense ar condicionado",
+     4400
+    ]
+   ],
+   "serie": [
+    72751,
+    153515,
+    124167,
+    111557,
+    118553,
+    140214,
+    231569,
+    343292,
+    316133,
+    144785,
+    143844,
+    143700
+   ],
+   "serie_relativa": [
+    0.01144,
+    0.02671,
+    0.02007,
+    0.01842,
+    0.01852,
+    0.02152,
+    0.02699,
+    0.03916,
+    0.03829,
+    0.0228,
+    0.02032,
+    0.02342
+   ],
+   "inclinacao_bruta": 1.6,
+   "inclinacao_vs_categoria": 1.4,
+   "nome": "Hisense"
+  },
+  "haier": {
+   "chave": "haier",
+   "kw": 44,
+   "volume": 4480,
+   "descoberta": 62.1,
+   "escolha": 2.9,
+   "posse": 1.3,
+   "nao_class": 33.7,
+   "ai_overview": 59,
+   "intent": [
+    [
+     "Informational",
+     57
+    ],
+    [
+     "-",
+     27
+    ],
+    [
+     "Commercial",
+     11
+    ]
+   ],
+   "familias": {
+    "marca e navegacao": 62.1,
+    "nao classificado": 33.7,
+    "especificacao produto": 2.9,
+    "manual e uso": 0.9,
+    "assistencia e reparo": 0.4
+   },
+   "categorias": {
+    "sem categoria": 56.7,
+    "ar condicionado": 27.5,
+    "tv e outros": 10.3,
+    "adega": 3.1,
+    "geladeira": 2.0
+   },
+   "top_keywords": [
+    [
+     "haier",
+     1900
+    ],
+    [
+     "ar condicionado portatil haier",
+     390
+    ],
+    [
+     "haier brasil",
+     210
+    ],
+    [
+     "ar condicionado haier",
+     170
+    ],
+    [
+     "haier ar condicionado",
+     140
+    ],
+    [
+     "tv haier",
+     140
+    ]
+   ],
+   "serie": [
+    3386,
+    6991,
+    2352,
+    2729,
+    2805,
+    3978,
+    3167,
+    7016,
+    6307,
+    4607,
+    5103,
+    5318
+   ],
+   "serie_relativa": [
+    0.00053,
+    0.00122,
+    0.00038,
+    0.00045,
+    0.00044,
+    0.00061,
+    0.00037,
+    0.0008,
+    0.00076,
+    0.00073,
+    0.00072,
+    0.00087
+   ],
+   "inclinacao_bruta": 1.56,
+   "inclinacao_vs_categoria": 1.36,
+   "nome": "Haier"
+  }
+ },
+ "categoria_heads": {
+  "chave": "generico",
+  "kw": 65,
+  "volume": 6869800,
+  "descoberta": 0.0,
+  "escolha": 10.5,
+  "posse": 0.3,
+  "nao_class": 89.2,
+  "ai_overview": 28,
+  "intent": [
+   [
+    "Commercial",
+    62
+   ],
+   [
+    "Informational",
+    38
+   ],
+   [
+    "-",
+    0
+   ]
+  ],
+  "familias": {
+   "nao classificado": 89.2,
+   "especificacao produto": 10.4
+  },
+  "categorias": {
+   "coccao": 36.7,
+   "geladeira": 25.6,
+   "sem categoria": 12.8,
+   "ar condicionado": 9.8,
+   "lavanderia": 8.1,
+   "aspirador": 3.6,
+   "adega": 1.6,
+   "freezer": 1.6
+  },
+  "top_keywords": [
+   [
+    "air fryer",
+    823000
+   ],
+   [
+    "geladeira",
+    823000
+   ],
+   [
+    "ar condicionado",
+    673000
+   ],
+   [
+    "microondas",
+    550000
+   ],
+   [
+    "fogão 4 bocas",
+    368000
+   ],
+   [
+    "ventilador",
+    368000
+   ]
+  ],
+  "serie": [
+   6356872,
+   5747884,
+   6186573,
+   6057301,
+   6402118,
+   6514210,
+   8580851,
+   8767198,
+   8256334,
+   6351264,
+   7080457,
+   6136539
+  ],
+  "serie_relativa": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "inclinacao_bruta": 1.12,
+  "inclinacao_vs_categoria": 1.0,
+  "nome": "Categoria (heads sem marca)"
+ },
+ "sem_dono": {
+  "chave": "sem_dono",
+  "kw": 492,
+  "volume": 207600,
+  "descoberta": 0.0,
+  "escolha": 0.0,
+  "posse": 100.0,
+  "nao_class": 0.0,
+  "ai_overview": 58,
+  "intent": [
+   [
+    "Informational",
+    74
+   ],
+   [
+    "Commercial",
+    18
+   ],
+   [
+    "Transactional",
+    4
+   ]
+  ],
+  "familias": {
+   "peca": 26.3,
+   "assistencia": 20.0,
+   "instalacao": 16.6,
+   "manutencao": 13.0,
+   "defeito": 8.7,
+   "sinonimo": 5.8,
+   "manual e uso": 4.1,
+   "consumo": 3.9,
+   "receita": 1.4
+  },
+  "categorias": {
+   "ar condicionado": 28.3,
+   "geladeira": 18.6,
+   "air fryer": 7.4,
+   "máquina de lavar": 7.0,
+   "liquidificador": 4.1,
+   "fogão": 4.0,
+   "ventilador": 4.0,
+   "micro-ondas": 3.7,
+   "ferro de passar": 3.3,
+   "bebedouro": 3.1,
+   "purificador de água": 2.6,
+   "lavadora de alta pressão": 2.1,
+   "aspirador de pó": 1.9,
+   "cooktop": 1.5,
+   "lava e seca": 1.1,
+   "forno elétrico": 1.0,
+   "cafeteira": 1.0,
+   "lava louças": 0.9,
+   "freezer": 0.9,
+   "coifa": 0.8,
+   "sanduicheira": 0.7
+  },
+  "top_keywords": [
+   [
+    "instalação de ar condicionado",
+    22200
+   ],
+   [
+    "conserto de geladeira",
+    14800
+   ],
+   [
+    "copo liquidificador",
+    8100
+   ],
+   [
+    "como limpar ferro de passar",
+    6600
+   ],
+   [
+    "termostato geladeira",
+    6600
+   ],
+   [
+    "como limpar ventilador",
+    5400
+   ]
+  ],
+  "serie": [
+   194242,
+   177659,
+   188240,
+   183517,
+   194463,
+   195976,
+   207862,
+   292810,
+   260966,
+   210285,
+   197044,
+   188137
+  ],
+  "serie_relativa": [
+   0.03056,
+   0.03091,
+   0.03043,
+   0.0303,
+   0.03037,
+   0.03008,
+   0.02422,
+   0.0334,
+   0.03161,
+   0.03311,
+   0.02783,
+   0.03066
+  ],
+  "inclinacao_bruta": 1.2,
+  "inclinacao_vs_categoria": 1.06,
+  "nome": "Território sem dono"
+ },
+ "ai": {
+  "marcas": {
+   "Electrolux": {
+    "cobertura": {
+     "All AI Platforms": 33,
+     "ChatGPT": 25,
+     "Gemini": 9,
+     "Google AI Mode": 9,
+     "Perplexity": 7
+    },
+    "posicao": 2.6,
+    "sentimento": 58.1,
+    "n_citacoes": 76
+   },
+   "Consul": {
+    "cobertura": {
+     "All AI Platforms": 28,
+     "ChatGPT": 21,
+     "Gemini": 9,
+     "Google AI Mode": 8,
+     "Perplexity": 5
+    },
+    "posicao": 3.0,
+    "sentimento": 70.5,
+    "n_citacoes": 64
+   },
+   "Brastemp": {
+    "cobertura": {
+     "All AI Platforms": 22,
+     "ChatGPT": 15,
+     "Gemini": 7,
+     "Google AI Mode": 8,
+     "Perplexity": 5
+    },
+    "posicao": 2.4,
+    "sentimento": 67.4,
+    "n_citacoes": 52
+   },
+   "Midea": {
+    "cobertura": {
+     "All AI Platforms": 11,
+     "ChatGPT": 8,
+     "Gemini": 1,
+     "Google AI Mode": 1,
+     "Perplexity": 3
+    },
+    "posicao": 2.7,
+    "sentimento": 63.2,
+    "n_citacoes": 19
+   },
+   "Samsung": {
+    "cobertura": {
+     "All AI Platforms": 13,
+     "ChatGPT": 11,
+     "Gemini": 1,
+     "Google AI Mode": 3,
+     "Perplexity": 3
+    },
+    "posicao": 3.4,
+    "sentimento": 46.3,
+    "n_citacoes": 27
+   }
+  },
+  "cobertura_por_familia": {
+   "aquisicao e comparacao": {
+    "n": 26,
+    "Electrolux": 38,
+    "Consul": 23,
+    "Brastemp": 15,
+    "Midea": 15,
+    "Samsung": 0
+   },
+   "nao classificado": {
+    "n": 94,
+    "Electrolux": 33,
+    "Consul": 28,
+    "Brastemp": 21,
+    "Midea": 11,
+    "Samsung": 16
+   },
+   "consumo e eficiencia": {
+    "n": 8,
+    "Electrolux": 38,
+    "Consul": 38,
+    "Brastemp": 38,
+    "Midea": 0,
+    "Samsung": 12
+   },
+   "peca e consumivel": {
+    "n": 4,
+    "Electrolux": 75,
+    "Consul": 50,
+    "Brastemp": 50,
+    "Midea": 0,
+    "Samsung": 0
+   },
+   "receita e preparo": {
+    "n": 3,
+    "Electrolux": 0,
+    "Consul": 0,
+    "Brastemp": 0,
+    "Midea": 0,
+    "Samsung": 0
+   },
+   "especificacao produto": {
+    "n": 4,
+    "Electrolux": 25,
+    "Consul": 50,
+    "Brastemp": 50,
+    "Midea": 25,
+    "Samsung": 25
+   },
+   "manutencao e cuidado": {
+    "n": 4,
+    "Electrolux": 0,
+    "Consul": 25,
+    "Brastemp": 25,
+    "Midea": 0,
+    "Samsung": 0
+   }
+  },
+  "referrals": {
+   "meses": [
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07"
+   ],
+   "series": {
+    "loja.electrolux.com.br": [
+     8569,
+     8265,
+     11325,
+     19678,
+     13890,
+     11656,
+     9047,
+     11289,
+     11632,
+     17135,
+     33322,
+     46261
+    ],
+    "brastemp.com.br": [
+     8578,
+     7179,
+     8205,
+     13552,
+     5893,
+     2468,
+     6242,
+     9236,
+     6938,
+     14300,
+     16883,
+     23311
+    ],
+    "consul.com.br": [
+     4094,
+     3246,
+     5018,
+     3688,
+     3846,
+     4526,
+     3732,
+     3983,
+     6490,
+     13994,
+     5907,
+     23434
+    ],
+    "midea.com.br": [
+     220,
+     481,
+     1344,
+     2485,
+     5221,
+     2171,
+     1249,
+     2811,
+     4494,
+     4352,
+     5487,
+     7530
+    ]
+   }
+  },
+  "topicos": {
+   "total_topicos": 2324,
+   "volume_total": 18180792,
+   "familias": {
+    "uso e receita": {
+     "n": 18,
+     "volume": 410094,
+     "pct": 2.3,
+     "maiores": [
+      [
+       "Air Fryer: Receitas e Usos",
+       189428
+      ],
+      [
+       "Arroz de Forno: Receitas e Dicas",
+       62196
+      ],
+      [
+       "Receitas de peixe na airfryer",
+       56520
+      ],
+      [
+       "Airfryer: carnes e receitas",
+       31143
+      ]
+     ]
+    },
+    "limpeza e manutencao": {
+     "n": 34,
+     "volume": 343758,
+     "pct": 1.9,
+     "maiores": [
+      [
+       "Limpeza de Ar Condicionado",
+       80659
+      ],
+      [
+       "Limpeza de Máquina de Lavar",
+       58643
+      ],
+      [
+       "Limpeza de Ar Condicionado Automotivo",
+       40690
+      ],
+      [
+       "Limpeza de Air Fryer",
+       32739
+      ]
+     ]
+    },
+    "comparacao e modelo": {
+     "n": 15,
+     "volume": 275956,
+     "pct": 1.5,
+     "maiores": [
+      [
+       "Melhores Ar Condicionado",
+       119140
+      ],
+      [
+       "Lava e Seca: Melhores Máquinas 2024",
+       52918
+      ],
+      [
+       "Melhores Air Fryers: Custo-Benefício",
+       24858
+      ],
+      [
+       "Geladeiras: melhores marcas e custo-benefício",
+       24218
+      ]
+     ]
+    },
+    "peca e filtro": {
+     "n": 41,
+     "volume": 227250,
+     "pct": 1.2,
+     "maiores": [
+      [
+       "Ar condicionado: peças e funcionamento",
+       93398
+      ],
+      [
+       "Peças de máquina de lavar",
+       27921
+      ],
+      [
+       "Filtros de ar condicionado",
+       22377
+      ],
+      [
+       "Peças para Geladeira e Fogão Electrolux/Consul",
+       14892
+      ]
+     ]
+    },
+    "consumo e energia": {
+     "n": 14,
+     "volume": 174403,
+     "pct": 1.0,
+     "maiores": [
+      [
+       "Consumo de energia de ventiladores e climatizadores",
+       33796
+      ],
+      [
+       "Ar Condicionado e Economia de Energia",
+       32858
+      ],
+      [
+       "Consumo de Ar Condicionado em Watts",
+       30130
+      ],
+      [
+       "Potência e consumo de eletrodomésticos",
+       16263
+      ]
+     ]
+    },
+    "instalacao": {
+     "n": 20,
+     "volume": 155850,
+     "pct": 0.9,
+     "maiores": [
+      [
+       "Instalação de Ar Condicionado",
+       60532
+      ],
+      [
+       "Instalação de Cooktop",
+       18213
+      ],
+      [
+       "Instalação elétrica de ar condicionado",
+       16793
+      ],
+      [
+       "Lava-louças Compactas e Instalação",
+       12635
+      ]
+     ]
+    },
+    "defeito e problema": {
+     "n": 12,
+     "volume": 100904,
+     "pct": 0.6,
+     "maiores": [
+      [
+       "Geladeira Não gela: Vazamento de gás e falhas",
+       53308
+      ],
+      [
+       "Ar Condicionado: Não Gelando",
+       30560
+      ],
+      [
+       "Erros e manuais da lava e seca Midea",
+       4656
+      ],
+      [
+       "Lavadoras: problemas comuns e soluções",
+       3846
+      ]
+     ]
+    },
+    "assistencia e conserto": {
+     "n": 38,
+     "volume": 66860,
+     "pct": 0.4,
+     "maiores": [
+      [
+       "Conserto de Geladeiras e Assistência Técnica",
+       21060
+      ],
+      [
+       "Conserto de Eletrodomésticos",
+       10588
+      ],
+      [
+       "Geladeiras GE e assistência (General Electric)",
+       7034
+      ],
+      [
+       "Suggar: Eletrodomésticos e Assistência",
+       6120
+      ]
+     ]
+    },
+    "preco e compra": {
+     "n": 7,
+     "volume": 12991,
+     "pct": 0.1,
+     "maiores": [
+      [
+       "Geladeiras em Promoção Casas Bahia",
+       6504
+      ],
+      [
+       "Ar Condicionado: custo-benefício e eficiência 2024",
+       2576
+      ],
+      [
+       "Ar Condicionado Split — Preços",
+       977
+      ],
+      [
+       "Bemol: promoções e eletrodomésticos",
+       923
+      ]
+     ]
+    }
+   },
+   "vazamento_pct": 61
+  }
+ },
+ "meta": {
+  "kw_total": 4965,
+  "kw_cauda": 492,
+  "perguntas_ia": 150,
+  "prompts_ia": 4000,
+  "meses_referrals": 12
+ },
+ "familias_ai_overview": {
+  "nao classificado": {
+   "volume": 9264250,
+   "aio": 26
+  },
+  "especificacao produto": {
+   "volume": 2133720,
+   "aio": 28
+  },
+  "marca e navegacao": {
+   "volume": 1146110,
+   "aio": 20
+  },
+  "peca e consumivel": {
+   "volume": 140400,
+   "aio": 34
+  },
+  "aquisicao e comparacao": {
+   "volume": 35040,
+   "aio": 80
+  },
+  "assistencia e reparo": {
+   "volume": 115230,
+   "aio": 9
+  },
+  "frente nomeada": {
+   "volume": 3330,
+   "aio": 0
+  },
+  "manual e uso": {
+   "volume": 23170,
+   "aio": 69
+  },
+  "garantia": {
+   "volume": 4070,
+   "aio": 37
+  },
+  "defeito": {
+   "volume": 25710,
+   "aio": 85
+  },
+  "conectividade e smart": {
+   "volume": 3840,
+   "aio": 44
+  },
+  "consumo": {
+   "volume": 8120,
+   "aio": 93
+  },
+  "sinonimo": {
+   "volume": 12100,
+   "aio": 81
+  },
+  "assistencia": {
+   "volume": 41510,
+   "aio": 9
+  },
+  "peca": {
+   "volume": 54550,
+   "aio": 47
+  },
+  "manutencao": {
+   "volume": 27000,
+   "aio": 91
+  },
+  "instalacao": {
+   "volume": 34420,
+   "aio": 84
+  },
+  "receita": {
+   "volume": 3010,
+   "aio": 0
+  }
+ },
+ "ai_overview_agregado": {
+  "posse": {
+   "volume": 490560,
+   "aio": 41
+  },
+  "demais": {
+   "volume": 12586290,
+   "aio": 26
+  },
+  "electrolux": 14
+ }
+}
