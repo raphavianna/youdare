@@ -47,6 +47,58 @@ atual** — o Tier 1 abaixo é o que a torna testável.
 | 2 | **Keyword universe das frentes nomeadas:** Instala, Projeta, Cuida, Electrolux Pro, Shopclub, Outlets, Afiliados, Coleta Consciente | SEMrush Keyword Magic | Se as frentes que o cliente quer conectar existem em busca, e com que peso |
 | 3 | **Organic Positions dos captores que não são fabricantes:** Mercado Livre, Magalu, Amazon, Casas Bahia, Americanas, YouTube e portais de conteúdo doméstico, nas keywords do item 1 | SEMrush Organic Research | Quem captura hoje a demanda do ecossistema. É o conjunto competitivo do ecossistema, distinto do de produto |
 
+## Tier 1B — Haier: a ameaça que o briefing nomeia e o dado não cobre
+
+O briefing dedica um slide à chegada da Haier ao Brasil, com **confiança de pós-venda** como
+eixo declarado: mais de 1.000 pontos técnicos, mais de 200 posições de atendimento, expertise
+em casa conectada, público A/B, expectativa de R$ 500 milhões no primeiro ano. Em comunicação,
+aparecem celebridade (Eliana, para construir familiaridade) e patrocínio esportivo (Liverpool
+Football Club). **A Haier não está em nenhum arquivo do pacote.**
+
+Vale rodar, e o teste informa a decisão nos dois resultados possíveis: demanda de serviço e
+confiança subindo significa que o entrante já ocupa o território e a urgência é alta; demanda
+plana significa território vago e janela para a Electrolux chegar antes.
+
+**Trava de leitura, para constar antes de o dado chegar:** volume absoluto baixo de um
+entrante recente **não** é evidência de ausência de ameaça. Marca nova com mídia pesada aparece
+primeiro em busca de marca e só depois em busca de categoria. O que decide é a **inclinação**
+(campo `Trend`, 12 pontos) e a **composição** da demanda, não o nível.
+
+### Especificação do export
+
+| Corte | Seeds sugeridas | O que testa |
+|---|---|---|
+| Marca | `haier`, `haier brasil`, `haier eletrodomésticos`, variações e erros de grafia frequentes | Base de familiaridade construída |
+| Marca × categoria | `haier` cruzado com as categorias em que a marca opera no Brasil | Se a familiaridade virou demanda de categoria |
+| Marca × confiança e serviço | `haier assistência técnica`, `haier garantia`, `haier é boa`, `haier vale a pena`, `haier confiável`, `haier durabilidade` | **O eixo declarado da estratégia deles.** É o corte que testa a tese da Haier |
+| Marca × comunicação | `haier eliana`, `haier liverpool` | Se o investimento em familiaridade produz assinatura em busca |
+
+Rodar as **mesmas quatro famílias para a Electrolux**, para haver base pareada. Sem par, a
+comparação de vãos não se sustenta.
+
+`[a confirmar: em quais categorias a Haier opera no Brasil, e se a operação usa outras marcas
+do grupo. Não presumir — puxar a lista com o time da conta antes de definir os seeds.]`
+
+### O que a comparação pareada revela
+
+O cliente declarou seu próprio desafio como "converter reconhecimento de marca em intenção de
+compra no momento da decisão". Medir o mesmo vão na Haier, com o mesmo instrumento, responde
+se o entrante resolveu o problema que a Electrolux ainda não resolveu — ou se está pagando
+para encher um funil que também não converte. As duas respostas mudam a recomendação.
+
+### Complemento barato, no mesmo pedido
+
+Incluir **Haier** nas marcas rastreadas do relatório de AI answers, hoje limitado a Electrolux,
+Consul, Brastemp, Midea e Samsung. Para um entrante recente, a presença em resposta de IA tende
+a divergir da presença em busca — os modelos podem estar atrasados por defasagem de dado, ou
+adiantados por peso de PR recente. A divergência, se existir, é diagnóstico.
+
+### Observação lateral, fora do pedido da Haier
+
+O conjunto atual tem Samsung mas **não tem LG**, embora a LG apareça nos quadros de
+posicionamento e de conjunto competitivo do próprio briefing. A assimetria é estranha e o custo
+de corrigir é um export. `[a confirmar: se a ausência de LG foi escolha ou omissão.]`
+
 ## Tier 2 — sem isto, "gap" continua sendo inferência e não medida
 
 | # | Export | Ferramenta | Destrava |
