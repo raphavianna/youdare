@@ -28,3 +28,6 @@ Thumbs.db
 # saídas temporárias
 *.tmp
 ~$*
+
+# arquivos temporários de extração
+/tmp-extract/
