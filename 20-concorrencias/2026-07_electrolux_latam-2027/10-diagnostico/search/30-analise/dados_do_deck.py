@@ -375,7 +375,7 @@ def taxa_marca(rows):
         d[f] = {"n": len(s), "com_marca": round(100*c/len(s), 1), "sem_marca": round(100*(len(s)-c)/len(s), 1)}
     return d
 CATP = [r for r in PRO if r["eh_categoria"] == "1"]
-LIMPO = [r for r in CATP if r["seeds"] == "geladeira"]
+LIMPO = [r for r in CATP if r.get("seed_branded") == "0"]   # todos os seeds sem marca
 pan["prompts"]["marca_por_familia"] = taxa_marca(LIMPO)
 pan["prompts"]["marca_por_familia_contaminado"] = taxa_marca(CATP)
 pan["prompts"]["n_limpo"] = len(LIMPO)

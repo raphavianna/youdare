@@ -4056,8 +4056,8 @@
     "microondas-v2"
    ],
    "teto_por_export": 1000,
-   "prompts_lidos": 4987,
-   "prompts_distintos": 3410,
+   "prompts_lidos": 7914,
+   "prompts_distintos": 6013,
    "provedores": [
     "chatgpt",
     "gemini",
@@ -5238,19 +5238,25 @@
    }
   },
   "prompts": {
-   "n": 4987,
-   "distintos": 3410,
+   "n": 7914,
+   "distintos": 6013,
    "seeds": [
+    "ar-condicionado",
     "brastemp",
     "eletrolux",
     "geladeira",
     "hisense",
+    "maquina-de-lavar",
+    "microondas",
     "midea"
    ],
    "seeds_de_marca": [
+    "ar-condicionado",
     "brastemp",
     "eletrolux",
     "hisense",
+    "maquina-de-lavar",
+    "microondas",
     "midea"
    ],
    "sem_seed": [
@@ -5259,258 +5265,232 @@
     "haier"
    ],
    "por_provedor": {
-    "chatgpt": 840,
-    "gemini": 884,
-    "google_ai_mode": 888,
-    "google_ai_overview": 2375
+    "chatgpt": 1027,
+    "gemini": 1052,
+    "google_ai_mode": 1080,
+    "google_ai_overview": 4755
    },
    "mencao_na_resposta": [
     [
+     "electrolux",
+     1383,
+     17.5
+    ],
+    [
      "brastemp",
-     1026,
-     20.6
+     1357,
+     17.1
     ],
     [
      "midea",
-     984,
-     19.7
-    ],
-    [
-     "electrolux",
-     939,
-     18.8
+     1188,
+     15.0
     ],
     [
      "consul",
-     163,
-     3.3
-    ],
-    [
-     "hisense",
-     129,
-     2.6
-    ],
-    [
-     "panasonic",
-     38,
-     0.8
+     296,
+     3.7
     ],
     [
      "lg",
-     31,
-     0.6
+     283,
+     3.6
     ],
     [
      "samsung",
-     22,
-     0.4
+     144,
+     1.8
     ],
     [
-     "whirlpool",
-     13,
-     0.3
+     "hisense",
+     140,
+     1.8
     ],
     [
-     "continental",
-     10,
-     0.2
+     "panasonic",
+     127,
+     1.6
+    ],
+    [
+     "philco",
+     100,
+     1.3
+    ],
+    [
+     "mondial",
+     55,
+     0.7
     ]
    ],
-   "marcas_por_resposta": 2.8,
-   "fontes_por_resposta": 7.4,
-   "sem_fonte_pct": 20,
+   "marcas_por_resposta": 2.9,
+   "fontes_por_resposta": 7.5,
+   "sem_fonte_pct": 15,
    "familias": [
     [
      "produto e categoria",
-     2453
+     3613
     ],
     [
      "especificacao de produto",
-     946
+     1590
     ],
     [
      "comparacao e modelo",
-     574
+     1082
     ],
     [
      "preco e compra",
-     399
+     797
     ],
     [
      "peca e filtro",
-     152
+     168
     ],
     [
      "garantia e suporte",
-     131
+     152
     ],
     [
      "assistencia e conserto",
-     112
+     119
     ],
     [
      "consumo e energia",
-     60
+     103
     ]
    ],
    "marca_por_familia": {
-    "produto e categoria": {
-     "n": 302,
-     "com_marca": 20.9,
-     "sem_marca": 79.1
-    },
-    "consumo e energia": {
-     "n": 28,
-     "com_marca": 17.9,
-     "sem_marca": 82.1
-    },
-    "comparacao e modelo": {
-     "n": 131,
-     "com_marca": 21.4,
-     "sem_marca": 78.6
-    },
-    "especificacao de produto": {
-     "n": 227,
-     "com_marca": 27.8,
-     "sem_marca": 72.2
+    "preco e compra": {
+     "n": 516,
+     "com_marca": 28.1,
+     "sem_marca": 71.9
     },
     "peca e filtro": {
-     "n": 34,
-     "com_marca": 8.8,
-     "sem_marca": 91.2
+     "n": 47,
+     "com_marca": 19.1,
+     "sem_marca": 80.9
     },
-    "preco e compra": {
-     "n": 180,
-     "com_marca": 27.8,
-     "sem_marca": 72.2
+    "marca e loja": {
+     "n": 26,
+     "com_marca": 50.0,
+     "sem_marca": 50.0
+    },
+    "consumo e energia": {
+     "n": 68,
+     "com_marca": 11.8,
+     "sem_marca": 88.2
+    },
+    "manutencao e limpeza": {
+     "n": 36,
+     "com_marca": 25.0,
+     "sem_marca": 75.0
+    },
+    "produto e categoria": {
+     "n": 1214,
+     "com_marca": 24.1,
+     "sem_marca": 75.9
+    },
+    "garantia e suporte": {
+     "n": 28,
+     "com_marca": 32.1,
+     "sem_marca": 67.9
+    },
+    "comparacao e modelo": {
+     "n": 591,
+     "com_marca": 39.9,
+     "sem_marca": 60.1
+    },
+    "especificacao de produto": {
+     "n": 798,
+     "com_marca": 39.1,
+     "sem_marca": 60.9
+    },
+    "instalacao": {
+     "n": 38,
+     "com_marca": 0.0,
+     "sem_marca": 100.0
     }
    },
    "marca_por_familia_contaminado": {
-    "produto e categoria": {
-     "n": 1163,
-     "com_marca": 77.8,
-     "sem_marca": 22.2
-    },
-    "garantia e suporte": {
-     "n": 66,
-     "com_marca": 81.8,
-     "sem_marca": 18.2
-    },
-    "instalacao": {
-     "n": 36,
-     "com_marca": 83.3,
-     "sem_marca": 16.7
-    },
-    "assistencia e conserto": {
-     "n": 26,
-     "com_marca": 80.8,
-     "sem_marca": 19.2
-    },
-    "manutencao e limpeza": {
-     "n": 25,
-     "com_marca": 68.0,
-     "sem_marca": 32.0
-    },
-    "marca e loja": {
-     "n": 23,
-     "com_marca": 47.8,
-     "sem_marca": 52.2
-    },
-    "consumo e energia": {
-     "n": 53,
-     "com_marca": 52.8,
-     "sem_marca": 47.2
-    },
-    "comparacao e modelo": {
-     "n": 324,
-     "com_marca": 60.2,
-     "sem_marca": 39.8
-    },
-    "especificacao de produto": {
-     "n": 732,
-     "com_marca": 74.2,
-     "sem_marca": 25.8
+    "preco e compra": {
+     "n": 618,
+     "com_marca": 38.3,
+     "sem_marca": 61.7
     },
     "peca e filtro": {
-     "n": 90,
-     "com_marca": 63.3,
-     "sem_marca": 36.7
+     "n": 103,
+     "com_marca": 61.2,
+     "sem_marca": 38.8
     },
-    "preco e compra": {
-     "n": 282,
-     "com_marca": 50.4,
-     "sem_marca": 49.6
+    "marca e loja": {
+     "n": 36,
+     "com_marca": 55.6,
+     "sem_marca": 44.4
+    },
+    "consumo e energia": {
+     "n": 93,
+     "com_marca": 33.3,
+     "sem_marca": 66.7
+    },
+    "manutencao e limpeza": {
+     "n": 54,
+     "com_marca": 48.1,
+     "sem_marca": 51.9
+    },
+    "produto e categoria": {
+     "n": 2075,
+     "com_marca": 54.7,
+     "sem_marca": 45.3
+    },
+    "garantia e suporte": {
+     "n": 83,
+     "com_marca": 68.7,
+     "sem_marca": 31.3
+    },
+    "comparacao e modelo": {
+     "n": 784,
+     "com_marca": 51.4,
+     "sem_marca": 48.6
+    },
+    "especificacao de produto": {
+     "n": 1303,
+     "com_marca": 60.8,
+     "sem_marca": 39.2
+    },
+    "assistencia e conserto": {
+     "n": 32,
+     "com_marca": 65.6,
+     "sem_marca": 34.4
+    },
+    "instalacao": {
+     "n": 70,
+     "com_marca": 42.9,
+     "sem_marca": 57.1
+    },
+    "defeito e problema": {
+     "n": 28,
+     "com_marca": 67.9,
+     "sem_marca": 32.1
     }
    },
-   "n_limpo": 943,
-   "taxa_marca_geral": 23.6,
+   "n_limpo": 3404,
+   "taxa_marca_geral": 30.8,
    "exemplos_limpos": {
-    "produto e categoria": [
+    "preco e compra": [
      [
-      "Geladeiras de Luxo",
+      "Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais são as melhores opções de ar-condicionado para a minha casa com eficiência e custo-benefício?",
       "google_ai_mode",
       ""
      ],
      [
-      "Geladeiras para Chopp",
+      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
       "gemini",
       ""
-     ],
-     [
-      "Quais marcas de geladeiras de luxo vocês recomendam para uma cozinha moderna?",
-      "gemini",
-      ""
-     ]
-    ],
-    "consumo e energia": [
-     [
-      "Como comparar preços e consumo entre geladeiras com freezer embaixo e modelos tradicionais?",
-      "chatgpt",
-      ""
-     ],
-     [
-      "Como escolher uma geladeira com baixo consumo e preço adequado nas lojas brasileiras populares?",
-      "gemini",
-      ""
-     ],
-     [
-      "Entre geladeiras caras e econômicas, qual oferece mais durabilidade e economia de energia",
-      "gemini",
-      ""
-     ]
-    ],
-    "comparacao e modelo": [
-     [
-      "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
-      "chatgpt",
-      ""
-     ],
-     [
-      "Quais marcas oferecem as melhores opções de geladeira para área gourmet no Brasil?",
-      "gemini",
-      ""
-     ],
-     [
-      "Como escolher uma geladeira de luxo que combine com meu estilo de decoração e orçamento?",
-      "gemini",
-      ""
-     ]
-    ],
-    "especificacao de produto": [
-     [
-      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
-      "gemini",
-      ""
-     ],
-     [
-      "geladeira frost free com congelador embaixo",
-      "google_ai_overview",
-      ""
-     ],
-     [
-      "geladeiras inverter inox",
-      "google_ai_overview",
-      "electrolux|brastemp|midea"
      ]
     ],
     "peca e filtro": [
@@ -5530,20 +5510,139 @@
       ""
      ]
     ],
-    "preco e compra": [
+    "marca e loja": [
      [
-      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
-      "gemini",
-      ""
-     ],
-     [
-      "Quais são as melhores geladeiras com boa eficiência energética e custo-benefício?",
+      "Quais são as diferenças entre geladeiras expositoras e congeladores para uso em loja?",
       "chatgpt",
       ""
      ],
      [
-      "Quais são as melhores opções de geladeira para famílias de 4 a 5 pessoas dentro de faixas de preço comuns no varejo online?",
+      "Ar Condicionado em Lojas Online",
       "gemini",
+      ""
+     ],
+     [
+      "lojas quero quero ar condicionado",
+      "google_ai_overview",
+      ""
+     ]
+    ],
+    "consumo e energia": [
+     [
+      "Como economizar energia usando poloar/ar condicionado em casa ou no escritório?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais são as dicas para economizar energia e manter a eficiência do ar condicionado?",
+      "gemini",
+      ""
+     ],
+     [
+      "Como escolher o ar condicionado ideal considerando tamanho da sala, isolamento e consumo de energia?",
+      "chatgpt",
+      ""
+     ]
+    ],
+    "manutencao e limpeza": [
+     [
+      "Quais são os principais cuidados de manutenção para conservar o desempenho de um ar condicionado?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais dicas você me daria para manter uma geladeira comercial com baixa necessidade de manutenção e maior durabilidade?",
+      "gemini",
+      ""
+     ]
+    ],
+    "produto e categoria": [
+     [
+      "Poloar Ar Condicionado",
+      "gemini",
+      ""
+     ],
+     [
+      "Ar Condicionado",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Ar Condicionado Único",
+      "gemini",
+      ""
+     ]
+    ],
+    "garantia e suporte": [
+     [
+      "Como funcionar o suporte e reclamações de geladeiras via Reclame Aqui e quais são os passos para resolver?",
+      "gemini",
+      "brastemp|consul"
+     ],
+     [
+      "Quais são as políticas de atendimento ao cliente e garantia da Proar para aparelhos de ar condicionado?",
+      "gemini",
+      ""
+     ],
+     [
+      "manual do controle ar condicionado samsung",
+      "google_ai_overview",
+      "samsung"
+     ]
+    ],
+    "comparacao e modelo": [
+     [
+      "Quais são as melhores dicas para escolher um ar condicionado adequado para Campinas, Curitiba e outras cidades do Brasil?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Qual é o melhor tipo de ar condicionado para uma sala de 20 m²?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais fatores devo considerar ao escolher um ar condicionado (potência, eficiência, ruído, uso diário)?",
+      "gemini",
+      ""
+     ]
+    ],
+    "especificacao de produto": [
+     [
+      "Quais são as principais diferenças entre ar condicionado de janela, split e portátil e quando usar cada um?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Como calcular a capacidade de ar-condicionado ideal para um cômodo?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais são as principais diferenças entre ar condicionado split, portátil e janela, e qual é o mais indicado para cada ambiente?",
+      "gemini",
+      ""
+     ]
+    ],
+    "instalacao": [
+     [
+      "Vale a pena comprar ar condicionado pelo preço no ponto frio/lojas parecidas e comparar instalação/serviço?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais lojas confiáveis online para comparar preços de ar-condicionado e instalação em imóveis já existentes?",
+      "google_ai_mode",
       ""
      ]
     ]
@@ -5551,67 +5650,67 @@
    "exemplos": {
     "assistencia e conserto": [
      [
-      "Geladeiras GE e assistência (General Electric)",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Onde posso encontrar peças ou assistência para geladeiras Hisense no Brasil?",
+      "Onde encontrar peças de reposição e assistência para poloar/ar condicionado próximo de você?",
       "gemini",
-      "hisense"
+      ""
      ],
      [
-      "Existe suporte de peças e assistência técnica disponível para geladeiras Prosdocimo no Brasil?",
+      "Onde encontrar peças de reposição e assistência para poloar/ar condicionado próximo de você?",
       "google_ai_mode",
       ""
      ],
      [
-      "Quais fatores considerar (garantia, entrega, assistência) ao escolher uma geladeira na Americanas?",
-      "google_ai_mode",
+      "Onde encontrar peças de reposição e assistência para poloar/ar condicionado próximo de você?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais marcas de ar condicionado são mais confiáveis e como verificar a assistência técnica próxima a mim?",
+      "gemini",
       ""
      ]
     ],
     "defeito e problema": [
      [
-      "Como resolver problemas de conexão entre o app Midea e o ar condicionado?",
-      "gemini",
-      "midea"
-     ],
-     [
-      "Como resolver problemas de conexão entre o app Midea e o ar condicionado?",
-      "chatgpt",
-      "midea"
-     ],
-     [
-      "Como resolver problemas de conexão entre o app Midea e o ar condicionado?",
+      "Como realizar a manutenção do ar-condicionado para evitar problemas e economizar energia?",
       "google_ai_mode",
-      "midea"
+      ""
      ],
      [
-      "quero vender microondas com defeito",
-      "google_ai_overview",
+      "Como realizar a manutenção do ar-condicionado para evitar problemas e economizar energia?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Como realizar a manutenção do ar-condicionado para evitar problemas e economizar energia?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais são os cuidados de manutenção para evitar problemas com ar condicionado Str",
+      "chatgpt",
       ""
      ]
     ],
     "manutencao e limpeza": [
      [
-      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
-      "gemini",
-      ""
-     ],
-     [
-      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "Quais são os principais cuidados de manutenção para conservar o desempenho de um ar condicionado?",
       "chatgpt",
       ""
      ],
      [
-      "Quais dicas você me daria para manter uma geladeira comercial com baixa necessidade de manutenção e maior durabilidade?",
+      "Quais são os principais cuidados de manutenção para conservar o desempenho de um ar condicionado?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais são os principais cuidados de manutenção para conservar o desempenho de um ar condicionado?",
       "gemini",
+      ""
+     ],
+     [
+      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "google_ai_mode",
       ""
      ]
     ],
@@ -5639,112 +5738,112 @@
     ],
     "instalacao": [
      [
-      "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
+      "Vale a pena comprar ar condicionado pelo preço no ponto frio/lojas parecidas e comparar instalação/serviço?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Vale a pena comprar ar condicionado pelo preço no ponto frio/lojas parecidas e comparar instalação/serviço?",
+      "gemini",
+      ""
+     ],
+     [
+      "Vale a pena comprar ar condicionado pelo preço no ponto frio/lojas parecidas e comparar instalação/serviço?",
       "chatgpt",
       ""
      ],
      [
       "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
-      "gemini",
-      ""
-     ],
-     [
-      "Como instalar uma geladeira de embutir sem comprometer a ventilação e a eficiência?",
-      "google_ai_mode",
+      "chatgpt",
       ""
      ]
     ],
     "uso e receita": [
      [
-      "Quais receitas rápidas você recomendaria para uma air fryer Midea?",
-      "gemini",
-      "midea"
-     ],
-     [
-      "Quais receitas rápidas você recomendaria para uma air fryer Midea?",
-      "chatgpt",
-      "midea"
-     ],
-     [
-      "Quais receitas rápidas você recomendaria para uma air fryer Midea?",
+      "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
       "google_ai_mode",
-      "midea"
+      ""
      ],
      [
-      "Quais são as melhores configurações de temperatura para uma geladeira Midea 411 litros para economizar energia?",
+      "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
       "gemini",
-      "midea"
+      ""
+     ],
+     [
+      "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "controle ar condicionado agratto como usar",
+      "google_ai_overview",
+      ""
      ]
     ],
     "comparacao e modelo": [
      [
-      "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
-      "chatgpt",
+      "Quais são as melhores dicas para escolher um ar condicionado adequado para Campinas, Curitiba e outras cidades do Brasil?",
+      "google_ai_mode",
       ""
      ],
      [
-      "Quais marcas oferecem as melhores opções de geladeira para área gourmet no Brasil?",
+      "Qual é o melhor tipo de ar condicionado para uma sala de 20 m²?",
       "gemini",
       ""
      ],
      [
-      "Como escolher uma geladeira de luxo que combine com meu estilo de decoração e orçamento?",
+      "Quais fatores devo considerar ao escolher um ar condicionado (potência, eficiência, ruído, uso diário)?",
       "gemini",
       ""
      ],
      [
-      "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
+      "Quais são as diferenças entre os modelos de ar polar/ar condicionado e os aparelhos tradicionais?",
       "google_ai_mode",
       ""
      ]
     ],
     "preco e compra": [
      [
-      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?",
       "gemini",
       ""
      ],
      [
-      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?",
       "google_ai_mode",
-      ""
+      "lg"
      ],
      [
-      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
-      "chatgpt",
-      ""
-     ],
-     [
-      "Quais são as melhores geladeiras com boa eficiência energética e custo-benefício?",
-      "chatgpt",
+      "Quais são as melhores opções de ar-condicionado para a minha casa com eficiência e custo-benefício?",
+      "google_ai_mode",
       ""
      ]
     ],
     "produto e categoria": [
      [
-      "Geladeiras de Luxo",
+      "Poloar Ar Condicionado",
+      "gemini",
+      ""
+     ],
+     [
+      "Ar Condicionado",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Poloar Ar Condicionado",
       "google_ai_mode",
       ""
      ],
      [
-      "Geladeiras para Chopp",
-      "gemini",
-      ""
-     ],
-     [
-      "Quais marcas de geladeiras de luxo vocês recomendam para uma cozinha moderna?",
-      "gemini",
-      ""
-     ],
-     [
-      "Refrigeração e Eletrodomésticos",
+      "Poloar Ar Condicionado",
       "chatgpt",
-      ""
+      "samsung|lg"
      ]
     ]
    }

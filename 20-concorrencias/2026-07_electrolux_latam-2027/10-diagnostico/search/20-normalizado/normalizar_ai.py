@@ -190,7 +190,11 @@ for fp in sorted(glob.glob(str(RAW/"2026-*_ai-prompts_topico-*.csv"))):
         }
 prom = []
 for v in pares.values():
-    v["seeds"] = "|".join(sorted(v.pop("seeds")))
+    seeds = sorted(v.pop("seeds"))
+    v["seeds"] = "|".join(seeds)
+    # Basta UM seed de marca para contaminar o par: a marca pode estar na resposta
+    # porque foi ela que puxou o prompt. O flag e do par, nao do primeiro seed visto.
+    v["seed_branded"] = int(any(marcas_em(s.replace("-", " ")) for s in seeds))
     prom.append(v)
 with open(OUT/"prompts.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=list(prom[0].keys())); w.writeheader(); w.writerows(prom)
