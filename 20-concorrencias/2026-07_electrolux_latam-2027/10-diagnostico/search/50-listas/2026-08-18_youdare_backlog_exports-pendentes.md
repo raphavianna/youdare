@@ -99,13 +99,25 @@ cada, e o ganho de somar `consul`, `samsung` e `haier` é de completude, não de
 
 ## 5. O que falta — em ordem de prioridade
 
-### Bloco A · `prompts_by_topic` **sem marca** — maior retorno
+### ~~Bloco A · `prompts_by_topic` sem marca~~ — **FEITO em 18/08**
 
-Destrava as cinco famílias de posse que hoje não têm amostra. Três seeds:
+`ar condicionado`, `máquina de lavar` e `micro-ondas` rodados e ancorados. A amostra limpa foi
+de 943 para **3.404 respostas** e destravou três das cinco famílias: `marca e loja` (50,0% de
+citação), `garantia e suporte` (32,1%) e `manutenção e limpeza` (25,0%).
 
-- `ar condicionado`
-- `máquina de lavar`
-- `micro-ondas`
+E entregou um achado: **`instalação`, com n=38, responde 0,0%** — nenhuma das sete marcas é
+citada em nenhuma resposta sobre instalação. A única marca que aparece é Tramontina, duas vezes.
+
+**Ainda abaixo de 20:** `assistência e conserto` (14) · `defeito e problema` (18) ·
+`uso e receita` (12). Viram o Bloco A-2.
+
+### Bloco A-2 · `prompts_by_topic` — fecha as três famílias restantes
+
+- `assistência técnica`
+- `conserto de geladeira`
+- `receitas air fryer`
+
+Nenhum tem nome de marca, então a amostra continua limpa.
 
 ### Bloco B · `topics_by_fts` de serviço — o teste que falta
 
