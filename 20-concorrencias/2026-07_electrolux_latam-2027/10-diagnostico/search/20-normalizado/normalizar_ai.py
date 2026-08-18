@@ -6,11 +6,19 @@ Normaliza as duas bases de demanda mediada por IA num par de CSVs auditaveis.
   prompts.csv  — um par prompt x provedor por linha, com as marcas encontradas no
                  texto da resposta
 
-Regra de cobertura desta base: os exports de topico foram semeados APENAS com
-termos de categoria — nenhum seed carrega nome de marca. Logo, marca que aparece
-no nome de um topico foi descoberta organicamente, e a leitura de cobertura por
-nome de topico nao tem vies de seed. Os exports de prompt, ao contrario, foram
-semeados por marca; qualquer contagem sobre eles herda esse vies e e marcada.
+Regra de cobertura desta base: so entram em `topicos/` os exports semeados com
+termos de CATEGORIA. Marca que aparece no nome de um topico ali foi descoberta
+organicamente, e a leitura de cobertura nao tem vies de seed.
+
+Exports semeados com nome de marca vivem em `topicos-seed-branded/` e ficam FORA
+de todo agregado de cobertura. Motivo medido: o seed `consul` devolveu 1.000
+topicos cujo topo e "Concursos Publicos Brasil", "Consorcios no Brasil" e
+"Portuguese Word Variants" — a ferramenta leu a raiz "consul". Dos 1.000, 114
+carregam o nome da marca e somam 706.994 de volume; inclui-los inflaria a
+cobertura da Consul em quase 4x, so por ela ter sido semeada.
+
+Os exports de prompt tambem sao semeados por marca; qualquer contagem sobre eles
+herda esse vies e e marcada.
 
 Uso: python3 normalizar_ai.py  ->  20-normalizado/topicos.csv, prompts.csv, qualidade_ai.md
 """

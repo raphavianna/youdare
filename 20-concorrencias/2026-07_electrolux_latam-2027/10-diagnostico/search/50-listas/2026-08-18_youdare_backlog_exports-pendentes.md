@@ -1,69 +1,116 @@
-# Exports pendentes — o que puxar e o que cada um destrava
+# Exports de IA — o que temos e o que falta
 
-Estado em 18/08. Ordem é de prioridade: o bloco 1 destrava um slide que hoje fala de
-concorrente e não do cliente; os blocos 2 e 3 corrigem viés e ampliam o universo.
+Estado após ancorar o pacote de 18/08. **Só material de IA.** Busca tem backlog próprio e não
+entra aqui. Duplicatas foram removidas por hash de conteúdo, não por nome de arquivo.
 
 ---
 
-## O que já temos
+## 1. O que já está ancorado
 
-| Tipo de export | Quantidade | Detalhe |
+| Tipo | Qtd | Detalhe |
 |---|---:|---|
-| `topics_by_fts` | 16 seeds | Todos de categoria, nenhum com nome de marca |
-| `prompts_by_topic` | 5 seeds | `brastemp`, `eletrolux`, `geladeira`, `hisense`, `midea` |
-| `brand_topics` | 1 domínio | `brastemp.com.br` |
+| `topics_by_fts` de **categoria** | **19** | Entram no cálculo de cobertura |
+| `topics_by_fts` de **marca** | 1 | `consul` — isolado, **fora** da cobertura (ver §3) |
+| `prompts_by_topic` | 5 | `brastemp`, `eletrolux`, `geladeira`, `hisense`, `midea` |
+| `brand_topics` | 1 | `brastemp.com.br` |
+| AI Visibility (PDF) | 2 | ChatGPT e Google AI Mode, sobre `loja.electrolux.com.br` |
+| Tráfego de LLM | 1 | 4 domínios, 12 meses |
+
+**Seeds de categoria já rodados:** `air fryers` · `airfryer` · `ar condicionado` · `aspirador` ·
+`climatizador` · `fogões e eletrodomésticos de cozinha` (BR e US) · `forno` · `freezer` (2
+versões) · `geladeira` (BR e US) · `geladeiras e refrigeradores no Brasil` · `lava louça` ·
+`liquidificador` · `máquinas de lavar roupas` · `máquina de lavar` · `micro-ondas` ·
+`microondas`
 
 ---
 
-## Bloco 1 · `brand_topics` por domínio — prioridade máxima
+## 2. O que o pacote de 18/08 acrescentou
 
-**O que destrava.** A medida de **ocupação** (visibility × volume), que é a mais dura do
-pacote. Hoje ela existe só para a Brastemp, então o slide de ocupação do deck fala de um
-concorrente e não do cliente. Com os domínios abaixo, ela vira comparação entre players.
+Do zip vieram 18 arquivos. **13 eram duplicatas** — mesmo conteúdo já ancorado, inclusive um
+PDF que difere só em metadado. Quatro CSVs entraram:
 
-| # | Domínio | Por quê |
-|---|---|---|
-| 1 | `loja.electrolux.com.br` | É o cliente. Sem ele, a medida não responde a pergunta da banca |
-| 2 | `electrolux.com.br` | O institucional é domínio distinto da loja e pode cobrir tópicos diferentes |
-| 3 | `consul.com.br` | Player que lidera posse em busca — o benchmark interno da categoria |
-| 4 | `midea.com.br` | Entrante com maior crescimento de tráfego de LLM |
-| 5 | `samsung.com.br` | Maior cobertura de posse em IA do conjunto (3,19%) |
-| 6 | domínio BR da Hisense | Hoje fora de toda leitura de IA |
-| 7 | domínio BR da Haier | Hoje fora de toda leitura de IA |
+| Arquivo | Destino |
+|---|---|
+| `topics_by_fts_maquina_de_lavar_br` | tópicos de categoria |
+| `topics_by_fts_micro_ondas_br` | tópicos de categoria |
+| `topics_by_fts_microondas_br` | tópicos de categoria — export distinto do anterior, só 344 tópicos em comum |
+| `topics_by_fts_consul_br` | **isolado**, fora da cobertura |
 
-`brastemp.com.br` já veio e não precisa ser repetido.
+**O que isso mudou nos números:** universo de 9.175 para **10.198 tópicos**, categoria de 3.056
+para **3.205**, volume de 22,6 para **23,4 milhões**. E a cobertura **não se moveu**: Electrolux
+5,69%, sem marca 81,28%. Três seeds novos e a leitura fica de pé — é evidência de robustez.
 
 ---
 
-## Bloco 2 · `prompts_by_topic` — corrige o viés de seed
+## 3. Por que o seed `consul` ficou de fora
 
-**O que destrava.** Hoje a contagem de marca dentro das respostas é enviesada: quatro dos
-cinco seeds são nomes de fabricante e três marcas do conjunto não têm seed nenhum. Por isso
-a leitura de citação usa só as 943 respostas do seed `geladeira`. Com os seeds abaixo, a
-amostra limpa cresce e o ranking de citação passa a ser defensável.
+Ele devolveu 1.000 tópicos cujo topo é `Concursos Públicos Brasil`, `Consórcios no Brasil` e
+`Portuguese Word Variants`: a ferramenta leu a raiz "consul". Dos 1.000, **114 carregam o nome
+da marca e somam 706.994 de volume**. Incluí-los inflaria a cobertura da Consul de 1,14% para
+cerca de 4%, **só por ela ter sido semeada** — o mesmo viés que já isola a leitura de citação
+nos prompts.
 
-**Seeds de marca que faltam** — as três sem seed nenhum hoje:
+O arquivo está no repositório, em `00-raw/ai-search/topicos-seed-branded/`, e pode ser usado
+para leitura qualitativa da marca. Não entra em nenhum agregado de cobertura.
 
-- `consul`
-- `samsung`
-- `haier`
+**Consequência para os próximos exports:** não rodar `topics_by_fts` com nome de marca. Para
+medir marca, o instrumento certo é `brand_topics` por domínio.
 
-**Seeds sem marca** — cada um amplia o recorte limpo, que é o que sustenta a leitura:
+---
+
+## 4. Vale expandir? A curva de saturação responde
+
+**Tópicos de categoria: saturado. Não vale.** Medindo quantos tópicos novos de categoria cada
+seed acrescenta, na ordem em que foram rodados:
+
+| Seed | Tópicos novos | Volume novo |
+|---|---:|---:|
+| Os 9 primeiros | 2.493 | 19,5 M |
+| `aspirador`, `liquidificador` | 444 | 2,9 M |
+| `geladeira`, `maquina-de-lavar`, `micro-ondas` | 237 | 1,1 M |
+| `airfryer` (variante de `air fryers`) | 21 | 92 mil |
+| `microondas-v2` (variante) | 13 | 72 mil |
+| `freezer-v2` (variante) | **0** | **0** |
+
+Variantes do mesmo termo não acrescentam nada. E o teste que decide: os três seeds de 18/08
+entraram e **a cobertura não se moveu** — Electrolux 5,69% antes e depois. Rodar `cooktop`,
+`coifa`, `secadora` vai acrescentar tópicos e não vai mudar nenhuma leitura.
+
+**Tópicos de serviço: nunca testado. Vale, e é o único que pode mover a leitura.** A saturação
+acima é da dimensão *categoria de produto*. A dimensão *necessidade de serviço* não foi
+explorada nenhuma vez em 19 seeds.
+
+**Prompts sem marca: subdimensionado. É onde expandir mais rende.** A amostra limpa — a única
+em que citar um fabricante é decisão do modelo e não eco do prompt — tem **943 respostas de um
+único seed**. Consequência medida: cinco famílias ficam com n abaixo de 20 e **não têm leitura
+possível hoje**:
+
+`assistência e conserto` · `instalação` · `manutenção e limpeza` · `garantia e suporte` ·
+`marca e loja`
+
+São exatamente as famílias de posse. O material afirma que a posse é o território vago, mas
+**não consegue dizer se a IA nomeia marca nas perguntas de posse**, porque a amostra não
+comporta. Cada seed sem marca novo multiplica essa base.
+
+**Prompts de marca: baixa prioridade.** Os quatro seeds existentes já trazem 651 a 724 prompts
+cada, e o ganho de somar `consul`, `samsung` e `haier` é de completude, não de leitura nova.
+
+---
+
+## 5. O que falta — em ordem de prioridade
+
+### Bloco A · `prompts_by_topic` **sem marca** — maior retorno
+
+Destrava as cinco famílias de posse que hoje não têm amostra. Três seeds:
 
 - `ar condicionado`
 - `máquina de lavar`
 - `micro-ondas`
 
----
+### Bloco B · `topics_by_fts` de serviço — o teste que falta
 
-## Bloco 3 · `topics_by_fts` — amplia o universo mapeado
-
-**O que destrava.** O universo é censurado em 1.000 linhas por seed. Cada seed novo alarga o
-mapa. Os seeds de serviço abaixo são o mesmo quadrante que a lista de cauda fechou em busca, e
-hoje não existe nenhum seed de serviço na base de IA — o que provavelmente **subestima a
-posse**.
-
-**Seeds de serviço e vida com o produto** — o buraco atual:
+Nenhum dos 19 seeds é de serviço. Com a taxonomia corrigida a posse mede **9,6%**, e mais
+seeds de produto não mexem nisso. Estes dizem se 9,6% é o tamanho real ou o piso:
 
 - `assistência técnica`
 - `conserto de eletrodoméstico`
@@ -73,31 +120,49 @@ posse**.
 - `garantia estendida`
 - `manual`
 
-**Categorias ainda não semeadas:**
+### Bloco C · `brand_topics` por domínio
 
-- `micro-ondas` · `cooktop` · `coifa` · `secadora` · `lava e seca` · `purificador` ·
-  `adega` · `cafeteira`
+Destrava a medida de **ocupação**, hoje calculada só para um concorrente. É o que falta para o
+slide de ocupação falar do cliente.
+
+- `loja.electrolux.com.br`
+- `electrolux.com.br`
+- `consul.com.br`
+- `midea.com.br`
+- `samsung.com.br`
+- domínio BR da Hisense
+- domínio BR da Haier
+
+### Bloco D · `prompts_by_topic` de marca — completude
+
+`consul` · `samsung` · `haier`. Fecham o conjunto, mas não abrem leitura nova.
+
+### Não rodar
+
+**Mais categorias de produto** (`cooktop`, `coifa`, `secadora`, `lava e seca`, `purificador`,
+`adega`, `cafeteira`) e **variantes de termo já rodado**. A curva de saturação da §4 mostra que
+acrescentam tópicos e não movem nenhum número.
+
+**`topics_by_fts` com nome de marca.** O instrumento certo para medir marca é `brand_topics`.
 
 ---
 
-## Campos que precisam vir no export
+## 5. Campos que decidem
 
-| Export | Campos que decidem |
+| Export | Campos |
 |---|---|
 | `topics_by_fts` | `volume`, `volume_trend`, `intents`, `prompts_count` |
-| `prompts_by_topic` | `prompt`, `llm`, `brief_response`, `relevance_score` e — se existir — **`mentioned_brands` por nome**, não só a contagem |
+| `prompts_by_topic` | `prompt`, `llm`, `brief_response`, `relevance_score` e — se existir — **`mentioned_brands` por nome** |
 | `brand_topics` | `name`, `visibility`, `mentions`, `volume`, `volume_trend`, `intents` |
 
-**O campo que mais muda o trabalho é `mentioned_brands` por nome.** Hoje sabemos que uma
-resposta cita 2,8 marcas em média, mas não sabemos quais sem ler o texto — as marcas do
-material vêm de busca de string na resposta, que é aproximação declarada. Com o campo, vira
-medição.
+`mentioned_brands` por nome continua sendo o campo que mais mudaria o trabalho: hoje as marcas
+citadas vêm de busca de string no texto da resposta, aproximação declarada.
 
 ---
 
-## O que fica sem resposta mesmo com tudo isso
+## 6. Material ancorado e ainda não digerido
 
-- **Quem captura cada consulta em busca.** A coluna de competidores veio vazia nos oito
-  arquivos originais. Depende de posições orgânicas dos domínios captores.
-- **O que a IA responde quando perguntam pela marca pelo nome.** Só veio o recorte sem marca.
-- **Quais fontes os modelos citam.** Há contagem de fontes, não a lista.
+- **Os dois PDFs de AI Visibility**, 88 páginas sobre `loja.electrolux.com.br`, com Share of
+  Voice (14,66% contra 12,45% da Consul) e sentimento por plataforma. Nenhum script os lê e
+  nenhum número deles está no material. **Digerir antes de gastar cota no Bloco A** — pode
+  cobrir parte do que se pediria para o domínio do cliente.

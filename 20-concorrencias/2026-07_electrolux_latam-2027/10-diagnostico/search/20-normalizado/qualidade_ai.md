@@ -4,18 +4,18 @@ Gerado por `20-normalizado/normalizar_ai.py`. Dois datasets: `topicos.csv` e `pr
 
 ## Tópicos
 
-- **9175** tópicos únicos em **15** exports · **7445** Brasil · 1730 Estados Unidos
-- **3056** tópicos mencionam aparelho e formam a base de categoria — 59% do
+- **10198** tópicos únicos em **18** exports · **8468** Brasil · 1730 Estados Unidos
+- **3205** tópicos mencionam aparelho e formam a base de categoria — 62% do
   recorte Brasil é vazamento de clustering e fica fora de todo agregado
-- Volume da categoria no Brasil: **22,608,981** · prompts declarados: **82,919**
-- Sem marca nenhuma no nome: **18,370,167** (81.3% do volume da categoria)
+- Volume da categoria no Brasil: **23,443,233** · prompts declarados: **86,817**
+- Sem marca nenhuma no nome: **19,054,264** (81.3% do volume da categoria)
 
 **Teto de 1.000 linhas por export.** Todo arquivo para em 1.000 tópicos. O universo é
 censurado por seed: os números acima descrevem *demanda mapeada*, não demanda total. Cada seed
 novo alarga o mapa, e nenhum percentual daqui deve ser lido como participação sobre o universo.
 
 **Os seeds de tópico não carregam nome de marca.** São todos termos de categoria
-(air_fryers, airfryer, ar_condicionado, aspirador, climatizador, fog_es_e_eletrodom_sticos_de_cozinha, forno, freezer, geladeira, geladeiras_e_refrigeradores_no_brasil, lava_lou_a, liquidificador, m_quinas_de_lavar_roupas). Marca que aparece no nome de um tópico foi
+(air_fryers, airfryer, ar_condicionado, aspirador, climatizador, fog_es_e_eletrodom_sticos_de_cozinha, forno, freezer, geladeira, geladeiras_e_refrigeradores_no_brasil, lava_lou_a, liquidificador, m_quinas_de_lavar_roupas, maquina-de-lavar, micro-ondas, microondas-v2). Marca que aparece no nome de um tópico foi
 descoberta organicamente — por isso a leitura de cobertura por nome de tópico **não tem viés de
 seed** e é a medida primária deste material.
 

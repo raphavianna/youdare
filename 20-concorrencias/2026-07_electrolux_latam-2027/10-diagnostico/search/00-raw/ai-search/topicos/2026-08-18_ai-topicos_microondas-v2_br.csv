@@ -1,0 +1,1001 @@
+name,prompts_count,volume,volume_trend,intents
+Micro-ondas e Fornos de Micro-ondas,355,378717,18;21;22;100;45;45;45;46;46;46;46;46,task:8;informational:45;navigational:8;commercial:28;transactional:11
+Potência de Micro-ondas,39,8431,32;54;65;84;98;99;99;98;100;100;100;100,task:5;informational:76;navigational:2;commercial:14;transactional:3
+Pratos de Micro-ondas,30,10088,22;28;35;50;91;93;93;100;94;94;94;94,task:5;informational:56;navigational:4;commercial:26;transactional:9
+Micro-ondas Elettromec,15,135,43;48;46;57;100;70;91;89;81;61;65;60,task:3;informational:32;navigational:35;commercial:12;transactional:18
+Brastemp Micro-ondas,93,22880,61;63;71;77;100;100;100;94;95;95;95;95,task:4;informational:35;navigational:21;commercial:22;transactional:18
+Micro-ondas Bemol,15,141,4;9;9;12;14;11;9;100;53;14;12;15,task:7;informational:32;navigational:19;commercial:15;transactional:27
+Magnetron de Micro-ondas,41,30430,25;28;17;84;84;84;84;100;100;100;100;100,task:2;informational:60;navigational:5;commercial:19;transactional:14
+Micro-ondas Electrolux,97,54346,63;64;68;100;90;90;90;90;98;98;98;98,informational:42;navigational:33;commercial:12;transactional:13
+Micro-ondas Industriais,17,558,57;98;100;95;69;89;91;82;83;84;90;92,task:10;informational:48;navigational:4;commercial:29;transactional:9
+Micro-ondas LG,30,5315,86;97;100;52;59;60;61;56;62;62;62;61,task:2;informational:48;navigational:18;commercial:20;transactional:12
+Tramontina Micro-ondas,17,526,74;83;85;77;77;77;75;79;78;100;93;98,task:2;informational:59;navigational:17;commercial:10;transactional:12
+Doces de Microondas,28,2018,95;100;100;42;41;43;44;95;95;94;95;94,task:15;informational:76;navigational:3;commercial:5;transactional:1
+Forno Multifuncional com Micro-ondas,18,10156,7;17;21;96;96;97;97;100;100;100;100;100,task:6;informational:50;navigational:5;commercial:29;transactional:10
+Micro-ondas em aço inox,19,1015,100;86;88;91;53;54;54;49;67;67;70;72,task:8;informational:51;navigational:4;commercial:26;transactional:11
+Micro-ondas: funcionamento e saúde,86,17265,84;87;90;100;100;100;100;97;96;96;96;96,task:2;informational:85;navigational:5;commercial:5;transactional:3
+Brinquedos com Micro-ondas,15,1084,87;98;97;100;89;92;92;78;74;74;78;77,task:2;informational:63;navigational:10;commercial:20;transactional:5
+Micro-ondas Consul,22,3300,84;99;100;51;47;50;52;54;61;62;75;76,task:2;informational:39;navigational:23;commercial:20;transactional:16
+Panasonic micro-ondas,41,8108,91;100;50;57;93;94;95;68;75;85;78;77,task:5;informational:38;navigational:10;commercial:27;transactional:20
+Micro-ondas na Fast Shop,16,769,38;55;59;54;72;71;89;100;82;65;65;67,task:5;informational:42;navigational:23;commercial:10;transactional:20
+Micro-ondas Mondial,23,3514,86;98;99;63;62;65;65;81;90;90;100;100,task:2;informational:41;navigational:25;commercial:16;transactional:16
+Micro-ondas Samsung,18,1808,44;67;68;41;43;33;34;100;43;51;55;61,task:2;informational:68;navigational:10;commercial:15;transactional:5
+Motores de Micro-ondas,30,5359,33;40;40;55;85;85;85;100;96;96;97;97,task:2;informational:62;navigational:4;commercial:19;transactional:13
+Micro-ondas 33L,18,1032,39;46;47;82;83;75;74;100;71;62;60;61,task:2;informational:38;navigational:9;commercial:26;transactional:25
+portas de micro-ondas,16,643,65;85;87;89;77;98;100;77;78;81;81;80,task:10;informational:53;navigational:6;commercial:16;transactional:15
+Micro-ondas sem prato e flat,21,1919,38;45;46;31;28;29;30;100;50;50;50;50,task:2;informational:62;navigational:4;commercial:25;transactional:7
+Micro-ondas Havan,16,984,85;100;100;61;58;60;60;91;71;73;65;66,task:3;informational:29;navigational:30;commercial:18;transactional:20
+Micro-ondas Philco,43,19282,95;100;49;57;94;94;95;96;100;100;100;100,task:3;informational:54;navigational:16;commercial:13;transactional:14
+Microwave Appliances & Terminology,16,2996,31;37;37;37;97;97;95;100;97;97;98;98,task:2;informational:61;navigational:1;commercial:32;transactional:4
+Micro-ondas 220V,17,1483,66;96;100;80;81;87;87;89;91;93;90;89,task:3;informational:42;commercial:47;transactional:8
+Micro-ondas Midea,39,11246,88;97;51;70;99;100;100;90;89;89;89;89,task:2;informational:45;navigational:11;commercial:22;transactional:20
+Micro-ondas barulhentos,19,667,91;91;89;100;94;94;94;75;83;77;77;77,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Mesas para micro-ondas,17,416,27;65;75;60;47;40;42;46;41;100;93;41,task:7;informational:31;navigational:4;commercial:41;transactional:17
+Micro-ondas Oster,16,980,19;22;22;21;21;49;34;22;22;46;95;100,task:3;informational:31;navigational:41;commercial:10;transactional:15
+Transformadores de Microondas,27,4087,22;30;30;33;79;81;81;100;84;84;85;84,task:8;informational:62;navigational:5;commercial:16;transactional:9
+Microondas 40–45 litros,16,1470,80;92;94;50;51;54;56;100;77;77;77;77,task:7;informational:43;navigational:1;commercial:47;transactional:2
+Microondas com Airfryer,40,6606,21;29;29;35;99;100;100;64;71;72;72;70,task:2;informational:53;navigational:4;commercial:32;transactional:9
+Micro-ondas Consul Facilite,15,999,8;15;18;14;32;44;11;100;28;65;64;72,task:7;informational:32;navigational:24;commercial:26;transactional:11
+Micro-ondas de 18 litros,15,462,38;60;70;57;48;49;50;100;72;66;58;50,task:3;informational:47;navigational:14;commercial:23;transactional:13
+Forno e micro-ondas embutidos,58,29573,79;81;40;49;73;73;73;100;87;87;87;87,task:2;informational:52;navigational:4;commercial:33;transactional:9
+Micro-ondas de Embutir Fischer,32,4759,85;99;100;54;62;63;64;59;62;62;61;61,task:5;informational:36;navigational:19;commercial:26;transactional:14
+Microondas 25 litros,17,483,57;85;100;80;100;72;69;80;76;72;77;78,task:7;informational:40;navigational:4;commercial:38;transactional:11
+Micro-ondas 32 L,52,10048,47;55;69;86;99;100;100;84;92;92;92;91,task:5;informational:37;navigational:14;commercial:30;transactional:14
+Micro-ondas Panasonic Embutidos,16,395,11;14;16;15;61;54;23;52;43;100;72;83,task:3;informational:39;navigational:12;commercial:18;transactional:28
+Posicionamento do micro-ondas na cozinha,33,6364,70;97;98;97;98;100;100;87;89;89;89;89,task:5;informational:79;navigational:5;commercial:9;transactional:2
+Receitas e Comidas no Micro-ondas,48,8846,36;43;52;68;97;99;99;97;100;100;100;100,task:5;informational:71;navigational:5;commercial:11;transactional:8
+Micro-ondas Pretos 110V,15,136,11;36;42;36;36;37;32;100;58;20;16;19,task:7;informational:27;navigational:28;commercial:26;transactional:12
+Micro-ondas Electrolux embutidos,17,473,37;93;100;72;59;54;51;65;58;83;82;81,task:7;informational:37;navigational:25;commercial:18;transactional:13
+Medidas de Micro-ondas,25,3102,20;24;37;61;70;73;73;99;100;100;100;100,task:8;informational:64;navigational:4;commercial:20;transactional:4
+Micro-ondas Colombo,15,768,4;16;17;25;29;32;30;63;32;100;79;76,task:3;informational:28;navigational:33;commercial:14;transactional:22
+Micro-ondas de Embutir Philco,16,538,22;65;71;62;60;35;31;100;100;70;66;67,task:3;informational:34;navigational:31;commercial:15;transactional:17
+Micro-ondas Continental,18,1787,10;28;34;24;23;22;17;82;73;100;96;93,task:3;informational:43;navigational:11;commercial:32;transactional:11
+Capacitores de Micro-ondas,32,11704,31;21;23;25;78;80;80;94;100;100;100;100,task:4;informational:57;navigational:3;commercial:15;transactional:21
+Carrefour Micro-ondas,27,3537,70;81;41;49;98;100;100;42;56;55;56;55,task:2;informational:22;navigational:35;commercial:12;transactional:29
+Micro-ondas Espelhados e Prata,15,2382,51;80;98;82;77;81;82;89;87;87;91;100,task:10;informational:27;navigational:14;commercial:38;transactional:11
+Tampas e Protetores de Micro-ondas,22,1690,85;98;100;59;68;72;73;68;70;71;70;70,task:5;informational:51;navigational:4;commercial:31;transactional:9
+Mercado Livre Micro-ondas,15,1189,64;96;100;91;97;82;82;83;81;81;79;77,task:3;informational:17;navigational:42;commercial:15;transactional:23
+Micro-ondas Brastemp,23,1225,83;99;100;49;47;49;50;54;56;56;55;55,task:2;informational:47;navigational:25;commercial:18;transactional:8
+Micro-ondas Britânia,19,676,64;74;100;87;71;72;71;55;54;58;52;53,informational:53;navigational:24;commercial:16;transactional:7
+Pipoqueiras para Micro-ondas,18,1778,43;49;50;31;98;100;100;28;28;28;28;28,task:8;informational:36;navigational:5;commercial:25;transactional:26
+Micro-ondas de 20 litros,43,23071,76;80;85;94;97;98;98;97;100;100;100;100,task:2;informational:51;navigational:2;commercial:30;transactional:15
+Micro-ondas Electrolux 20L,22,2275,86;100;56;66;73;76;75;61;63;74;74;75,task:2;informational:41;navigational:28;commercial:11;transactional:18
+Capas para Micro-ondas,16,385,21;57;53;55;34;28;67;49;45;100;86;80,task:7;informational:45;navigational:5;commercial:25;transactional:18
+Placas e micas para micro-ondas,32,4501,13;17;17;67;86;88;88;100;93;93;92;92,task:2;informational:50;navigational:4;commercial:31;transactional:13
+Melhores Micro-ondas com Grill,45,14828,25;30;39;48;100;100;100;100;94;94;95;95,task:2;informational:36;navigational:1;commercial:54;transactional:7
+Micro-ondas Angeloni,15,521,9;78;100;80;80;57;29;79;77;67;67;67,task:3;informational:25;navigational:45;commercial:8;transactional:19
+Aquecimento de água no micro-ondas,55,13033,87;88;84;92;97;99;99;100;100;100;99;99,task:12;informational:71;navigational:5;commercial:9;transactional:3
+Micro-ondas 28 litros,21,1109,45;98;100;88;84;71;72;97;91;97;75;75,informational:54;navigational:1;commercial:27;transactional:18
+Móveis com nicho para micro-ondas,21,2779,64;75;77;100;45;48;49;98;39;39;38;38,informational:67;navigational:5;commercial:25;transactional:3
+Micro-ondas de 42 litros,22,1666,83;100;63;57;71;74;79;80;65;75;74;77,task:1;informational:59;navigational:9;commercial:25;transactional:6
+Micro-ondas Vermelhos Retrô,15,1666,21;61;56;51;49;36;30;28;29;29;81;100,task:7;informational:35;navigational:11;commercial:34;transactional:13
+Micro-ondas Philco com magnetron,19,2472,14;30;33;28;89;88;88;100;95;99;98;99,task:2;informational:46;navigational:10;commercial:18;transactional:24
+O que pode ir no micro-ondas,276,107535,78;87;81;81;94;94;94;99;100;100;100;100,task:8;informational:79;navigational:2;commercial:6;transactional:5
+Fusíveis de Micro-ondas,38,12844,30;34;30;54;85;87;87;100;99;99;100;99,task:5;informational:65;navigational:5;commercial:16;transactional:9
+Móveis para micro-ondas com fruteira,21,2703,87;99;100;54;39;42;43;44;38;39;48;47,task:5;informational:51;navigational:5;commercial:28;transactional:11
+Micro-ondas 35 litros,15,689,22;45;54;43;40;39;45;77;88;100;46;54,task:3;informational:45;navigational:4;commercial:40;transactional:8
+Marmitas plásticas para micro-ondas,33,6896,72;83;50;77;98;100;100;89;85;85;84;83,task:2;informational:57;navigational:4;commercial:30;transactional:7
+Móveis para micro-ondas e forno,35,11873,93;95;100;97;92;92;92;84;84;84;84;84,task:2;informational:57;navigational:9;commercial:27;transactional:5
+Panasonic Micro-ondas Piccolo,19,636,53;61;49;100;99;100;99;76;84;95;69;70,task:2;informational:49;navigational:15;commercial:23;transactional:11
+Forno e Micro-ondas Embutidos Electrolux,16,496,27;30;31;30;47;44;42;73;67;100;89;94,task:1;informational:48;navigational:18;commercial:18;transactional:15
+Torresmo de Micro-ondas,18,476,93;100;100;69;72;73;73;69;61;61;61;61,task:10;informational:70;navigational:3;commercial:2;transactional:15
+Brastemp Embutir Micro-ondas,16,710,53;72;76;69;63;67;66;74;83;100;84;95,task:3;informational:35;navigational:35;commercial:19;transactional:8
+Microndas Panasonic com magnetron,17,517,33;34;35;66;66;66;76;66;79;100;87;84,task:7;informational:48;navigational:10;commercial:19;transactional:16
+Chaves para Micro-ondas,19,1102,26;29;37;54;89;87;88;99;99;100;100;100,task:5;informational:64;navigational:5;commercial:20;transactional:6
+Tupperware para Microondas,19,886,92;100;49;59;92;95;87;79;79;78;76;75,task:3;informational:50;navigational:5;commercial:26;transactional:16
+Micro-ondas Ponto Frio 30L,15,283,21;42;45;44;37;28;83;100;69;38;34;35,informational:38;navigational:35;commercial:11;transactional:16
+Molduras e embutidos para microondas,16,684,77;90;91;53;52;57;56;71;60;98;96;100,task:8;informational:50;navigational:10;commercial:14;transactional:18
+Prateleiras e suportes para micro-ondas,15,1662,64;93;96;92;74;80;82;88;93;100;88;87,task:7;informational:36;navigational:1;commercial:41;transactional:15
+Macarrão no Micro-ondas,30,9528,16;20;21;23;31;33;33;100;90;90;90;90,task:12;informational:75;navigational:3;commercial:5;transactional:5
+Pães de Micro-ondas,30,3290,90;49;63;62;46;50;50;92;100;100;100;100,task:12;informational:73;navigational:5;commercial:8;transactional:2
+Micro-ondas Midea 27 litros,15,521,45;85;85;82;76;69;57;72;64;84;76;100,task:3;informational:35;navigational:28;commercial:21;transactional:13
+"Tomadas, extensões e adaptadores para micro-ondas",25,2581,33;36;63;92;99;100;100;87;94;96;95;98,task:2;informational:66;navigational:5;commercial:14;transactional:13
+Micro-ondas Fischer Embutir,17,1662,79;89;87;63;63;64;67;85;91;99;100;97,task:2;informational:41;navigational:15;commercial:18;transactional:24
+Suportes para micro-ondas e forno elétrico,34,9076,86;94;100;100;96;97;97;96;92;93;93;93,task:8;informational:50;navigational:4;commercial:32;transactional:6
+Peças de Micro-ondas Electrolux,26,2714,28;34;37;49;99;100;100;69;67;67;68;68,task:4;informational:55;navigational:10;commercial:18;transactional:13
+Papel alumínio e micro-ondas,20,1531,75;74;85;100;97;97;97;100;89;89;89;89,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Microondas usados no Brasil,18,2759,68;81;82;44;98;100;100;61;63;63;63;63,task:10;informational:29;navigational:7;commercial:26;transactional:28
+Micro-ondas Electrolux MEC41/ME41X,29,2681,48;54;54;34;55;56;56;100;84;84;86;86,task:5;informational:45;navigational:20;commercial:19;transactional:11
+Micro-ondas Electrolux MTD30,18,694,26;30;46;37;34;28;28;100;86;52;51;37,task:2;informational:54;navigational:32;commercial:9;transactional:3
+Micro-ondas: ortografia e grafia,42,20974,100;71;71;66;78;78;78;90;87;87;87;87,task:5;informational:85;navigational:3;commercial:5;transactional:2
+Micro-ondas 30 litros: guia de compra,55,22674,99;100;46;52;53;53;53;61;53;53;53;53,task:2;informational:57;navigational:2;commercial:31;transactional:8
+Micro-ondas Consul 32/34L,16,292,30;40;41;38;100;83;82;50;52;62;40;45,task:7;informational:39;navigational:18;commercial:16;transactional:20
+Peças para Micro-ondas e Eletrodomésticos,24,4114,23;33;40;55;98;100;100;73;61;61;62;62,task:10;informational:42;navigational:4;commercial:28;transactional:16
+Micro-ondas Consul 30L,16,494,32;54;54;53;59;75;60;37;33;100;89;99,task:17;informational:46;navigational:4;commercial:29;transactional:4
+Nichos de cozinha para micro-ondas e forno,20,870,86;100;100;54;53;48;48;80;70;89;87;86,task:8;informational:58;navigational:5;commercial:19;transactional:10
+Torre de cocção para forno e micro-ondas,18,2165,47;62;85;81;80;82;82;100;92;92;92;91,task:2;informational:58;navigational:4;commercial:26;transactional:10
+Micro-ondas 21L Panasonic e Mondial,26,6826,85;98;100;100;59;60;60;87;90;90;90;95,task:2;informational:48;navigational:4;commercial:40;transactional:6
+Mercado Livre Micro-ondas Inox,15,103,4;52;49;52;21;81;70;100;64;23;20;20,task:3;informational:28;navigational:35;commercial:12;transactional:22
+Casas Bahia: Micro-ondas e Eletrodomésticos,16,1236,37;55;51;47;45;49;50;81;62;58;100;83,task:4;informational:22;navigational:40;commercial:11;transactional:23
+Ovos no Micro-ondas,117,83193,31;33;35;52;73;73;73;100;100;100;100;100,task:10;informational:79;navigational:2;commercial:6;transactional:3
+Micro-ondas Philco 37L,15,566,27;62;61;47;41;44;29;60;87;100;42;49,task:3;informational:51;navigational:11;commercial:22;transactional:13
+Micro-ondas 31 litros Electrolux MI41S,28,3393,86;100;100;56;55;58;59;53;56;55;55;55,task:3;informational:53;navigational:14;commercial:22;transactional:8
+Micro-ondas Panasonic 34L,22,2881,89;99;100;55;60;61;61;65;68;67;67;66,informational:50;navigational:14;commercial:28;transactional:8
+Pipoca de Micro-ondas,96,50501,33;26;29;52;66;66;66;100;95;95;95;95,task:5;informational:78;navigational:5;commercial:9;transactional:3
+Arroz no Micro-ondas,62,31875,35;36;17;25;45;46;46;100;83;83;83;83,task:2;informational:77;navigational:5;commercial:10;transactional:6
+Agratto Micro-ondas 32L,21,2668,23;31;31;25;33;37;43;78;70;82;78;100,task:2;informational:41;navigational:25;commercial:10;transactional:22
+Micro-ondas 27 litros (Electrolux e similares),31,4122,90;100;52;59;60;61;61;60;58;58;58;57,task:2;informational:60;navigational:5;commercial:17;transactional:16
+Micro-ondas: Não Esquentando,92,27577,79;85;88;94;97;98;98;99;100;100;100;100,task:8;informational:75;navigational:4;commercial:5;transactional:8
+Torre para Forno e Micro-ondas,17,267,16;37;43;33;36;28;37;100;84;22;21;22,task:7;informational:43;navigational:1;commercial:39;transactional:10
+Eletrodomésticos no Zoom,22,2376,85;100;100;99;75;78;82;97;86;87;93;94,task:5;informational:33;navigational:27;commercial:10;transactional:25
+Peças de micro-ondas Brastemp,19,724,69;77;78;67;66;67;66;100;69;67;66;70,task:3;informational:64;navigational:7;commercial:16;transactional:10
+Pudim no Micro-ondas,36,17099,44;47;49;55;58;59;59;97;100;100;100;100,task:8;informational:75;navigational:5;commercial:9;transactional:3
+Lasanha no Micro-ondas,21,1022,34;33;33;39;44;46;46;100;49;49;52;51,task:17;informational:68;navigational:8;commercial:5;transactional:2
+Magnetrons LG,18,687,42;50;79;81;80;79;77;84;95;100;97;95,task:2;informational:47;navigational:10;commercial:20;transactional:21
+Receitas de Brigadeirão de Micro-ondas,16,4414,86;98;100;100;52;54;55;56;68;67;67;67,task:12;informational:74;navigational:6;commercial:5;transactional:3
+Micro-ondas Electrolux 36L,35,4535,86;97;100;53;54;55;55;54;54;64;61;59,task:2;informational:41;navigational:15;commercial:21;transactional:21
+Cuscuz no Micro-ondas,36,39302,14;16;17;54;58;58;58;100;78;78;78;78,task:2;informational:78;navigational:5;commercial:12;transactional:3
+Micro-ondas Panasonic 32 litros,15,1336,36;58;62;49;49;52;41;76;55;23;23;100,task:2;informational:45;navigational:9;commercial:22;transactional:22
+Microondas Consul 20 litros,16,334,42;91;100;72;61;74;37;51;37;70;60;46,task:2;informational:40;navigational:24;commercial:25;transactional:9
+Micro-ondas LG 30 litros,19,750,16;26;27;31;40;40;27;21;99;100;37;46,task:5;informational:33;navigational:16;commercial:24;transactional:22
+Pizza no Micro-ondas,44,9775,27;30;30;45;66;66;67;100;99;99;99;99,task:2;informational:80;navigational:5;commercial:8;transactional:5
+Membranas de Micro-ondas LG,16,329,42;51;51;53;49;46;43;53;87;100;96;96,task:5;informational:52;navigational:5;commercial:10;transactional:28
+Frigideiras Elétricas,17,1528,84;99;100;99;90;90;90;94;48;47;46;46,task:2;informational:46;navigational:4;commercial:35;transactional:13
+Conserto de Microondas no Brasil,18,3163,72;96;100;97;92;97;97;94;98;99;98;97,task:13;informational:24;navigational:5;commercial:38;transactional:20
+Micro-ondas 23 litros Electrolux,31,4915,83;98;100;65;78;79;80;67;68;69;70;77,task:3;informational:51;navigational:4;commercial:31;transactional:11
+Micro-ondas com ferrugem e descascamento,18,989,48;50;51;48;89;89;89;100;99;99;99;99,task:12;informational:70;navigational:5;commercial:10;transactional:3
+Marmita Elétrica,18,722,62;78;79;74;75;91;83;100;82;82;89;87,task:5;informational:50;navigational:8;commercial:24;transactional:13
+Conserto de Micro-ondas Electrolux,16,263,91;78;81;81;95;89;87;99;95;93;92;100,task:15;informational:42;navigational:14;commercial:9;transactional:20
+Fisioterapia com Micro-ondas,18,720,69;62;63;100;96;97;97;86;75;75;75;75,task:2;informational:63;navigational:4;commercial:25;transactional:6
+Potes para micro-ondas e freezer,20,1286,65;31;30;28;38;40;45;84;90;96;99;100,task:2;informational:54;navigational:2;commercial:32;transactional:10
+Marmitas Térmicas,27,4829,53;61;32;72;93;94;95;100;93;93;95;94,task:2;informational:52;navigational:6;commercial:30;transactional:10
+Eletrodomésticos para Cozinha,70,27782,35;38;50;72;80;80;80;93;100;100;100;100,task:2;informational:62;navigational:2;commercial:26;transactional:8
+Fritadeiras Elétricas (Air Fryers),497,584548,17;16;18;25;100;100;100;30;39;39;39;39,task:5;informational:46;navigational:2;commercial:33;transactional:14
+Micro-ondas Panasonic 27 litros,19,1086,83;94;100;96;52;52;50;46;61;58;62;62,task:5;informational:41;navigational:9;commercial:29;transactional:16
+Armários suspensos para micro-ondas,15,1530,42;68;77;50;49;44;29;88;86;90;81;100,task:5;informational:58;navigational:10;commercial:21;transactional:6
+Aquecedores de Marmitas Elétricas,19,1510,69;77;73;100;68;79;70;96;96;98;97;96,task:3;informational:60;navigational:2;commercial:20;transactional:15
+Micro-ondas Brastemp 20L,22,2838,83;98;100;87;78;81;83;75;73;75;76;72,task:5;informational:42;navigational:16;commercial:21;transactional:16
+teste de transformador de micro-ondas,17,507,54;55;57;75;75;76;76;55;100;100;100;100,task:8;informational:74;navigational:5;commercial:5;transactional:8
+Micro-ondas Philco 26L,19,550,41;47;49;46;100;89;72;42;30;50;34;40,task:3;informational:53;navigational:14;commercial:22;transactional:8
+Micro-ondas LG MS3095LR,15,231,9;27;29;28;49;44;30;64;75;100;79;83,task:3;informational:47;navigational:36;commercial:10;transactional:4
+Brastemp Maxi Micro-ondas,22,541,59;69;100;60;41;42;41;62;57;60;51;51,task:2;informational:62;navigational:15;commercial:16;transactional:5
+Aparelhos e Acessórios de Cozinha,15,545,6;33;44;36;36;39;28;100;85;78;92;70,task:3;informational:60;navigational:9;commercial:18;transactional:10
+Micro-ondas LG Neochef,23,1442,29;37;49;46;75;86;83;100;80;82;84;85,task:1;informational:45;navigational:25;commercial:17;transactional:12
+Microwave Safety & Cooking,24,1100,44;49;38;93;100;100;100;86;74;74;74;73,task:8;informational:59;navigational:2;commercial:27;transactional:4
+Batatas: Cozinha Rápida no Micro-ondas e na Panela de Pressão,160,107950,12;21;16;46;90;90;90;100;100;100;100;100,task:8;informational:74;navigational:2;commercial:8;transactional:8
+Home Appliances & Kitchen Gadgets,30,19836,30;100;56;87;75;75;75;51;92;92;100;93,task:10;informational:56;navigational:6;commercial:22;transactional:6
+Omeletes no Micro-ondas,24,3460,58;66;39;65;69;71;72;100;89;89;89;89,task:2;informational:80;navigational:5;commercial:8;transactional:5
+Tecno Eletrodomésticos,19,511,38;46;49;47;58;60;60;100;77;85;52;51,task:12;informational:40;navigational:11;commercial:30;transactional:7
+Marmitas Elétricas e Térmicas,51,27048,22;23;27;31;46;46;46;100;50;50;50;50,task:7;informational:45;navigational:5;commercial:26;transactional:17
+LG Micro-ondas - Placas e Peças,16,184,36;61;63;63;97;89;82;92;89;92;100;93,task:5;informational:46;navigational:4;commercial:36;transactional:9
+Micro-ondas Electrolux MEF28,20,845,27;46;58;49;46;47;46;88;84;100;96;97,task:2;informational:46;navigational:19;commercial:29;transactional:4
+Micro-ondas Philco 34L,17,925,66;95;100;86;40;33;35;70;62;75;47;59,task:3;informational:28;navigational:23;commercial:35;transactional:11
+Cuisinart - Fornos e Air Fryers,17,467,64;81;100;92;96;84;85;92;91;92;84;84,task:3;informational:38;navigational:17;commercial:32;transactional:10
+Mini sanduicheiras,17,453,63;97;99;87;86;92;93;87;88;100;82;84,task:3;informational:53;navigational:4;commercial:29;transactional:11
+Micro-ondas usados no OLX,19,477,67;91;96;89;70;100;86;83;89;94;94;91,task:7;informational:11;navigational:58;commercial:7;transactional:17
+air fryers e fornos elétricos,15,658,35;40;42;38;42;41;40;100;93;51;53;57,task:5;informational:73;navigational:3;commercial:12;transactional:7
+Marmitas e Lunch Boxes Electrolux,16,409,53;91;100;94;92;88;77;65;65;66;67;71,task:3;informational:33;navigational:34;commercial:12;transactional:18
+Mix de Eletrodomésticos,15,366,7;100;93;83;83;61;43;56;36;57;54;57,task:3;informational:42;navigational:4;commercial:43;transactional:8
+Eletroportáteis de Cozinha,26,5956,23;26;26;26;90;91;91;99;100;100;100;100,task:2;informational:50;navigational:4;commercial:34;transactional:10
+Mini Fornos Elétricos Portáteis,17,2195,69;91;94;90;88;94;95;98;100;97;97;95,task:7;informational:45;navigational:4;commercial:33;transactional:11
+Fornos com convecção,54,12061,40;47;48;57;86;88;88;100;99;99;99;99,task:5;informational:62;navigational:4;commercial:26;transactional:3
+Micro-ondas Toshiba 27–35 L,15,1305,7;31;36;20;22;19;24;75;68;100;85;79,task:3;informational:63;navigational:8;commercial:22;transactional:4
+eletrodomésticos de cozinha,19,1940,16;21;28;41;99;100;99;54;46;46;47;47,task:2;informational:59;navigational:5;commercial:22;transactional:12
+Air Fryer Inox,19,1091,80;93;100;76;84;87;82;70;86;86;87;87,task:2;informational:64;navigational:5;commercial:21;transactional:8
+Fornos Elétricos,231,147415,42;40;41;53;100;100;100;97;79;79;79;79,task:2;informational:40;navigational:4;commercial:39;transactional:15
+Micro-ondas Brastemp Ative 30L,16,2486,84;100;56;53;48;51;51;49;80;93;69;70,task:2;informational:42;navigational:14;commercial:27;transactional:15
+Nichos e prateleiras para air fryer,15,190,22;78;100;75;75;69;23;76;80;77;60;69,task:17;informational:61;navigational:3;commercial:14;transactional:5
+Máquinas de Cozinha Automatizadas,18,138,27;31;38;35;35;36;68;100;87;44;44;44,task:4;informational:65;navigational:1;commercial:23;transactional:7
+Tintas para Fornos e Micro-ondas,35,7422,22;27;29;77;88;89;89;100;99;99;98;98,task:8;informational:53;navigational:6;commercial:21;transactional:12
+Cooktops e Fogões de Indução,270,417452,19;19;19;85;98;98;98;100;82;82;82;82,task:2;informational:49;navigational:4;commercial:37;transactional:8
+Fritadeiras Digitais,16,1323,61;86;91;85;87;93;94;100;91;91;91;89,task:7;informational:50;navigational:1;commercial:32;transactional:10
+Bolos de caneca no micro-ondas,37,14979,97;100;47;50;49;49;49;66;67;67;67;67,task:8;informational:77;navigational:3;commercial:5;transactional:7
+Batata Doce no Micro-ondas,54,25172,37;40;42;26;69;69;69;100;95;95;95;95,task:2;informational:85;navigational:5;commercial:5;transactional:3
+Fritadeiras Marchesoni,16,109,38;41;43;100;93;44;40;40;40;37;37;37,task:3;informational:33;navigational:31;commercial:17;transactional:16
+Percy Spencer e o Micro-ondas,36,59590,72;74;76;81;100;100;100;82;82;82;82;82,task:8;informational:76;navigational:5;commercial:6;transactional:5
+Umidificadores Ultrassônicos,20,1227,70;79;79;40;99;100;100;29;31;31;29;29,task:2;informational:72;navigational:6;commercial:15;transactional:5
+Fritadeiras MetalCubas,17,494,79;97;99;95;89;94;96;98;100;100;100;100,task:1;informational:23;navigational:48;commercial:17;transactional:11
+Mini fogões e fogareiros,19,782,100;53;54;52;48;51;51;74;56;56;56;55,task:2;informational:63;navigational:5;commercial:19;transactional:11
+Marmiteiras e Marmiteiro Térmico,15,980,64;87;89;86;85;97;97;93;95;100;100;100,task:3;informational:63;navigational:5;commercial:25;transactional:4
+Airfryer Multilaser,25,2736,58;67;45;42;55;56;54;100;84;84;86;86,task:2;informational:63;navigational:5;commercial:22;transactional:8
+Fornos Elétricos Giratórios,19,839,65;71;73;71;71;76;76;80;100;98;76;75,task:2;informational:66;navigational:11;commercial:11;transactional:10
+Batedeiras KitchenAid,36,13764,93;97;100;46;46;47;47;56;57;57;57;57,task:3;informational:38;navigational:15;commercial:29;transactional:15
+Mini Processadores de Alimentos,27,9681,43;47;50;50;100;100;100;51;49;50;50;49,task:5;informational:34;navigational:4;commercial:41;transactional:16
+Assadeiras e fritadeiras elétricas,16,1288,82;96;100;95;51;54;53;51;52;89;73;70,task:5;informational:54;navigational:4;commercial:26;transactional:11
+Pipoca de Micro-ondas: preços e calorias,34,8160,44;55;53;57;63;64;65;92;100;100;100;100,task:2;informational:63;navigational:3;commercial:13;transactional:19
+Micro-ondas 30 litros no Mercado Livre,15,309,50;93;100;68;78;75;55;68;45;43;43;44,task:1;informational:38;navigational:36;commercial:10;transactional:15
+Radiofrequência portátil,21,1568,23;22;100;82;99;59;62;36;42;42;42;42,task:5;informational:50;navigational:4;commercial:32;transactional:9
+Miniaturas de Cozinha,15,342,68;100;100;98;86;90;91;87;87;91;81;82,task:3;informational:63;navigational:11;commercial:19;transactional:4
+Geladeiras compactas Multilaser,16,314,17;41;43;19;18;19;17;16;17;100;91;18,task:3;informational:57;navigational:1;commercial:26;transactional:13
+Marmitas Transparentes com Tampa,17,487,68;87;86;81;78;82;74;100;71;72;66;63,task:5;informational:48;navigational:9;commercial:29;transactional:9
+Marmitas e potes 750ml,16,867,68;80;80;82;81;82;74;93;94;100;98;88,task:2;informational:37;navigational:2;commercial:50;transactional:9
+Micro-ondas Electrolux 34 L para Embutir,61,11369,58;64;74;91;99;100;100;89;86;87;87;87,task:2;informational:50;navigational:9;commercial:25;transactional:14
+Mini chapinhas de cabelo,21,2883,68;94;98;89;88;95;96;98;100;100;99;98,task:7;informational:34;navigational:4;commercial:31;transactional:24
+Eletrodomésticos Gorenje,16,864,47;98;100;88;66;68;67;82;82;88;75;83,task:3;informational:27;navigational:42;commercial:16;transactional:12
+Fritadeiras Airfryer Rotativas,18,1442,58;72;67;89;96;98;100;100;100;100;100;100,task:2;informational:59;navigational:4;commercial:26;transactional:9
+Balcões e Bancadas para Forno e Micro-ondas,17,1142,73;100;100;88;78;76;84;88;85;87;75;74,task:3;informational:37;navigational:24;commercial:28;transactional:8
+Fornos Turbochef,16,132,45;48;50;51;49;100;94;53;54;60;60;57,task:3;informational:36;navigational:39;commercial:15;transactional:7
+Airfryer: vídeos e dicas,20,952,29;31;39;86;86;88;88;100;62;61;61;60,task:8;informational:72;navigational:13;commercial:4;transactional:3
+SE Electronics e Microfones,20,450,62;68;74;75;96;100;100;92;94;95;94;95,task:5;informational:56;navigational:14;commercial:19;transactional:6
+Eletrodomésticos online Brasil,15,1081,15;99;100;98;28;44;43;54;43;54;47;63,task:2;informational:33;navigational:34;commercial:27;transactional:4
+Marmitas Infantis,17,1745,87;99;100;54;69;72;73;63;57;58;57;56,task:2;informational:54;navigational:4;commercial:31;transactional:9
+Micro-ondas: prato não gira,21,1025,63;64;64;64;84;85;85;88;88;100;95;99,task:8;informational:70;navigational:2;commercial:8;transactional:12
+Fritadeiras Air Fryer e Fornos,25,17475,44;48;52;42;58;58;59;100;75;74;75;74,task:4;informational:51;navigational:3;commercial:35;transactional:7
+Samsung Galaxy A235M/A236M (Smartphones),28,7088,31;37;37;32;65;67;67;95;98;98;100;100,task:2;informational:57;navigational:7;commercial:30;transactional:4
+Forno e air fryer Kitchenaid,19,725,84;94;94;95;90;92;100;92;73;71;73;72,task:8;informational:44;navigational:3;commercial:36;transactional:9
+Máquinas de Pipoca,27,6009,54;65;64;66;63;66;67;100;98;98;99;98,task:2;informational:54;navigational:5;commercial:25;transactional:14
+Cookers e fogões,18,1083,70;74;74;75;93;93;99;100;38;39;39;43,task:2;informational:75;navigational:10;commercial:10;transactional:3
+Airfryer de Brinquedo,15,183,52;100;98;75;84;95;77;100;82;45;46;46,task:3;informational:56;navigational:8;commercial:16;transactional:17
+Misturadores e processadores de alimentos,86,43776,31;33;33;100;48;48;48;46;46;46;46;46,task:5;informational:39;navigational:1;commercial:39;transactional:16
+Marmitas de Alumínio,24,6976,60;69;46;53;78;81;80;100;99;99;97;97,task:8;informational:53;navigational:4;commercial:29;transactional:6
+Cooktops e Ponto Frio,15,213,12;46;74;50;64;36;32;79;61;100;89;99,task:7;informational:18;navigational:47;commercial:10;transactional:18
+coifas Midea,15,263,15;95;100;25;70;45;53;36;35;42;37;46,task:3;informational:36;navigational:38;commercial:11;transactional:12
+Mini Lousa Magnética,15,941,4;5;6;13;16;17;11;29;24;100;81;69,task:7;informational:32;navigational:11;commercial:32;transactional:18
+Panelas Elétricas Multicook,22,3898,33;39;41;30;98;100;100;83;62;62;61;60,task:7;informational:55;navigational:11;commercial:16;transactional:11
+Sistemas de áudio LG,33,3607,54;72;67;86;98;100;100;98;71;71;73;72,task:5;informational:64;navigational:3;commercial:16;transactional:12
+Fritadeiras elétricas no Brasil,15,2482,85;99;100;49;50;53;54;49;46;46;46;46,task:3;informational:51;navigational:13;commercial:20;transactional:13
+Aquecedores Halógenos,21,2698,20;26;27;32;32;34;39;93;98;100;100;100,task:5;informational:44;navigational:9;commercial:28;transactional:14
+Eletrônicos e Dispositivos,24,16820,48;94;47;84;53;54;54;100;100;100;100;100,task:7;informational:66;navigational:5;commercial:15;transactional:7
+Temporizadores de Cozinha,16,568,54;68;67;91;89;82;79;100;100;82;82;88,task:3;informational:62;navigational:1;commercial:22;transactional:12
+Fritadeiras Mallory,16,614,92;100;100;56;48;54;52;50;55;51;49;49,task:2;informational:38;navigational:27;commercial:11;transactional:22
+Máquinas para o lar,17,1867,15;36;38;32;50;42;45;58;81;94;90;100,task:4;informational:54;navigational:2;commercial:29;transactional:11
+Liquidificadores Kitchenaid,19,2511,87;99;100;98;93;96;97;50;76;80;64;63,task:2;informational:54;navigational:10;commercial:19;transactional:15
+Aparelhos de alta frequência estéticos,17,764,94;97;100;84;98;97;97;80;93;94;93;92,task:5;informational:52;navigational:4;commercial:30;transactional:9
+Torre Quente para Cozinha,30,11096,79;89;92;84;89;91;91;94;100;100;100;100,task:2;informational:51;navigational:5;commercial:33;transactional:9
+Kits de Liquidificador com Airfryer,16,450,33;64;74;41;60;62;76;100;55;66;58;59,task:5;informational:29;navigational:1;commercial:51;transactional:14
+Medidores de Cozinha,20,1762,83;92;96;95;85;88;88;86;98;98;98;100,task:2;informational:58;navigational:7;commercial:28;transactional:5
+fritadeiras Skymsen,15,179,24;38;39;50;56;50;39;100;97;31;30;31,informational:42;navigational:27;commercial:15;transactional:16
+Forno Samsung e Air Fryer,18,1585,5;49;55;35;38;20;24;65;42;100;74;77,task:6;informational:50;navigational:15;commercial:23;transactional:6
+Panelas a vapor,67,37053,23;22;31;65;89;89;90;100;97;97;97;97,task:2;informational:63;navigational:5;commercial:20;transactional:10
+Misturadores Elétricos Compactos,18,1801,83;97;100;80;85;88;89;76;82;82;76;75,task:5;informational:38;navigational:9;commercial:33;transactional:15
+JM Equipamentos Gastronômicos,15,50,22;100;95;24;24;27;25;25;25;25;25;25,task:1;informational:27;navigational:49;commercial:8;transactional:15
+fornos elétricos digitais,15,127,14;17;21;19;36;43;30;100;61;18;17;17,task:3;informational:49;navigational:4;commercial:33;transactional:11
+Misteiras e Eletrodomésticos,16,4024,64;90;96;96;94;96;98;98;100;100;100;99,task:7;informational:45;navigational:11;commercial:30;transactional:7
+Frigideiras MTA,16,473,19;50;63;49;21;25;24;51;61;100;98;75,task:3;informational:29;navigational:23;commercial:33;transactional:12
+Ninja Air Fryer,19,3495,78;98;100;67;70;74;75;70;75;75;76;75,task:5;informational:48;navigational:9;commercial:30;transactional:8
+Fritadeiras elétricas com cuba,17,190,35;41;44;35;100;90;48;80;58;52;46;57,task:10;informational:46;navigational:4;commercial:33;transactional:7
+Fogões e fornos por indução,22,3064,64;75;76;53;83;85;85;100;92;92;92;91,task:2;informational:60;navigational:2;commercial:22;transactional:14
+Marmitas descartáveis 250ml,17,160,44;83;81;60;34;35;39;100;100;33;33;33,task:10;informational:30;navigational:4;commercial:55;transactional:1
+Mix Eletrônicos,16,798,7;21;28;34;24;94;29;100;53;53;47;45,task:3;informational:18;navigational:54;commercial:16;transactional:9
+Antenas Mimosa sem fio,20,840,43;48;49;46;49;50;50;43;100;100;100;100,informational:58;navigational:11;commercial:19;transactional:12
+Suggar Eletrodomésticos,15,922,31;59;60;77;71;39;58;58;29;76;77;100,task:2;informational:18;navigational:67;commercial:7;transactional:6
+Cera depilatória microondas,24,4536,27;37;34;19;68;70;65;77;75;75;99;100,task:7;informational:52;navigational:5;commercial:16;transactional:20
+Marcas de Eletrodomésticos,22,3382,14;18;28;67;99;99;99;100;90;87;94;100,task:2;informational:38;navigational:8;commercial:47;transactional:5
+Air Fryer e Liquidificador no Brasil,18,1366,76;89;91;88;85;87;89;100;47;47;47;47,task:5;informational:42;navigational:9;commercial:14;transactional:30
+Esterilizadores de mamadeira Philips Avent,20,2772,59;69;70;45;100;100;100;63;97;97;98;98,informational:56;navigational:10;commercial:25;transactional:9
+Torradeiras elétricas,37,12648,100;45;49;52;71;71;71;61;62;62;62;62,task:2;informational:35;navigational:4;commercial:40;transactional:19
+Smeg Eletrodomésticos,15,3189,84;98;100;48;47;52;52;48;49;49;50;50,task:3;informational:26;navigational:25;commercial:15;transactional:31
+Farm coolers e marmitas,16,4499,85;98;100;53;52;53;54;57;59;58;59;58,task:2;informational:60;navigational:6;commercial:21;transactional:11
+Air Fryer e Forno,56,31544,18;21;23;86;57;57;57;100;78;78;78;78,task:5;informational:55;navigational:4;commercial:24;transactional:12
+Fritadeiras Cadence,29,4678,56;75;78;80;97;100;100;88;88;88;91;93,task:2;informational:48;navigational:16;commercial:15;transactional:19
+Mini Panelas Elétricas – Arroz e Cozinha Compacta,18,670,67;92;100;94;96;99;100;89;95;97;97;96,task:7;informational:41;navigational:4;commercial:31;transactional:17
+Coifas Máximas,15,210,11;52;100;14;17;37;31;36;43;46;44;50,task:1;informational:40;navigational:34;commercial:19;transactional:6
+Mega Elétrica e Eletro,15,257,32;81;95;79;82;75;62;47;48;86;100;93,task:3;informational:18;navigational:48;commercial:19;transactional:12
+Air Fryer Vintage e Retro,16,671,44;58;60;60;69;73;73;100;99;87;87;85,task:3;informational:52;navigational:1;commercial:22;transactional:22
+Fritadeiras Labravia,20,1091,56;59;55;41;97;100;100;88;88;89;91;92,informational:60;navigational:15;commercial:16;transactional:9
+Mini Produtos Alimentares,18,516,50;56;57;100;100;96;76;61;56;83;79;79,task:3;informational:52;navigational:4;commercial:32;transactional:9
+Conserto de Microondas Curitiba,15,203,60;64;66;62;60;77;70;59;69;73;100;100,task:1;informational:26;navigational:39;commercial:25;transactional:9
+Mini Caldeirões,16,47,14;97;100;33;50;17;41;16;17;13;13;13,task:3;informational:39;navigational:11;commercial:30;transactional:17
+Fogões com Air Fryer,28,5131,80;85;52;68;89;91;91;86;99;100;95;95,task:2;informational:63;navigational:5;commercial:22;transactional:8
+Lousas magnéticas para geladeira,17,282,46;100;93;57;52;56;64;48;47;88;82;44,task:1;informational:28;navigational:35;commercial:29;transactional:7
+Conserto de Eletrodomésticos,21,10588,34;42;46;43;40;41;41;55;100;100;100;100,task:17;informational:35;navigational:2;commercial:29;transactional:17
+Marmita Banho-Maria,28,3180,51;56;56;80;100;100;100;82;80;80;82;82,task:2;informational:72;navigational:5;commercial:17;transactional:4
+Melhores Air Fryers: Custo-Benefício,52,24858,12;16;19;74;70;70;71;100;100;100;100;100,task:5;informational:33;navigational:1;commercial:59;transactional:2
+Frigideiras Brinox,21,1429,59;85;86;82;84;88;89;93;100;100;96;96,task:3;informational:36;navigational:33;commercial:14;transactional:14
+Refrigeração e Eletrodomésticos,17,1089,13;38;41;43;43;42;36;56;49;63;57;100,task:8;informational:72;navigational:5;commercial:15
+Suportes para airfryer,16,424,24;29;30;29;30;32;29;100;90;43;42;36,task:5;informational:57;navigational:1;commercial:26;transactional:11
+Fritadeiras elétricas Metvisa,15,98,12;77;98;53;68;100;14;20;18;21;19;18,informational:32;navigational:41;commercial:11;transactional:16
+microfones para rádio,15,123,33;82;100;38;36;37;46;33;34;35;36;40,task:5;informational:65;navigational:2;commercial:23;transactional:5
+Frigobares Magalu,15,357,65;84;84;81;74;73;68;80;89;99;100;91,task:3;informational:30;navigational:34;commercial:12;transactional:21
+Antenas Telescópicas,16,129,13;15;17;15;31;43;50;100;70;26;26;28,task:7;informational:63;navigational:4;commercial:22;transactional:4
+cabos de frigideira,15,89,13;100;95;47;50;60;22;54;67;30;30;31,informational:78;navigational:4;commercial:13;transactional:5
+Microfones sem fio,71,25146,33;36;38;42;100;100;100;54;55;55;55;55,task:5;informational:41;navigational:1;commercial:43;transactional:10
+Fogões digitais,17,640,35;45;49;41;45;49;69;47;45;45;51;100,task:3;informational:52;navigational:8;commercial:29;transactional:8
+Thermomix e Bimby: Panelas Multifuncionais,53,51830,14;15;19;75;92;92;92;100;100;100;100;100,task:5;informational:61;navigational:7;commercial:14;transactional:13
+Frigideiras e conjuntos antiaderentes,18,361,72;95;93;90;82;88;100;94;93;89;89;91,task:3;informational:43;navigational:4;commercial:33;transactional:17
+Omeleteiras Elétricas,18,5392,91;100;50;48;45;46;46;48;54;54;53;53,task:5;informational:40;navigational:4;commercial:30;transactional:21
+Marmitas de vidro,27,5656,90;97;100;47;47;48;48;50;48;48;48;47,task:5;informational:55;navigational:6;commercial:20;transactional:14
+Microlinks e Mega Hair,29,5666,69;73;65;61;74;75;76;100;98;98;96;96,task:5;informational:67;navigational:19;commercial:5;transactional:4
+Forno Elétrico Mueller e Air Fryer,22,989,80;94;100;52;46;49;49;72;55;56;56;56,task:2;informational:58;navigational:7;commercial:23;transactional:10
+Tecno Móveis,16,462,28;62;83;38;36;41;35;32;31;100;87;51,task:3;informational:29;navigational:42;commercial:18;transactional:8
+Pipoqueiras Multiflon,15,557,4;61;64;46;46;35;20;100;74;57;52;60,task:7;informational:42;navigational:18;commercial:22;transactional:11
+Sanduicheiras Electrolux,19,1867,47;64;62;52;52;61;61;63;66;66;100;96,task:5;informational:27;navigational:39;commercial:11;transactional:18
+Fogões Elétricos,98,39378,21;21;22;96;100;100;100;53;30;30;30;30,task:8;informational:45;navigational:4;commercial:25;transactional:18
+Fones Alienware,17,628,76;90;88;86;84;90;84;100;46;45;47;52,task:2;informational:58;navigational:4;commercial:30;transactional:6
+Marmitas Stanley termicas,16,883,72;96;97;93;91;98;98;100;96;96;95;95,task:3;informational:56;navigational:12;commercial:20;transactional:9
+Eletrodomésticos no Brasil,16,531,4;13;23;20;19;30;81;100;67;48;47;47,task:3;informational:56;navigational:4;commercial:29;transactional:8
+Aquecedores de Mamadeira,27,2281,83;100;99;55;56;60;60;70;67;66;66;65,task:3;informational:52;navigational:4;commercial:30;transactional:11
+Fritadeira Midea no Brasil,24,10012,63;72;74;70;32;33;34;34;100;100;100;100,task:2;informational:45;navigational:23;commercial:17;transactional:13
+Air Fryers 6L,21,3439,84;98;100;50;43;46;47;40;61;61;61;60,task:2;informational:53;navigational:4;commercial:30;transactional:11
+Cooktops de Indução Fischer,18,530,74;83;82;80;42;42;49;100;65;65;47;49,task:2;informational:54;navigational:15;commercial:18;transactional:11
+placas magnéticas,19,273,33;41;41;38;36;34;35;35;36;100;87;57,task:3;informational:53;navigational:11;commercial:27;transactional:6
+Borges Eletrodomésticos,15,348,8;8;9;17;18;17;33;100;64;47;50;24,task:2;informational:18;navigational:53;commercial:22;transactional:5
+Fritadeiras Lenoxx,16,134,79;95;99;87;77;100;95;85;83;78;81;79,task:7;informational:28;navigational:34;commercial:22;transactional:9
+fornos elétricos Electrolux,45,24093,49;51;26;44;100;100;100;85;84;84;84;84,informational:54;navigational:26;commercial:14;transactional:6
+Air fryers com duas gavetas,17,1173,84;100;100;96;95;98;99;46;48;47;47;47,task:2;informational:64;navigational:2;commercial:22;transactional:10
+Micro-ondas Philco não esquenta,20,2057,96;99;99;98;97;97;97;97;100;100;100;100,task:5;informational:72;navigational:5;commercial:8;transactional:10
+Cooktops Gourmand e Eletrodomésticos de Cozinha,15,359,20;38;43;32;50;33;30;43;42;66;58;100,task:7;informational:57;navigational:5;commercial:18;transactional:13
+Gadgets e Tecnologia,37,28699,51;64;67;100;60;60;61;91;91;91;91;91,task:5;informational:61;navigational:6;commercial:19;transactional:9
+Air Fryer Brasil — Avaliações,16,105,29;44;58;43;100;70;95;79;66;57;55;70,task:3;informational:63;navigational:4;commercial:26;transactional:4
+Fogões e Cooktops por Indução Portátil,19,2101,72;83;83;81;78;81;82;84;100;97;97;97,task:5;informational:45;navigational:4;commercial:32;transactional:14
+Mini cuscuzeiras,16,910,44;59;60;58;61;65;73;100;89;73;74;73,task:7;informational:42;navigational:11;commercial:23;transactional:17
+Eletrodomésticos Havan,21,2021,83;100;54;63;63;67;68;60;58;56;57;57,task:1;informational:26;navigational:41;commercial:9;transactional:23
+Air fryer e grill Philips Walita,19,1286,26;32;33;42;100;100;100;55;90;90;91;90,task:2;informational:56;navigational:15;commercial:23;transactional:4
+Dispositivos móveis,18,9272,100;72;60;64;64;65;65;64;65;65;66;67,task:5;informational:60;navigational:5;commercial:22;transactional:8
+Fogões Portáteis,17,1549,55;80;85;82;85;90;91;93;99;100;93;94,task:3;informational:52;navigational:1;commercial:30;transactional:14
+Lancheiras Térmicas Infantis,15,112,34;61;100;90;66;54;73;41;40;42;42;42,task:13;informational:45;navigational:11;commercial:18;transactional:13
+Fogões e Cooktops,16,382,14;85;100;19;33;32;30;30;25;31;29;31,task:2;informational:50;navigational:19;commercial:15;transactional:14
+Microlino e carros micro elétricos,19,1914,83;85;82;82;67;67;67;100;100;95;92;91,task:5;informational:64;navigational:5;commercial:15;transactional:11
+Panelas e frigideiras Electrolux,18,490,65;83;81;78;74;73;72;93;89;100;97;96,informational:35;navigational:41;commercial:17;transactional:7
+Brastemp micro-ondas: problemas comuns,19,647,68;75;76;83;83;82;82;82;96;96;100;100,task:5;informational:67;navigational:10;commercial:10;transactional:8
+Eletrodomésticos perto de mim,16,2002,58;97;100;76;78;67;69;84;72;94;89;99,task:5;informational:24;navigational:53;commercial:16;transactional:2
+Frigideiras Quadradas,15,512,36;50;50;49;52;55;49;100;89;66;62;68,task:7;informational:48;navigational:4;commercial:30;transactional:11
+Aquecedores Elétricos e Ebulidores,20,19331,10;15;16;80;99;100;100;100;100;100;100;100,task:7;informational:58;navigational:6;commercial:16;transactional:13
+Sartenes y utensilios de cocina,17,179,62;97;100;89;100;87;64;78;85;84;85;83,task:10;informational:53;navigational:1;commercial:32;transactional:4
+Forno a gás,15,41,8;26;29;17;31;34;8;100;9;9;9;9,task:7;informational:47;navigational:9;commercial:26;transactional:11
+Mini Coolers Portáteis,17,1331,63;96;98;94;88;92;94;93;95;100;96;96,task:3;informational:52;navigational:5;commercial:25;transactional:15
+cafeteiras elétricas Electrolux,24,1471,83;99;100;54;57;60;60;56;55;55;55;54,task:2;informational:23;navigational:25;commercial:13;transactional:37
+Maquinas de Waffle,33,11632,79;85;88;87;95;96;96;98;100;100;100;100,task:2;informational:48;navigational:5;commercial:29;transactional:16
+Geladeiras e Freezers,24,13701,18;23;24;44;80;81;81;90;100;100;100;100,task:6;informational:69;navigational:4;commercial:16;transactional:5
+Fifine Microfones,32,31483,31;35;39;38;39;40;40;61;100;100;100;100,task:1;informational:53;navigational:20;commercial:19;transactional:7
+Eletrodomésticos Antigos,16,156,26;27;28;86;86;100;82;96;72;40;39;39,task:2;informational:49;navigational:9;commercial:36;transactional:4
+Fritadeiras Elétricas Duplas,16,548,22;68;83;61;61;63;40;63;52;100;89;99,task:7;informational:39;navigational:4;commercial:27;transactional:23
+Churrasqueiras Elétricas Multilaser,17,222,20;47;62;39;37;25;24;100;79;31;28;28,task:7;informational:33;navigational:38;commercial:13;transactional:9
+Fornos Elétricos Colombo,15,452,56;71;74;65;79;73;67;80;56;100;94;100,task:2;informational:27;navigational:39;commercial:7;transactional:25
+Forno Elétrico Fischer,123,36843,100;100;41;43;51;51;51;58;62;62;62;62,task:3;informational:40;navigational:23;commercial:17;transactional:17
+Panquecas elétricas domésticas,20,2812,100;57;59;70;70;74;75;65;66;65;64;63,task:5;informational:54;navigational:4;commercial:26;transactional:11
+Tachos e fritadeiras elétricas,16,1091,43;51;56;55;55;54;52;50;67;100;98;100,task:5;informational:55;navigational:7;commercial:23;transactional:10
+Fornos Franke,16,402,25;27;28;36;33;33;40;46;39;100;90;92,task:3;informational:23;navigational:44;commercial:11;transactional:19
+Eletrodomésticos Vintage/Retro,15,557,54;76;81;75;83;95;93;97;100;100;100;99,task:3;informational:41;navigational:11;commercial:34;transactional:11
+Fritadeiras AirFama,16,615,73;99;100;97;74;79;80;69;70;78;78;94,task:1;informational:53;navigational:11;commercial:27;transactional:8
+Air Fryers 5 Litros,36,4670,55;60;62;28;100;100;100;25;28;28;28;28,task:2;informational:49;navigational:5;commercial:31;transactional:13
+Marmitas Soprano,20,356,52;98;100;75;56;49;47;50;49;47;48;48,task:2;informational:29;navigational:30;commercial:8;transactional:31
+Churrasqueiras elétricas,103,53203,40;42;44;50;100;100;100;65;67;67;67;67,task:2;informational:49;navigational:4;commercial:33;transactional:12
+Fritadeiras elétricas com óleo,53,26639,23;26;56;76;100;100;100;92;92;92;92;92,task:2;informational:56;navigational:2;commercial:27;transactional:13
+Cooktops Philco de Indução,57,5195,88;97;100;100;46;47;47;47;50;50;50;49,task:2;informational:45;navigational:16;commercial:18;transactional:19
+fornos e eletrodomésticos no Brasil,16,720,6;6;7;19;14;13;23;100;75;56;47;45,task:10;informational:56;navigational:8;commercial:12;transactional:14
+Multifuncionais 9 em 1 de alimentos,20,936,63;71;73;41;50;49;49;100;47;50;39;40,task:2;informational:54;navigational:9;commercial:25;transactional:10
+Fogões e fornos Elettromec,15,1393,72;93;98;91;80;87;88;95;100;99;99;98,task:4;informational:27;navigational:46;commercial:6;transactional:17
+Mixers de inox,15,641,13;18;19;23;31;26;18;36;39;100;98;81,task:7;informational:43;navigational:5;commercial:28;transactional:17
+Micro-ondas Brastemp 40L Embutir,22,2699,86;100;100;58;62;65;65;70;73;74;74;71,task:2;informational:52;navigational:15;commercial:15;transactional:16
+Airfryer na Havan,16,1470,85;99;100;98;48;50;50;55;66;66;67;66,task:2;informational:26;navigational:38;commercial:5;transactional:29
+Marmitas elétricas para carros,26,3230,45;53;51;51;100;100;100;94;88;88;86;86,task:5;informational:52;navigational:4;commercial:28;transactional:11
+Tronos: TVs e eletrodomésticos,22,6508,60;75;76;25;92;91;91;99;99;100;100;100,task:2;informational:58;navigational:30;commercial:8;transactional:2
+Cooktops Elettromec 4–5 Bocas,15,119,23;25;24;38;35;46;43;100;82;20;20;20,informational:53;navigational:5;commercial:22;transactional:20
+Microm Informática,16,924,27;51;52;98;93;89;83;80;80;97;100;98,task:1;informational:41;navigational:50;commercial:5;transactional:3
+Marmitas de inox duráveis,16,1284,72;39;40;47;81;82;100;72;76;75;100;96,task:5;informational:42;navigational:4;commercial:35;transactional:14
+Acessórios para fogão de indução,22,1248,84;99;100;97;93;90;90;58;68;68;67;68,task:5;informational:48;navigational:4;commercial:36;transactional:7
+Máquinas de panquecas e waffles,16,1098,44;48;48;32;44;52;52;100;87;77;77;73,task:5;informational:63;navigational:5;commercial:17;transactional:10
+Marinex e Vidro para Forno,40,11759,69;74;77;89;89;90;90;100;100;99;100;99,task:2;informational:69;navigational:10;commercial:16;transactional:3
+Cooktops e Fogões de Indução Midea,27,2997,84;98;100;50;48;52;52;54;59;59;58;57,task:2;informational:39;navigational:20;commercial:16;transactional:23
+Panelas e pipoqueiras para pipoca,21,6934,20;27;28;29;29;31;31;34;100;100;100;100,task:5;informational:41;navigational:4;commercial:35;transactional:15
+Misturadores Portáteis e Mini,31,7816,91;97;100;100;49;50;50;56;57;57;57;56,task:3;informational:53;navigational:4;commercial:27;transactional:13
+Fritadeiras Elétricas 220V,19,458,100;65;77;64;70;76;71;46;49;50;56;62,task:2;informational:33;navigational:3;commercial:47;transactional:15
+Fritadeiras Mondial,88,60802,56;58;60;63;86;86;86;100;99;99;99;99,task:2;informational:33;navigational:16;commercial:27;transactional:22
+Grupo Grand Chef Eletrodomésticos,18,521,63;90;92;87;81;85;72;100;92;96;91;91,task:3;informational:42;navigational:29;commercial:11;transactional:15
+Air Fryers e Fornos Mondial,35,11586,27;36;37;48;72;73;73;97;100;100;100;99,task:2;informational:48;navigational:12;commercial:25;transactional:13
+Panelas no Shoptime,23,9939,40;42;44;19;20;20;20;100;20;20;20;20,informational:42;navigational:30;commercial:20;transactional:8
+Refrigeradores Frigocopa,15,612,8;12;15;44;44;15;15;21;16;100;97;78,task:3;informational:31;navigational:31;commercial:17;transactional:18
+Frigoestrela e Alimentos,16,623,58;79;84;81;94;98;96;83;85;100;100;84,task:7;informational:26;navigational:45;commercial:12;transactional:10
+Bolos na Airfryer,112,92901,16;18;34;40;61;61;61;100;100;100;100;100,task:7;informational:73;navigational:2;commercial:12;transactional:6
+Colheres e Utensílios de Cozinha,18,4125,16;21;22;21;37;38;38;30;100;100;100;100,task:3;informational:57;navigational:4;commercial:30;transactional:6
+Tostex Sanduicheiras,17,4325,33;41;44;38;95;96;95;100;97;96;96;95,task:4;informational:39;navigational:24;commercial:28;transactional:5
+Hambúrguer na AirFryer,69,21734,46;45;46;64;94;95;95;99;100;100;100;100,task:12;informational:78;navigational:2;commercial:8
+Eletrodomésticos reembalados,17,100,25;94;100;37;31;42;21;22;22;22;22;22,task:3;informational:47;navigational:4;commercial:35;transactional:11
+Lojas de Eletroeletrônicos,20,3147,69;93;96;85;80;94;99;87;100;100;100;100,task:2;informational:40;navigational:32;commercial:19;transactional:7
+Ondas de Rádio,31,13708,70;76;87;92;88;89;89;100;100;100;100;100,task:2;informational:72;navigational:7;commercial:13;transactional:6
+Geladeiras Inteligentes e Conectadas,24,3672,33;42;44;25;38;39;39;100;83;87;84;88,task:2;informational:69;navigational:5;commercial:21;transactional:3
+Aparelhos elétricos para mosquitos,27,4606,41;61;60;66;82;84;82;100;93;93;99;99,task:2;informational:52;navigational:4;commercial:26;transactional:16
+Airfryer em Português,32,7309,78;77;80;93;77;76;76;97;100;100;100;100,task:2;informational:71;navigational:10;commercial:12;transactional:5
+Limpeza de Micro-ondas e Plástico Amarelado,68,16013,90;91;100;100;99;100;100;97;97;97;98;98,task:5;informational:77;navigational:5;commercial:10;transactional:3
+Lava-louças e lavadoras compactas,24,929,73;100;71;62;68;56;55;73;66;76;64;69,task:2;informational:65;navigational:5;commercial:22;transactional:6
+Ventiladores e motores de refrigeração,17,283,56;81;85;74;75;83;79;68;66;100;72;85,task:10;informational:63;navigational:3;commercial:21;transactional:3
+Secadoras Midea,19,2500,40;49;49;39;40;45;45;87;70;76;91;100,task:5;informational:51;navigational:10;commercial:24;transactional:10
+Fornos Elétricos com Vapor,25,2129,66;75;47;73;81;82;82;92;99;99;100;100,task:6;informational:63;navigational:4;commercial:25;transactional:2
+Máquinas de churros,19,3300,64;86;100;98;94;97;99;89;89;89;86;85,task:8;informational:57;navigational:3;commercial:18;transactional:14
+Utilidades Domésticas,16,3647,32;37;38;37;94;95;95;100;100;98;100;100,task:8;informational:43;navigational:11;commercial:29;transactional:9
+Panelas Tefal,23,2402,70;79;83;60;59;62;62;99;100;100;99;100,task:3;informational:48;navigational:15;commercial:22;transactional:12
+Cozedores de Ovos Elétricos,61,34446,13;16;25;40;71;72;72;98;100;100;100;100,task:3;informational:58;navigational:5;commercial:20;transactional:14
+Fogões e Cooktops Embutidos (Indução e Gás),15,489,53;69;100;85;72;74;88;70;84;92;76;80,task:7;informational:47;navigational:4;commercial:31;transactional:11
+Fones de ouvido com microfone,51,18052,31;36;41;50;54;55;55;76;100;100;100;100,task:2;informational:55;navigational:5;commercial:27;transactional:11
+Marmitas Plasutil no Brasil,17,349,9;61;62;31;31;29;19;100;83;62;55;59,task:10;informational:49;navigational:18;commercial:12;transactional:11
+Armazenamento de Eletrodomésticos na Cozinha,16,714,70;84;100;58;41;37;37;45;35;35;40;40,task:8;informational:59;navigational:4;commercial:24;transactional:5
+Forno elétrico e air fryer Walita/Philips,20,1191,54;72;89;64;62;63;67;62;75;83;100;82,task:2;informational:55;navigational:6;commercial:28;transactional:9
+Lousas Interativas,15,133,29;80;76;100;75;54;78;29;27;68;61;59,task:3;informational:67;navigational:8;commercial:12;transactional:10
+Fritadeiras Philco,70,29807,96;98;100;44;53;53;53;62;73;73;73;73,informational:57;navigational:10;commercial:16;transactional:17
+Airfryer Philips Walita,40,4994,85;98;100;69;64;67;69;76;75;75;75;75,task:2;informational:43;navigational:27;commercial:19;transactional:9
+Mini Exaustores Domésticos,16,349,31;40;40;43;39;41;39;89;100;51;47;34,task:1;informational:57;navigational:5;commercial:22;transactional:15
+Forno Brastemp com Air Fryer,18,397,41;65;70;59;55;57;56;100;52;55;82;86,task:3;informational:46;navigational:12;commercial:20;transactional:19
+Forno de Embutir Mueller,20,856,42;56;55;55;64;68;63;65;81;100;78;79,task:3;informational:35;navigational:35;commercial:15;transactional:12
+Misturadores de mão,17,766,71;83;84;84;88;91;92;100;62;53;54;53,informational:50;navigational:6;commercial:35;transactional:9
+Liquidificadores e Biscuit,15,55,8;78;100;18;15;16;12;79;61;13;13;14,task:7;informational:51;navigational:24;commercial:14;transactional:4
+Multiutilidades,15,796,22;56;68;51;64;81;62;90;62;70;62;100,task:10;informational:44;navigational:16;commercial:11;transactional:19
+Eletrodomésticos e outlets no Brasil,76,65997,22;23;25;44;81;81;81;100;87;87;87;87,task:2;informational:39;navigational:15;commercial:36;transactional:8
+frigideiras com tampa,18,1761,68;96;100;89;86;92;94;96;95;96;94;94,task:7;informational:55;navigational:8;commercial:21;transactional:9
+Placas de Indução e Fogões,17,942,44;51;43;76;74;74;74;96;86;89;78;100,task:5;informational:58;navigational:4;commercial:24;transactional:9
+Microfones Bluetooth,20,1290,39;43;43;42;96;97;97;100;20;20;19;19,task:2;informational:64;navigational:5;commercial:24;transactional:5
+Relógios Smartwatch Ultra Mini,18,1562,52;60;62;34;67;69;69;100;67;68;65;66,task:2;informational:54;navigational:5;commercial:24;transactional:15
+Airfryer 4 litros,30,4320,55;76;80;79;78;83;83;89;100;100;100;99,task:2;informational:56;navigational:2;commercial:28;transactional:12
+Forno de Embutir com Ventilação,23,1918,15;20;24;70;85;83;84;100;99;97;96;96,task:3;informational:61;navigational:2;commercial:26;transactional:8
+Estufas para Marmita,17,556,22;24;25;64;82;82;100;53;53;54;54;54,task:3;informational:58;navigational:4;commercial:27;transactional:8
+Lancheiras Térmicas e Garrafas,17,273,80;96;100;84;73;77;75;68;69;74;70;72,task:2;informational:66;navigational:4;commercial:22;transactional:6
+Fritadeiras Elétricas 7 Litros Progas,19,542,45;69;74;67;64;51;49;100;52;52;47;48,task:4;informational:30;navigational:4;commercial:40;transactional:22
+Fritadeiras elétricas de 3 litros,26,1280,83;96;100;98;62;64;65;70;71;72;73;73,task:5;informational:42;navigational:3;commercial:41;transactional:9
+Panelas Cuisinox,21,3484,45;19;20;19;43;44;44;100;91;91;91;91,task:2;informational:44;navigational:31;commercial:13;transactional:10
+Eletroímãs e Imãs,38,12731,83;44;41;74;81;82;83;99;100;100;100;100,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Lancheiras Térmicas para Adultos e Crianças,15,1651,51;60;61;63;100;98;99;60;60;61;61;61,task:2;informational:34;navigational:2;commercial:34;transactional:28
+Fritadeiras Air Fryer 15L (Sem Óleo),18,1126,25;44;52;42;50;48;58;100;76;85;75;79,task:10;informational:48;navigational:1;commercial:26;transactional:15
+Aquecedores elétricos cerâmicos,24,1558,47;64;66;42;65;68;65;100;60;60;62;62,task:2;informational:49;navigational:1;commercial:37;transactional:11
+Macro Telas,15,302,13;74;64;56;56;23;20;100;36;44;31;38,task:8;informational:40;navigational:33;commercial:10;transactional:9
+Frigideiras Tefal,17,174,25;29;30;28;28;30;44;100;73;31;31;31,task:1;informational:46;navigational:7;commercial:40;transactional:6
+Conjuntos de Assadeiras,17,619,69;100;98;87;80;83;81;84;84;85;86;85,task:7;informational:42;navigational:4;commercial:36;transactional:11
+Air Fryer de Vidro,27,4979,84;93;92;95;98;100;100;93;97;97;98;98,task:8;informational:60;navigational:5;commercial:17;transactional:10
+Air Fryer WAP Brasil,38,21503,54;58;63;66;96;96;96;100;78;78;78;78,task:2;informational:37;navigational:30;commercial:20;transactional:11
+Cortadores de Fio,16,68,31;35;40;100;47;47;80;48;43;51;49;49,informational:48;navigational:4;commercial:37;transactional:11
+Panelas para indução,218,126098,30;30;33;66;86;86;86;100;100;100;100;100,task:5;informational:59;navigational:4;commercial:28;transactional:4
+Fritadeiras elétricas Midea Grand Gourmet,16,478,66;96;100;41;36;56;45;37;36;79;71;63,informational:35;navigational:26;commercial:16;transactional:23
+Forno elétrico embutido,15,620,42;61;65;57;70;71;44;45;50;48;85;100,task:1;informational:54;navigational:4;commercial:33;transactional:8
+Fondue elétrico Oster,19,903,50;66;71;65;64;68;72;100;73;73;72;71,task:3;informational:51;navigational:5;commercial:24;transactional:17
+Panela de Pressão Tupperware,18,814,49;55;36;53;91;99;99;100;73;58;58;60,task:2;informational:44;navigational:15;commercial:24;transactional:15
+utensílios de cozinha e talheres,18,2828,68;72;73;72;89;90;89;90;88;89;100;98,task:8;informational:53;navigational:4;commercial:29;transactional:6
+Tupperware: processadores e cortadores,18,2875,66;96;98;93;86;92;95;93;100;100;98;98,task:5;informational:52;navigational:2;commercial:23;transactional:18
+Sanduicheiras Mickey,15,641,23;28;29;33;29;28;37;46;39;100;92;57,task:5;informational:38;navigational:30;commercial:14;transactional:13
+Lancheiras térmicas Up4You,15,174,19;21;21;52;82;100;50;42;37;37;34;32,task:3;informational:33;navigational:40;commercial:7;transactional:17
+Brinox: Utensílios de Cozinha,16,738,26;34;34;34;35;38;37;54;46;100;88;97,task:1;informational:30;navigational:41;commercial:12;transactional:16
+Gastronomia e Equipamentos,17,330,83;99;99;90;87;99;100;86;73;84;83;73,task:8;informational:50;navigational:7;commercial:31;transactional:4
+Batedeiras Planetárias,104,62972,55;57;58;81;100;100;100;98;96;96;96;96,task:4;informational:33;navigational:2;commercial:39;transactional:22
+Frigideiras antiaderentes,76,37473,19;20;22;89;100;100;100;44;41;41;41;41,task:1;informational:47;navigational:3;commercial:37;transactional:12
+Marmitas com divisórias,19,2194,57;76;84;97;84;90;89;100;95;96;96;95,task:5;informational:65;navigational:5;commercial:17;transactional:8
+Panelas elétricas multifuncionais,24,3732,98;48;51;53;98;100;100;47;49;49;49;48,task:5;informational:57;navigational:6;commercial:19;transactional:13
+Forno Combinado,32,19849,19;24;25;80;100;100;100;96;96;96;97;96,task:3;informational:55;navigational:6;commercial:22;transactional:14
+Fogões e Cooktops por Indução,51,12086,93;97;100;100;44;44;44;83;55;55;55;55,task:8;informational:43;navigational:4;commercial:36;transactional:9
+Maquinas de Waffle Mundial,21,749,67;89;91;90;91;89;100;85;94;95;86;86,task:6;informational:30;navigational:11;commercial:32;transactional:21
+Pratos térmicos para bebê,16,293,56;63;63;58;57;57;64;100;60;49;49;49,task:5;informational:31;navigational:4;commercial:46;transactional:14
+Freezers e Geladeiras,151,113169,66;67;70;78;88;88;88;99;100;100;100;100,task:5;informational:45;navigational:4;commercial:31;transactional:15
+Panelas wok,24,15162,15;19;21;49;100;100;100;80;77;77;76;76,task:7;informational:56;navigational:5;commercial:23;transactional:9
+Máquinas para Gastronomia,17,613,63;86;86;79;81;90;89;91;100;100;94;93,task:4;informational:33;navigational:23;commercial:17;transactional:23
+Coolers para Celulares,28,9931,16;22;23;26;31;32;32;99;100;100;100;100,task:10;informational:44;navigational:1;commercial:30;transactional:15
+Máquinas de Cupcake,27,1854,88;100;100;95;42;45;46;47;53;52;53;52,task:5;informational:52;navigational:4;commercial:23;transactional:16
+Miele Eletrodomésticos Brasil,18,1311,21;26;27;27;99;100;98;30;30;30;30;30,informational:46;navigational:41;commercial:9;transactional:4
+Microesferas de vidro,20,1352,43;48;47;57;84;85;85;100;92;92;95;95,task:2;informational:75;navigational:2;commercial:16;transactional:5
+Geladeiras Midea,67,36637,38;45;46;69;88;89;89;87;100;100;100;100,task:2;informational:48;navigational:17;commercial:21;transactional:12
+Fogões e Fornos de Cozinha,15,677,35;56;67;47;60;57;71;100;72;75;68;87,task:8;informational:66;navigational:8;commercial:14;transactional:4
+Microfones Pequenos e Compactos,20,1781,84;98;100;98;55;58;58;62;62;62;62;62,task:5;informational:50;navigational:4;commercial:31;transactional:10
+Panelas e jogos de panelas,19,1207,100;49;63;67;64;67;67;69;70;70;66;66,task:5;informational:54;navigational:7;commercial:23;transactional:11
+Termômetros Culinários,42,21607,12;16;20;63;100;100;100;75;78;78;78;77,task:2;informational:55;navigational:4;commercial:31;transactional:8
+Batedeiras Inox,15,386,33;49;54;47;47;48;50;100;78;79;45;47,task:7;informational:43;navigational:4;commercial:32;transactional:14
+Panelas e Utensílios de Cozinha,15,657,69;91;95;93;93;91;100;96;96;96;100;99,task:10;informational:38;navigational:7;commercial:37;transactional:8
+Estufas Elétricas,18,1132,92;100;99;93;42;45;45;46;49;49;73;69,task:3;informational:48;navigational:4;commercial:35;transactional:10
+Panelas Elétricas a Vapor,16,2698,36;47;52;57;97;99;100;88;87;87;88;87,task:5;informational:60;navigational:2;commercial:28;transactional:5
+Tupperware MicroPlus Jarras,15,32,22;30;34;97;100;32;39;31;30;31;32;33,task:3;informational:64;navigational:18;commercial:12;transactional:3
+Air Fryers in Brazil,16,1540,1;6;8;6;7;3;8;100;37;63;34;38,task:3;informational:51;navigational:11;commercial:28;transactional:7
+Mega Máquinas e Acessórios,16,189,47;55;55;100;64;65;61;60;55;53;56;60,task:3;informational:27;navigational:45;commercial:17;transactional:8
+Geladeiras Dometic,15,152,43;61;63;62;61;100;87;66;70;83;79;74,task:7;informational:47;navigational:18;commercial:18;transactional:10
+Microfones Headset,21,1490,84;99;100;99;51;54;52;69;83;81;74;69,task:2;informational:40;navigational:3;commercial:45;transactional:10
+Utilita Cozinha,16,177,20;100;100;31;34;36;33;32;28;84;99;31,task:7;informational:28;navigational:40;commercial:20;transactional:5
+Cooktops com Forno Embutido,33,19149,42;46;49;60;90;90;90;100;95;95;95;95,task:5;informational:53;navigational:9;commercial:26;transactional:7
+Fritadeiras Elétricas 5 L,19,1259,71;100;100;95;74;79;82;78;80;78;80;80,task:3;informational:55;navigational:6;commercial:26;transactional:10
+Sanduicheiras Cadence,19,761,57;76;98;88;100;99;97;98;97;96;99;97,task:10;informational:36;navigational:5;commercial:26;transactional:23
+Dispositivos de ultrassom de alta frequência,20,416,35;35;37;36;51;51;51;100;100;91;91;91,task:5;informational:76;navigational:5;commercial:11;transactional:3
+Philco All-in-One Multifuncionais,16,211,57;73;81;73;66;78;71;83;100;96;85;84,task:7;informational:32;navigational:31;commercial:21;transactional:9
+Novidades em Eletrônicos,20,948,25;42;59;61;87;86;84;100;79;69;66;68,task:2;informational:68;navigational:5;commercial:22;transactional:3
+Rangetop e fogões embutidos,16,1703,83;99;100;97;95;98;100;56;58;58;58;57,task:5;informational:41;navigational:9;commercial:37;transactional:8
+microfones Telefunken,16,27,27;63;67;84;75;78;100;38;38;38;38;38,task:4;informational:45;navigational:27;commercial:20;transactional:4
+Air Fryer 5 Litros Branca,15,602,34;48;51;48;86;88;81;100;92;74;80;84,task:3;informational:49;navigational:11;commercial:25;transactional:12
+frigideiras de cerâmica,16,150,58;68;77;72;71;99;100;71;71;64;65;66,task:3;informational:45;navigational:4;commercial:37;transactional:11
+Relógios Microwear,21,2269,27;39;37;21;86;88;84;100;100;98;98;98,task:2;informational:45;navigational:30;commercial:18;transactional:5
+Churrasqueiras Elétricas Embutidas,16,1757,86;99;100;99;51;54;56;64;66;66;66;66,task:2;informational:52;navigational:4;commercial:32;transactional:10
+Eletrônicos e eletrodomésticos online,15,620,12;87;72;32;32;71;74;100;57;46;46;45,task:3;informational:31;navigational:11;commercial:33;transactional:22
+Marmitas Gourmet Brasil,15,217,19;22;27;27;27;26;36;93;100;89;76;45,task:7;informational:34;navigational:17;commercial:31;transactional:11
+Fones sem fio,18,518,37;51;59;62;100;79;79;86;81;81;83;81,task:5;informational:55;navigational:5;commercial:27;transactional:8
+Mini/Micro System de Som,23,6332,57;62;64;100;36;36;37;39;38;38;38;38,task:8;informational:41;navigational:17;commercial:25;transactional:9
+Retificadoras portáteis: mini e micro,20,948,89;53;55;72;71;73;72;96;77;77;100;100,task:2;informational:48;navigational:7;commercial:36;transactional:7
+Rádios AM/FM elétricos,17,360,64;70;76;82;82;91;100;80;70;60;62;60,task:3;informational:49;navigational:4;commercial:34;transactional:10
+Utensílios de Cozinha,118,91261,24;27;50;80;100;100;100;99;100;100;100;100,task:4;informational:53;navigational:9;commercial:28;transactional:6
+bolsas térmicas e lancheiras,65,44077,73;74;77;79;82;82;82;91;100;100;100;100,task:2;informational:32;navigational:2;commercial:44;transactional:20
+Frigobares Consul,41,21522,97;100;45;50;63;63;63;97;97;99;98;98,informational:38;navigational:30;commercial:23;transactional:9
+Processadores de Alimentos 500ml,15,687,3;10;15;5;17;14;21;34;33;100;97;88,task:14;informational:27;navigational:1;commercial:31;transactional:27
+Fritadeiras Gaabor,28,11171,18;24;25;29;53;55;55;100;99;99;99;99,task:5;informational:41;navigational:18;commercial:19;transactional:17
+Fogões e Cooktops Híbridos,20,866,50;58;100;81;61;37;37;50;51;50;52;53,task:5;informational:53;navigational:4;commercial:30;transactional:8
+Processadores Fun Kitchen,18,738,25;28;35;24;53;52;51;100;72;42;39;41,task:5;informational:58;navigational:5;commercial:22;transactional:10
+Frigideiras com divisórias,15,1036,4;18;23;11;10;13;11;4;4;100;90;82,task:7;informational:56;navigational:5;commercial:22;transactional:10
+Cafeteiras Multilaser Gourmet,17,518,50;91;100;87;68;44;40;99;81;57;53;54,task:2;informational:62;navigational:10;commercial:15;transactional:11
+Móveis Multifuncionais,17,479,45;56;62;94;100;94;94;82;43;40;40;40,task:2;informational:37;navigational:3;commercial:48;transactional:10
+Liquidificadores Oster Super Chef,19,1562,53;58;63;63;37;41;40;100;74;74;91;100,task:1;informational:46;navigational:15;commercial:16;transactional:22
+Antenas 5G,16,1179,18;31;35;70;71;70;60;59;59;89;84;100,task:2;informational:59;navigational:4;commercial:31;transactional:4
+Moldes de picolé,25,8890,36;45;52;85;83;84;85;100;90;90;90;89,task:5;informational:55;navigational:5;commercial:26;transactional:9
+Frigo: Equipamentos de Cozinha Industrial,15,961,35;59;64;65;61;65;65;67;68;82;100;97,task:7;informational:18;navigational:30;commercial:30;transactional:15
+Refrigeração e frigobares,16,69,9;53;62;49;39;31;100;72;61;21;21;20,task:7;informational:48;navigational:2;commercial:18;transactional:25
+Fogões de indução Mueller,17,148,31;37;36;37;38;37;38;32;31;100;97;32,informational:39;navigational:31;commercial:22;transactional:8
+Crissair Fogões e Cooktops,15,1332,73;83;84;93;92;94;95;95;98;97;100;100,task:2;informational:44;navigational:37;commercial:7;transactional:10
+Frigideiras 28 cm,17,447,72;99;98;95;89;88;90;100;91;92;99;97,task:7;informational:45;navigational:1;commercial:30;transactional:17
+Pipoqueiras para indução,20,824,55;63;63;62;34;37;37;100;48;48;48;49,task:2;informational:47;navigational:2;commercial:36;transactional:13
+Geladeiras Embutidas,18,1547,66;97;100;84;80;84;87;75;84;96;84;83,task:7;informational:54;navigational:6;commercial:24;transactional:9
+Air Fryers com visor,16,570,37;79;100;54;52;64;70;79;68;62;54;60,task:7;informational:64;navigational:5;commercial:15;transactional:9
+Utensílios de cerâmica para cozinha,16,963,61;87;89;81;85;86;94;100;100;95;95;96,task:3;informational:52;navigational:7;commercial:30;transactional:8
+Carregadores por indução,68,52322,23;25;28;92;53;53;53;100;100;100;100;100,task:2;informational:62;navigational:4;commercial:26;transactional:6
+Liquidificadores Mondial,64,20753,74;77;81;86;94;94;94;100;95;95;95;95,task:2;informational:42;navigational:14;commercial:30;transactional:12
+Tomadas de Cozinha,19,602,47;54;57;50;84;84;84;51;100;95;96;94,task:3;informational:70;navigational:5;commercial:12;transactional:10
+Vibradores de Dedo,15,229,76;89;91;92;92;96;96;98;100;100;100;100,task:10;informational:57;navigational:5;commercial:18;transactional:10
+Eletrodomésticos Amazon Brasil,15,825,29;35;39;36;36;43;58;77;78;78;62;100,task:7;informational:19;navigational:40;commercial:11;transactional:23
+fornos wictory,20,824,88;98;100;99;94;96;97;61;68;69;63;62,task:2;informational:39;navigational:36;commercial:14;transactional:9
+Alto-falantes Ultimate Ears,23,1832,87;99;100;67;89;92;92;98;69;69;71;70,task:2;informational:38;navigational:33;commercial:21;transactional:6
+Lancheiras Mickey e bolsas térmicas,15,290,52;68;70;66;61;61;62;100;85;93;95;65,task:3;informational:24;navigational:11;commercial:41;transactional:21
+Forno Elétrico Vicini,16,361,6;39;68;37;36;41;32;100;67;54;48;63,task:5;informational:52;navigational:26;commercial:12;transactional:5
+Cafeteiras programáveis,43,13081,23;27;30;66;71;72;72;100;47;46;46;46,task:2;informational:49;navigational:7;commercial:30;transactional:12
+Grill e Sanduicheira Philco,20,2276,86;99;100;49;46;49;52;51;54;54;53;52,task:3;informational:36;navigational:10;commercial:35;transactional:16
+Panelas Multiflon antiaderentes,17,1472,84;100;99;97;92;95;95;60;81;95;55;55,task:5;informational:40;navigational:5;commercial:32;transactional:18
+Maçaricos Culinários,29,2812,66;68;64;79;79;80;80;100;90;88;88;89,task:8;informational:53;navigational:4;commercial:23;transactional:12
+Fones Fazy,16,849,46;48;41;37;32;36;36;27;27;27;81;100,task:2;informational:49;navigational:39;commercial:4;transactional:6
+Celulares Poco,135,436375,10;11;38;49;87;87;87;100;100;100;100;100,task:2;informational:54;navigational:9;commercial:23;transactional:12
+Formas e acessórios para air fryer,17,856,27;32;52;73;94;100;100;69;59;66;66;65,task:8;informational:49;navigational:1;commercial:32;transactional:10
+Lavadoras WAP Mini,21,729,88;100;100;96;94;97;100;51;52;52;51;52,task:8;informational:42;navigational:4;commercial:40;transactional:6
+Liquidificadores Oster,62,30723,57;59;63;74;76;76;76;100;100;100;100;100,task:2;informational:45;navigational:11;commercial:19;transactional:23
+facas KitchenAid,16,112,30;32;34;100;99;83;38;41;41;48;49;50,task:3;informational:46;navigational:4;commercial:33;transactional:14
+Fritadeiras Nell,18,1045,90;98;100;46;52;53;53;67;54;54;62;62,task:5;informational:36;navigational:19;commercial:33;transactional:7
+Airfryer Electrolux EAF 3 2L,22,1749,12;30;31;29;30;14;14;100;27;28;46;51,task:7;informational:50;navigational:11;commercial:16;transactional:16
+Cooktops e Fogões a Indução Electrolux,90,20358,69;71;67;70;79;80;80;100;79;79;79;79,task:2;informational:35;navigational:19;commercial:24;transactional:20
+lava-louças 16 serviços,18,1621,33;39;44;40;74;74;77;89;77;72;68;100,task:2;informational:48;navigational:6;commercial:34;transactional:10
+Mic e Acessórios de Áudio,17,326,47;48;50;95;90;100;89;82;70;70;70;68,task:5;informational:61;navigational:5;commercial:18;transactional:11
+Secadores de Cabelo Ultrassônicos,17,171,16;16;18;17;30;33;43;100;75;18;17;17,task:2;informational:68;navigational:3;commercial:15;transactional:12
+Mallory Sanduicheiras e Grills,18,339,45;87;100;86;81;59;56;54;52;46;48;49,task:5;informational:43;navigational:10;commercial:20;transactional:22
+Forno Elétrico Mueller,37,6723,48;60;64;73;94;95;97;100;100;99;99;98,informational:54;navigational:21;commercial:16;transactional:9
+Freezers Inox,16,538,49;71;72;100;96;68;76;71;66;65;65;65,task:3;informational:45;navigational:4;commercial:37;transactional:11
+Fritadeiras Tramontina,17,163,6;23;27;21;23;22;23;100;94;8;7;9,task:3;informational:43;navigational:20;commercial:24;transactional:10
+Sanduícheira e Grill – Eletrodomésticos,91,52912,77;78;80;88;97;97;97;100;100;100;100;100,task:2;informational:33;navigational:9;commercial:40;transactional:16
+Alta Frequência Estética,112,52660,37;68;49;82;98;98;99;100;100;100;100;100,task:5;informational:67;navigational:5;commercial:15;transactional:8
+Sistemas Philips mini/micro antigos,16,1585,65;87;89;87;92;98;100;93;100;100;96;94,task:3;informational:62;navigational:11;commercial:17;transactional:7
+Forno Elétrico Espelhado,16,630,44;49;44;46;47;54;53;43;44;70;90;100,task:3;informational:31;navigational:38;commercial:24;transactional:4
+Banho-Maria Elétrico,17,217,72;83;88;86;98;100;87;80;80;77;78;79,task:3;informational:36;navigational:18;commercial:30;transactional:13
+Difusores ultrassônicos de aromas,18,1585,49;52;52;52;95;96;96;96;97;100;97;96,task:6;informational:49;navigational:4;commercial:36;transactional:5
+Duchas Fame,36,7927,38;50;55;57;98;100;100;97;100;100;100;99,task:5;informational:51;navigational:4;commercial:19;transactional:21
+Seladoras de Marmitas,16,421,75;94;100;63;56;49;49;66;57;57;53;53,task:5;informational:66;navigational:2;commercial:18;transactional:9
+Coifas Elettromec para Cozinha,15,263,51;59;58;57;56;59;60;54;88;100;53;53,task:3;informational:21;navigational:40;commercial:16;transactional:20
+Fritadeiras Air Fryer 8 Litros,27,4128,41;50;53;51;48;49;49;100;50;50;50;49,task:5;informational:48;navigational:2;commercial:28;transactional:17
+Alta Frequência Estética IBRAMED,19,1134,67;75;76;77;82;85;86;100;98;98;100;100,task:2;informational:64;navigational:10;commercial:18;transactional:6
+Misturadores e Processadores Electrolux 3 em 1,29,7281,89;96;100;51;63;63;63;58;59;60;60;59,task:5;informational:36;navigational:15;commercial:23;transactional:21
+Microfones com fio,17,1247,100;54;55;54;57;61;61;56;61;58;59;59,task:2;informational:68;navigational:5;commercial:20;transactional:5
+Microswitches e interruptores micro,23,4816,29;33;33;19;58;60;60;100;71;71;71;71,task:5;informational:61;navigational:4;commercial:26;transactional:4
+Aquecedores Komeco,19,1912,87;99;100;54;52;55;52;53;56;55;55;55,task:2;informational:43;navigational:25;commercial:10;transactional:20
+Air Tech & Platforms,17,347,17;24;31;32;31;20;21;55;60;92;91;100,task:3;informational:45;navigational:23;commercial:20;transactional:9
+Ramais e telefones,65,41391,76;55;57;86;90;90;90;97;100;100;100;100,task:2;informational:75;navigational:5;commercial:15;transactional:3
+Bandejas para Air Fryer,16,446,42;52;52;51;47;54;69;100;86;58;57;58,task:3;informational:49;navigational:1;commercial:33;transactional:14
+Móveis e suportes para air fryer,16,431,77;97;100;96;99;94;92;84;83;74;75;88,task:2;informational:63;navigational:2;commercial:23;transactional:10
+Rádios Philco,17,368,54;58;60;91;90;96;100;86;29;31;31;32,task:10;informational:46;navigational:12;commercial:28;transactional:4
+Misturadores de Café Elétricos,16,156,68;85;91;100;100;74;76;86;84;98;94;91,task:7;informational:46;navigational:4;commercial:29;transactional:14
+air fryer philips walita ri9280,15,154,9;21;27;24;24;16;22;20;22;73;100;17,task:5;informational:46;navigational:22;commercial:14;transactional:13
+Cuisinart Grill e Sanduíches,15,162,48;91;100;78;79;60;58;67;60;66;63;63,task:3;informational:36;navigational:22;commercial:27;transactional:12
+Panelas de Inox,17,946,91;100;100;100;52;60;67;63;63;67;65;65,task:5;informational:31;navigational:5;commercial:24;transactional:35
+antenas Intelbras,37,8439,55;64;34;41;92;94;94;93;100;100;100;100,task:5;informational:51;navigational:10;commercial:14;transactional:20
+Mini geladeiras para quarto,21,3007,84;99;100;61;54;57;58;62;65;65;65;64,task:8;informational:47;navigational:1;commercial:31;transactional:13
+Eletrodomésticos Croydon,19,593,72;97;97;93;93;99;100;96;98;98;85;83,task:3;informational:19;navigational:47;commercial:16;transactional:15
+Interruptores WiFi Sonoff Mini,17,6137,13;18;18;89;100;100;100;100;99;99;99;99,task:2;informational:49;navigational:5;commercial:31;transactional:13
+utensílios de cozinha Electrolux,15,437,4;4;4;13;20;16;27;100;62;50;46;47,task:3;informational:25;navigational:39;commercial:15;transactional:18
+cafeteiras de inox,32,8148,86;94;100;100;94;96;96;92;93;93;93;93,task:3;informational:48;navigational:6;commercial:38;transactional:5
+Copos térmicos,16,603,72;100;100;98;94;99;89;85;96;89;99;99,task:7;informational:42;navigational:13;commercial:20;transactional:18
+Fornos Progas,31,3319,86;98;100;100;49;51;52;52;50;50;50;50,task:2;informational:32;navigational:24;commercial:25;transactional:17
+Cooktops e Induções Electrolux,19,1214,32;33;36;36;41;55;45;83;62;64;90;100,task:2;informational:44;navigational:30;commercial:16;transactional:8
+Fornos a gás embutidos,66,21263,59;83;91;84;97;97;98;98;100;100;100;100,task:2;informational:37;navigational:4;commercial:45;transactional:12
+Eletro Sol Brasil,16,437,21;66;64;31;57;51;39;64;54;100;91;48,task:3;informational:24;navigational:41;commercial:22;transactional:10
+Coifas Cadence e Gourmet,16,793,39;46;57;52;50;39;38;37;65;74;91;100,task:5;informational:27;navigational:32;commercial:13;transactional:23
+Fogões Samsung,22,2389,41;78;88;72;60;60;61;58;67;81;98;100,task:3;informational:36;navigational:21;commercial:16;transactional:24
+Calefatores e Lareiras,21,4654,15;18;19;62;65;66;66;100;25;25;25;24,task:2;informational:63;navigational:4;commercial:25;transactional:6
+Nuggets na Air Fryer,25,4295,31;35;46;56;94;95;95;90;100;100;100;100,task:8;informational:72;navigational:5;commercial:10;transactional:5
+Mictórios portáteis,16,281,39;54;55;52;52;70;56;100;98;62;61;54,task:3;informational:57;navigational:1;commercial:22;transactional:17
+Utensílios de vidro para cozinha,17,803,58;85;88;85;70;74;74;89;100;74;73;74,task:3;informational:57;navigational:5;commercial:20;transactional:15
+Mini Ventiladores Turbo,15,280,81;95;97;87;85;92;86;99;100;86;86;95,task:3;informational:48;navigational:12;commercial:18;transactional:19
+Fritadeiras elétricas e panelas de fritar,30,5257,40;47;27;47;65;66;67;85;90;90;100;100,task:2;informational:48;navigational:4;commercial:36;transactional:10
+Liquidificadores Mallory MasterChef,17,320,45;51;52;51;51;52;50;52;37;94;100;38,task:5;informational:38;navigational:10;commercial:22;transactional:25
+Poquema Moveis,15,473,16;28;30;26;40;43;52;62;49;100;87;51,task:3;informational:20;navigational:54;commercial:15;transactional:8
+Frigideiras de Alumínio,18,1171,35;42;45;90;99;100;95;57;91;88;87;88,task:5;informational:45;navigational:1;commercial:35;transactional:14
+Antenas de Celular,42,8161,18;24;29;49;99;100;100;95;92;92;93;92,task:2;informational:62;navigational:7;commercial:20;transactional:9
+LG Celulares e Lanternas,24,1941,32;19;19;34;65;65;71;100;76;74;74;74,task:2;informational:53;navigational:9;commercial:26;transactional:10
+Utensílios de fritura,22,2272,77;87;89;56;97;100;100;52;47;47;46;45,task:1;informational:52;navigational:5;commercial:20;transactional:22
+Fritadeiras Venancio,17,277,24;100;95;78;46;50;36;26;58;59;31;30,task:3;informational:47;navigational:11;commercial:29;transactional:10
+MIXERS DE COZINHA BRASILEIROS,15,816,33;46;47;46;41;41;64;72;69;43;43;100,task:3;informational:55;navigational:5;commercial:23;transactional:14
+Tupperware e Utensílios de Cozinha,47,30525,89;91;95;97;98;98;98;99;100;100;100;100,task:5;informational:32;navigational:18;commercial:20;transactional:25
+Antenas para TV (UHF),22,3142,36;42;25;25;92;93;94;100;100;99;100;100,task:5;informational:57;navigational:5;commercial:19;transactional:14
+Microscópios e Acessórios,38,9948,38;43;22;75;54;56;57;100;100;100;100;100,task:2;informational:49;navigational:4;commercial:35;transactional:10
+Esterilizadores de Mamadeira,52,25033,40;44;45;86;92;92;92;59;100;100;100;100,task:5;informational:64;navigational:8;commercial:14;transactional:9
+Fun Kitchen: Panelas Elétricas e Utensílios,29,6040,44;23;24;45;70;71;71;100;84;86;80;80,task:3;informational:54;navigational:6;commercial:26;transactional:11
+Liquidificadores Fun Kitchen,16,1171,14;17;17;17;27;34;31;68;52;100;100;91,task:7;informational:30;navigational:30;commercial:24;transactional:9
+Melhores multiprocessadores de alimentos,17,1881,35;17;36;37;98;100;96;87;86;87;87;96,task:3;informational:17;commercial:68;transactional:12
+Kit de Eletrodomésticos para Cozinha,19,3225,88;100;100;49;46;49;49;46;48;48;48;48,task:2;informational:30;navigational:1;commercial:57;transactional:10
+Eletro e Móveis no Brasil,15,475,23;44;77;34;37;57;63;100;96;100;89;70,informational:45;navigational:25;commercial:25;transactional:5
+Panelas T-Fal,18,441,87;97;100;94;94;96;94;93;78;71;68;77,task:5;informational:58;navigational:10;commercial:21;transactional:6
+Maquinas de Assar Frango,66,19702,41;46;51;59;81;82;82;99;100;100;100;100,task:5;informational:48;navigational:5;commercial:27;transactional:15
+Televisores Mini LED,16,1278,30;78;84;72;100;89;88;75;51;76;69;92,task:2;informational:50;navigational:5;commercial:18;transactional:25
+Churrasqueiras Inox Pequenas,15,312,78;93;100;97;86;87;100;93;98;99;100;100,task:3;informational:34;navigational:1;commercial:49;transactional:13
+Retificadores e diodos de meia-onda,24,7057,45;50;45;98;99;100;100;96;100;100;100;100,task:5;informational:82;navigational:3;commercial:8;transactional:2
+Fritadeiras Arno e Air Fryer,29,5704,85;97;100;53;55;57;57;58;59;59;60;59,task:3;informational:51;navigational:3;commercial:30;transactional:13
+"Espremedores, Liquidificadores e Processadores",20,937,56;62;68;73;82;80;74;89;89;89;89;100,task:5;informational:54;navigational:4;commercial:32;transactional:5
+Máquina de churros,15,100,64;78;79;77;81;100;45;99;37;39;37;37,task:3;informational:54;navigational:5;commercial:27;transactional:11
+Antenas e equipamentos Wi‑Fi Intelbras,21,824,85;100;98;60;60;63;62;61;87;87;87;88,task:2;informational:47;navigational:32;commercial:10;transactional:9
+Empadas fitness na air fryer,23,1819,72;82;81;78;60;61;62;71;99;100;100;100,task:10;informational:75;navigational:5;commercial:8;transactional:2
+bolsas térmicas e lancheiras compactas,15,409,62;89;93;91;96;82;82;93;100;100;92;93,task:10;informational:33;navigational:4;commercial:42;transactional:11
+Tecnologia e eletrodomésticos no Brasil,16,774,36;64;71;65;79;67;83;100;90;88;83;76,task:8;informational:73;navigational:3;commercial:12;transactional:4
+Fones JMmo,18,154,13;19;35;14;14;16;53;100;86;17;17;16,task:7;informational:61;navigational:11;commercial:17;transactional:4
+coifas de cozinha embutidas,20,8670,77;86;88;42;92;93;93;100;99;99;100;100,informational:61;navigational:9;commercial:26;transactional:4
+Escovas/ Secadoras Mondial Infrared,21,1371,21;25;25;31;31;35;41;53;56;85;100;72,task:7;informational:40;navigational:22;commercial:24;transactional:7
+Fervedores de Leite,16,671,75;82;83;80;74;76;76;100;54;55;55;55,task:2;informational:51;navigational:4;commercial:36;transactional:7
+Coifas Electrolux,15,1330,4;4;4;4;15;11;18;38;39;100;92;93,task:1;informational:41;navigational:40;commercial:16;transactional:2
+Rabanadas na Airfryer,15,1757,81;93;95;94;97;100;100;38;38;42;39;38,task:2;informational:79;navigational:2;commercial:8;transactional:9
+Fondue em casa,43,12222,87;93;96;44;55;56;56;100;61;61;61;61,task:2;informational:60;navigational:5;commercial:21;transactional:12
+Pipoqueiras Elétricas CinePop,17,5852,89;97;100;94;42;43;43;45;45;45;44;44,task:8;informational:44;navigational:25;commercial:15;transactional:8
+Mini Cafeteiras de Espresso,17,880,67;99;98;93;89;96;100;99;86;86;99;98,task:3;informational:49;navigational:5;commercial:25;transactional:18
+Panelas Kitchenaid,16,202,71;95;100;99;98;97;92;98;94;95;95;93,task:3;informational:47;navigational:5;commercial:26;transactional:19
+Mictórios de Inox,16,174,48;72;75;72;72;56;57;57;58;100;59;58,task:3;informational:52;navigational:4;commercial:30;transactional:11
+Lavadoras compactas e combos Electrolux,23,1461,46;61;60;56;62;68;66;66;83;100;79;92,task:3;informational:58;navigational:5;commercial:25;transactional:9
+Marmita térmica no Mercado Livre,15,624,66;73;75;54;51;75;70;99;100;70;70;68,task:2;informational:23;navigational:50;commercial:14;transactional:11
+Motores Micro,16,432,70;99;100;97;71;70;71;70;71;73;72;66,task:10;informational:53;navigational:2;commercial:29;transactional:6
+Aparelhos de vapor e aerossóis,24,1966,47;58;57;55;97;100;87;96;95;97;97;95,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Fritadeiras Croydon,18,334,54;99;100;99;60;63;64;61;62;63;60;59,task:7;informational:42;navigational:18;commercial:17;transactional:16
+Aparelhos de depilação com cera,21,1468,51;58;60;50;99;100;100;54;69;68;59;60,task:2;informational:57;navigational:5;commercial:23;transactional:13
+Potes herméticos Electrolux 12 unidades,16,294,18;80;100;44;44;63;33;58;47;46;44;43,task:3;informational:23;navigational:4;commercial:30;transactional:40
+Microfones Tomate,18,952,60;94;84;84;81;96;100;79;78;79;86;87,task:7;informational:53;navigational:8;commercial:20;transactional:12
+Frigideiras para Indução com Revestimento Cerâmico,34,8296,29;37;39;43;90;92;92;96;100;100;100;100,task:5;informational:46;navigational:4;commercial:36;transactional:9
+Acessórios para Micro Retífica,15,265,7;54;53;100;49;65;26;99;97;91;90;86,task:2;informational:59;navigational:6;commercial:18;transactional:15
+Liquidificadores Electrolux,30,4588,74;94;100;100;95;97;97;99;100;99;99;98,task:1;informational:50;navigational:11;commercial:23;transactional:15
+Marmitas 500ml e Embalagens,20,1173,81;98;100;70;91;91;91;81;72;72;72;72,informational:28;navigational:4;commercial:50;transactional:18
+Cooktops Midea 4 e 5 bocas,17,543,46;68;78;67;65;69;75;95;84;100;58;60,task:3;informational:46;navigational:9;commercial:20;transactional:22
+Receitas de bacon,25,4960,19;24;44;52;58;59;60;100;92;92;92;92,task:5;informational:76;navigational:5;commercial:8;transactional:6
+Ventiladores Mallory,25,8029,79;91;98;94;86;87;88;96;98;100;99;99,task:4;informational:50;navigational:15;commercial:20;transactional:11
+Sanduicheiras domésticas,15,392,16;22;27;24;38;36;23;60;53;100;98;89,task:7;informational:31;navigational:26;commercial:17;transactional:19
+Depuradores Slim Touch,16,333,68;95;100;91;69;69;69;42;66;77;41;41,task:2;informational:22;navigational:22;commercial:15;transactional:39
+Armas de pulso eletromagnético,30,4413,97;100;100;97;80;81;81;80;79;79;79;79,task:8;informational:80;navigational:5;commercial:5;transactional:2
+Britânia: processadores e mixers,46,6913,93;98;100;100;95;96;96;44;44;44;44;43,task:2;informational:57;navigational:5;commercial:12;transactional:24
+Geladeiras e Freezers Elettromec,15,599,59;74;87;85;85;81;88;100;100;100;83;82,task:5;informational:34;navigational:35;commercial:8;transactional:18
+Cervejeiras Midea 96L,19,3790,87;98;100;100;80;81;82;51;52;52;53;53,task:5;informational:46;navigational:10;commercial:28;transactional:11
+Torradeiras Electrolux,20,1755,49;71;73;70;73;78;80;97;95;100;83;82,task:3;informational:44;navigational:18;commercial:19;transactional:16
+Fones para iPhone,56,20952,20;23;26;33;60;60;61;99;100;100;100;100,task:4;informational:42;navigational:7;commercial:45;transactional:2
+Maquinas de Salgados Interlaser e Jetfood,17,1151,44;56;56;75;97;100;94;71;92;92;95;95,task:5;informational:26;navigational:25;commercial:16;transactional:28
+Frigideiras e panelas antiaderentes,17,405,63;72;73;60;97;99;100;78;64;43;43;43,task:2;informational:49;navigational:4;commercial:35;transactional:10
+Interfones residenciais,57,12657,27;33;34;48;90;91;91;100;96;96;96;95,task:5;informational:53;navigational:7;commercial:25;transactional:10
+Assadeiras e formas de alumínio,24,6196,48;55;56;32;97;100;100;66;65;65;65;65,task:2;informational:62;navigational:4;commercial:27;transactional:5
+Air Fryer Vermelha,17,1571,69;97;100;96;76;81;84;71;79;79;79;78,task:3;informational:41;navigational:11;commercial:32;transactional:13
+Canecas com Mixer Elétrico,19,837,89;100;53;58;56;59;62;64;62;65;56;55,task:2;informational:57;navigational:15;commercial:18;transactional:8
+Geladeiras e Freezers Prosdocimo,26,6718,48;52;57;58;89;91;91;100;98;98;98;97,task:2;informational:57;navigational:19;commercial:19;transactional:3
+Micrófones Boya,39,6822,48;53;80;81;99;100;100;33;31;31;31;31,informational:51;navigational:11;commercial:24;transactional:14
+Fogões e Cooktops Mondial,24,1309,77;98;100;94;91;97;98;98;98;98;97;96,task:3;informational:27;navigational:31;commercial:25;transactional:14
+Maquinas de Waffle Oster,16,462,77;90;92;83;93;100;100;92;95;96;85;89,task:3;informational:33;navigational:15;commercial:22;transactional:27
+Churrasqueiras Elettromec,15,156,90;98;100;95;95;99;99;100;99;99;99;99,task:3;informational:29;navigational:38;commercial:11;transactional:19
+Buffet Elétrico e Rechaud,18,305,24;28;28;28;26;28;28;26;87;100;28;27,task:13;informational:45;navigational:5;commercial:23;transactional:14
+Mixer Oster 3 em 1,25,4934,63;75;79;83;97;99;98;98;100;100;100;99,task:2;informational:36;navigational:14;commercial:36;transactional:12
+Microseixos Revestimentos,19,734,62;65;81;100;92;92;93;51;72;71;87;88,task:2;informational:56;navigational:8;commercial:17;transactional:17
+Máquinas de fazer biscoitos,24,2637,34;45;40;75;98;100;100;69;55;55;55;55,task:5;informational:50;navigational:5;commercial:21;transactional:19
+Fones Havit H2002D,40,42310,26;29;32;46;64;64;64;99;100;100;100;100,task:2;informational:52;navigational:16;commercial:21;transactional:9
+Forno e Arte de Cozinha,16,239,18;85;100;38;28;34;46;69;47;61;66;27,task:10;informational:47;navigational:9;commercial:20;transactional:14
+Fogões Bemol,15,371,63;84;89;80;97;75;75;94;91;100;97;90,task:7;informational:31;navigational:29;commercial:11;transactional:22
+Misturadores elétricos,15,263,22;54;65;48;55;50;39;100;99;30;30;30,task:7;informational:46;navigational:4;commercial:29;transactional:14
+Kits de marmita,17,124,56;74;76;73;100;93;85;62;58;57;58;57,task:3;informational:35;navigational:4;commercial:43;transactional:15
+Eletroeletrônicos Samsung e Mateus,15,1474,4;45;56;41;40;28;26;78;46;32;30;100,task:7;informational:35;navigational:21;commercial:26;transactional:11
+Cooktop Electrolux inox 5 bocas,16,1929,59;85;87;84;77;81;85;78;88;100;86;89,informational:36;navigational:35;commercial:18;transactional:11
+Geladeiras de Inox,17,478,20;54;91;62;62;41;54;100;68;66;54;71,task:3;informational:51;navigational:4;commercial:31;transactional:11
+Rádios Mundiais,16,617,79;96;97;93;93;100;88;86;73;65;65;70,task:3;informational:39;navigational:24;commercial:26;transactional:8
+Cooktops Itatiaia,30,7689,94;100;48;51;54;55;56;61;62;62;62;62,task:2;informational:35;navigational:22;commercial:31;transactional:10
+fornos elétricos de embutir Midea,24,1421,60;96;100;92;86;84;82;73;81;86;90;87,task:1;informational:30;navigational:37;commercial:13;transactional:19
+Refrigeração e Alimentos,16,534,31;40;41;39;41;46;46;100;85;48;48;54,task:3;informational:45;navigational:10;commercial:34;transactional:8
+Raladores e zesters de cítricos,19,2578,84;97;100;99;89;92;92;90;89;89;89;89,task:2;informational:47;navigational:5;commercial:36;transactional:10
+Cinoy Multimídia,16,454,20;87;72;93;93;63;54;100;95;64;64;64,task:5;informational:43;navigational:29;commercial:20;transactional:3
+Acessórios para fritadeiras,17,209,42;99;100;74;77;90;99;71;63;59;60;56,task:7;informational:48;navigational:1;commercial:30;transactional:14
+Fritadeiras no Mercado Livre,15,474,47;74;87;68;53;54;54;100;65;70;49;50,task:3;informational:20;navigational:50;commercial:8;transactional:19
+Fritadeiras de Batata,19,1744,86;100;100;66;61;64;66;96;81;81;83;82,task:3;informational:50;navigational:3;commercial:29;transactional:15
+Airfryer Agratto,18,827,35;38;38;26;30;44;36;100;30;83;77;72,task:2;informational:40;navigational:36;commercial:13;transactional:9
+Utilidades para o Lar,20,3321,89;81;85;85;32;35;35;100;91;91;92;92,task:2;informational:37;navigational:30;commercial:27;transactional:4
+Ventosas elétricas com infravermelho,17,213,46;98;100;74;74;89;59;50;46;44;44;44,task:7;informational:53;navigational:5;commercial:25;transactional:10
+Microscopios para celular,16,55,6;8;9;66;60;64;35;100;67;11;10;10,task:3;informational:56;navigational:4;commercial:26;transactional:11
+Eletrodomésticos Pernambucanas,17,662,25;56;56;47;30;26;24;31;44;100;33;57,task:7;informational:23;navigational:46;commercial:8;transactional:16
+Churrasqueiras elétricas giratórias,18,1832,69;97;100;93;82;83;89;81;90;90;89;88,task:3;informational:55;navigational:4;commercial:28;transactional:10
+Aquecedores Delonghi,17,415,27;89;100;65;65;67;75;79;69;75;78;75,task:7;informational:40;navigational:17;commercial:32;transactional:4
+Acessórios para Air Fryer,25,3808,47;54;39;56;81;82;83;100;91;91;92;91,task:5;informational:36;navigational:1;commercial:43;transactional:15
+Fritadeiras Elétricas Electrolux,76,24386,50;51;55;58;71;71;71;100;73;75;75;75,task:3;informational:46;navigational:13;commercial:14;transactional:24
+Mac recondicionados,17,1329,27;31;33;35;36;37;34;73;93;95;95;100,task:5;informational:38;navigational:12;commercial:34;transactional:11
+Forno Ooni e pizzas,18,1182,71;85;84;83;76;78;78;78;100;100;100;100,task:5;informational:64;navigational:12;commercial:16;transactional:3
+Fritadeiras a ar VestCasa,16,109,33;74;91;96;100;78;60;73;80;50;46;46,task:3;informational:29;navigational:48;commercial:16;transactional:4
+Cafeteiras Oster Compacta,16,130,10;33;37;29;28;33;59;65;60;100;86;17,task:3;informational:51;navigational:8;commercial:15;transactional:23
+Air Fryer: Receitas e Usos,349,189428,87;87;87;91;95;95;95;99;100;100;100;100,task:3;informational:76;navigational:5;commercial:11;transactional:5
+Caixas Térmicas e Hot Boxes,17,1951,84;87;87;25;92;92;93;96;96;96;100;100,task:8;informational:63;navigational:2;commercial:24;transactional:3
+Aquecedores Mondial,22,4443,77;97;100;63;65;68;67;70;67;67;68;68,task:2;informational:42;navigational:14;commercial:22;transactional:20
+Liquidificador e Mixer,21,2267,87;100;59;65;97;100;99;92;89;89;88;87,task:2;informational:50;navigational:4;commercial:38;transactional:6
+Utensílios de Cozinha Inox,19,636,89;100;100;54;64;67;69;77;60;61;56;57,task:5;informational:45;navigational:4;commercial:40;transactional:6
+Forno elétrico Electrolux,17,480,46;54;49;48;75;100;72;99;77;60;78;86,task:3;informational:51;navigational:18;commercial:15;transactional:13
+Misturadores Black & Decker,23,1541,63;89;91;87;76;82;83;100;85;84;85;84,task:3;informational:50;navigational:5;commercial:21;transactional:21
+Lava-Louças Portátil,33,11938,92;100;49;44;39;39;39;43;43;43;43;43,task:5;informational:40;navigational:7;commercial:34;transactional:14
+Ventosas para Celular,19,14955,23;29;31;100;97;98;98;84;85;85;85;84,task:5;informational:61;navigational:3;commercial:17;transactional:14
+Controles Remotos Inteligentes,45,7366,20;28;28;58;95;97;98;100;93;93;94;94,task:10;informational:50;navigational:5;commercial:27;transactional:8
+Fogões e fritadeiras para pastel,15,243,78;91;100;85;63;53;52;65;63;52;52;52,task:2;informational:56;navigational:4;commercial:28;transactional:10
+Lavadoras e secadoras Midea,78,45773,27;29;31;31;69;69;69;100;85;85;85;86,task:3;informational:43;navigational:17;commercial:19;transactional:18
+fornos elétricos Fischer 44L,20,1623,84;96;96;93;96;98;100;88;52;53;100;100,task:2;informational:49;navigational:22;commercial:15;transactional:12
+Maquinas de Refrigerante,29,2548,31;40;37;33;39;42;43;100;44;42;43;43,task:5;informational:55;navigational:3;commercial:28;transactional:9
+Panelas antiaderentes com teflon,173,93466,63;65;65;74;91;91;91;99;100;100;100;100,task:2;informational:51;navigational:4;commercial:36;transactional:7
+Fogões e Cooktops Tramontina,46,4192,74;95;100;99;94;96;96;94;97;96;96;95,task:7;informational:39;navigational:13;commercial:17;transactional:24
+Fritadeiras elétricas de 2 cubas,21,1425,38;52;51;48;52;56;57;56;53;54;100;94,task:3;informational:49;navigational:1;commercial:38;transactional:9
+Forno Elétrico Mondial,47,9048,89;100;50;54;99;100;100;74;92;92;97;97,task:2;informational:39;navigational:27;commercial:22;transactional:10
+Modeladores de Almôndegas,15,34,83;90;100;86;81;81;81;73;73;73;73;73,task:3;informational:52;navigational:8;commercial:15;transactional:22
+Marmitas e Vasilhas Plásticas,17,563,45;54;56;68;61;58;82;61;59;100;88;92,task:7;informational:45;navigational:11;commercial:30;transactional:7
+Bivolt Elétrico,15,188,40;55;57;63;61;100;75;50;52;54;54;57,task:3;informational:63;navigational:8;commercial:19;transactional:7
+Baba Eletrônica Philips Avent,17,241,71;93;99;88;91;94;94;100;99;88;92;92,task:3;informational:35;navigational:28;commercial:16;transactional:18
+Secadores de Cabelo Portáteis,45,12438,81;86;89;76;40;41;42;100;70;70;70;70,task:2;informational:47;navigational:3;commercial:42;transactional:6
+Telefone sem fio no Brasil,30,3922,24;31;33;65;84;85;86;100;91;92;92;94,task:5;informational:47;navigational:9;commercial:27;transactional:12
+Eletrodomésticos Star Wars Darth Vader,17,351,32;85;100;73;71;71;84;24;23;89;53;63,task:3;informational:47;navigational:5;commercial:28;transactional:17
+Escovas elétricas infantis,18,4269,77;94;100;96;87;89;89;90;92;92;92;91,task:7;informational:45;navigational:2;commercial:24;transactional:22
+Tampas de frigideira,16,584,6;11;10;20;33;30;22;71;68;100;87;91,task:3;informational:52;navigational:5;commercial:15;transactional:25
+Frigideiras Fundo Triplo,16,443,66;96;98;92;91;97;85;100;98;88;87;87,task:7;informational:40;navigational:6;commercial:29;transactional:18
+Processadores e Trituradores Mondial,16,508,69;76;100;89;55;55;38;40;38;40;41;50,task:7;informational:62;navigational:5;commercial:19;transactional:7
+Tablets Poco Pad,30,26254,14;18;19;18;67;68;67;99;100;100;100;100,task:8;informational:56;navigational:7;commercial:18;transactional:11
+Lanches em casa,18,1872,47;55;55;55;42;45;45;75;70;83;100;100,task:10;informational:54;navigational:4;commercial:8;transactional:24
+Termômetros Minipa,16,110,78;83;89;89;100;84;93;92;89;87;89;88,task:3;informational:56;navigational:12;commercial:12;transactional:17
+Philips Aparadores e Cortes de Cabelo,49,11897,50;58;65;74;93;94;94;100;97;97;97;97,task:2;informational:45;navigational:11;commercial:23;transactional:19
+Casa e Cozinha,18,1155,37;64;74;72;72;77;77;82;84;88;100;100,task:3;informational:53;navigational:4;commercial:29;transactional:11
+Processadores de Alimentos Kitchenaid,21,933,65;100;100;94;86;91;91;85;89;88;90;87,informational:46;navigational:18;commercial:18;transactional:18
+Forno elétrico e fryer Oster,35,6112,90;98;100;47;72;73;73;53;62;62;62;62,task:8;informational:35;navigational:2;commercial:31;transactional:24
+Frigideiras Neoflam,16,149,11;39;41;36;40;45;25;100;97;12;11;12,task:10;informational:45;navigational:8;commercial:20;transactional:17
+Mixer Philco 3 em 1,22,2780,83;99;100;96;90;92;93;53;56;69;60;60,task:2;informational:41;navigational:11;commercial:16;transactional:30
+Geladeiras automotivas,17,593,52;94;100;72;75;78;81;74;76;82;82;99,informational:54;navigational:1;commercial:25;transactional:20
+Air Fryer Mundial Acessórios,26,3575,61;82;86;87;95;100;100;93;96;96;93;92,task:5;informational:49;navigational:4;commercial:31;transactional:11
+Air fryers: Bella Cucina Britânia,25,4669,21;27;26;36;93;94;94;96;99;98;98;100,task:2;informational:46;navigational:16;commercial:16;transactional:20
+Forno Turbo Elétrico,16,1019,85;95;100;97;91;88;88;58;52;52;55;55,task:5;informational:59;navigational:5;commercial:18;transactional:13
+Estufas refrigeradas para confeitaria,17,1004,91;100;85;92;78;80;81;88;91;90;88;88,task:2;informational:51;navigational:4;commercial:34;transactional:9
+Eletrônicos Júnior,16,447,24;30;30;29;31;32;38;39;42;88;100;48,task:3;informational:24;navigational:38;commercial:27;transactional:8
+Fogões com Forno Elétrico,33,8762,23;31;41;54;99;100;100;74;84;84;84;84,task:2;informational:49;navigational:5;commercial:33;transactional:11
+Máquinas de macarrão,40,10580,39;47;62;77;85;86;86;100;94;94;94;93,task:2;informational:54;navigational:5;commercial:22;transactional:17
+Kuk Marmitas,16,306,28;38;100;92;98;75;66;41;42;48;50;50,task:5;informational:20;navigational:52;commercial:10;transactional:13
+Mini panelas de pressão,15,429,58;77;76;73;70;100;89;90;84;75;76;77,task:5;informational:55;navigational:5;commercial:27;transactional:8
+Multimídia Cobalt,19,404,17;76;100;52;66;51;33;39;40;65;58;62,task:4;informational:46;navigational:18;commercial:16;transactional:16
+Casa e Multicoisas,17,1070,32;50;63;47;73;66;57;97;84;100;90;84,task:7;informational:19;navigational:46;commercial:10;transactional:18
+fritadeiras elétricas Philips Philco Walita,17,68,24;31;44;37;32;32;60;100;100;33;34;34,task:3;informational:37;navigational:24;commercial:20;transactional:16
+microcorrente estética facial,23,2892,56;58;46;55;93;94;94;100;92;92;92;92,task:2;informational:68;navigational:5;commercial:17;transactional:8
+Microfones Leson,18,429,78;100;99;97;97;100;100;86;85;85;85;85,task:7;informational:30;navigational:29;commercial:19;transactional:15
+Kitchenaid Verde,15,97,18;19;100;80;75;54;20;21;20;20;25;37,task:7;informational:45;navigational:11;commercial:29;transactional:8
+Fones de ouvido com fio,27,4370,56;76;79;88;94;96;97;100;94;92;94;94,task:2;informational:54;navigational:4;commercial:30;transactional:10
+Panelas e Jogos Electrolux,28,2937,85;100;53;56;80;83;84;70;74;74;74;74,informational:35;navigational:32;commercial:21;transactional:12
+Micro-ondas Philco PME31: Peças e Reparos,18,1347,58;30;29;42;69;67;65;90;100;100;97;97,task:5;informational:68;navigational:3;commercial:12;transactional:12
+Mini Hamburguer para festas,35,22044,16;19;22;30;65;66;65;100;76;76;76;76,task:8;informational:56;navigational:5;commercial:12;transactional:19
+Delivery de Marmitex e Marmitas,15,2406,84;32;31;22;84;100;89;95;85;85;85;93,task:12;informational:46;navigational:4;commercial:12;transactional:26
+Máquinas de sorvete domésticas,18,3968,86;100;57;53;56;59;60;62;62;62;61;61,task:2;informational:53;navigational:5;commercial:24;transactional:16
+Rádios Portáteis e Acessórios,31,4909,73;87;83;90;95;97;97;95;100;100;99;99,task:2;informational:26;navigational:24;commercial:32;transactional:16
+Fones OneOdio,18,1524,22;30;25;52;52;53;53;33;100;54;53;53,task:2;informational:42;navigational:24;commercial:17;transactional:15
+radios e transceptores,18,1537,27;29;29;59;76;76;76;84;100;100;100;100,task:2;informational:67;navigational:5;commercial:18;transactional:8
+Panelas MTA,18,1752,87;100;100;49;46;49;46;56;57;56;55;55,task:2;informational:30;navigational:39;commercial:19;transactional:10
+Maçaricos Portáteis a Gás,23,2381,86;100;100;100;49;53;53;69;63;64;64;63,task:4;informational:56;navigational:2;commercial:26;transactional:12
+Tambores Magnéticos,17,143,39;42;49;100;100;100;100;100;100;100;100;100,task:5;informational:75;navigational:5;commercial:10;transactional:5
+Audífonos Inalámbricos,17,654,48;81;85;76;76;66;62;80;32;100;54;69,task:3;informational:58;navigational:4;commercial:29;transactional:6
+Fritadeiras Rosa,15,967,63;87;89;73;73;77;81;100;93;86;75;74,task:3;informational:54;navigational:11;commercial:20;transactional:12
+fornos com air fryer Fischer,16,201,32;44;43;47;48;46;45;90;100;54;52;53,task:3;informational:47;navigational:11;commercial:21;transactional:18
+Eletro no Brasil,16,1076,21;31;33;32;64;84;100;82;48;62;77;89,task:7;informational:40;navigational:28;commercial:20;transactional:5
+Chapas elétricas para hambúrguer,25,3554,85;98;100;97;46;48;47;48;51;51;51;50,task:2;informational:39;navigational:1;commercial:45;transactional:13
+Microfones Armer,19,566,76;98;98;97;91;93;93;94;95;94;99;100,task:4;informational:59;navigational:6;commercial:16;transactional:15
+Geladeiras Brastemp,213,116014,66;67;71;76;94;94;94;86;100;100;100;100,task:2;informational:37;navigational:23;commercial:16;transactional:22
+Assadeiras para airfryer,19,481,53;59;58;57;97;100;99;45;56;41;41;44,task:5;informational:42;navigational:1;commercial:38;transactional:14
+Potes Térmicos e Recipientes Alimentares,16,2603,100;53;55;68;70;74;74;67;68;67;65;64,task:8;informational:56;navigational:1;commercial:30;transactional:5
+Fogões Espelhados,16,1434,27;40;47;41;37;39;40;65;58;59;91;100,task:7;informational:51;navigational:4;commercial:27;transactional:11
+Fornos Kilocal,15,142,78;78;86;88;86;87;88;94;96;96;100;96,task:7;informational:21;navigational:51;commercial:10;transactional:11
+Marmitas e Potes Tupperware,20,4136,100;49;52;51;46;47;48;49;51;51;51;50,task:2;informational:24;navigational:26;commercial:39;transactional:9
+Praxis Eletrodomésticos,16,533,70;58;59;100;94;83;78;91;82;59;58;72,task:5;informational:48;navigational:23;commercial:13;transactional:11
+Fornos Tecnopizza,15,139,71;76;79;79;95;100;82;82;83;83;83;83,task:3;informational:32;navigational:46;commercial:11;transactional:8
+monitores de bebê eletrônicos,17,574,54;64;65;64;71;74;74;100;83;62;63;61,task:2;informational:73;navigational:5;commercial:15;transactional:5
+iPhone com infravermelho,22,2592,62;63;67;91;94;97;100;97;86;86;86;88,task:2;informational:80;navigational:5;commercial:5;transactional:8
+Megafone: preços e compras,23,6416,33;38;22;100;28;28;29;28;28;28;28;28,task:2;informational:38;navigational:4;commercial:28;transactional:28
+Forno Embutido a Gás/Elétrico,121,60574,88;88;36;61;75;75;75;100;80;80;80;80,task:5;informational:56;navigational:3;commercial:23;transactional:13
+Telefones com fio Intelbras,28,3070,35;47;47;62;91;93;94;100;100;100;100;100,task:4;informational:57;navigational:3;commercial:18;transactional:18
+Fogões e Cooktops por Indução Fischer,53,4855,86;97;99;99;99;100;100;57;63;64;64;63,task:2;informational:37;navigational:15;commercial:21;transactional:25
+facas elétricas,20,8426,42;47;47;24;28;29;30;100;100;100;100;100,task:2;informational:42;navigational:4;commercial:40;transactional:12
+Celulares de bebê,19,931,18;33;45;29;26;26;23;34;35;22;21;100,task:10;informational:54;navigational:5;commercial:22;transactional:9
+Cooktops de Indução Philco,18,1633,11;30;33;29;28;34;31;73;67;100;92;81,task:2;informational:63;navigational:3;commercial:22;transactional:10
+Lancheiras Térmicas e Acessórios Infantis,18,15758,64;72;75;74;80;80;80;100;100;100;100;100,task:2;informational:50;navigational:2;commercial:36;transactional:10
+Processadores Manuais de Alimentos,21,2551,41;22;23;28;97;100;100;36;40;41;39;39,task:2;informational:58;navigational:2;commercial:26;transactional:12
+Aquecedores Indutivos Jamo,16,178,75;100;88;86;66;66;66;67;69;69;73;73,task:2;informational:17;navigational:71;commercial:7;transactional:3
+Fogões e Fornos Havan,20,3967,66;78;78;61;65;67;68;72;69;69;95;100,task:2;informational:18;navigational:47;commercial:7;transactional:26
+microfones sem fio Kadosh,16,504,76;98;98;94;100;99;100;92;89;95;94;95,task:3;informational:32;navigational:18;commercial:29;transactional:18
+Lancheiras Térmicas,15,774,45;75;100;83;80;75;59;73;86;63;85;88,task:5;informational:47;navigational:19;commercial:19;transactional:10
+Fornos Elétricos Arno e Air Fryer,18,994,48;65;76;61;40;47;61;74;69;40;95;100,task:8;informational:67;navigational:5;commercial:12;transactional:8
+Processadores Mondial,30,4873,69;77;79;43;99;100;100;42;41;41;42;41,informational:57;navigational:9;commercial:24;transactional:10
+Pipoca na Airfryer,49,22018,30;32;30;65;48;48;48;100;99;99;99;99,task:10;informational:78;navigational:2;commercial:2;transactional:8
+Frigideiras Grill,19,2660,47;57;57;47;81;82;82;87;98;100;98;98,task:2;informational:53;navigational:9;commercial:26;transactional:10
+Aparelhos de emagrecimento e gordura localizada,25,1997,43;48;56;88;100;100;99;89;96;96;95;95,task:2;informational:66;navigational:2;commercial:22;transactional:8
+Moveis e Eletrodomesticos da Eletroforte,15,224,14;58;79;65;64;83;94;100;87;62;35;44,task:3;informational:12;navigational:77;commercial:3;transactional:5
+Panelas elétricas quadradas,17,545,77;99;98;95;94;100;100;90;96;96;89;88,task:7;informational:27;navigational:5;commercial:35;transactional:26
+Forno autolimpante,32,5291,20;27;31;62;97;98;98;100;97;100;91;91,task:5;informational:65;navigational:2;commercial:20;transactional:8
+Panelas de Cerâmica,243,212759,21;22;23;41;82;82;82;100;63;63;63;63,task:5;informational:38;navigational:7;commercial:42;transactional:8
+Cozinha Industrial e Equipamentos,26,13468,31;38;42;98;99;100;100;100;100;100;100;100,task:5;informational:55;navigational:1;commercial:35;transactional:4
+Frigideiras em restaurantes,15,889,55;75;76;74;83;86;85;100;100;95;94;94,task:4;informational:54;navigational:4;commercial:21;transactional:17
+Panelas com Cabo Removível,17,1169,71;98;97;89;93;99;99;96;100;99;100;100,task:7;informational:48;navigational:5;commercial:30;transactional:10
+Fornos elétricos Philco,55,12436,40;45;50;100;57;58;58;63;62;63;62;62,task:5;informational:54;navigational:8;commercial:13;transactional:20
+Mini Chefs: Brinquedos e Utensílios de Cozinha,15,425,17;18;18;20;96;96;100;47;43;32;31;31,task:2;informational:70;navigational:10;commercial:10;transactional:8
+fornos elétricos retrô,15,795,6;16;19;17;9;17;25;89;92;100;94;93,task:3;informational:56;navigational:4;commercial:21;transactional:16
+Geladeiras Smeg,17,1443,54;74;75;71;78;89;90;91;95;96;98;100,task:10;informational:53;navigational:6;commercial:18;transactional:13
+Lava-louças: guias e marcas,420,204827,37;38;53;71;100;100;100;84;69;69;69;69,task:2;informational:59;navigational:4;commercial:27;transactional:8
+Meg Brinquedos e Cozinha,17,65,53;72;85;78;100;70;81;81;85;67;67;68,task:3;informational:34;navigational:38;commercial:21;transactional:4
+Philco Air Fryer 4 em 1,17,1425,13;20;27;27;39;38;39;86;83;100;98;87,task:2;informational:45;navigational:12;commercial:23;transactional:18
+Frigideiras Tramontina,34,9346,96;100;50;50;56;57;57;54;50;49;49;50,informational:54;navigational:7;commercial:16;transactional:23
+Celulares & Cia,16,954,14;31;32;30;30;44;53;100;50;84;72;99,task:4;informational:30;navigational:27;commercial:31;transactional:8
+Geladeiras Brastemp Frost Free,28,4034,84;99;100;56;52;55;55;90;92;93;93;92,task:2;informational:51;navigational:7;commercial:29;transactional:11
+Utensílios de cozinha Tramontina,20,2157,36;51;50;46;45;50;50;52;88;100;92;91,task:5;informational:45;navigational:29;commercial:9;transactional:12
+Frigideiras 3 em 1 antiaderentes,15,169,55;89;100;79;75;79;48;41;42;37;37;46,task:7;informational:24;commercial:51;transactional:18
+Mercados de Eletrônicos,15,3933,59;82;87;76;77;80;79;100;94;94;100;93,task:3;informational:37;navigational:17;commercial:31;transactional:12
+Panelas Brinox,22,1440,89;100;50;61;59;61;62;84;55;59;60;60,task:2;informational:39;navigational:22;commercial:14;transactional:23
+Liquidificadores Mallory,19,1061,61;70;84;79;82;95;88;91;100;100;91;90,task:2;informational:47;navigational:26;commercial:14;transactional:11
+Bule térmico para café,16,367,71;96;97;91;100;91;81;79;82;97;95;89,task:7;informational:31;navigational:8;commercial:35;transactional:19
+Lancheiras da Minnie,15,505,46;69;73;65;64;77;65;100;50;51;56;65,task:3;informational:33;navigational:4;commercial:41;transactional:19
+Pipoqueiras Elétricas,52,35910,80;77;79;81;92;92;92;100;100;100;100;100,task:5;informational:33;navigational:6;commercial:38;transactional:18
+Panelas elétricas de arroz,126,77435,28;29;31;46;100;100;100;61;59;59;59;59,task:5;informational:45;navigational:7;commercial:29;transactional:14
+Gabinetes Lian Li Lancool,15,358,10;21;20;18;26;16;21;18;100;37;30;17,informational:54;navigational:18;commercial:18;transactional:10
+Mini Robôs Domésticos,16,262,37;49;50;50;53;42;51;100;85;56;54;51,task:3;informational:54;navigational:5;commercial:23;transactional:15
+Rebitadeiras elétricas,15,445,73;89;89;96;92;90;92;95;97;96;97;100,task:1;informational:65;navigational:4;commercial:22;transactional:8
+Cozinha MGM Eloise,15,1456,3;18;21;12;12;24;73;35;33;100;90;87,task:7;informational:60;navigational:15;commercial:15;transactional:3
+Chapas para lanches e hambúrgueres,59,34157,33;36;38;89;44;44;44;100;90;90;90;90,task:7;informational:46;navigational:4;commercial:36;transactional:7
+Equipamentos para batata frita,19,2233,48;57;48;62;98;97;100;86;80;80;80;80,task:2;informational:63;navigational:5;commercial:24;transactional:6
+Cuscuzeiras Brinox,17,1255,34;51;55;50;51;54;54;46;48;100;89;99,task:3;informational:29;navigational:35;commercial:18;transactional:15
+Microfones Rode,17,2997,68;96;100;99;87;93;94;89;93;93;92;89,task:1;informational:49;navigational:9;commercial:21;transactional:20
+Liquidificadores e multiprocessadores Havan,16,1515,17;24;24;22;21;22;20;19;20;31;29;100,task:3;informational:38;navigational:23;commercial:18;transactional:18
+Polionda e Placas Plásticas,21,1478,64;68;68;68;99;100;100;52;87;87;87;87,task:2;informational:70;navigational:5;commercial:17;transactional:6
+Forno Elétrico Progas,22,1517,83;93;94;48;43;47;46;100;71;72;94;100,informational:47;navigational:31;commercial:13;transactional:9
+Ninja Foodi Panelas Elétricas,19,3764,44;50;51;30;98;100;100;92;100;100;100;100,task:2;informational:41;navigational:16;commercial:24;transactional:17
+Fogões de indução invisíveis,26,2341,22;22;52;78;93;98;100;90;93;93;93;93,task:8;informational:62;navigational:4;commercial:20;transactional:6
+Maono Microfones,17,1364,33;36;39;39;36;37;36;58;100;99;59;58,task:2;informational:40;navigational:32;commercial:19;transactional:7
+Fones Philips Tah1108 Bluetooth,15,1018,17;27;29;49;49;42;27;56;45;58;69;100,task:1;informational:49;navigational:24;commercial:16;transactional:10
+Frigideiras Tramontina Caribe,18,195,8;39;50;41;29;26;54;100;80;15;15;17,task:3;informational:40;navigational:17;commercial:28;transactional:12
+Fatiadores de frios,37,11936,95;100;47;61;59;60;61;66;68;68;68;68,task:5;informational:45;navigational:1;commercial:30;transactional:19
+Ventoinhas Magnéticas,18,380,38;54;55;62;82;100;80;96;96;77;76;73,task:3;informational:50;navigational:11;commercial:28;transactional:8
+Brinquedos Magnéticos,26,4424,56;77;81;79;88;91;92;88;100;100;100;99,task:8;informational:60;navigational:4;commercial:26;transactional:2
+Philco all-in-one multiprocessadores,26,1806,75;87;88;86;83;85;85;87;89;88;93;100,informational:38;navigational:30;commercial:14;transactional:18
+Cooktops Electrolux 2 Bocas,16,941,8;9;8;8;24;21;25;86;100;71;79;86,task:3;informational:29;navigational:25;commercial:18;transactional:25
+Microinversores Solares,23,5932,35;21;21;21;93;94;94;100;97;97;97;97,task:2;informational:67;navigational:4;commercial:21;transactional:6
+Celulares Multilaser,19,1089,66;76;76;80;78;66;63;77;46;50;45;100,task:2;informational:46;navigational:14;commercial:32;transactional:6
+Forno a gás no Brasil,20,2880,84;98;99;62;96;100;100;91;93;93;92;92,task:2;informational:56;navigational:4;commercial:32;transactional:6
+"Fritadeiras Air Fryer Mondial 3,5 L",21,797,89;99;100;97;52;55;55;59;52;52;51;51,task:5;informational:46;navigational:4;commercial:37;transactional:8
+Tablets para restaurantes,16,375,17;94;79;71;72;75;67;77;45;52;79;100,task:7;informational:28;navigational:3;commercial:44;transactional:18
+garrafas térmicas Modus,18,5476,72;88;91;54;62;63;63;100;90;91;91;90,task:2;informational:58;navigational:10;commercial:23;transactional:7
+Sanduicheiras Mondial,21,3469,91;98;100;100;46;47;47;41;44;44;43;42,informational:38;navigational:10;commercial:18;transactional:34
+Equipamentos e Utensílios para Restaurantes,17,696,86;100;100;73;68;75;76;76;49;49;49;49,task:8;informational:24;navigational:3;commercial:55;transactional:10
+Ilhas com Cooktop,16,303,13;76;100;78;79;29;26;55;45;40;36;41,task:10;informational:65;navigational:3;commercial:22
+Lava-louças e Electrolux,15,451,2;33;45;27;17;14;21;100;92;38;34;42,task:7;informational:64;navigational:8;commercial:18;transactional:3
+Cooktops com coifa embutida,21,2284,85;99;100;63;69;72;74;70;57;57;58;67,informational:64;navigational:4;commercial:29;transactional:3
+batedores de bolo,24,11552,13;64;64;70;96;97;98;100;99;100;100;100,task:5;informational:65;navigational:5;commercial:16;transactional:9
+Frigobar Midea Retrô,15,268,34;52;56;48;66;100;73;40;43;42;46;49,task:1;informational:45;navigational:20;commercial:20;transactional:14
+Petisqueiras Cerâmicas,20,3759,17;20;21;100;17;18;18;82;18;18;17;17,task:5;informational:55;navigational:5;commercial:22;transactional:13
+Torradeiras e Sanduicheiras Smeg,15,458,79;96;97;95;100;94;96;94;96;95;96;100,task:7;informational:36;navigational:12;commercial:18;transactional:27
+Antenas AirGrid,17,456,44;43;44;58;99;99;100;32;58;59;60;59,task:3;informational:37;navigational:25;commercial:17;transactional:18
+Lousas Magnéticas Infantis,16,1367,65;94;96;92;89;96;97;98;100;100;100;99,task:7;informational:49;navigational:4;commercial:28;transactional:12
+Sanduicheiras de cerâmica,16,385,18;21;34;33;27;23;26;100;80;25;25;27,task:3;informational:58;navigational:4;commercial:28;transactional:7
+Cooktop de Indução Electrolux,18,258,40;74;89;100;100;70;50;72;66;56;56;58,informational:40;navigational:18;commercial:24;transactional:18
+Fogões LG e Cooktops,16,350,22;64;70;95;95;61;39;86;64;100;92;100,task:3;informational:49;navigational:16;commercial:15;transactional:17
+Forno Salamandra e Gratinadores,20,1187,23;25;25;52;82;82;82;100;67;64;64;65,task:2;informational:62;navigational:5;commercial:23;transactional:8
+Liquidificadores inox,19,1354,84;96;100;97;46;47;49;75;65;66;62;62,task:2;informational:60;navigational:6;commercial:21;transactional:11
+Fones Edifier,36,18729,97;100;46;46;45;45;45;56;77;77;77;77,task:5;informational:40;navigational:22;commercial:13;transactional:20
+Toasters,17,2311,23;24;24;25;28;28;37;100;100;98;98;99,task:5;informational:48;navigational:4;commercial:34;transactional:9
+Eletrônica Muller,15,435,13;15;14;22;19;18;35;99;49;100;100;98,task:3;informational:41;navigational:31;commercial:21;transactional:4
+Pias e Cubas Gourmet Multifuncionais,16,1755,71;98;100;96;88;94;96;96;96;96;93;92,task:3;informational:29;navigational:38;commercial:17;transactional:13
+Máquinas de fazer bolos,29,2689,70;93;92;97;91;96;100;95;87;87;90;89,task:5;informational:50;navigational:8;commercial:16;transactional:21
+Processadores de Alimentos com Liquidificador,91,156351,20;21;23;40;46;46;46;96;100;100;100;100,task:2;informational:45;navigational:4;commercial:34;transactional:15
+Churrasqueiras Refracon,16,678,53;71;71;67;68;72;68;95;93;100;73;72,task:3;informational:24;navigational:45;commercial:21;transactional:7
+Frigideiras Rochedo,19,1711,71;98;100;97;80;86;87;90;91;92;84;83,task:3;informational:27;navigational:41;commercial:24;transactional:5
+Fogões Electrolux VaporBake,23,2162,19;38;42;53;58;54;55;100;79;82;77;78,informational:49;navigational:33;commercial:10;transactional:8
+Microcomputadores: Guia e Compras,21,8390,15;21;28;28;51;52;52;98;99;100;100;99,task:5;informational:52;navigational:2;commercial:33;transactional:8
+Forno elétrico em lojas brasileiras,15,987,23;53;71;44;44;49;58;53;54;84;85;100,informational:11;navigational:59;commercial:11;transactional:19
+Forno Embutido Panasonic,16,306,36;44;43;41;39;92;70;96;65;100;73;69,task:7;informational:31;navigational:18;commercial:19;transactional:25
+Brastemp Geladeiras,16,653,29;41;42;40;40;43;43;100;79;39;38;38,task:7;informational:52;navigational:18;commercial:12;transactional:11
+Fritadeiras e air fryers no Magazine Luiza,19,709,90;100;100;95;92;95;91;95;48;48;48;48,task:1;informational:28;navigational:35;commercial:10;transactional:26
+Antenas de Rádio FM,24,2786,38;43;30;59;70;72;72;76;97;100;100;97,task:2;informational:68;navigational:4;commercial:20;transactional:6
+fornos elétricos Amazon Brasil,17,193,25;25;19;16;19;18;40;100;92;20;20;23,task:1;informational:27;navigational:46;commercial:11;transactional:15
+Termocirculadores Sous Vide,18,1704,28;29;30;37;37;42;42;100;100;100;100;100,task:8;informational:62;navigational:2;commercial:25;transactional:3
+Microfones para PC e Estúdio,89,45072,55;58;84;67;97;97;97;100;100;100;100;100,task:2;informational:46;navigational:4;commercial:35;transactional:13
+Máquinas de gelo portáteis,17,574,41;59;62;57;48;51;60;100;82;86;100;100,task:10;informational:45;navigational:4;commercial:31;transactional:10
+Colheres de Inox,18,709,62;68;69;76;87;84;80;87;89;100;97;98,task:5;informational:53;navigational:10;commercial:24;transactional:8
+Processadores de Alimentos Rosa 12 em 1,16,1574,12;31;35;27;27;17;29;11;11;16;100;100,task:3;informational:34;navigational:5;commercial:39;transactional:19
+Secadores de cabelo sem fio,17,450,56;70;74;82;86;92;100;87;87;89;87;89,task:3;informational:48;navigational:4;commercial:34;transactional:11
+Kitchenaid Massa e Acessórios,17,59,26;70;34;36;36;100;65;36;36;45;43;38,task:1;informational:42;navigational:39;commercial:12;transactional:6
+Ninja Eletrodomésticos,24,49619,14;97;99;17;18;18;18;100;100;100;100;100,task:5;informational:47;navigational:15;commercial:21;transactional:12
+Liquidificadores com copo de vidro,27,1852,85;99;100;55;52;55;56;42;46;45;46;45,task:2;informational:60;navigational:2;commercial:25;transactional:11
+Frigideiras e Panelas Inox,24,5899,39;48;49;48;99;100;100;71;68;68;68;68,task:5;informational:39;navigational:4;commercial:40;transactional:12
+Eletrodomésticos e Midea no Brasil,17,821,11;72;76;79;82;56;68;96;75;74;64;100,task:2;informational:68;navigational:10;commercial:10;transactional:10
+Coifas e Depuradores Electrolux,43,7894,92;97;100;47;46;47;48;49;48;48;48;49,task:4;informational:34;navigational:26;commercial:22;transactional:14
+Freezers Metalfrio,30,4061,63;86;94;93;87;89;90;91;95;100;96;95,task:2;informational:45;navigational:15;commercial:25;transactional:13
+Microfones de brinquedo para crianças,26,5831,89;97;100;53;53;54;54;51;55;55;55;55,task:2;informational:54;navigational:2;commercial:32;transactional:10
+Casa e Panelas,19,795,89;100;100;50;49;50;50;49;49;49;49;49,task:2;informational:54;navigational:10;commercial:24;transactional:10
+Churrasqueiras e Sanduicheiras Havan,17,1296,35;48;50;50;50;54;54;56;56;56;77;100,task:3;informational:18;navigational:54;commercial:11;transactional:14
+Celulares Transformers Bumblebee,20,1595,14;17;100;18;15;20;9;30;21;15;29;20,task:2;informational:66;navigational:5;commercial:20;transactional:7
+Panelas Ballarini,18,288,44;84;100;51;50;61;61;65;57;87;84;90,task:7;informational:40;navigational:19;commercial:27;transactional:7
+Estufas e vitrines comerciais,15,369,95;100;100;100;97;99;99;100;68;100;68;68,task:2;informational:53;navigational:4;commercial:31;transactional:10
+Aquecedores para cachorro-quente,17,687,63;100;98;77;59;66;48;62;56;85;78;79,task:4;informational:48;navigational:2;commercial:35;transactional:11
+Panos e Tecidos de Microfibra,62,41690,23;22;24;86;97;97;97;97;100;100;100;100,task:2;informational:60;navigational:10;commercial:23;transactional:5
+Assadeiras Tramontina,24,2885,84;99;100;54;54;58;59;53;58;58;58;57,task:2;informational:34;navigational:21;commercial:14;transactional:29
+Geladeiras Electrolux,16,367,23;24;23;79;97;44;90;31;32;100;88;94,task:3;informational:50;navigational:18;commercial:15;transactional:14
+Máquinas de hambúrguer,20,1340,72;42;43;48;97;95;100;74;63;62;58;58,task:8;informational:42;navigational:4;commercial:28;transactional:18
+Lanches Congelados,17,707,13;15;16;16;55;75;64;100;84;56;55;53,task:2;informational:63;navigational:5;commercial:13;transactional:17
+sanduicheira eletrica Magalu,16,211,45;57;61;55;69;60;57;54;53;99;100;69,task:3;informational:23;navigational:36;commercial:15;transactional:23
+Fruteiras de Inox,15,1751,71;100;100;92;90;97;97;92;91;91;94;93,task:7;informational:48;navigational:4;commercial:30;transactional:11
+Airfryer Philco Brasil,21,1487,87;100;100;97;45;49;49;47;51;51;83;83,task:2;informational:48;navigational:14;commercial:28;transactional:8
+Frigobar: Preços e Promoções,79,70598,60;61;65;86;100;100;100;97;95;95;95;95,informational:50;navigational:2;commercial:34;transactional:14
+Forno Elétrico de Embutir,20,1560,84;99;100;98;86;88;97;66;67;69;69;69,task:5;informational:41;navigational:4;commercial:39;transactional:11
+Caixas de Almoço Elétricas,19,760,80;54;57;51;51;41;41;99;100;88;88;97,task:2;informational:56;navigational:5;commercial:24;transactional:13
+Multimídia LeLong,23,2266,29;36;48;48;76;77;77;79;98;98;100;100,task:3;informational:39;navigational:29;commercial:20;transactional:9
+Telefones sem fio Motorola,20,2253,60;67;78;97;97;100;100;74;96;95;96;96,task:3;informational:51;navigational:9;commercial:31;transactional:6
+Centrais multimídia automotivas,20,1007,54;61;63;51;100;100;100;91;91;88;88;88,task:5;informational:41;navigational:3;commercial:44;transactional:7
+Aparelhos 4 em 1: processadores e liquidificadores,16,163,8;10;11;13;17;17;100;17;15;14;14;15,task:1;informational:52;navigational:4;commercial:33;transactional:10
+Secadores de mãos para banheiro,19,3322,75;100;100;43;52;55;56;76;72;87;81;86,task:5;informational:45;navigational:4;commercial:39;transactional:7
+Celulares Motorola Tijolo,19,1193,86;99;100;61;61;64;65;73;71;70;69;68,informational:65;navigational:6;commercial:13;transactional:16
+Garrafões Térmicos com Torneira,15,492,47;57;57;47;51;51;55;52;50;100;93;98,task:7;informational:47;navigational:4;commercial:28;transactional:14
+Fones ELG com fio,15,374,16;29;31;23;21;22;18;20;20;100;84;27,task:5;informational:59;navigational:11;commercial:16;transactional:9
+"Máquinas de cuidado pessoal: cabelo, barba e pés",23,1168,78;98;100;80;84;91;92;81;90;91;85;93,task:5;informational:59;navigational:4;commercial:24;transactional:8
+Sonos: caixas de som e app,18,879,65;94;96;93;92;99;100;90;90;90;86;86,task:10;informational:44;navigational:15;commercial:14;transactional:17
+Churrasqueiras Portáteis,15,415,78;94;97;92;93;100;99;93;99;100;93;95,task:3;informational:45;navigational:9;commercial:27;transactional:16
+caf e moedores de carne,17,626,54;78;80;77;75;81;83;78;93;100;84;82,task:3;informational:38;navigational:18;commercial:26;transactional:15
+Massageadores com infravermelho,26,3916,13;28;26;28;61;56;56;100;84;84;83;84,task:5;informational:50;navigational:5;commercial:29;transactional:11
+Secadores de cabelo com difusor,18,3788,35;44;44;44;22;22;24;98;100;99;100;99,task:3;informational:50;navigational:4;commercial:32;transactional:11
+Processadores de Legumes Elétricos,17,1049,57;72;74;88;100;100;96;64;70;74;69;70,task:5;informational:54;navigational:2;commercial:26;transactional:13
+Fritadeiras Air Fryer em Home Land,23,6769,20;29;32;44;77;78;78;95;100;100;100;100,task:2;informational:38;navigational:32;commercial:18;transactional:10
+Fornos elétricos Layr,26,4656,90;98;100;46;42;43;43;43;45;45;45;44,task:3;informational:43;navigational:9;commercial:22;transactional:23
+Panelas quadradas,17,1014,85;100;100;96;38;41;42;39;40;41;40;40,task:2;informational:33;navigational:10;commercial:23;transactional:32
+Lanchonetes Tech Gigabyte,15,508,26;37;38;57;57;69;54;65;61;65;100;76,task:13;informational:24;navigational:32;commercial:18;transactional:13
+Eletrofrio Refrigeração,16,1220,64;96;96;100;88;95;94;95;94;94;90;89,task:2;informational:21;navigational:38;commercial:7;transactional:32
+Casas Inteligentes e Tecnologia,16,870,64;86;100;85;85;88;81;85;82;66;66;66,task:2;informational:72;navigational:9;commercial:11;transactional:6
+Lancheiras térmicas Sestini,15,398,77;96;100;95;84;94;92;94;93;89;89;89,task:7;informational:25;navigational:25;commercial:18;transactional:25
+Geladeiras Samsung no Brasil,62,21652,99;100;100;43;42;42;42;62;50;50;50;50,task:2;informational:50;navigational:8;commercial:18;transactional:22
+Geladeiras e Refrigeradores Frost Free e Inox,834,715796,27;27;29;35;100;100;100;48;46;46;46;46,task:2;informational:43;navigational:6;commercial:37;transactional:12
+Cadence Grill para Hambúrguer,15,405,36;84;100;72;80;73;53;44;43;50;47;77,task:3;informational:54;navigational:12;commercial:17;transactional:14
+Teclados Nord Electro,21,1376,47;52;53;53;98;100;100;38;38;38;38;39,task:2;informational:62;navigational:10;commercial:22;transactional:4
+Geladeiras de Luxo,15,752,11;32;45;31;29;42;40;96;54;100;83;86,task:7;informational:36;navigational:4;commercial:35;transactional:18
+Mamadeiras Tupperware,15,441,80;99;100;100;79;85;86;81;84;79;81;83,task:3;informational:50;navigational:11;commercial:29;transactional:7
+Panelas Genebra,20,1214,27;52;68;75;68;76;69;100;98;87;83;86,task:2;informational:44;navigational:30;commercial:21;transactional:3
+Mochilas Térmicas com Compartimento para Marmita,15,376,53;72;74;82;93;79;75;88;100;59;60;59,task:3;informational:55;navigational:14;commercial:21;transactional:7
+Fogões elétricos Agratto,17,866,86;94;93;87;83;84;85;96;97;100;97;97,task:2;informational:34;navigational:24;commercial:21;transactional:19
+Embalagens e Marmitas Descartáveis,40,10623,49;55;61;72;99;100;100;92;86;86;86;86,task:4;informational:50;navigational:4;commercial:35;transactional:7
+Gabinetes PC Compactos,23,6696,91;97;100;98;49;50;50;49;50;50;50;49,task:5;informational:44;navigational:4;commercial:36;transactional:11
+Freezers Gelopar com tampas de vidro,15,210,59;71;75;67;60;62;62;100;60;60;60;60,task:3;informational:25;navigational:14;commercial:40;transactional:18
+fornos para restaurantes,16,135,83;97;100;73;76;80;92;66;74;74;74;74,task:13;informational:37;navigational:5;commercial:26;transactional:19
+Cozinha com Cooktop,23,7793,93;97;100;45;46;46;47;46;41;41;41;41,task:5;informational:68;navigational:5;commercial:14;transactional:8
+Móveis e Utensílios de Cozinha,15,140,7;62;100;28;28;15;26;68;75;28;26;28,task:7;informational:61;navigational:3;commercial:18;transactional:11
+Misturadores Mondial,19,1606,84;99;100;51;57;59;61;58;53;53;53;53,task:2;informational:46;navigational:20;commercial:18;transactional:14
+Cozinha Planejada com Cooktop,16,675,34;51;55;49;67;53;53;100;77;78;50;55,task:3;informational:67;navigational:12;commercial:15;transactional:3
+Linha Branca: Eletrodomésticos,25,7744,34;42;42;91;94;93;96;87;94;98;100;98,task:1;informational:69;navigational:14;commercial:12;transactional:4
+Máquinas de refrigeração,17,4554,14;19;20;20;20;20;20;98;98;98;100;100,task:2;informational:70;navigational:5;commercial:17;transactional:6
+Cooktops e Fogões de Indução Oster,31,2338,87;98;100;50;60;64;67;80;84;85;88;87,task:5;informational:34;navigational:9;commercial:38;transactional:14
+Brinquedos de comida,16,780,72;39;47;75;57;58;58;100;96;57;52;66,task:5;informational:59;navigational:8;commercial:16;transactional:12
+Refrigeração e Eletroeletrônicos,16,132,31;35;34;29;29;32;32;26;26;100;28;27,task:5;informational:45;navigational:4;commercial:37;transactional:9
+Lancheiras e Marmitas Gocase,15,990,61;84;88;85;87;94;95;94;100;100;98;96,task:3;informational:30;navigational:45;commercial:5;transactional:17
+Secadoras Mueller,32,3505,85;100;100;49;47;49;48;47;50;51;53;52,task:2;informational:40;navigational:15;commercial:23;transactional:20
+Chaleiras elétricas,93,51885,48;49;51;57;100;100;100;64;63;63;63;63,task:8;informational:37;navigational:4;commercial:35;transactional:16
+Churrasco na Air Fryer,27,7733,19;23;24;77;22;23;24;96;100;100;100;100,task:5;informational:77;navigational:5;commercial:5;transactional:8
+Prensas Térmicas Portáteis,16,748,57;89;92;89;91;92;100;100;93;93;93;93,task:3;informational:49;navigational:5;commercial:23;transactional:20
+Capas Magnéticas para Celular,23,2007,17;26;27;49;52;51;57;90;81;79;78;100,task:2;informational:48;navigational:4;commercial:35;transactional:11
+Liv Up: Marmitas e Cupons,45,28312,77;85;90;95;97;97;97;100;100;100;100;100,task:5;informational:30;navigational:24;commercial:16;transactional:25
+Eletrogate Brasil,16,1029,32;48;49;48;61;58;100;81;89;80;65;65,task:3;informational:18;navigational:67;commercial:7;transactional:5
+freezers Midea,27,11699,72;79;82;97;42;42;43;44;100;100;100;99,task:3;informational:42;navigational:16;commercial:17;transactional:22
+Hot Grill e Fornos Elétricos,16,1118,67;98;100;73;80;84;75;68;76;77;76;91,task:5;informational:60;navigational:6;commercial:15;transactional:14
+Chaleiras elétricas portáteis,16,812,67;90;93;90;84;94;95;84;100;100;92;93,task:10;informational:55;navigational:5;commercial:26;transactional:4
+Panela de pressão elétrica Midea,25,5042,61;78;83;88;99;100;100;93;92;93;93;92,task:1;informational:50;navigational:26;commercial:8;transactional:15
+Fontignac Panelas,19,403,29;34;30;75;98;100;98;72;51;25;25;26,task:5;informational:59;navigational:13;commercial:20;transactional:3
+Mini cupcakes e formas,15,642,76;95;100;91;94;96;98;89;85;86;87;86,task:10;informational:59;navigational:5;commercial:22;transactional:4
+Multiprocessadores All-in-One,17,467,61;78;83;86;94;97;100;84;69;66;67;50,task:2;informational:63;navigational:5;commercial:16;transactional:14
+Outlets de Eletrodomésticos,15,239,11;89;99;68;63;57;62;100;66;36;32;35,task:3;informational:42;navigational:10;commercial:40;transactional:5
+Batedeiras KitchenAid 220V,21,1365,90;100;100;50;61;64;63;93;95;94;94;94,task:3;informational:49;navigational:4;commercial:25;transactional:19
+Mantas elétricas de aquecimento,22,1800,56;62;61;34;34;37;37;100;93;93;92;92,task:5;informational:42;navigational:9;commercial:35;transactional:9
+Vibração e Som,15,106,10;29;29;33;36;36;40;100;49;13;13;13,task:3;informational:51;navigational:24;commercial:7;transactional:15
+Celulares Xiaomi Redmi,21,4061,17;22;35;37;67;68;67;69;90;100;72;76,task:2;informational:61;navigational:10;commercial:24;transactional:3
+Utilidades para Casa,16,1506,24;37;47;39;36;39;32;32;99;33;100;92,task:3;informational:42;navigational:16;commercial:24;transactional:15
+Cooktops de 2 bocas (indução/elétrico),50,22461,95;98;100;44;66;66;66;83;68;68;68;68,task:5;informational:48;navigational:2;commercial:39;transactional:6
+Maxtil Eletrônicos,17,383,52;58;59;57;50;50;70;36;37;100;41;41,task:3;informational:18;navigational:60;commercial:6;transactional:13
+Chopeiras Portáteis,18,734,66;99;100;96;74;80;80;74;76;76;80;79,task:10;informational:46;navigational:5;commercial:21;transactional:18
+Microfones Espiões,17,211,42;41;42;41;41;43;100;40;37;37;37;37,task:7;informational:41;commercial:47;transactional:5
+Componentes eletrônicos,17,239,59;61;62;100;100;70;59;60;60;60;60;60,task:3;informational:69;navigational:12;commercial:13;transactional:3
+Cozinha Modular com Cooktop,15,79,26;48;74;72;100;100;66;57;58;24;24;24,task:3;informational:59;navigational:1;commercial:29;transactional:8
+Chaleira Elétrica KitchenAid,15,223,57;63;66;66;58;60;84;100;92;82;71;77,task:7;informational:49;navigational:11;commercial:22;transactional:11
+Panelas elétricas com divisórias,16,1227,84;93;57;69;65;67;67;100;75;76;65;65,task:8;informational:61;navigational:5;commercial:17;transactional:9
+Fogões de Brinquedo Infantis,16,2776,73;98;100;97;81;87;90;81;88;94;85;84,task:3;informational:55;navigational:5;commercial:25;transactional:12
+Cozinha Modulada,17,437,44;95;100;79;56;58;58;49;50;50;60;60,task:3;informational:50;navigational:4;commercial:32;transactional:11
+Radios Hytera,19,785,91;100;100;58;58;60;60;69;70;70;68;68,task:3;informational:38;navigational:16;commercial:30;transactional:13
+Lancheirinhas da Mamãe,16,142,27;51;100;81;81;51;38;34;44;26;26;34,task:7;informational:42;navigational:23;commercial:16;transactional:12
+Copo térmico Meoky,15,604,35;66;73;69;76;80;97;94;95;100;100;97,task:4;informational:29;navigational:41;commercial:22;transactional:4
+Mini Pebolim e Mesas de Totó,18,624,30;40;40;34;34;36;36;29;28;100;88;87,task:5;informational:44;navigational:8;commercial:30;transactional:13
+Lancheiras Sonic,15,231,39;90;84;80;80;80;72;83;72;94;100;44,task:10;informational:25;navigational:11;commercial:37;transactional:17
+Panelas para restaurantes,17,1155,63;78;97;92;49;46;46;100;86;87;86;87,task:2;informational:59;navigational:5;commercial:23;transactional:11
+Ventiladores Domésticos,23,7988,90;97;100;48;59;60;60;54;59;59;59;58,task:5;informational:42;navigational:5;commercial:34;transactional:14
+Conchas de cozinha,16,437,53;70;72;66;65;70;58;100;97;76;75;72,task:7;informational:48;navigational:11;commercial:28;transactional:6
+Eletro Light Brasil,15,395,34;48;51;49;48;48;47;100;73;97;95;98,task:7;informational:18;navigational:42;commercial:25;transactional:8
+Cupom Midea,19,907,27;30;32;31;33;37;36;63;63;100;69;69,task:5;informational:35;navigational:10;commercial:18;transactional:32
+Frigoríficas e Frigeração,17,48,15;51;55;44;32;32;25;100;79;11;11;11,task:3;informational:77;navigational:5;commercial:12;transactional:3
+Cooktops Brastemp 5 bocas com timer digital,21,769,62;100;77;53;51;69;55;90;93;90;66;68,task:3;informational:55;navigational:4;commercial:32;transactional:6
+Microfones MXL 990,24,909,65;72;73;70;99;100;100;47;57;57;60;60,task:8;informational:57;navigational:15;commercial:14;transactional:6
+Geladeiras Novo Mundo,15,1290,56;73;77;76;100;76;76;41;46;39;66;82,task:5;informational:32;navigational:20;commercial:13;transactional:30
+Grelhadores Mondial,18,326,100;52;94;91;89;62;61;49;49;51;47;48,task:5;informational:49;navigational:15;commercial:19;transactional:12
+Derretedeiras de Chocolate,16,1066,43;55;61;85;100;100;100;71;68;67;62;62,task:8;informational:60;navigational:5;commercial:16;transactional:11
+Tesouras de cozinha,16,743,57;73;76;70;69;73;75;74;77;100;93;72,task:7;informational:53;navigational:4;commercial:26;transactional:10
+Tablets Pritom,19,2497,33;41;41;34;54;55;55;100;88;88;89;95,task:2;informational:55;navigational:7;commercial:32;transactional:4
+Fones USB com Microfone,23,2562,85;100;98;50;51;55;55;51;55;54;54;54,task:2;informational:60;navigational:4;commercial:27;transactional:7
+Batedeiras Cadence,15,596,72;94;91;87;86;93;93;84;94;96;99;100,task:3;informational:47;navigational:18;commercial:19;transactional:13
+Caixas de Som Divoom,16,442,90;100;100;94;69;79;82;71;72;64;65;64,task:3;informational:41;navigational:29;commercial:17;transactional:10
+Philips Cortadores de Cabelo HC,19,792,41;44;45;44;81;82;100;83;82;89;98;100,task:2;informational:34;navigational:36;commercial:20;transactional:8
+Cozinha do Mickey Infantil,17,208,39;50;49;75;76;91;56;46;47;100;81;44,task:7;informational:35;navigational:34;commercial:17;transactional:7
+Panelas Mexedoras Saro,18,884,60;80;82;79;81;85;83;100;81;81;81;80,task:5;informational:42;navigational:23;commercial:14;transactional:16
+Pan e Spa,15,5310,56;73;92;92;93;95;95;99;100;100;100;99,task:7;informational:18;navigational:60;commercial:10;transactional:5

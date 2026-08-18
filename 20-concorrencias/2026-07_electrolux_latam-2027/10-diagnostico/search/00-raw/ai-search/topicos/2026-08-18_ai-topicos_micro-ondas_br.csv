@@ -1,0 +1,1001 @@
+name,prompts_count,volume,volume_trend,intents
+Potência de Micro-ondas,39,8431,32;54;65;84;98;99;99;98;100;100;100;100,task:5;informational:76;navigational:2;commercial:14;transactional:3
+Ondas de Rádio,31,13708,70;76;87;92;88;89;89;100;100;100;100;100,task:2;informational:72;navigational:7;commercial:13;transactional:6
+Micro-ondas barulhentos,19,667,91;91;89;100;94;94;94;75;83;77;77;77,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Micro-ondas Elettromec,15,135,43;48;46;57;100;70;91;89;81;61;65;60,task:3;informational:32;navigational:35;commercial:12;transactional:18
+Micro-ondas e Fornos de Micro-ondas,355,378717,18;21;22;100;45;45;45;46;46;46;46;46,task:8;informational:45;navigational:8;commercial:28;transactional:11
+Tramontina Micro-ondas,17,526,74;83;85;77;77;77;75;79;78;100;93;98,task:2;informational:59;navigational:17;commercial:10;transactional:12
+Micro-ondas Industriais,17,558,57;98;100;95;69;89;91;82;83;84;90;92,task:10;informational:48;navigational:4;commercial:29;transactional:9
+Micro-ondas Mondial,23,3514,86;98;99;63;62;65;65;81;90;90;100;100,task:2;informational:41;navigational:25;commercial:16;transactional:16
+portas de micro-ondas,16,643,65;85;87;89;77;98;100;77;78;81;81;80,task:10;informational:53;navigational:6;commercial:16;transactional:15
+Micro-ondas: funcionamento e saúde,86,17265,84;87;90;100;100;100;100;97;96;96;96;96,task:2;informational:85;navigational:5;commercial:5;transactional:3
+Micro-ondas: ortografia e grafia,42,20974,100;71;71;66;78;78;78;90;87;87;87;87,task:5;informational:85;navigational:3;commercial:5;transactional:2
+Micro-ondas Bemol,15,141,4;9;9;12;14;11;9;100;53;14;12;15,task:7;informational:32;navigational:19;commercial:15;transactional:27
+Transformadores de Microondas,27,4087,22;30;30;33;79;81;81;100;84;84;85;84,task:8;informational:62;navigational:5;commercial:16;transactional:9
+Motores de Micro-ondas,30,5359,33;40;40;55;85;85;85;100;96;96;97;97,task:2;informational:62;navigational:4;commercial:19;transactional:13
+Micro-ondas Electrolux,97,54346,63;64;68;100;90;90;90;90;98;98;98;98,informational:42;navigational:33;commercial:12;transactional:13
+Ondas Eletromagnéticas,152,70251,100;98;98;85;67;67;67;77;78;78;78;78,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Micro-ondas em aço inox,19,1015,100;86;88;91;53;54;54;49;67;67;70;72,task:8;informational:51;navigational:4;commercial:26;transactional:11
+Magnetron de Micro-ondas,41,30430,25;28;17;84;84;84;84;100;100;100;100;100,task:2;informational:60;navigational:5;commercial:19;transactional:14
+Micro-ondas Consul,22,3300,84;99;100;51;47;50;52;54;61;62;75;76,task:2;informational:39;navigational:23;commercial:20;transactional:16
+Fisioterapia com Micro-ondas,18,720,69;62;63;100;96;97;97;86;75;75;75;75,task:2;informational:63;navigational:4;commercial:25;transactional:6
+Capacitores de Micro-ondas,32,11704,31;21;23;25;78;80;80;94;100;100;100;100,task:4;informational:57;navigational:3;commercial:15;transactional:21
+Medidas de Micro-ondas,25,3102,20;24;37;61;70;73;73;99;100;100;100;100,task:8;informational:64;navigational:4;commercial:20;transactional:4
+Antenas Telescópicas,16,129,13;15;17;15;31;43;50;100;70;26;26;28,task:7;informational:63;navigational:4;commercial:22;transactional:4
+Micro-ondas Havan,16,984,85;100;100;61;58;60;60;91;71;73;65;66,task:3;informational:29;navigational:30;commercial:18;transactional:20
+Micro-ondas 220V,17,1483,66;96;100;80;81;87;87;89;91;93;90;89,task:3;informational:42;commercial:47;transactional:8
+Panasonic micro-ondas,41,8108,91;100;50;57;93;94;95;68;75;85;78;77,task:5;informational:38;navigational:10;commercial:27;transactional:20
+Micro-ondas Continental,18,1787,10;28;34;24;23;22;17;82;73;100;96;93,task:3;informational:43;navigational:11;commercial:32;transactional:11
+Micro-ondas sem prato e flat,21,1919,38;45;46;31;28;29;30;100;50;50;50;50,task:2;informational:62;navigational:4;commercial:25;transactional:7
+Ondas em Física,302,157484,78;96;100;81;74;74;74;100;80;80;80;80,task:8;informational:80;navigational:5;commercial:4;transactional:3
+Pratos de Micro-ondas,30,10088,22;28;35;50;91;93;93;100;94;94;94;94,task:5;informational:56;navigational:4;commercial:26;transactional:9
+Micro-ondas Midea,39,11246,88;97;51;70;99;100;100;90;89;89;89;89,task:2;informational:45;navigational:11;commercial:22;transactional:20
+Micro-ondas 33L,18,1032,39;46;47;82;83;75;74;100;71;62;60;61,task:2;informational:38;navigational:9;commercial:26;transactional:25
+Doces de Microondas,28,2018,95;100;100;42;41;43;44;95;95;94;95;94,task:15;informational:76;navigational:3;commercial:5;transactional:1
+Micro-ondas Pretos 110V,15,136,11;36;42;36;36;37;32;100;58;20;16;19,task:7;informational:27;navigational:28;commercial:26;transactional:12
+Microfones sem fio,71,25146,33;36;38;42;100;100;100;54;55;55;55;55,task:5;informational:41;navigational:1;commercial:43;transactional:10
+Brinquedos com Micro-ondas,15,1084,87;98;97;100;89;92;92;78;74;74;78;77,task:2;informational:63;navigational:10;commercial:20;transactional:5
+Radiocomunicação,19,554,50;55;55;71;100;100;100;57;54;54;56;57,task:8;informational:68;navigational:7;commercial:14;transactional:3
+Micro-ondas Oster,16,980,19;22;22;21;21;49;34;22;22;46;95;100,task:3;informational:31;navigational:41;commercial:10;transactional:15
+Micro-ondas Panasonic Embutidos,16,395,11;14;16;15;61;54;23;52;43;100;72;83,task:3;informational:39;navigational:12;commercial:18;transactional:28
+Micro-ondas Espelhados e Prata,15,2382,51;80;98;82;77;81;82;89;87;87;91;100,task:10;informational:27;navigational:14;commercial:38;transactional:11
+Radiofrequência portátil,21,1568,23;22;100;82;99;59;62;36;42;42;42;42,task:5;informational:50;navigational:4;commercial:32;transactional:9
+Polionda e Placas Plásticas,21,1478,64;68;68;68;99;100;100;52;87;87;87;87,task:2;informational:70;navigational:5;commercial:17;transactional:6
+Micro-ondas LG,30,5315,86;97;100;52;59;60;61;56;62;62;62;61,task:2;informational:48;navigational:18;commercial:20;transactional:12
+Ondas e Espaço,15,297,13;39;28;41;43;46;34;85;100;53;47;42,task:10;informational:55;navigational:5;commercial:5;transactional:25
+Antenas de Celular,42,8161,18;24;29;49;99;100;100;95;92;92;93;92,task:2;informational:62;navigational:7;commercial:20;transactional:9
+Micro-ondas de Embutir Fischer,32,4759,85;99;100;54;62;63;64;59;62;62;61;61,task:5;informational:36;navigational:19;commercial:26;transactional:14
+Microondas 25 litros,17,483,57;85;100;80;100;72;69;80;76;72;77;78,task:7;informational:40;navigational:4;commercial:38;transactional:11
+Micro-ondas Philco,43,19282,95;100;49;57;94;94;95;96;100;100;100;100,task:3;informational:54;navigational:16;commercial:13;transactional:14
+Antenas Mimosa sem fio,20,840,43;48;49;46;49;50;50;43;100;100;100;100,informational:58;navigational:11;commercial:19;transactional:12
+Micro-ondas Samsung,18,1808,44;67;68;41;43;33;34;100;43;51;55;61,task:2;informational:68;navigational:10;commercial:15;transactional:5
+Ecossônica,16,310,18;27;23;22;26;66;42;100;24;24;25;24,task:10;informational:64;navigational:5;commercial:8;transactional:13
+Antenas 5G,16,1179,18;31;35;70;71;70;60;59;59;89;84;100,task:2;informational:59;navigational:4;commercial:31;transactional:4
+Placas e micas para micro-ondas,32,4501,13;17;17;67;86;88;88;100;93;93;92;92,task:2;informational:50;navigational:4;commercial:31;transactional:13
+antenas Intelbras,37,8439,55;64;34;41;92;94;94;93;100;100;100;100,task:5;informational:51;navigational:10;commercial:14;transactional:20
+Micro-ondas Consul Facilite,15,999,8;15;18;14;32;44;11;100;28;65;64;72,task:7;informational:32;navigational:24;commercial:26;transactional:11
+Mercado Livre Micro-ondas,15,1189,64;96;100;91;97;82;82;83;81;81;79;77,task:3;informational:17;navigational:42;commercial:15;transactional:23
+Radiofrequências e rádios amadores,56,9073,83;87;90;93;99;100;100;95;97;97;97;97,task:2;informational:74;navigational:5;commercial:11;transactional:8
+Dispositivos de ultrassom de alta frequência,20,416,35;35;37;36;51;51;51;100;100;91;91;91,task:5;informational:76;navigational:5;commercial:11;transactional:3
+Microlinks e Mega Hair,29,5666,69;73;65;61;74;75;76;100;98;98;96;96,task:5;informational:67;navigational:19;commercial:5;transactional:4
+Brastemp Micro-ondas,93,22880,61;63;71;77;100;100;100;94;95;95;95;95,task:4;informational:35;navigational:21;commercial:22;transactional:18
+Panasonic Micro-ondas Piccolo,19,636,53;61;49;100;99;100;99;76;84;95;69;70,task:2;informational:49;navigational:15;commercial:23;transactional:11
+Capas para Micro-ondas,16,385,21;57;53;55;34;28;67;49;45;100;86;80,task:7;informational:45;navigational:5;commercial:25;transactional:18
+Retificadores e diodos de meia-onda,24,7057,45;50;45;98;99;100;100;96;100;100;100;100,task:5;informational:82;navigational:3;commercial:8;transactional:2
+Mesas para micro-ondas,17,416,27;65;75;60;47;40;42;46;41;100;93;41,task:7;informational:31;navigational:4;commercial:41;transactional:17
+Micro-ondas Electrolux embutidos,17,473,37;93;100;72;59;54;51;65;58;83;82;81,task:7;informational:37;navigational:25;commercial:18;transactional:13
+Micro-ondas Electrolux 20L,22,2275,86;100;56;66;73;76;75;61;63;74;74;75,task:2;informational:41;navigational:28;commercial:11;transactional:18
+Aparelhos de alta frequência estéticos,17,764,94;97;100;84;98;97;97;80;93;94;93;92,task:5;informational:52;navigational:4;commercial:30;transactional:9
+Rádios de Comunicação,44,22093,18;21;22;27;90;90;90;100;66;65;65;65,task:2;informational:55;navigational:4;commercial:31;transactional:8
+radios e transceptores,18,1537,27;29;29;59;76;76;76;84;100;100;100;100,task:2;informational:67;navigational:5;commercial:18;transactional:8
+Tampas e Protetores de Micro-ondas,22,1690,85;98;100;59;68;72;73;68;70;71;70;70,task:5;informational:51;navigational:4;commercial:31;transactional:9
+Rádios de longo alcance,25,2692,36;40;39;56;71;72;72;100;92;92;93;93,task:2;informational:54;navigational:4;commercial:29;transactional:11
+Microondas 40–45 litros,16,1470,80;92;94;50;51;54;56;100;77;77;77;77,task:7;informational:43;navigational:1;commercial:47;transactional:2
+Micro-ondas de Embutir Philco,16,538,22;65;71;62;60;35;31;100;100;70;66;67,task:3;informational:34;navigational:31;commercial:15;transactional:17
+microfones para rádio,15,123,33;82;100;38;36;37;46;33;34;35;36;40,task:5;informational:65;navigational:2;commercial:23;transactional:5
+Microseixos Revestimentos,19,734,62;65;81;100;92;92;93;51;72;71;87;88,task:2;informational:56;navigational:8;commercial:17;transactional:17
+Modulação de Frequência (FM) e Rádio,20,8896,97;100;100;17;85;85;85;93;93;93;93;93,task:2;informational:78;navigational:5;commercial:5;transactional:10
+Audífonos Inalámbricos,17,654,48;81;85;76;76;66;62;80;32;100;54;69,task:3;informational:58;navigational:4;commercial:29;transactional:6
+Micro-ondas de 18 litros,15,462,38;60;70;57;48;49;50;100;72;66;58;50,task:3;informational:47;navigational:14;commercial:23;transactional:13
+Micro-ondas de 20 litros,43,23071,76;80;85;94;97;98;98;97;100;100;100;100,task:2;informational:51;navigational:2;commercial:30;transactional:15
+Forno Multifuncional com Micro-ondas,18,10156,7;17;21;96;96;97;97;100;100;100;100;100,task:6;informational:50;navigational:5;commercial:29;transactional:10
+Ondas da Internet,17,1352,18;28;29;27;71;85;71;20;58;55;100;99,task:3;informational:59;navigational:26;commercial:7;transactional:5
+Antenas AirGrid,17,456,44;43;44;58;99;99;100;32;58;59;60;59,task:3;informational:37;navigational:25;commercial:17;transactional:18
+Antenas de Rádio FM,24,2786,38;43;30;59;70;72;72;76;97;100;100;97,task:2;informational:68;navigational:4;commercial:20;transactional:6
+Microohmímetros e Instrumentos de Medição,19,1280,30;31;32;32;91;92;92;100;100;100;100;100,task:8;informational:64;navigational:4;commercial:18;transactional:6
+Micro-ondas Colombo,15,768,4;16;17;25;29;32;30;63;32;100;79;76,task:3;informational:28;navigational:33;commercial:14;transactional:22
+Antena e termos relacionados,17,1962,73;94;95;100;82;80;80;73;72;67;67;68,task:8;informational:80;navigational:5;commercial:5;transactional:2
+Soft Wave e Ultraformer,19,412,72;71;89;100;96;96;97;46;44;44;44;44,task:3;informational:54;navigational:14;commercial:21;transactional:8
+Microesferas de vidro,20,1352,43;48;47;57;84;85;85;100;92;92;95;95,task:2;informational:75;navigational:2;commercial:16;transactional:5
+SE Electronics e Microfones,20,450,62;68;74;75;96;100;100;92;94;95;94;95,task:5;informational:56;navigational:14;commercial:19;transactional:6
+Micro-ondas Angeloni,15,521,9;78;100;80;80;57;29;79;77;67;67;67,task:3;informational:25;navigational:45;commercial:8;transactional:19
+Antenas para TV (UHF),22,3142,36;42;25;25;92;93;94;100;100;99;100;100,task:5;informational:57;navigational:5;commercial:19;transactional:14
+Mundo Quântico e Hertz,17,1354,27;30;72;100;100;63;57;51;70;72;62;60,task:4;informational:72;navigational:16;commercial:4;transactional:4
+Microfones Pequenos e Compactos,20,1781,84;98;100;98;55;58;58;62;62;62;62;62,task:5;informational:50;navigational:4;commercial:31;transactional:10
+Microfluídica,16,948,12;12;12;31;40;21;21;26;25;100;85;87,task:2;informational:80;navigational:3;commercial:10;transactional:5
+Fusíveis de Micro-ondas,38,12844,30;34;30;54;85;87;87;100;99;99;100;99,task:5;informational:65;navigational:5;commercial:16;transactional:9
+Forno e micro-ondas embutidos,58,29573,79;81;40;49;73;73;73;100;87;87;87;87,task:2;informational:52;navigational:4;commercial:33;transactional:9
+Micro-ondas na Fast Shop,16,769,38;55;59;54;72;71;89;100;82;65;65;67,task:5;informational:42;navigational:23;commercial:10;transactional:20
+Micro-ondas Vermelhos Retrô,15,1666,21;61;56;51;49;36;30;28;29;29;81;100,task:7;informational:35;navigational:11;commercial:34;transactional:13
+Armas de pulso eletromagnético,30,4413,97;100;100;97;80;81;81;80;79;79;79;79,task:8;informational:80;navigational:5;commercial:5;transactional:2
+Antenas e equipamentos Wi‑Fi Intelbras,21,824,85;100;98;60;60;63;62;61;87;87;87;88,task:2;informational:47;navigational:32;commercial:10;transactional:9
+Chaves para Micro-ondas,19,1102,26;29;37;54;89;87;88;99;99;100;100;100,task:5;informational:64;navigational:5;commercial:20;transactional:6
+Microscopia Eletrônica,34,11718,69;77;79;81;79;80;81;85;100;90;88;88,task:4;informational:82;navigational:5;commercial:7;transactional:2
+Mini/Micro System de Som,23,6332,57;62;64;100;36;36;37;39;38;38;38;38,task:8;informational:41;navigational:17;commercial:25;transactional:9
+Micro-ondas Britânia,19,676,64;74;100;87;71;72;71;55;54;58;52;53,informational:53;navigational:24;commercial:16;transactional:7
+Peças de Micro-ondas Electrolux,26,2714,28;34;37;49;99;100;100;69;67;67;68;68,task:4;informational:55;navigational:10;commercial:18;transactional:13
+Micro-ondas 32 L,52,10048,47;55;69;86;99;100;100;84;92;92;92;91,task:5;informational:37;navigational:14;commercial:30;transactional:14
+Microrna e miRNA,20,9995,81;76;73;66;78;73;73;78;79;79;100;100,task:5;informational:77;navigational:5;commercial:8;transactional:5
+Radiocomunicação Oluap Mot,15,535,48;52;52;66;54;57;57;44;86;100;62;63,task:3;informational:42;navigational:40;commercial:7;transactional:8
+Micro-ondas Philco com magnetron,19,2472,14;30;33;28;89;88;88;100;95;99;98;99,task:2;informational:46;navigational:10;commercial:18;transactional:24
+Osciloscopios Micsig,15,36,48;52;74;74;76;74;100;74;74;72;58;72,task:3;informational:49;navigational:29;commercial:11;transactional:8
+Aquecimento de água no micro-ondas,55,13033,87;88;84;92;97;99;99;100;100;100;99;99,task:12;informational:71;navigational:5;commercial:9;transactional:3
+Antenas Parabólicas,21,2360,79;90;47;46;97;100;100;57;63;62;62;61,task:5;informational:62;navigational:3;commercial:14;transactional:16
+microcorrente estética facial,23,2892,56;58;46;55;93;94;94;100;92;92;92;92,task:2;informational:68;navigational:5;commercial:17;transactional:8
+Micro-ondas Fischer Embutir,17,1662,79;89;87;63;63;64;67;85;91;99;100;97,task:2;informational:41;navigational:15;commercial:18;transactional:24
+Toucas para Ondas,21,5199,48;57;58;34;99;100;100;75;76;76;75;75,task:2;informational:39;navigational:28;commercial:23;transactional:8
+Micro-ondas de 42 litros,22,1666,83;100;63;57;71;74;79;80;65;75;74;77,task:1;informational:59;navigational:9;commercial:25;transactional:6
+Vibração e Som,15,106,10;29;29;33;36;36;40;100;49;13;13;13,task:3;informational:51;navigational:24;commercial:7;transactional:15
+"Tomadas, extensões e adaptadores para micro-ondas",25,2581,33;36;63;92;99;100;100;87;94;96;95;98,task:2;informational:66;navigational:5;commercial:14;transactional:13
+Torresmo de Micro-ondas,18,476,93;100;100;69;72;73;73;69;61;61;61;61,task:10;informational:70;navigational:3;commercial:2;transactional:15
+Pipoqueiras para Micro-ondas,18,1778,43;49;50;31;98;100;100;28;28;28;28;28,task:8;informational:36;navigational:5;commercial:25;transactional:26
+Alta Frequência Estética,112,52660,37;68;49;82;98;98;99;100;100;100;100;100,task:5;informational:67;navigational:5;commercial:15;transactional:8
+Membranas de Micro-ondas LG,16,329,42;51;51;53;49;46;43;53;87;100;96;96,task:5;informational:52;navigational:5;commercial:10;transactional:28
+Motores Micro,16,432,70;99;100;97;71;70;71;70;71;73;72;66,task:10;informational:53;navigational:2;commercial:29;transactional:6
+Molduras e embutidos para microondas,16,684,77;90;91;53;52;57;56;71;60;98;96;100,task:8;informational:50;navigational:10;commercial:14;transactional:18
+Radiofrequência Monopolar e Ponteiras,19,871,35;66;64;50;99;100;100;62;72;71;71;71,task:2;informational:69;navigational:5;commercial:21;transactional:3
+Prateleiras e suportes para micro-ondas,15,1662,64;93;96;92;74;80;82;88;93;100;88;87,task:7;informational:36;navigational:1;commercial:41;transactional:15
+Umidificadores Ultrassônicos,20,1227,70;79;79;40;99;100;100;29;31;31;29;29,task:2;informational:72;navigational:6;commercial:15;transactional:5
+Micro-ondas 35 litros,15,689,22;45;54;43;40;39;45;77;88;100;46;54,task:3;informational:45;navigational:4;commercial:40;transactional:8
+Microscópios e Acessórios,38,9948,38;43;22;75;54;56;57;100;100;100;100;100,task:2;informational:49;navigational:4;commercial:35;transactional:10
+Tambores Magnéticos,17,143,39;42;49;100;100;100;100;100;100;100;100;100,task:5;informational:75;navigational:5;commercial:10;transactional:5
+Móveis com nicho para micro-ondas,21,2779,64;75;77;100;45;48;49;98;39;39;38;38,informational:67;navigational:5;commercial:25;transactional:3
+Celulares Quânticos,20,2144,28;33;33;35;35;44;42;100;83;97;89;81,task:5;informational:60;navigational:5;commercial:22;transactional:8
+Antenas de 90 cm,15,582,9;10;12;12;26;10;12;47;32;100;88;99,task:7;informational:34;navigational:5;commercial:33;transactional:21
+Radiofrequência Microagulhada,27,4007,64;34;58;60;99;100;100;63;85;85;85;84,task:2;informational:68;navigational:5;commercial:19;transactional:6
+Micro-ondas Brastemp,23,1225,83;99;100;49;47;49;50;54;56;56;55;55,task:2;informational:47;navigational:25;commercial:18;transactional:8
+Difusores ultrassônicos de aromas,18,1585,49;52;52;52;95;96;96;96;97;100;97;96,task:6;informational:49;navigational:4;commercial:36;transactional:5
+Mini Lousa Magnética,15,941,4;5;6;13;16;17;11;29;24;100;81;69,task:7;informational:32;navigational:11;commercial:32;transactional:18
+Relógios Microwear,21,2269,27;39;37;21;86;88;84;100;100;98;98;98,task:2;informational:45;navigational:30;commercial:18;transactional:5
+Posicionamento do micro-ondas na cozinha,33,6364,70;97;98;97;98;100;100;87;89;89;89;89,task:5;informational:79;navigational:5;commercial:9;transactional:2
+Micro-ondas Ponto Frio 30L,15,283,21;42;45;44;37;28;83;100;69;38;34;35,informational:38;navigational:35;commercial:11;transactional:16
+Microondas com Airfryer,40,6606,21;29;29;35;99;100;100;64;71;72;72;70,task:2;informational:53;navigational:4;commercial:32;transactional:9
+Microfones com fio,17,1247,100;54;55;54;57;61;61;56;61;58;59;59,task:2;informational:68;navigational:5;commercial:20;transactional:5
+Micro-ondas 28 litros,21,1109,45;98;100;88;84;71;72;97;91;97;75;75,informational:54;navigational:1;commercial:27;transactional:18
+Microfones Bluetooth,20,1290,39;43;43;42;96;97;97;100;20;20;19;19,task:2;informational:64;navigational:5;commercial:24;transactional:5
+Micrófones Boya,39,6822,48;53;80;81;99;100;100;33;31;31;31;31,informational:51;navigational:11;commercial:24;transactional:14
+Microm Informática,16,924,27;51;52;98;93;89;83;80;80;97;100;98,task:1;informational:41;navigational:50;commercial:5;transactional:3
+Antenas automotivas para carros,29,5303,63;75;67;67;76;77;77;99;100;100;100;100,task:7;informational:59;navigational:2;commercial:23;transactional:9
+Fones Intra-Auriculares,81,52924,16;18;38;66;89;90;90;98;100;100;100;100,task:5;informational:53;navigational:4;commercial:29;transactional:9
+Transmissores de FM e dados,20,4077,70;72;70;72;72;73;73;100;92;92;92;92,task:2;informational:68;navigational:6;commercial:15;transactional:9
+Microndas Panasonic com magnetron,17,517,33;34;35;66;66;66;76;66;79;100;87;84,task:7;informational:48;navigational:10;commercial:19;transactional:16
+Rádios Mundiais,16,617,79;96;97;93;93;100;88;86;73;65;65;70,task:3;informational:39;navigational:24;commercial:26;transactional:8
+Microsom: Aparelhos Auditivos no Brasil,16,284,80;96;96;93;92;100;98;97;99;99;99;98,task:7;informational:50;navigational:12;commercial:11;transactional:20
+Alto-falantes Ultimate Ears,23,1832,87;99;100;67;89;92;92;98;69;69;71;70,task:2;informational:38;navigational:33;commercial:21;transactional:6
+Relógios Smartwatch Ultra Mini,18,1562,52;60;62;34;67;69;69;100;67;68;65;66,task:2;informational:54;navigational:5;commercial:24;transactional:15
+Sistemas de áudio LG,33,3607,54;72;67;86;98;100;100;98;71;71;73;72,task:5;informational:64;navigational:3;commercial:16;transactional:12
+iRadio e Telecomunicações,15,893,7;15;17;16;16;39;33;7;7;34;100;88,task:4;informational:61;navigational:24;commercial:7;transactional:4
+Rádios Portáteis e Acessórios,31,4909,73;87;83;90;95;97;97;95;100;100;99;99,task:2;informational:26;navigational:24;commercial:32;transactional:16
+Micro-ondas 21L Panasonic e Mondial,26,6826,85;98;100;100;59;60;60;87;90;90;90;95,task:2;informational:48;navigational:4;commercial:40;transactional:6
+Rádios Intelbras e comunicadores,24,1539,85;99;100;53;53;57;57;55;68;68;69;68,task:2;informational:46;navigational:18;commercial:12;transactional:22
+LNB e Antenas Satélite,30,5918,31;15;15;44;91;93;93;96;100;100;100;100,task:3;informational:61;navigational:4;commercial:22;transactional:10
+Vibradores de Dedo,15,229,76;89;91;92;92;96;96;98;100;100;100;100,task:10;informational:57;navigational:5;commercial:18;transactional:10
+Carrefour Micro-ondas,27,3537,70;81;41;49;98;100;100;42;56;55;56;55,task:2;informational:22;navigational:35;commercial:12;transactional:29
+Antenas Omnidirecionais,23,2392,63;66;85;95;96;98;96;88;97;100;100;100,informational:74;navigational:5;commercial:17;transactional:4
+Fones sem fio,18,518,37;51;59;62;100;79;79;86;81;81;83;81,task:5;informational:55;navigational:5;commercial:27;transactional:8
+Mix Eletrônicos,16,798,7;21;28;34;24;94;29;100;53;53;47;45,task:3;informational:18;navigational:54;commercial:16;transactional:9
+Inversores de Onda Senoidal,27,2893,21;24;41;82;89;90;89;97;98;98;100;100,task:2;informational:61;navigational:4;commercial:22;transactional:11
+Micro-ondas Consul 30L,16,494,32;54;54;53;59;75;60;37;33;100;89;99,task:17;informational:46;navigational:4;commercial:29;transactional:4
+Radiofrequência em Estética,20,506,64;66;66;55;54;56;56;100;42;42;43;43,task:8;informational:68;navigational:8;commercial:10;transactional:6
+Fones Alienware,17,628,76;90;88;86;84;90;84;100;46;45;47;52,task:2;informational:58;navigational:4;commercial:30;transactional:6
+Microswitches e interruptores micro,23,4816,29;33;33;19;58;60;60;100;71;71;71;71,task:5;informational:61;navigational:4;commercial:26;transactional:4
+Radios Hytera,19,785,91;100;100;58;58;60;60;69;70;70;68;68,task:3;informational:38;navigational:16;commercial:30;transactional:13
+Transmissores de Rádio FM,15,1465,29;34;34;33;100;100;100;46;44;44;44;44,task:5;informational:61;navigational:4;commercial:26;transactional:4
+Frequência e Hertz,202,119324,100;99;92;100;95;95;95;92;94;94;94;94,task:8;informational:75;navigational:7;commercial:8;transactional:2
+Micro-ondas com ferrugem e descascamento,18,989,48;50;51;48;89;89;89;100;99;99;99;99,task:12;informational:70;navigational:5;commercial:10;transactional:3
+Rádios Portáteis no Brasil,15,190,7;46;57;47;43;62;63;100;81;74;80;63,task:17;informational:57;navigational:4;commercial:21;transactional:1
+Cancelamento de ruído em microfones,29,3021,40;46;47;85;98;100;100;86;91;91;91;91,task:2;informational:71;navigational:5;commercial:12;transactional:10
+Frequência 50/60 Hz,32,4904,71;76;76;96;99;100;100;98;94;95;95;95,task:8;informational:78;navigational:5;commercial:7;transactional:2
+Capacitância: microfarads e farads,24,4783,49;51;51;66;68;68;69;100;99;99;99;99,task:2;informational:85;navigational:5;commercial:5;transactional:3
+Micro-ondas Consul 32/34L,16,292,30;40;41;38;100;83;82;50;52;62;40;45,task:7;informational:39;navigational:18;commercial:16;transactional:20
+Cortadores de Fio,16,68,31;35;40;100;47;47;80;48;43;51;49;49,informational:48;navigational:4;commercial:37;transactional:11
+Microlino e carros micro elétricos,19,1914,83;85;82;82;67;67;67;100;100;95;92;91,task:5;informational:64;navigational:5;commercial:15;transactional:11
+Micro-ondas Midea 27 litros,15,521,45;85;85;82;76;69;57;72;64;84;76;100,task:3;informational:35;navigational:28;commercial:21;transactional:13
+Alta Frequência Estética IBRAMED,19,1134,67;75;76;77;82;85;86;100;98;98;100;100,task:2;informational:64;navigational:10;commercial:18;transactional:6
+microfones sem fio Kadosh,16,504,76;98;98;94;100;99;100;92;89;95;94;95,task:3;informational:32;navigational:18;commercial:29;transactional:18
+teste de transformador de micro-ondas,17,507,54;55;57;75;75;76;76;55;100;100;100;100,task:8;informational:74;navigational:5;commercial:5;transactional:8
+Fones OneOdio,18,1524,22;30;25;52;52;53;53;33;100;54;53;53,task:2;informational:42;navigational:24;commercial:17;transactional:15
+Sensores Wideband (Sonda Lambda),20,3550,29;32;32;31;33;33;34;99;99;99;99;100,task:8;informational:65;navigational:4;commercial:19;transactional:4
+Mic e Acessórios de Áudio,17,326,47;48;50;95;90;100;89;82;70;70;70;68,task:5;informational:61;navigational:5;commercial:18;transactional:11
+Radiofrequência Estética,144,86897,95;98;73;100;99;99;99;100;100;100;100;100,task:6;informational:63;navigational:9;commercial:17;transactional:5
+Micro-ondas Electrolux MTD30,18,694,26;30;46;37;34;28;28;100;86;52;51;37,task:2;informational:54;navigational:32;commercial:9;transactional:3
+Telhas PVC Minionda,15,642,20;25;26;24;23;51;33;60;71;95;89;100,task:3;informational:43;navigational:11;commercial:32;transactional:11
+Antenas Banda Ku,19,1483,61;65;59;65;89;100;95;54;59;59;63;62,task:2;informational:71;navigational:2;commercial:17;transactional:8
+Fones de ouvido com microfone,51,18052,31;36;41;50;54;55;55;76;100;100;100;100,task:2;informational:55;navigational:5;commercial:27;transactional:11
+Microfones Armer,19,566,76;98;98;97;91;93;93;94;95;94;99;100,task:4;informational:59;navigational:6;commercial:16;transactional:15
+Eletrônicos e Dispositivos,24,16820,48;94;47;84;53;54;54;100;100;100;100;100,task:7;informational:66;navigational:5;commercial:15;transactional:7
+Amplificadores de Sinal Celular,60,18010,43;48;49;56;97;98;98;100;98;98;98;98,informational:58;navigational:4;commercial:33;transactional:5
+Central Wave e Conectores,17,74,51;57;73;72;100;71;70;100;84;86;97;92,task:3;informational:46;navigational:28;commercial:8;transactional:15
+Interferômetros,18,1496,69;100;98;78;53;53;53;87;56;56;67;68,task:2;informational:83;navigational:5;commercial:6;transactional:4
+Interruptores WiFi Sonoff Mini,17,6137,13;18;18;89;100;100;100;100;99;99;99;99,task:2;informational:49;navigational:5;commercial:31;transactional:13
+Marmitas plásticas para micro-ondas,33,6896,72;83;50;77;98;100;100;89;85;85;84;83,task:2;informational:57;navigational:4;commercial:30;transactional:7
+Rádios AM/FM elétricos,17,360,64;70;76;82;82;91;100;80;70;60;62;60,task:3;informational:49;navigational:4;commercial:34;transactional:10
+Forno e Micro-ondas Embutidos Electrolux,16,496,27;30;31;30;47;44;42;73;67;100;89;94,task:1;informational:48;navigational:18;commercial:18;transactional:15
+Papel alumínio e micro-ondas,20,1531,75;74;85;100;97;97;97;100;89;89;89;89,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Mini chapinhas de cabelo,21,2883,68;94;98;89;88;95;96;98;100;100;99;98,task:7;informational:34;navigational:4;commercial:31;transactional:24
+Ramais e telefones,65,41391,76;55;57;86;90;90;90;97;100;100;100;100,task:2;informational:75;navigational:5;commercial:15;transactional:3
+Ondas binaurais e foco mental,56,18309,85;100;98;100;91;91;91;87;85;85;85;85,task:5;informational:74;navigational:3;commercial:10;transactional:8
+Agratto Micro-ondas 32L,21,2668,23;31;31;25;33;37;43;78;70;82;78;100,task:2;informational:41;navigational:25;commercial:10;transactional:22
+LEDs Infravermelho,18,1725,29;31;20;21;88;89;89;100;94;95;95;94,task:2;informational:67;navigational:3;commercial:25;transactional:3
+Televisores Mini LED,16,1278,30;78;84;72;100;89;88;75;51;76;69;92,task:2;informational:50;navigational:5;commercial:18;transactional:25
+Suportes para micro-ondas e forno elétrico,34,9076,86;94;100;100;96;97;97;96;92;93;93;93,task:8;informational:50;navigational:4;commercial:32;transactional:6
+Microfones Binaurais,19,621,52;58;59;96;98;100;98;89;61;58;98;97,task:5;informational:66;navigational:5;commercial:21;transactional:3
+Antenas Yagi,22,2340,100;94;94;100;62;62;62;64;70;70;70;70,task:5;informational:73;navigational:8;commercial:12;transactional:2
+Componentes eletrônicos,17,239,59;61;62;100;100;70;59;60;60;60;60;60,task:3;informational:69;navigational:12;commercial:13;transactional:3
+Micro-ondas Panasonic 34L,22,2881,89;99;100;55;60;61;61;65;68;67;67;66,informational:50;navigational:14;commercial:28;transactional:8
+Pães de Micro-ondas,30,3290,90;49;63;62;46;50;50;92;100;100;100;100,task:12;informational:73;navigational:5;commercial:8;transactional:2
+soluções em acústica,17,377,42;46;47;45;45;47;47;48;49;95;98;100,task:10;informational:59;navigational:4;commercial:23;transactional:4
+Antenas Century,15,289,82;100;100;92;80;85;81;92;81;81;80;79,task:3;informational:40;navigational:23;commercial:20;transactional:14
+Micro-ondas Electrolux MEC41/ME41X,29,2681,48;54;54;34;55;56;56;100;84;84;86;86,task:5;informational:45;navigational:20;commercial:19;transactional:11
+Mini fones de ouvido Bluetooth,17,830,48;75;75;77;76;80;81;100;80;80;79;79,task:7;informational:46;navigational:4;commercial:31;transactional:12
+Samsung Galaxy A235M/A236M (Smartphones),28,7088,31;37;37;32;65;67;67;95;98;98;100;100,task:2;informational:57;navigational:7;commercial:30;transactional:4
+Antenas antifurto e RF,17,80,48;51;52;47;47;47;47;100;82;49;49;49,task:7;informational:47;navigational:1;commercial:37;transactional:8
+Antenas Ponto a Ponto,17,345,35;44;46;100;99;96;96;84;52;51;50;53,task:2;informational:83;navigational:3;commercial:10;transactional:2
+Ventosas para Celular,19,14955,23;29;31;100;97;98;98;84;85;85;85;84,task:5;informational:61;navigational:3;commercial:17;transactional:14
+Microfones Condensadores e Dinâmicos,36,16232,22;29;29;66;99;100;100;97;98;97;97;97,task:6;informational:71;navigational:2;commercial:17;transactional:4
+Fones para iPhone,56,20952,20;23;26;33;60;60;61;99;100;100;100;100,task:4;informational:42;navigational:7;commercial:45;transactional:2
+Micro-ondas 31 litros Electrolux MI41S,28,3393,86;100;100;56;55;58;59;53;56;55;55;55,task:3;informational:53;navigational:14;commercial:22;transactional:8
+Ventosas elétricas com infravermelho,17,213,46;98;100;74;74;89;59;50;46;44;44;44,task:7;informational:53;navigational:5;commercial:25;transactional:10
+Frequencímetros digitais,18,3587,34;37;37;20;83;85;85;88;100;99;98;97,task:2;informational:67;navigational:3;commercial:15;transactional:13
+Nova Ciência e HidroTecnologia,18,321,34;35;36;36;36;100;76;38;57;56;55;55,task:5;informational:49;navigational:18;commercial:10;transactional:18
+Irrigação por Microaspersão,16,674,69;99;100;78;78;84;76;62;64;65;64;77,task:3;informational:61;navigational:1;commercial:28;transactional:7
+Fones de Ouvido Sem Fio,27,4331,59;62;66;67;99;100;100;73;75;74;75;74,task:5;informational:52;navigational:13;commercial:16;transactional:14
+Sistemas Ultra,15,68,43;45;51;56;54;54;54;100;84;67;65;60,task:4;informational:38;navigational:27;commercial:20;transactional:11
+Antenas e lojas no Brasil,19,1772,69;85;87;86;81;87;89;85;97;100;85;85,task:8;informational:36;navigational:24;commercial:27;transactional:5
+Microondas usados no Brasil,18,2759,68;81;82;44;98;100;100;61;63;63;63;63,task:10;informational:29;navigational:7;commercial:26;transactional:28
+Antenas e Roteadores,20,1586,33;19;21;47;54;55;55;70;100;100;96;100,task:2;informational:59;navigational:9;commercial:25;transactional:5
+microfones TSI,17,603,91;98;100;99;95;95;96;96;72;73;73;74,informational:48;navigational:17;commercial:29;transactional:6
+Radios Argentinas,18,1324,54;63;73;72;64;70;70;75;100;100;100;100,task:5;informational:57;navigational:13;commercial:21;transactional:4
+Mini Ventiladores Turbo,15,280,81;95;97;87;85;92;86;99;100;86;86;95,task:3;informational:48;navigational:12;commercial:18;transactional:19
+Fifine Microfones,32,31483,31;35;39;38;39;40;40;61;100;100;100;100,task:1;informational:53;navigational:20;commercial:19;transactional:7
+microfones de lapela,34,36273,31;34;36;41;100;100;100;100;98;98;98;98,informational:54;navigational:3;commercial:29;transactional:14
+Microfones Headset,21,1490,84;99;100;99;51;54;52;69;83;81;74;69,task:2;informational:40;navigational:3;commercial:45;transactional:10
+Ondas de Choque,17,1252,87;90;92;90;100;99;99;99;99;99;99;99,task:2;informational:74;navigational:10;commercial:8;transactional:6
+Macro Telas,15,302,13;74;64;56;56;23;20;100;36;44;31;38,task:8;informational:40;navigational:33;commercial:10;transactional:9
+Panos e Tecidos de Microfibra,62,41690,23;22;24;86;97;97;97;97;100;100;100;100,task:2;informational:60;navigational:10;commercial:23;transactional:5
+Torre de cocção para forno e micro-ondas,18,2165,47;62;85;81;80;82;82;100;92;92;92;91,task:2;informational:58;navigational:4;commercial:26;transactional:10
+Fitas microporosas,18,989,18;28;26;30;48;44;42;100;94;69;68;68,task:8;informational:60;navigational:5;commercial:12;transactional:15
+Toques de Telefone,16,1086,20;26;29;28;27;29;27;30;28;100;47;47,task:10;informational:60;navigational:2;commercial:11;transactional:17
+Pulverizadores Micron para Agricultura,16,205,94;97;100;90;90;92;91;91;94;89;89;89,task:4;informational:62;navigational:12;commercial:14;transactional:8
+Antenas Wi-Fi e Internet,40,12438,18;24;25;33;49;51;51;95;100;100;100;100,task:2;informational:60;navigational:4;commercial:26;transactional:8
+Fones de ouvido com fio,27,4370,56;76;79;88;94;96;97;100;94;92;94;94,task:2;informational:54;navigational:4;commercial:30;transactional:10
+Micro-ondas Philco 37L,15,566,27;62;61;47;41;44;29;60;87;100;42;49,task:3;informational:51;navigational:11;commercial:22;transactional:13
+Microfones Espiões,17,211,42;41;42;41;41;43;100;40;37;37;37;37,task:7;informational:41;commercial:47;transactional:5
+Melhores Micro-ondas com Grill,45,14828,25;30;39;48;100;100;100;100;94;94;95;95,task:2;informational:36;navigational:1;commercial:54;transactional:7
+Ultrassom Portátil,43,13101,50;55;35;48;100;100;100;66;61;61;61;61,task:2;informational:49;navigational:4;commercial:35;transactional:10
+Nanômetros e Novo México,51,30250,52;82;82;73;81;81;81;97;100;100;100;100,task:2;informational:71;navigational:14;commercial:9;transactional:4
+Mercado Livre Micro-ondas Inox,15,103,4;52;49;52;21;81;70;100;64;23;20;20,task:3;informational:28;navigational:35;commercial:12;transactional:22
+Microfones para TV brasileira SBT,18,631,89;99;100;48;28;30;30;29;32;32;35;32,informational:70;navigational:5;commercial:15;transactional:10
+Fones com Cancelamento de Ruído (ANC),26,7746,34;38;40;96;97;97;97;100;97;97;98;98,task:5;informational:68;navigational:7;commercial:15;transactional:5
+Microfones Sem Fio JWL,16,808,77;97;100;94;89;93;94;95;100;100;92;94,task:6;informational:31;navigational:23;commercial:24;transactional:16
+Moduladores RF,18,600,26;32;84;77;100;100;100;38;39;39;39;39,task:5;informational:71;navigational:5;commercial:14;transactional:5
+"Microfones sem fio: adaptadores, transmissores e receptores",19,647,62;76;85;88;89;86;88;92;95;94;100;100,task:7;informational:54;navigational:1;commercial:25;transactional:13
+Tratamento Acústico,17,602,30;49;48;42;100;93;94;94;94;94;94;94,task:2;informational:83;navigational:5;commercial:8;transactional:2
+microfones Telefunken,16,27,27;63;67;84;75;78;100;38;38;38;38;38,task:4;informational:45;navigational:27;commercial:20;transactional:4
+Microinversores Solares,23,5932,35;21;21;21;93;94;94;100;97;97;97;97,task:2;informational:67;navigational:4;commercial:21;transactional:6
+Acessórios para Micro Retífica,15,265,7;54;53;100;49;65;26;99;97;91;90;86,task:2;informational:59;navigational:6;commercial:18;transactional:15
+Eletroímãs e Imãs,38,12731,83;44;41;74;81;82;83;99;100;100;100;100,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Elgato Wave: Microfones,19,474,28;55;42;50;50;48;48;49;52;100;92;50,task:3;informational:55;navigational:12;commercial:12;transactional:18
+Microfones de lapela sem fio,85,33988,32;27;30;76;100;100;100;81;68;68;68;68,informational:49;navigational:9;commercial:33;transactional:9
+Móveis para micro-ondas e forno,35,11873,93;95;100;97;92;92;92;84;84;84;84;84,task:2;informational:57;navigational:9;commercial:27;transactional:5
+Tecno Eletrodomésticos,19,511,38;46;49;47;58;60;60;100;77;85;52;51,task:12;informational:40;navigational:11;commercial:30;transactional:7
+Parabólicas e Antenas Digitais,60,56588,24;25;56;98;92;92;92;100;100;100;100;100,task:8;informational:54;navigational:5;commercial:17;transactional:16
+Rádios Bluetooth,18,763,91;97;98;98;98;100;98;51;51;53;53;52,task:10;informational:42;navigational:4;commercial:38;transactional:6
+Microfones sem fio para vocal,16,336,84;91;92;91;87;88;100;85;86;86;87;87,task:2;informational:51;navigational:17;commercial:20;transactional:10
+Aparelhos Auditivos Discretos,19,550,91;17;39;37;76;77;77;100;83;80;80;80,informational:58;navigational:2;commercial:21;transactional:19
+Escovas/ Secadoras Mondial Infrared,21,1371,21;25;25;31;31;35;41;53;56;85;100;72,task:7;informational:40;navigational:22;commercial:24;transactional:7
+Microscopios para celular,16,55,6;8;9;66;60;64;35;100;67;11;10;10,task:3;informational:56;navigational:4;commercial:26;transactional:11
+Radio Amador,24,16151,28;30;30;98;96;97;97;100;100;100;100;100,task:8;informational:69;navigational:9;commercial:11;transactional:3
+Eletrodomésticos no Zoom,22,2376,85;100;100;99;75;78;82;97;86;87;93;94,task:5;informational:33;navigational:27;commercial:10;transactional:25
+Otoscópios Digitais,20,1336,71;90;90;89;96;100;100;96;63;63;63;62,task:4;informational:64;navigational:2;commercial:20;transactional:10
+Microfones Dinâmicos,19,3659,34;40;42;25;100;100;100;100;98;97;99;98,task:3;informational:55;navigational:4;commercial:30;transactional:8
+Fones de Ouvido TWS,47,32509,18;21;23;78;90;91;91;100;100;100;100;100,task:2;informational:57;navigational:7;commercial:26;transactional:8
+Micrômetros e Micrometros Digitais,18,749,85;100;100;97;50;50;50;54;60;61;61;59,task:2;informational:62;navigational:12;commercial:10;transactional:14
+Dispositivos móveis,18,9272,100;72;60;64;64;65;65;64;65;65;66;67,task:5;informational:60;navigational:5;commercial:22;transactional:8
+Rádios HT Profissionais,24,5692,31;35;36;23;54;55;55;100;100;100;99;99,task:5;informational:52;navigational:1;commercial:36;transactional:6
+O que pode ir no micro-ondas,276,107535,78;87;81;81;94;94;94;99;100;100;100;100,task:8;informational:79;navigational:2;commercial:6;transactional:5
+Torre para Forno e Micro-ondas,17,267,16;37;43;33;36;28;37;100;84;22;21;22,task:7;informational:43;navigational:1;commercial:39;transactional:10
+Microfones Direcionais,24,3745,33;38;38;28;99;100;100;74;83;84;83;84,task:2;informational:63;navigational:4;commercial:27;transactional:4
+Microfones Rode,17,2997,68;96;100;99;87;93;94;89;93;93;92;89,task:1;informational:49;navigational:9;commercial:21;transactional:20
+Celulares Multilaser,19,1089,66;76;76;80;78;66;63;77;46;50;45;100,task:2;informational:46;navigational:14;commercial:32;transactional:6
+Ultrassom Odontológico,16,124,67;75;78;78;78;80;80;100;73;77;73;74,task:3;informational:69;navigational:8;commercial:8;transactional:12
+Coifas Máximas,15,210,11;52;100;14;17;37;31;36;43;46;44;50,task:1;informational:40;navigational:34;commercial:19;transactional:6
+Wifi: Canais e Frequências,23,3777,99;83;83;82;81;81;81;93;95;94;97;100,task:2;informational:64;navigational:4;commercial:24;transactional:6
+Antenas para Caminhões,33,9155,46;26;28;33;51;53;53;93;100;100;100;100,task:2;informational:55;navigational:2;commercial:32;transactional:9
+Rádios e Mensagens via Satélite,18,2805,17;22;21;21;53;54;54;100;99;99;100;99,task:5;informational:64;navigational:1;commercial:26;transactional:4
+Antenas para motos,27,9344,74;82;85;43;92;93;93;100;99;99;98;97,task:3;informational:54;navigational:4;commercial:29;transactional:10
+Microfones Leson,18,429,78;100;99;97;97;100;100;86;85;85;85;85,task:7;informational:30;navigational:29;commercial:19;transactional:15
+Bioressonância Quântica,78,31753,100;97;97;100;77;77;77;81;84;84;84;84,task:2;informational:74;navigational:5;commercial:14;transactional:5
+Micro-ondas: Não Esquentando,92,27577,79;85;88;94;97;98;98;99;100;100;100;100,task:8;informational:75;navigational:4;commercial:5;transactional:8
+Maono Microfones,17,1364,33;36;39;39;36;37;36;58;100;99;59;58,task:2;informational:40;navigational:32;commercial:19;transactional:7
+Interfones residenciais,57,12657,27;33;34;48;90;91;91;100;96;96;96;95,task:5;informational:53;navigational:7;commercial:25;transactional:10
+Rádios Philco,17,368,54;58;60;91;90;96;100;86;29;31;31;32,task:10;informational:46;navigational:12;commercial:28;transactional:4
+Peças para Micro-ondas e Eletrodomésticos,24,4114,23;33;40;55;98;100;100;73;61;61;62;62,task:10;informational:42;navigational:4;commercial:28;transactional:16
+Rádio VHF Marítimo,21,2250,38;44;44;39;100;100;100;90;88;88;90;90,task:5;informational:50;navigational:4;commercial:30;transactional:11
+Divisores de Antena,23,3231,42;44;54;96;75;75;75;98;98;100;100;98,task:3;informational:63;navigational:5;commercial:19;transactional:10
+Rádio Digital FM,24,1491,83;100;100;49;47;48;49;60;66;67;64;63,task:2;informational:48;navigational:14;commercial:31;transactional:5
+Redes PON,27,28992,15;18;21;22;21;21;21;97;100;100;100;100,task:2;informational:75;navigational:13;commercial:7;transactional:3
+Rádios Antigas,25,2065,71;93;93;90;89;95;97;98;100;100;97;96,task:3;informational:72;navigational:6;commercial:13;transactional:6
+Armários suspensos para micro-ondas,15,1530,42;68;77;50;49;44;29;88;86;90;81;100,task:5;informational:58;navigational:10;commercial:21;transactional:6
+Antenas para Aquários,20,1987,55;63;63;61;80;83;81;98;79;100;85;89,informational:58;navigational:3;commercial:23;transactional:16
+Brastemp Embutir Micro-ondas,16,710,53;72;76;69;63;67;66;74;83;100;84;95,task:3;informational:35;navigational:35;commercial:19;transactional:8
+Arroz no Micro-ondas,62,31875,35;36;17;25;45;46;46;100;83;83;83;83,task:2;informational:77;navigational:5;commercial:10;transactional:6
+Multímetros Minipa,19,3128,86;100;100;98;52;55;56;58;58;58;59;58,task:2;informational:51;navigational:13;commercial:26;transactional:8
+Equipamentos de estética médica,19,350,69;73;74;83;98;100;99;65;65;65;66;66,task:1;informational:72;navigational:6;commercial:15;transactional:6
+Hertz e Unidades de Frequência,36,20954,92;80;81;93;86;86;86;100;99;99;100;99,task:2;informational:80;navigational:6;commercial:10;transactional:2
+Microbrush odontologia,22,7409,16;21;20;24;99;100;100;100;98;98;97;97,task:5;informational:60;navigational:4;commercial:23;transactional:8
+Multilaser fones e headsets,23,2428,87;100;100;97;92;95;95;65;63;63;68;63,task:2;informational:53;navigational:28;commercial:6;transactional:11
+Placas Radiônicas,18,892,29;30;31;31;31;42;38;100;100;96;96;96,task:5;informational:75;navigational:5;commercial:13;transactional:2
+Fones JMmo,18,154,13;19;35;14;14;16;53;100;86;17;17;16,task:7;informational:61;navigational:11;commercial:17;transactional:4
+Microwave Appliances & Terminology,16,2996,31;37;37;37;97;97;95;100;97;97;98;98,task:2;informational:61;navigational:1;commercial:32;transactional:4
+Casas Bahia: Micro-ondas e Eletrodomésticos,16,1236,37;55;51;47;45;49;50;81;62;58;100;83,task:4;informational:22;navigational:40;commercial:11;transactional:23
+Fones de Ouvido Circumaurais,38,4065,61;63;72;92;99;100;100;100;95;95;95;95,task:5;informational:66;navigational:4;commercial:19;transactional:6
+Osciloscópio e aplicações eletrônicas,36,23282,17;22;23;76;99;99;99;98;100;100;100;100,task:2;informational:67;navigational:5;commercial:17;transactional:9
+Bobinas Magnéticas,17,364,27;57;64;41;41;40;40;74;100;92;92;92,task:2;informational:65;navigational:5;commercial:8;transactional:20
+Multímetros Minipa ET-1507B,18,407,67;75;75;70;70;100;91;67;86;78;78;77,task:2;informational:61;navigational:10;commercial:15;transactional:12
+Receitas e Comidas no Micro-ondas,48,8846,36;43;52;68;97;99;99;97;100;100;100;100,task:5;informational:71;navigational:5;commercial:11;transactional:8
+Ondas no cabelo,52,7758,41;96;100;67;49;49;49;52;57;57;57;56,task:2;informational:80;navigational:5;commercial:10;transactional:3
+transmissores sem fio AKG,16,37,18;18;19;19;19;20;47;100;67;19;19;19,task:10;informational:53;navigational:4;commercial:32;transactional:1
+Retificadoras portáteis: mini e micro,20,948,89;53;55;72;71;73;72;96;77;77;100;100,task:2;informational:48;navigational:7;commercial:36;transactional:7
+Ventoinhas Magnéticas,18,380,38;54;55;62;82;100;80;96;96;77;76;73,task:3;informational:50;navigational:11;commercial:28;transactional:8
+Celulares Xiaomi Redmi,21,4061,17;22;35;37;67;68;67;69;90;100;72;76,task:2;informational:61;navigational:10;commercial:24;transactional:3
+Micro-ondas 30 litros: guia de compra,55,22674,99;100;46;52;53;53;53;61;53;53;53;53,task:2;informational:57;navigational:2;commercial:31;transactional:8
+Transdutores de ultrassom,40,50530,32;26;43;69;82;82;82;100;100;100;100;100,task:8;informational:70;navigational:5;commercial:11;transactional:6
+Impedanciômetros,18,334,34;33;34;37;71;72;71;36;36;100;37;37,task:3;informational:64;navigational:5;commercial:15;transactional:13
+Lavadoras WAP Mini,21,729,88;100;100;96;94;97;100;51;52;52;51;52,task:8;informational:42;navigational:4;commercial:40;transactional:6
+Micro-ondas 27 litros (Electrolux e similares),31,4122,90;100;52;59;60;61;61;60;58;58;58;57,task:2;informational:60;navigational:5;commercial:17;transactional:16
+Micrômetro e micras,92,57104,45;50;52;100;97;98;98;93;95;95;95;95,task:5;informational:80;navigational:3;commercial:6;transactional:6
+Ultrassom Estético Micro e Macro,19,1441,68;69;70;70;75;100;88;69;74;74;75;74,task:2;informational:76;navigational:5;commercial:10;transactional:7
+Rode: Microfones Sem Fio e Lapela,20,1578,80;94;94;56;63;66;66;99;100;100;95;94,task:2;informational:58;navigational:6;commercial:22;transactional:12
+Radio Studio Brasil,25,2880,100;54;56;55;49;53;56;60;57;57;57;56,task:2;informational:47;navigational:38;commercial:9;transactional:4
+Roteadores WiFi Mini,20,2615,29;33;33;31;32;35;33;56;78;85;100;91,task:10;informational:47;navigational:5;commercial:20;transactional:18
+Microfones Tomate,18,952,60;94;84;84;81;96;100;79;78;79;86;87,task:7;informational:53;navigational:8;commercial:20;transactional:12
+Micropipetas e Pipetas Automáticas,21,5181,27;30;30;17;99;100;100;99;93;93;94;93,task:3;informational:70;navigational:2;commercial:20;transactional:5
+Peças de micro-ondas Brastemp,19,724,69;77;78;67;66;67;66;100;69;67;66;70,task:3;informational:64;navigational:7;commercial:16;transactional:10
+Móveis para micro-ondas com fruteira,21,2703,87;99;100;54;39;42;43;44;38;39;48;47,task:5;informational:51;navigational:5;commercial:28;transactional:11
+Micrômetros de Precisão,16,110,85;89;98;94;94;96;99;100;100;97;100;98,task:10;informational:57;navigational:4;commercial:18;transactional:11
+Aparelhos Auditivos NuEar,16,231,49;62;100;93;84;48;53;71;61;47;46;41,informational:63;navigational:11;commercial:22;transactional:4
+Painéis Acústicos,21,816,72;77;79;59;92;100;94;71;83;85;85;86,task:7;informational:61;navigational:2;commercial:27;transactional:3
+Microfones para lives,19,1079,62;81;81;91;91;94;94;84;84;100;95;85,task:2;informational:46;navigational:4;commercial:38;transactional:10
+Ondas PNG e Vetores,25,2422,71;98;100;95;84;91;91;85;98;98;98;96,task:12;informational:66;navigational:8;commercial:10;transactional:4
+Teste de Microfones,134,52043,42;100;61;70;79;79;79;89;92;92;92;92,task:9;informational:72;navigational:5;commercial:6;transactional:8
+Ventiladores e motores de refrigeração,17,283,56;81;85;74;75;83;79;68;66;100;72;85,task:10;informational:63;navigational:3;commercial:21;transactional:3
+Percy Spencer e o Micro-ondas,36,59590,72;74;76;81;100;100;100;82;82;82;82;82,task:8;informational:76;navigational:5;commercial:6;transactional:5
+Guias de Onda e Acessórios de Áudio,20,1910,66;80;100;78;73;74;74;66;69;71;71;71,task:2;informational:64;navigational:10;commercial:11;transactional:13
+Sinal móvel e conectividade,23,3060,91;89;84;80;76;84;82;90;83;87;93;100,task:3;informational:70;navigational:4;commercial:20;transactional:3
+Redes sem fio e Wi‑Fi,49,38673,41;44;49;90;99;100;100;100;100;100;100;100,task:5;informational:79;navigational:5;commercial:5;transactional:6
+Micrômetro Digital,16,365,71;84;85;85;85;92;90;91;100;93;93;92,task:3;informational:60;navigational:5;commercial:22;transactional:10
+MOSFET Transistores,29,17948,47;74;46;76;94;95;96;100;96;96;96;96,task:6;informational:77;navigational:3;commercial:10;transactional:4
+Microfones sem fio Lyco,16,457,71;100;97;74;80;88;85;77;78;85;85;90,task:3;informational:40;navigational:19;commercial:21;transactional:17
+Microfones para canto,21,1671,47;26;74;89;99;100;100;88;94;97;95;96,task:8;informational:50;navigational:4;commercial:29;transactional:9
+Móviles y teléfonos,16,2469,37;41;61;56;65;66;58;71;66;66;69;100,task:2;informational:53;navigational:9;commercial:30;transactional:6
+Osciloscópio Tektronix,16,405,38;47;48;57;61;73;63;44;45;45;45;100,task:3;informational:48;navigational:22;commercial:22;transactional:5
+Termômetros Minipa,16,110,78;83;89;89;100;84;93;92;89;87;89;88,task:3;informational:56;navigational:12;commercial:12;transactional:17
+Fones de Ouvido Bluetooth Sem Fio,18,852,85;96;97;90;95;92;91;100;94;83;86;93,task:2;informational:46;navigational:4;commercial:39;transactional:9
+Nichos de cozinha para micro-ondas e forno,20,870,86;100;100;54;53;48;48;80;70;89;87;86,task:8;informational:58;navigational:5;commercial:19;transactional:10
+Antenas caseiras e amplificadores de sinal de TV,42,9611,58;60;61;80;99;100;100;98;95;95;95;94,task:7;informational:73;navigational:5;commercial:10;transactional:5
+Proteção Antiestática (ESD),26,6469,68;75;75;90;86;88;88;100;98;98;99;99,informational:68;navigational:7;commercial:18;transactional:7
+Celulares Poco,135,436375,10;11;38;49;87;87;87;100;100;100;100;100,task:2;informational:54;navigational:9;commercial:23;transactional:12
+Fibron y derivados,17,256,38;39;72;72;72;100;89;33;32;32;32;32,task:2;informational:67;navigational:15;commercial:10;transactional:6
+Macarrão no Micro-ondas,30,9528,16;20;21;23;31;33;33;100;90;90;90;90,task:12;informational:75;navigational:3;commercial:5;transactional:5
+Espectroscopia no infravermelho (NIR/FTIR),29,5035,100;97;99;100;99;100;100;99;100;100;100;100,task:10;informational:78;navigational:2;commercial:8;transactional:2
+Micro-ondas Panasonic 32 litros,15,1336,36;58;62;49;49;52;41;76;55;23;23;100,task:2;informational:45;navigational:9;commercial:22;transactional:22
+Toroides e Indutores,23,3944,74;37;33;48;91;92;92;89;100;100;100;100,task:5;informational:72;navigational:8;commercial:10;transactional:5
+Megafone: preços e compras,23,6416,33;38;22;100;28;28;29;28;28;28;28;28,task:2;informational:38;navigational:4;commercial:28;transactional:28
+Ventiladores holográficos,15,352,68;97;98;93;92;100;93;82;77;77;77;76,task:7;informational:51;navigational:8;commercial:15;transactional:19
+Nanotecnologia Capilar,22,3492,22;23;24;32;48;51;41;67;66;40;40;100,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Radiofrequência estética: efeitos,20,480,39;40;41;99;99;100;100;100;70;70;70;70,task:2;informational:69;navigational:5;commercial:16;transactional:8
+Pontas de Micro Retífica,16,30,19;31;34;25;100;22;21;22;27;26;29;27,task:10;informational:67;navigational:2;commercial:18;transactional:3
+Pipoca de Micro-ondas,96,50501,33;26;29;52;66;66;66;100;95;95;95;95,task:5;informational:78;navigational:5;commercial:9;transactional:3
+Aparelhos elétricos para mosquitos,27,4606,41;61;60;66;82;84;82;100;93;93;99;99,task:2;informational:52;navigational:4;commercial:26;transactional:16
+Rádio PTT e walkie-talkie,21,1321,26;29;30;64;90;91;91;100;95;95;94;94,task:5;informational:73;navigational:5;commercial:14;transactional:3
+Micro-ondas Electrolux 36L,35,4535,86;97;100;53;54;55;55;54;54;64;61;59,task:2;informational:41;navigational:15;commercial:21;transactional:21
+Fones Sony WF-1000XM5,20,4919,38;47;48;27;34;36;37;36;100;100;100;100,task:2;informational:66;navigational:5;commercial:13;transactional:14
+Micro-ondas Philco 34L,17,925,66;95;100;86;40;33;35;70;62;75;47;59,task:3;informational:28;navigational:23;commercial:35;transactional:11
+Microfones sem fio Behringer,15,34,21;81;100;67;33;33;50;75;54;30;23;30,task:3;informational:38;navigational:7;commercial:47;transactional:5
+Misturadores Elétricos Compactos,18,1801,83;97;100;80;85;88;89;76;82;82;76;75,task:5;informational:38;navigational:9;commercial:33;transactional:15
+Microondas Consul 20 litros,16,334,42;91;100;72;61;74;37;51;37;70;60;46,task:2;informational:40;navigational:24;commercial:25;transactional:9
+Interfones sem fio,41,10387,24;28;32;93;97;98;98;100;46;46;46;46,task:2;informational:54;navigational:7;commercial:20;transactional:17
+Aparelhos de vapor e aerossóis,24,1966,47;58;57;55;97;100;87;96;95;97;97;95,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Atenuação de Som,15,95,96;40;42;41;41;42;100;43;44;44;44;43,task:8;informational:64;navigational:15;commercial:10;transactional:3
+Cabelos com Laser e Infravermelho,20,842,18;39;34;52;65;65;100;75;82;81;79;78,task:5;informational:61;navigational:4;commercial:21;transactional:9
+Nova Parabólica e Antenas,15,237,52;68;71;64;85;100;58;61;64;66;67;72,task:7;informational:63;navigational:19;commercial:4;transactional:7
+placas magnéticas,19,273,33;41;41;38;36;34;35;35;36;100;87;57,task:3;informational:53;navigational:11;commercial:27;transactional:6
+Celulares UniHertz Tank,32,6577,21;27;27;32;80;81;82;96;100;100;100;100,task:5;informational:48;navigational:11;commercial:21;transactional:15
+Conserto de Micro-ondas Electrolux,16,263,91;78;81;81;95;89;87;99;95;93;92;100,task:15;informational:42;navigational:14;commercial:9;transactional:20
+Placas WiFi M.2,20,1139,45;52;51;50;84;84;87;100;95;89;89;90,task:5;informational:41;navigational:4;commercial:38;transactional:12
+Interfones para edifícios e condomínios,22,542,45;47;48;46;48;53;55;100;99;96;96;100,task:2;informational:64;navigational:7;commercial:24;transactional:3
+Interfones Multitoc,16,482,16;21;54;38;37;36;26;56;56;99;92;100,task:7;informational:43;navigational:17;commercial:26;transactional:7
+Fones Bluetooth i7 Mini,19,1364,29;34;38;34;75;82;80;100;100;76;76;77,task:2;informational:45;navigational:14;commercial:25;transactional:14
+Mini voltímetros,16,58,3;5;6;6;4;4;4;100;87;5;5;5,task:7;informational:53;navigational:5;commercial:18;transactional:17
+Microfones para PC e Estúdio,89,45072,55;58;84;67;97;97;97;100;100;100;100;100,task:2;informational:46;navigational:4;commercial:35;transactional:13
+Micro SaaS e Ideias,26,7310,54;61;67;83;90;97;100;86;92;93;92;91,task:3;informational:72;navigational:6;commercial:11;transactional:8
+Rádios Motorola e Comunicadores,31,7372,88;97;100;100;53;54;55;96;91;91;91;91,task:5;informational:50;navigational:4;commercial:33;transactional:8
+Micro-ondas Philco 26L,19,550,41;47;49;46;100;89;72;42;30;50;34;40,task:3;informational:53;navigational:14;commercial:22;transactional:8
+Equipamentos e Máquinas,17,9735,27;32;100;82;82;83;83;83;84;83;84;83,task:2;informational:68;navigational:5;commercial:19;transactional:6
+Rádios a pilha portáteis,33,4222,85;98;100;58;62;65;65;61;65;65;64;64,task:8;informational:34;navigational:7;commercial:30;transactional:21
+Telefones sem fio com viva-voz,16,737,56;67;70;60;43;43;41;100;91;79;79;85,task:2;informational:62;navigational:4;commercial:26;transactional:6
+Alto-falantes e mini alto-falantes,21,1019,71;88;67;98;98;100;97;60;89;92;92;93,task:2;informational:67;navigational:5;commercial:15;transactional:11
+Micromist para cabelo,18,2127,30;35;37;27;40;40;40;100;99;99;99;99,task:2;informational:59;navigational:5;commercial:23;transactional:11
+Micro-ondas LG 30 litros,19,750,16;26;27;31;40;40;27;21;99;100;37;46,task:5;informational:33;navigational:16;commercial:24;transactional:22
+coifas Midea,15,263,15;95;100;25;70;45;53;36;35;42;37;46,task:3;informational:36;navigational:38;commercial:11;transactional:12
+Placas acústicas,18,1562,83;99;100;70;66;65;66;87;71;70;75;75,task:2;informational:57;navigational:4;commercial:26;transactional:11
+Ar Condicionado Econômico,31,11404,21;26;26;33;80;81;82;90;100;100;100;100,task:8;informational:49;navigational:4;commercial:28;transactional:11
+Laser de Fibra,26,2663,17;20;30;47;99;100;99;95;99;99;99;99,task:2;informational:69;navigational:5;commercial:15;transactional:9
+Amplificadores Frahm Slim,19,189,80;94;99;93;87;94;92;90;88;100;100;90,task:3;informational:40;navigational:23;commercial:16;transactional:18
+Rádio Torre FM Brasil,17,853,63;88;90;83;90;91;91;92;98;100;97;96,task:3;informational:58;navigational:22;commercial:10;transactional:7
+Telefones IP sem fio,20,1596,27;29;59;98;53;55;54;99;98;97;98;100,task:2;informational:60;navigational:4;commercial:30;transactional:4
+Rádios Yaesu,16,1098,59;64;65;68;71;72;73;100;69;69;75;74,task:2;informational:41;navigational:22;commercial:26;transactional:9
+Aparelhos Auditivos Binaurais,15,1908,4;5;5;23;23;5;5;9;9;7;6;100,task:10;informational:42;navigational:13;commercial:23;transactional:12
+Mikrotik SXT e Antenas,19,842,34;35;36;35;35;35;35;96;99;100;100;100,task:2;informational:63;navigational:4;commercial:23;transactional:8
+Sistemas Philips mini/micro antigos,16,1585,65;87;89;87;92;98;100;93;100;100;96;94,task:3;informational:62;navigational:11;commercial:17;transactional:7
+Tecno Móveis,16,462,28;62;83;38;36;41;35;32;31;100;87;51,task:3;informational:29;navigational:42;commercial:18;transactional:8
+Sistemas de Comunicação,17,1873,55;73;69;50;41;41;42;67;75;76;100;100,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Televisão e Rádio,20,2391,39;50;68;70;92;100;85;84;86;94;91;92,task:5;informational:67;navigational:7;commercial:17;transactional:4
+Máquinas de Ressonância Magnética,59,18984,78;100;85;87;87;88;88;98;80;79;79;79,task:5;informational:68;navigational:3;commercial:18;transactional:6
+Teclados Nord Electro,21,1376,47;52;53;53;98;100;100;38;38;38;38;39,task:2;informational:62;navigational:10;commercial:22;transactional:4
+Capas de celular finas,16,494,32;66;72;58;57;55;100;94;70;46;43;73,task:7;informational:44;navigational:8;commercial:26;transactional:15
+Equipamentos Tech,15,63,7;100;87;75;75;49;41;26;25;11;10;10,task:3;informational:49;navigational:13;commercial:18;transactional:17
+Largura de Banda e Redes,18,1419,99;100;100;84;72;73;73;73;90;93;91;91,task:5;informational:78;navigational:5;commercial:10;transactional:2
+Vibradores discretos,16,401,80;97;98;100;90;93;91;92;96;96;96;95,task:3;informational:67;navigational:2;commercial:18;transactional:10
+Rádio Aérea e Escuta,25,652,66;87;85;91;94;100;100;88;90;87;88;89,task:2;informational:71;navigational:9;commercial:11;transactional:7
+Sonos: caixas de som e app,18,879,65;94;96;93;92;99;100;90;90;90;86;86,task:10;informational:44;navigational:15;commercial:14;transactional:17
+Secadores de Cabelo Ultrassônicos,17,171,16;16;18;17;30;33;43;100;75;18;17;17,task:2;informational:68;navigational:3;commercial:15;transactional:12
+Microfones MXL 990,24,909,65;72;73;70;99;100;100;47;57;57;60;60,task:8;informational:57;navigational:15;commercial:14;transactional:6
+Rádios de Carro,27,4658,26;38;50;71;98;100;100;80;77;77;76;76,task:1;informational:47;navigational:4;commercial:36;transactional:12
+Nanotubos de carbono,19,1245,91;98;98;77;98;100;98;65;93;94;91;91,task:3;informational:78;navigational:9;commercial:7;transactional:3
+Fones USB com Microfone,23,2562,85;100;98;50;51;55;55;51;55;54;54;54,task:2;informational:60;navigational:4;commercial:27;transactional:7
+Aparelhos Auditivos e Dispositivos de Amplificação,21,2503,91;94;93;92;99;100;100;100;98;98;96;96,task:1;informational:80;navigational:5;commercial:10;transactional:4
+Kit de Microfones Sem Fio 4 Canais,17,236,61;60;61;59;72;72;91;59;69;100;96;100,task:12;informational:37;navigational:7;commercial:21;transactional:23
+THD e Harmonicas Elétricas,27,5500,65;93;91;97;97;98;97;100;100;99;99;99,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Geradores e Medidores de Frequência,28,3244,73;83;83;85;98;100;100;92;99;99;97;97,task:2;informational:77;navigational:5;commercial:12;transactional:4
+Conserto de Microondas no Brasil,18,3163,72;96;100;97;92;97;97;94;98;99;98;97,task:13;informational:24;navigational:5;commercial:38;transactional:20
+Instrumentos acústicos,16,437,69;71;72;75;63;65;64;95;100;100;100;97,task:5;informational:58;navigational:19;commercial:12;transactional:6
+Frequência 888 Hz e batidas binaurais,24,2522,68;72;68;79;82;83;83;87;100;100;100;100,task:5;informational:72;navigational:5;commercial:8;transactional:10
+Gabinetes PC Compactos,23,6696,91;97;100;98;49;50;50;49;50;50;50;49,task:5;informational:44;navigational:4;commercial:36;transactional:11
+PWM: Modulação por Largura de Pulso,32,22893,97;99;100;100;96;96;96;92;92;92;92;92,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Desenho de Microfones,19,1266,64;88;89;92;89;95;96;97;100;99;99;97,task:31;informational:47;navigational:1;commercial:16;transactional:5
+Diapasão médico 128 Hz,17,1162,17;68;70;44;95;97;93;100;91;92;92;92,task:5;informational:62;navigational:5;commercial:20;transactional:8
+Multiplexadores e Mux,22,3054,68;73;73;95;89;90;90;96;98;97;100;100,task:8;informational:77;navigational:5;commercial:8;transactional:2
+Medição de Ruído,18,577,35;48;44;70;99;99;98;81;100;99;99;99,task:8;informational:59;navigational:7;commercial:18;transactional:8
+Radiofrequência íntima ginecológica,23,1952,55;55;61;81;79;80;80;99;99;99;100;100,task:2;informational:73;navigational:8;commercial:12;transactional:5
+Ultrassom Estético Facial,80,40299,95;100;100;68;91;92;92;96;98;98;97;97,task:6;informational:68;navigational:5;commercial:17;transactional:4
+Espectrogramas de audio,20,2605,60;62;93;93;98;98;100;96;97;95;95;95,task:10;informational:72;navigational:3;commercial:12;transactional:3
+Microfones para iPhone,48,14066,34;40;46;60;88;89;89;82;100;100;100;100,task:4;informational:68;navigational:2;commercial:19;transactional:7
+Tubos de Microcentrífuga,16,742,22;23;24;23;23;23;23;78;100;100;100;100,task:5;informational:62;navigational:4;commercial:23;transactional:6
+Ondas Verdes: rádios e mídia,18,8762,30;39;40;39;43;46;46;95;100;100;100;100,task:2;informational:67;navigational:16;commercial:10;transactional:5
+Miliôhmetros e instrumentos de medição de resistência,17,1103,49;53;55;88;100;100;100;81;82;82;82;82,task:5;informational:59;navigational:4;commercial:24;transactional:8
+EletroTudo - Materiais Elétricos,15,385,61;92;93;91;89;98;94;97;100;98;100;100,task:3;informational:25;navigational:41;commercial:19;transactional:12
+Fones de Ouvido Gold Bluetooth,37,6385,24;31;32;55;72;74;75;94;100;100;100;100,task:8;informational:44;navigational:4;commercial:26;transactional:18
+Diatermia com ondas curtas na fisioterapia,23,2853,55;66;66;64;64;61;61;96;100;100;100;100,task:8;informational:74;navigational:3;commercial:14;transactional:1
+Antenas de telecomunicações e ERB no Brasil,20,2810,11;37;36;33;27;29;22;100;73;56;67;79,task:2;informational:66;navigational:4;commercial:22;transactional:6
+Starlink Mini: Kits e Antenas,20,5078,57;26;19;27;62;63;64;85;89;88;89;100,task:2;informational:64;navigational:5;commercial:19;transactional:10
+Vinhetas de Rádio,17,137,53;58;59;57;57;59;59;59;59;100;92;59,task:27;informational:43;navigational:5;commercial:12;transactional:13
+Carregadores por indução,68,52322,23;25;28;92;53;53;53;100;100;100;100;100,task:2;informational:62;navigational:4;commercial:26;transactional:6
+Repetidores de Sinal WiFi,56,7554,52;63;66;87;98;100;100;99;98;98;98;98,task:5;informational:40;navigational:5;commercial:36;transactional:14
+Eletrônica Digital,34,8169,82;86;79;91;91;92;92;100;98;98;97;97,task:7;informational:78;navigational:4;commercial:9;transactional:2
+Exaustores Sonora,15,426,86;39;40;39;39;62;53;78;91;100;96;65,task:3;informational:58;navigational:17;commercial:14;transactional:8
+Headsets e fones Plantronics,19,1017,58;82;82;80;83;90;82;100;99;96;92;92,task:3;informational:45;navigational:19;commercial:24;transactional:9
+Fones USB-C,60,14275,91;97;100;47;67;68;69;85;92;92;92;92,task:5;informational:54;navigational:2;commercial:28;transactional:11
+Fones Edifier,36,18729,97;100;46;46;45;45;45;56;77;77;77;77,task:5;informational:40;navigational:22;commercial:13;transactional:20
+Mini Processadores de Alimentos,27,9681,43;47;50;50;100;100;100;51;49;50;50;49,task:5;informational:34;navigational:4;commercial:41;transactional:16
+Ultrassom Mindray e Transdutores,17,920,50;77;78;78;68;100;100;80;75;75;81;82,task:3;informational:55;navigational:6;commercial:26;transactional:10
+Fones ELG com fio,15,374,16;29;31;23;21;22;18;20;20;100;84;27,task:5;informational:59;navigational:11;commercial:16;transactional:9
+Zello e rádios comunicadores,27,6086,38;44;45;44;42;43;43;40;100;100;99;99,task:5;informational:69;navigational:9;commercial:8;transactional:9
+Microscopia de Força Atômica (AFM),18,1371,99;100;100;91;91;91;91;96;98;98;98;98,task:8;informational:82;navigational:5;commercial:5
+Antenas e dispositivos Vivensis,51,17459,36;39;40;54;86;87;87;100;85;85;85;85,task:5;informational:46;navigational:22;commercial:17;transactional:10
+Eletrônica Muller,15,435,13;15;14;22;19;18;35;99;49;100;100;98,task:3;informational:41;navigational:31;commercial:21;transactional:4
+Microfones sem fio Shure,19,306,67;83;85;93;92;100;79;83;85;84;85;84,task:3;informational:59;navigational:1;commercial:27;transactional:10
+Fones para rádio comunicador,31,4262,26;35;38;62;98;100;100;63;73;73;74;74,task:2;informational:56;navigational:4;commercial:31;transactional:7
+Cera depilatória microondas,24,4536,27;37;34;19;68;70;65;77;75;75;99;100,task:7;informational:52;navigational:5;commercial:16;transactional:20
+Microfones sem fio e baterias,19,1152,64;73;44;87;87;90;100;62;86;86;86;92,task:2;informational:52;navigational:4;commercial:34;transactional:8
+Receptores de TV via Satélite – Banda Ku,20,831,27;31;31;45;58;82;84;53;100;95;85;85,task:2;informational:62;navigational:4;commercial:26;transactional:6
+iPhone com infravermelho,22,2592,62;63;67;91;94;97;100;97;86;86;86;88,task:2;informational:80;navigational:5;commercial:5;transactional:8
+Decibéis e Medidores,97,31370,86;87;87;85;100;100;100;87;83;83;83;82,task:2;informational:77;navigational:6;commercial:12;transactional:3
+Adesivos Microperfurados,18,435,48;49;51;82;99;100;100;85;85;85;84;84,task:2;informational:58;navigational:5;commercial:23;transactional:12
+Energia Estacionária e Ondas Estacionárias,39,28602,45;48;48;100;88;89;89;100;99;99;99;98,task:5;informational:73;navigational:5;commercial:12;transactional:5
+Micro-ondas Panasonic 27 litros,19,1086,83;94;100;96;52;52;50;46;61;58;62;62,task:5;informational:41;navigational:9;commercial:29;transactional:16
+TV por Satélite,35,4106,68;68;66;77;90;91;94;100;82;82;81;81,task:5;informational:69;navigational:5;commercial:15;transactional:6
+Mundo da Eletrônica,17,683,24;87;100;64;60;55;40;47;45;66;58;57,task:3;informational:50;navigational:8;commercial:31;transactional:8
+Fones Havit H2002D,40,42310,26;29;32;46;64;64;64;99;100;100;100;100,task:2;informational:52;navigational:16;commercial:21;transactional:9
+Marmitas Térmicas,27,4829,53;61;32;72;93;94;95;100;93;93;95;94,task:2;informational:52;navigational:6;commercial:30;transactional:10
+cabos USB micro e mini,58,37571,42;45;47;61;91;91;91;98;100;100;100;100,task:5;informational:56;navigational:2;commercial:28;transactional:9
+Ultrassom Estético e Fisioterapêutico,53,23992,49;55;65;69;89;90;90;99;100;100;100;100,task:2;informational:68;navigational:5;commercial:22;transactional:3
+Incerteza de Heisenberg,28,13114,48;98;100;58;65;66;66;69;69;69;69;69,task:2;informational:77;navigational:8;commercial:8;transactional:5
+Micro-ondas 23 litros Electrolux,31,4915,83;98;100;65;78;79;80;67;68;69;70;77,task:3;informational:51;navigational:4;commercial:31;transactional:11
+Telefone sem fio no Brasil,30,3922,24;31;33;65;84;85;86;100;91;92;92;94,task:5;informational:47;navigational:9;commercial:27;transactional:12
+Eletroporação Estética,21,2375,90;93;99;97;59;59;59;100;100;100;100;100,task:5;informational:75;navigational:5;commercial:10;transactional:5
+Mux e Demux,19,1192,57;57;58;79;79;80;80;80;80;88;86;100,task:8;informational:80;navigational:5;commercial:5;transactional:2
+Micromotores Odontológicos,26,4361,28;35;37;41;54;56;56;100;96;96;96;96,task:2;informational:58;navigational:4;commercial:28;transactional:8
+Transdutores de ultrassom GE,16,153,27;89;75;82;87;100;31;28;28;28;28;28,task:7;informational:54;navigational:14;commercial:21;transactional:4
+Cuecas de Microfibra,27,5581,27;38;40;49;98;100;100;84;88;88;86;86,task:2;informational:45;navigational:3;commercial:43;transactional:7
+Balanças Multilaser,20,1206,39;62;60;55;56;93;68;98;97;100;100;100,task:1;informational:32;navigational:37;commercial:18;transactional:12
+Mini Celulares e Smartphones,26,6298,74;41;60;82;99;100;100;70;75;74;74;74,task:5;informational:52;navigational:8;commercial:18;transactional:17
+Microagulhamento Capilar,33,10094,96;100;100;95;98;99;99;92;100;100;100;100,task:2;informational:68;navigational:6;commercial:17;transactional:7
+Fones Fazy,16,849,46;48;41;37;32;36;36;27;27;27;81;100,task:2;informational:49;navigational:39;commercial:4;transactional:6
+Aparelhos Auditivos Unitron,16,435,59;66;68;59;100;100;100;78;76;73;74;73,task:3;informational:42;navigational:25;commercial:23;transactional:7
+Acessórios Apple sem fio,162,106351,78;78;34;54;78;78;78;100;93;93;93;93,task:4;informational:43;navigational:9;commercial:26;transactional:18
+Cortinas Acústicas,38,11420,36;41;42;59;63;65;65;98;100;100;100;100,task:2;informational:54;navigational:5;commercial:26;transactional:13
+Ultracavitação e ultrassom estético,27,4171,88;82;84;99;100;100;100;85;94;94;94;94,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Capas Magnéticas para Celular,23,2007,17;26;27;49;52;51;57;90;81;79;78;100,task:2;informational:48;navigational:4;commercial:35;transactional:11
+Som e Velocidade do Som,135,81657,93;91;100;86;78;78;78;81;81;81;81;81,task:2;informational:80;navigational:8;commercial:6;transactional:4
+Difusores acústicos e painéis de madeira,16,116,49;73;73;53;78;100;55;48;49;48;49;48,task:3;informational:55;navigational:4;commercial:24;transactional:14
+Rede Difusora de Rádio,43,9391,83;92;100;100;81;82;82;83;75;75;76;76,task:2;informational:52;navigational:32;commercial:10;transactional:4
+Rádio e códigos de comunicação,22,1089,84;85;85;100;100;100;100;83;76;76;76;76,task:8;informational:80;navigational:2;commercial:8;transactional:2
+Fones de ouvido Baseus,28,4976,77;93;100;95;92;94;95;91;92;92;93;91,task:7;informational:38;navigational:18;commercial:22;transactional:15
+Música 432 Hz,78,31314,49;55;59;70;82;83;83;97;100;100;100;100,task:8;informational:73;navigational:6;commercial:8;transactional:5
+Micro-ondas Toshiba 27–35 L,15,1305,7;31;36;20;22;19;24;75;68;100;85;79,task:3;informational:63;navigational:8;commercial:22;transactional:4
+Instalação de Antenas,20,4702,95;100;88;98;96;97;99;96;93;93;93;93,task:12;informational:61;navigational:3;commercial:19;transactional:5
+Gadgets e Tecnologia,37,28699,51;64;67;100;60;60;61;91;91;91;91;91,task:5;informational:61;navigational:6;commercial:19;transactional:9
+Otoscópios Mikatos,15,549,25;26;26;24;30;47;34;100;74;76;68;68,task:1;informational:41;navigational:15;commercial:22;transactional:21
+antenas para caminhonetes,20,586,82;97;100;92;95;100;86;96;84;87;86;86,task:2;informational:51;navigational:4;commercial:30;transactional:13
+Prensas Térmicas Portáteis,16,748,57;89;92;89;91;92;100;100;93;93;93;93,task:3;informational:49;navigational:5;commercial:23;transactional:20
+Laser de Fibra Óptica,23,3658,41;45;45;50;65;66;66;98;100;100;100;100,task:2;informational:61;navigational:2;commercial:27;transactional:8
+Pulseiras Inteligentes e Smartbands,32,18130,15;20;22;85;99;100;100;100;99;99;99;99,task:3;informational:51;navigational:5;commercial:34;transactional:7
+Bloqueadores de Sinal e Bluetooth,64,72065,13;18;20;83;100;100;100;90;89;89;89;89,task:7;informational:62;navigational:5;commercial:20;transactional:6
+Microscopia de Tunelamento (STM),18,1867,73;100;97;100;87;87;87;80;97;96;81;81,task:5;informational:80;navigational:5;commercial:8;transactional:2
+Cases para microfones,16,361,60;82;85;75;75;80;80;100;89;84;76;79,task:3;informational:51;navigational:4;commercial:27;transactional:15
+Headsets e Fones Fortrek,17,1081,83;98;99;98;92;96;96;93;100;100;85;45,task:8;informational:48;navigational:5;commercial:27;transactional:12
+Fones e Headphones Bose,41,7839,63;76;81;80;87;89;90;97;100;100;100;99,task:2;informational:51;navigational:14;commercial:21;transactional:12
+Rádios de Uberaba,17,1035,64;90;92;93;89;90;93;97;99;99;100;99,task:3;informational:59;navigational:21;commercial:11;transactional:6
+Caixas de Som Microlab,18,389,25;31;28;34;33;35;31;37;100;19;19;21,task:5;informational:46;navigational:15;commercial:16;transactional:18
+microfones Redragon,16,645,10;16;15;18;18;16;16;21;100;23;24;25,task:3;informational:44;navigational:18;commercial:18;transactional:17
+Mini Exaustores Domésticos,16,349,31;40;40;43;39;41;39;89;100;51;47;34,task:1;informational:57;navigational:5;commercial:22;transactional:15
+Celulares Robustos,19,1462,22;17;22;64;37;37;42;100;76;76;74;74,task:2;informational:64;navigational:7;commercial:21;transactional:6
+Microtomia: termos e aplicações,19,1777,18;17;17;52;100;100;100;98;98;97;97;97,task:4;informational:72;navigational:4;commercial:16;transactional:4
+Rolos de Microfibra,16,235,52;90;95;72;84;94;92;96;100;81;83;83,task:3;informational:54;navigational:4;commercial:28;transactional:11
+Fones Bluetooth QCY Melobuds HT05,36,13395,91;97;100;49;55;57;56;55;83;83;83;83,task:5;informational:51;navigational:19;commercial:14;transactional:11
+Rede Unificada Claro,19,1323,27;27;27;41;37;38;30;62;40;100;64;46,task:2;informational:53;navigational:38;commercial:5;transactional:2
+Capsulas Vibratórias,20,813,33;39;38;59;57;77;57;100;100;79;78;65,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Materiais Magnéticos,36,4221,99;100;100;91;85;85;86;83;86;86;86;86,task:2;informational:76;navigational:5;commercial:12;transactional:5
+Repetidores WiFi de Longo Alcance,19,1473,29;34;35;62;99;100;98;92;98;98;97;98,task:2;informational:51;navigational:4;commercial:29;transactional:14
+Massageadores com infravermelho,26,3916,13;28;26;28;61;56;56;100;84;84;83;84,task:5;informational:50;navigational:5;commercial:29;transactional:11
+Oximag - Imãs e Equipamentos Magnéticos,15,142,86;96;100;100;89;91;92;97;98;98;98;98,task:3;informational:26;navigational:59;commercial:6;transactional:6
+Acessórios decorativos para antenas de veículos,16,253,41;52;55;61;61;94;53;100;81;73;72;46,task:3;informational:33;navigational:4;commercial:44;transactional:16
+Tablets Poco Pad,30,26254,14;18;19;18;67;68;67;99;100;100;100;100,task:8;informational:56;navigational:7;commercial:18;transactional:11
+LG Micro-ondas - Placas e Peças,16,184,36;61;63;63;97;89;82;92;89;92;100;93,task:5;informational:46;navigational:4;commercial:36;transactional:9
+Otoemissões Evocadas,27,5135,65;68;69;88;91;91;92;100;93;92;93;93,task:8;informational:83;navigational:3;commercial:5;transactional:1
+Pulseiras antiestáticas,19,699,33;35;35;85;92;100;97;69;61;62;62;62,task:2;informational:65;navigational:2;commercial:20;transactional:11
+Mini Teclados Sem Fio,31,6096,90;98;100;47;55;56;56;73;79;79;78;77,task:8;informational:53;navigational:2;commercial:27;transactional:10
+Magnetrons LG,18,687,42;50;79;81;80;79;77;84;95;100;97;95,task:2;informational:47;navigational:10;commercial:20;transactional:21
+Eletrônicos e Componentes,61,132402,30;30;31;76;88;88;88;97;100;100;100;100,task:5;informational:47;navigational:4;commercial:34;transactional:10
+Depuradores Slim Touch,16,333,68;95;100;91;69;69;69;42;66;77;41;41,task:2;informational:22;navigational:22;commercial:15;transactional:39
+Transformadores de Potencial,20,1608,53;55;86;95;100;100;100;100;100;100;100;100,task:8;informational:84;navigational:3;commercial:5
+Transdutores médicos e sondas,17,5734,100;34;87;84;28;33;31;51;58;61;68;70,task:5;informational:64;navigational:4;commercial:21;transactional:6
+Sennheiser: Fones e Microfones,25,7534,91;97;100;99;98;99;99;60;61;60;60;60,task:5;informational:39;navigational:14;commercial:26;transactional:16
+Mini PCs e Computadores Compactos,62,36945,66;68;30;35;100;100;100;66;78;78;78;78,task:2;informational:49;navigational:4;commercial:37;transactional:8
+Grupo Minuano,21,15929,26;31;33;92;30;32;32;100;97;97;96;96,task:2;informational:51;navigational:31;commercial:12;transactional:4
+Equipamentos de Som,16,131,52;76;89;100;100;99;56;73;58;75;62;63,task:3;informational:49;navigational:14;commercial:18;transactional:16
+Fones de Ouvido Kapbom,21,1971,40;46;46;29;61;61;61;100;77;81;81;81,task:2;informational:48;navigational:27;commercial:20;transactional:3
+Redes Wi‑Fi e WMM,20,1753,81;83;91;100;100;100;100;97;97;97;97;98,task:2;informational:85;navigational:5;commercial:5;transactional:3
+Fones Bright,21,834,84;100;100;57;64;66;69;65;62;63;60;61,task:5;informational:37;navigational:21;commercial:23;transactional:14
+Microfones DJI,28,15096,65;72;74;100;99;100;100;100;100;100;100;100,task:2;informational:52;navigational:18;commercial:14;transactional:14
+Microfones Synco,18,216,85;86;90;89;100;96;88;57;57;59;60;60,task:5;informational:59;navigational:5;commercial:17;transactional:14
+Fones de Ouvido Espiões,17,286,35;61;53;55;55;100;95;34;57;68;68;73,task:2;informational:62;navigational:5;commercial:20;transactional:11
+Fones de ouvido na Americanas,16,546,41;59;73;55;60;56;76;100;79;84;61;62,task:1;informational:19;navigational:55;commercial:7;transactional:18
+Fones Philips Tah1108 Bluetooth,15,1018,17;27;29;49;49;42;27;56;45;58;69;100,task:1;informational:49;navigational:24;commercial:16;transactional:10
+Headsets e Fones Pichau,18,846,20;37;25;23;22;24;24;22;100;90;75;23,task:3;informational:32;navigational:39;commercial:12;transactional:14
+Ovos no Micro-ondas,117,83193,31;33;35;52;73;73;73;100;100;100;100;100,task:10;informational:79;navigational:2;commercial:6;transactional:3
+Equipamentos de Áudio Digital,18,771,72;94;95;89;88;93;93;98;100;89;97;98,task:5;informational:47;navigational:8;commercial:24;transactional:16
+Lousas Interativas,15,133,29;80;76;100;75;54;78;29;27;68;61;59,task:3;informational:67;navigational:8;commercial:12;transactional:10
+Telefones com fio Intelbras,28,3070,35;47;47;62;91;93;94;100;100;100;100;100,task:4;informational:57;navigational:3;commercial:18;transactional:18
+Teste de microfones e áudio,25,10665,86;92;91;94;68;68;69;100;72;71;71;71,task:2;informational:66;navigational:6;commercial:17;transactional:9
+Celulares & Cia,16,954,14;31;32;30;30;44;53;100;50;84;72;99,task:4;informational:30;navigational:27;commercial:31;transactional:8
+Microfones Arcano,23,937,73;99;100;98;91;100;100;94;87;88;95;95,task:3;informational:53;navigational:11;commercial:22;transactional:11
+Microcut para Odontologia,18,521,92;100;98;96;57;59;59;60;97;97;97;96,task:2;informational:63;navigational:9;commercial:20;transactional:6
+Flash de Rádio para Fotografia,22,4464,18;26;26;63;84;86;86;100;95;95;95;95,task:5;informational:57;navigational:4;commercial:28;transactional:6
+Absorventes ultrafinos,18,815,63;79;82;79;90;100;94;83;86;86;86;85,task:5;informational:53;navigational:1;commercial:29;transactional:12
+Microestacas e Fundações,18,544,99;99;100;100;95;95;95;95;95;95;95;95,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Microfones condensador Shure,16,171,64;70;72;72;70;72;100;85;85;68;69;68,task:3;informational:74;navigational:5;commercial:9;transactional:9
+Aquecedores Halógenos,21,2698,20;26;27;32;32;34;39;93;98;100;100;100,task:5;informational:44;navigational:9;commercial:28;transactional:14
+Nova Onda rádios 99.3 FM,28,2015,63;87;90;88;89;96;98;100;99;98;100;99,task:3;informational:39;navigational:49;commercial:6;transactional:3
+Termômetros a laser e infravermelho,33,29436,28;31;16;76;100;100;100;95;99;99;99;99,task:5;informational:63;navigational:4;commercial:27;transactional:1
+Mini Caldeirões,16,47,14;97;100;33;50;17;41;16;17;13;13;13,task:3;informational:39;navigational:11;commercial:30;transactional:17
+Receitas de Brigadeirão de Micro-ondas,16,4414,86;98;100;100;52;54;55;56;68;67;67;67,task:12;informational:74;navigational:6;commercial:5;transactional:3
+QCY Brasil Fones Bluetooth,67,37361,66;70;72;74;100;100;100;67;66;66;66;66,task:2;informational:50;navigational:17;commercial:19;transactional:12
+Micrômetros digitais Mitutoyo,16,328,84;100;95;88;88;95;91;93;98;98;99;98,task:3;informational:50;navigational:9;commercial:11;transactional:27
+Microfones cardioides e omnidirecionais,32,8674,33;37;36;66;71;72;71;100;100;100;100;100,task:2;informational:76;navigational:3;commercial:15;transactional:4
+Cuecas de Modal e MicroModal,22,2001,54;60;40;40;50;51;51;77;65;65;97;100,task:3;informational:59;navigational:4;commercial:29;transactional:5
+Tecnologia Wearable,30,3874,40;56;58;57;100;98;97;56;54;57;45;46,task:1;informational:80;navigational:5;commercial:10;transactional:4
+Razer Microfones,15,709,88;97;96;97;95;98;100;92;91;95;94;91,task:5;informational:48;navigational:27;commercial:9;transactional:11
+Sonorizadores: dispositivos de áudio,17,1050,50;58;18;33;32;61;56;100;98;71;71;71,task:2;informational:80;navigational:5;commercial:10;transactional:3
+Lasanha no Micro-ondas,21,1022,34;33;33;39;44;46;46;100;49;49;52;51,task:17;informational:68;navigational:8;commercial:5;transactional:2
+Radiadores MTF,17,2460,75;76;81;81;97;100;100;98;98;98;100;100,task:3;informational:68;navigational:14;commercial:12;transactional:3
+mini alfinetes,16,188,37;40;44;43;43;100;84;40;40;98;93;97,task:3;informational:42;navigational:18;commercial:21;transactional:16
+Papel Micro Ondulado (Embalagens),17,623,64;77;78;81;90;94;97;95;100;100;100;99,task:7;informational:54;navigational:4;commercial:22;transactional:13
+Mini Refletores LED,17,569,34;44;44;42;44;55;60;68;71;95;88;100,task:3;informational:51;navigational:4;commercial:29;transactional:13
+Redragon periféricos,15,246,8;10;14;10;15;13;9;21;100;27;25;17,task:5;informational:50;navigational:15;commercial:15;transactional:15
+Fones Logitech Zone Vibe,22,1053,88;100;98;96;96;100;99;61;63;64;65;65,task:5;informational:61;navigational:10;commercial:12;transactional:12
+Micro Biquínis,29,5468,100;46;55;55;53;54;54;50;51;51;51;51,task:5;informational:49;navigational:10;commercial:22;transactional:14
+Ventiladores Domésticos,23,7988,90;97;100;48;59;60;60;54;59;59;59;58,task:5;informational:42;navigational:5;commercial:34;transactional:14
+Fibra e telecomunicações,15,123,14;39;31;26;26;28;25;100;47;48;16;15,task:1;informational:61;navigational:22;commercial:10;transactional:6
+Antenas de TV Analógicas e Digitais,19,1303,31;37;45;71;70;65;69;100;96;96;96;93,task:2;informational:66;navigational:4;commercial:24;transactional:4
+Pudim no Micro-ondas,36,17099,44;47;49;55;58;59;59;97;100;100;100;100,task:8;informational:75;navigational:5;commercial:9;transactional:3
+Conexão Doméstica,15,266,11;20;25;19;19;19;18;100;63;54;51;41,task:3;informational:42;navigational:33;commercial:10;transactional:12
+Relógios Microwear 9 Pro,37,22513,39;42;22;25;83;84;84;99;100;100;100;100,informational:46;navigational:25;commercial:25;transactional:4
+Influenciadores nano e micro,20,1768,52;55;69;75;73;74;73;85;99;99;100;100,task:10;informational:70;navigational:5;commercial:15
+Chips Quânticos,22,7315,47;52;52;71;83;84;84;100;84;84;84;84,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Interfaces de Áudio M-Audio,37,3378,50;68;71;76;92;97;100;99;90;90;90;89,task:2;informational:62;navigational:11;commercial:19;transactional:6
+Fones de Ouvido Supra-Auriculares,20,2370,35;40;41;41;88;90;86;99;100;100;100;100,task:7;informational:47;navigational:4;commercial:33;transactional:9
+Limpeza Ultrassônica,23,2729,41;46;47;34;55;57;57;100;100;100;100;100,task:2;informational:61;navigational:4;commercial:24;transactional:9
+Tecno Celulares,19,1430,10;12;12;11;11;11;11;100;39;6;6;6,task:3;informational:52;navigational:4;commercial:30;transactional:11
+Fritadeiras Elétricas (Air Fryers),497,584548,17;16;18;25;100;100;100;30;39;39;39;39,task:5;informational:46;navigational:2;commercial:33;transactional:14
+Microfones Sennheiser e Acessórios no Brasil,25,864,74;98;100;93;86;92;93;98;95;94;95;93,task:3;informational:38;navigational:20;commercial:19;transactional:20
+Lavadoras Ultrassônicas Médicas,22,2392,14;28;35;52;84;85;85;100;98;98;98;98,task:1;informational:64;navigational:5;commercial:26;transactional:4
+Repetidores WiFi Vivo,22,2132,36;57;58;83;79;76;75;69;85;96;96;100,task:3;informational:52;navigational:5;commercial:18;transactional:22
+Relógios Mibro e Smartwatches,25,2370,58;68;68;44;63;65;65;90;100;100;98;98,task:5;informational:66;navigational:5;commercial:20;transactional:4
+Espectroscopia Raman,21,2402,50;100;72;60;82;55;56;77;77;77;78;77,task:8;informational:83;navigational:5;commercial:3;transactional:1
+Subwoofers Ativos,20,770,68;88;91;88;86;99;100;90;98;98;94;96,task:3;informational:48;navigational:11;commercial:31;transactional:7
+Coolers para Celulares,28,9931,16;22;23;26;31;32;32;99;100;100;100;100,task:10;informational:44;navigational:1;commercial:30;transactional:15
+Oscilosscópio Hantek,20,973,61;69;72;68;62;68;75;78;100;93;93;93,task:2;informational:39;navigational:29;commercial:14;transactional:16
+Energia Vibracional,44,12795,66;71;73;87;78;79;79;99;100;100;100;100,task:2;informational:79;navigational:3;commercial:10;transactional:6
+Rádio e Música Eletrônica,18,405,69;94;94;92;83;92;93;97;100;85;84;83,informational:56;navigational:19;commercial:17;transactional:8
+Roteadores Wavlink,19,1439,68;79;80;46;50;53;53;78;80;100;85;85,task:2;informational:45;navigational:27;commercial:24;transactional:2
+Microcontroladores e Microprocessadores,40,13132,67;86;93;97;69;70;70;100;100;100;100;100,task:5;informational:75;navigational:5;commercial:7;transactional:8
+Tecnologia Quantum,27,16881,89;94;29;99;99;100;100;96;98;98;98;98,task:3;informational:64;navigational:12;commercial:15;transactional:6
+Ouvidos Biónicos,17,682,24;91;87;53;53;57;45;68;43;100;97;31,task:5;informational:75;navigational:5;commercial:10;transactional:5
+Celulares Finos e Slim (Smartphones Magros),25,3634,23;39;30;61;62;60;60;100;70;71;77;81,task:2;informational:66;navigational:5;commercial:18;transactional:9
+Microcomputadores: Guia e Compras,21,8390,15;21;28;28;51;52;52;98;99;100;100;99,task:5;informational:52;navigational:2;commercial:33;transactional:8
+Sistemas FuelTech Nano Pro e Wideband,20,1082,67;88;90;91;92;98;100;99;100;100;100;99,task:1;informational:52;navigational:15;commercial:17;transactional:15
+Novidades em Eletrônicos,20,948,25;42;59;61;87;86;84;100;79;69;66;68,task:2;informational:68;navigational:5;commercial:22;transactional:3
+Protidores Auditivos (ouvidos),121,112461,16;19;21;63;53;53;53;100;94;94;94;94,task:5;informational:56;navigational:4;commercial:27;transactional:8
+Nobreak UPS com SMS,20,1086,85;99;99;96;95;99;100;100;60;59;60;59,task:2;informational:52;navigational:13;commercial:25;transactional:8
+Plataformas Vibratórias Energym,21,2408,35;19;32;37;39;40;39;100;84;85;83;84,task:2;informational:65;navigational:10;commercial:13;transactional:10
+Radios de Perú,22,2968,48;62;58;46;41;44;43;90;100;100;99;99,task:2;informational:71;navigational:10;commercial:13;transactional:4
+Poco Pods e Fones de Ouvido Bluetooth,18,757,87;97;100;45;39;41;43;62;45;48;46;47,task:8;informational:63;navigational:2;commercial:19;transactional:8
+Mini Produtos Alimentares,18,516,50;56;57;100;100;96;76;61;56;83;79;79,task:3;informational:52;navigational:4;commercial:32;transactional:9
+Fones de ouvido OEX,23,700,69;86;100;67;67;55;55;65;88;84;84;96,task:2;informational:40;navigational:14;commercial:28;transactional:16
+Metalon e Estruturas Metálicas,23,5403,65;68;68;69;75;76;76;99;100;100;100;100,task:2;informational:77;navigational:6;commercial:12;transactional:3
+Mini Systems com CD,15,866,28;42;49;45;47;40;59;62;49;94;78;100,task:3;informational:33;navigational:38;commercial:22;transactional:4
+Ventiladores Ultra,16,2758,26;32;35;30;64;66;70;77;73;100;95;93,task:2;informational:47;navigational:14;commercial:28;transactional:9
+Celulares com infravermelho,59,14148,38;41;42;69;88;89;89;100;100;99;99;99,task:2;informational:72;navigational:5;commercial:17;transactional:4
+Cavitadores Odontológicos Ultrassônicos,17,509,33;40;41;100;100;100;100;47;48;47;48;47,task:2;informational:69;navigational:5;commercial:12;transactional:12
+Rádios Portáteis Philips,18,1953,87;100;100;54;55;58;58;67;68;68;66;65,task:2;informational:38;navigational:27;commercial:27;transactional:6
+Rádios AM/FM e Apps,75,38176,69;61;63;58;68;68;69;85;100;100;100;100,task:5;informational:64;navigational:5;commercial:17;transactional:9
+Atenuadores de Impacto,18,360,29;58;77;100;82;95;91;72;81;74;74;70,task:2;informational:75;navigational:5;commercial:10;transactional:8
+Cabos coaxiais e conectores de antena,61,36030,29;43;32;49;95;95;95;100;100;100;100;100,task:8;informational:63;navigational:4;commercial:17;transactional:8
+Headsets e Telefones Intelbras,18,805,86;100;100;98;49;51;51;64;56;56;55;55,task:2;informational:58;navigational:12;commercial:15;transactional:13
+Mini sanduicheiras,17,453,63;97;99;87;86;92;93;87;88;100;82;84,task:3;informational:53;navigational:4;commercial:29;transactional:11
+Micra: carros e laboratórios,20,6119,37;88;89;84;98;100;100;94;96;96;96;96,task:5;informational:61;navigational:13;commercial:15;transactional:6
+Rádios de longo alcance e walkie-talkies,18,738,19;25;27;40;55;61;52;55;80;100;97;100,task:2;informational:54;navigational:4;commercial:31;transactional:9
+Bolinhas Magnéticas,22,1631,85;100;100;50;49;53;53;52;53;53;53;53,task:5;informational:64;navigational:5;commercial:16;transactional:10
+Medidores de Cozinha,20,1762,83;92;96;95;85;88;88;86;98;98;98;100,task:2;informational:58;navigational:7;commercial:28;transactional:5
+Wi‑Fi e redes sem fio,107,178076,61;69;60;97;75;75;75;78;100;100;100;100,task:2;informational:82;navigational:4;commercial:11;transactional:1
+Microfones para Reportagem,20,590,79;82;83;84;84;90;100;78;78;79;79;84,task:9;informational:49;navigational:4;commercial:22;transactional:16
+EPON e redes ópticas (OLT/ONU),17,896,72;73;74;87;100;98;98;88;87;88;88;89,task:2;informational:71;navigational:7;commercial:14;transactional:6
+Equipamentos de Rede e Telecomunicações,19,1717,16;19;29;57;57;58;57;62;64;66;92;100,task:2;informational:69;navigational:5;commercial:18;transactional:6
+Equipamentos Airless,18,3036,24;26;27;27;91;92;92;99;100;100;100;100,task:5;informational:68;navigational:5;commercial:14;transactional:8
+comunicação de aparelhos auditivos,15,676,52;61;57;41;50;53;53;100;64;64;72;72,task:5;informational:58;navigational:12;commercial:13;transactional:12
+Radios colombianas en vivo,17,1424,51;54;54;53;51;52;53;100;32;31;31;31,task:5;informational:27;navigational:54;commercial:3;transactional:11
+Marmita Elétrica,18,722,62;78;79;74;75;91;83;100;82;82;89;87,task:5;informational:50;navigational:8;commercial:24;transactional:13
+Hologramas e holografia,24,2932,58;61;59;68;69;70;70;81;100;100;90;91,task:8;informational:81;navigational:3;commercial:5;transactional:3
+Pipetas Eletrônicas,16,213,23;25;29;29;29;29;42;31;31;100;86;86,task:3;informational:60;navigational:11;commercial:19;transactional:7
+Microfones para reuniões e videoconferência,23,1676,37;40;41;51;66;66;66;100;93;93;93;94,task:5;informational:57;navigational:1;commercial:29;transactional:8
+Celulares y Teléfonos,17,7784,18;21;22;88;17;19;17;99;94;94;97;100,task:3;informational:53;navigational:9;commercial:29;transactional:6
+"Fibra Óptica: Cabos, Drops e Bobinas",22,437,51;56;59;35;99;100;100;49;36;36;39;39,task:8;informational:66;navigational:4;commercial:17;transactional:5
+Bloqueadores de som e sinal de vizinhos,47,15258,34;32;45;65;99;100;100;96;96;96;95;95,task:10;informational:69;navigational:3;commercial:10;transactional:8
+Multímetros Analógicos,20,4423,73;82;82;48;42;44;44;100;94;94;95;94,task:7;informational:49;navigational:4;commercial:32;transactional:8
+Placas Vibratórias e Compactação,19,3220,44;49;49;48;47;48;48;99;100;100;100;100,task:5;informational:70;navigational:2;commercial:17;transactional:6
+Fios e Cabos Megatron,16,1216,16;16;17;17;37;20;20;20;20;100;100;89,task:5;informational:53;navigational:15;commercial:17;transactional:10
+Tintas para Fornos e Micro-ondas,35,7422,22;27;29;77;88;89;89;100;99;99;98;98,task:8;informational:53;navigational:6;commercial:21;transactional:12
+Mini fogões e fogareiros,19,782,100;53;54;52;48;51;51;74;56;56;56;55,task:2;informational:63;navigational:5;commercial:19;transactional:11
+Celulares Motorola Tijolo,19,1193,86;99;100;61;61;64;65;73;71;70;69;68,informational:65;navigational:6;commercial:13;transactional:16
+Eletro no Brasil,16,1076,21;31;33;32;64;84;100;82;48;62;77;89,task:7;informational:40;navigational:28;commercial:20;transactional:5
+Tecnologia de Celulares,16,1031,27;43;48;43;45;38;39;100;51;50;59;66,task:3;informational:51;navigational:4;commercial:37;transactional:5
+Tuning de Receptores e Dispositivos de TV,17,1657,68;52;86;77;84;79;79;80;67;67;99;100,task:3;informational:72;navigational:5;commercial:12;transactional:8
+Optoacopladores Ópticos,23,3050,49;47;33;45;90;91;88;100;96;96;96;96,informational:83;navigational:5;commercial:10;transactional:2
+Condensadores e Compactadores McSpadden,19,1497,33;36;36;34;45;46;45;100;86;46;48;47,task:5;informational:68;navigational:9;commercial:15;transactional:3
+Fones de ouvido Inova e acessórios de áudio,29,3676,52;61;61;59;71;71;71;81;97;100;84;84,task:5;informational:40;navigational:19;commercial:23;transactional:13
+Redes de Área Metropolitana (MAN),32,19384,99;93;83;87;86;86;86;99;100;100;100;100,task:2;informational:81;navigational:5;commercial:8;transactional:4
+Osciloscópios Rigol,17,222,79;90;95;92;92;95;93;100;100;100;100;96,task:3;informational:45;navigational:25;commercial:22;transactional:5
+Conversões de Unidades,1822,1069712,100;99;99;98;91;91;91;92;93;93;93;93,task:2;informational:72;navigational:5;commercial:8;transactional:13
+Fones JBL Wave Buds,53,35118,24;25;27;73;70;70;71;80;100;100;100;100,task:2;informational:55;navigational:12;commercial:12;transactional:19
+Fibra Óptica Internet,15,919,3;18;17;33;33;42;13;76;42;57;51;100,task:7;informational:52;navigational:26;commercial:11;transactional:4
+Raios catódicos e tubos de Crookes,21,3196,84;76;77;100;84;84;84;93;88;88;88;88,task:6;informational:81;navigational:5;commercial:7;transactional:1
+Aparelhos e Acessórios de Cozinha,15,545,6;33;44;36;36;39;28;100;85;78;92;70,task:3;informational:60;navigational:9;commercial:18;transactional:10
+Ultracapacitadores,17,8394,21;19;94;19;94;95;95;95;100;100;96;96,task:4;informational:80;navigational:5;commercial:7;transactional:4
+Parábolas e Refletores Parabólicos,20,588,41;42;42;42;66;67;66;100;99;94;94;94,task:2;informational:78;navigational:9;commercial:8;transactional:3
+Microfones de Estúdio,20,410,88;100;100;96;89;95;92;91;54;54;54;54,task:2;informational:42;navigational:3;commercial:43;transactional:10
+Rádios de Segurança,18,653,22;24;23;23;23;23;29;52;34;100;94;100,task:3;informational:47;navigational:9;commercial:29;transactional:12
+Refrigeração e Eletroeletrônicos,16,132,31;35;34;29;29;32;32;26;26;100;28;27,task:5;informational:45;navigational:4;commercial:37;transactional:9
+Microscópios Infantis,15,3641,84;99;100;49;50;53;54;97;96;97;97;97,task:5;informational:46;navigational:2;commercial:27;transactional:20
+Fones de Ouvido e Headphones,767,484056,43;43;45;59;80;80;80;88;100;100;100;100,task:5;informational:45;navigational:3;commercial:38;transactional:9
+Martelos vibratórios,17,79,39;50;50;46;38;37;41;100;90;40;40;39,task:4;informational:64;navigational:4;commercial:21;transactional:7
+Fones Redragon Diomedes,15,100,7;9;8;7;6;7;7;6;100;11;10;7,task:3;informational:44;navigational:18;commercial:15;transactional:20
+Frigideiras Elétricas,17,1528,84;99;100;99;90;90;90;94;48;47;46;46,task:2;informational:46;navigational:4;commercial:35;transactional:13
+Microscopia capilar,21,416,88;100;100;60;54;56;56;56;57;60;58;59,task:2;informational:78;navigational:5;commercial:11;transactional:4
+Melhoria de Internet e Sinal Wi‑Fi,103,23233,87;90;94;95;97;97;97;95;100;100;100;100,task:2;informational:73;navigational:5;commercial:17;transactional:3
+Equipamento musical e áudio,17,384,19;57;67;55;55;61;58;78;80;97;100;91,task:2;informational:70;navigational:5;commercial:15;transactional:8
+Modelos de Tecnologia,15,874,7;21;21;19;50;46;38;100;35;21;20;22,task:3;informational:70;navigational:5;commercial:15;transactional:7
+Central multimídia 1 din,19,823,93;100;61;85;86;94;89;92;81;84;86;86,task:1;informational:61;navigational:5;commercial:21;transactional:12
+Transdutores de Ultrassom Philips,18,2791,54;67;100;98;78;80;78;77;78;78;79;78,task:2;informational:43;navigational:15;commercial:23;transactional:17
+Mega Elétrica e Eletro,15,257,32;81;95;79;82;75;62;47;48;86;100;93,task:3;informational:18;navigational:48;commercial:19;transactional:12
+Instrumentos de Medição e Instrumentação,15,620,78;99;100;94;83;88;89;90;92;91;92;91,task:10;informational:41;navigational:23;commercial:14;transactional:12
+Antenas digitais para Mercado Livre,17,292,48;100;100;83;81;62;63;55;56;63;59;60,task:5;informational:21;navigational:41;commercial:10;transactional:23
+Pedais Mini Universo,15,79,13;14;16;64;59;100;77;24;31;23;25;26,task:3;informational:52;navigational:18;commercial:17;transactional:10
+Microfones sem fio e lapela para PC,19,807,58;70;69;67;72;74;76;72;97;100;100;97,task:7;informational:58;navigational:2;commercial:22;transactional:11
+Secadoras Midea,19,2500,40;49;49;39;40;45;45;87;70;76;91;100,task:5;informational:51;navigational:10;commercial:24;transactional:10
+Karsect microfones sem fio,16,258,76;92;96;94;96;96;96;100;99;98;97;96,task:7;informational:32;navigational:7;commercial:43;transactional:11
+Line Array e Sistemas de Som,25,3635,60;67;66;72;98;100;100;88;88;88;89;89,task:5;informational:55;navigational:2;commercial:29;transactional:9
+Modems e Conectividade,21,1873,71;71;77;80;79;78;84;100;90;78;78;78,task:2;informational:78;navigational:6;commercial:10;transactional:4
+air fryers e fornos elétricos,15,658,35;40;42;38;42;41;40;100;93;51;53;57,task:5;informational:73;navigational:3;commercial:12;transactional:7
+Arquitetura de Microsserviços,34,25041,37;39;39;41;48;49;49;100;100;100;100;100,task:5;informational:76;navigational:5;commercial:11;transactional:3
+Tecnopeças e Ferramentas,15,99,54;92;100;79;79;92;61;62;64;71;69;71,task:3;informational:25;navigational:33;commercial:24;transactional:15
+Misteiras e Eletrodomésticos,16,4024,64;90;96;96;94;96;98;98;100;100;100;99,task:7;informational:45;navigational:11;commercial:30;transactional:7
+HIFU e ultrassom estéticos,33,5386,60;70;72;83;89;90;90;94;100;100;100;100,task:5;informational:69;navigational:2;commercial:18;transactional:6
+Mouse sem fio Dell WM118,15,241,22;51;62;37;35;40;35;100;66;53;48;61,task:3;informational:39;navigational:28;commercial:12;transactional:18
+Rádios Vintage e Retrô,22,3104,85;100;100;59;56;60;61;53;53;53;53;52,task:2;informational:53;navigational:4;commercial:34;transactional:7
+corpo elétrico,15,196,22;23;25;31;34;100;72;31;32;32;32;32,task:5;informational:61;navigational:5;commercial:12;transactional:17
+Conexão de Fibra,16,663,7;24;30;10;12;24;23;54;37;97;86;100,task:7;informational:61;navigational:4;commercial:21;transactional:7
+Transmissores e sensores de nível ultrassônico,18,682,43;43;44;72;72;72;72;100;89;90;90;90,task:2;informational:58;navigational:4;commercial:32;transactional:4
+Ultrassom Sonosite e Sondas,16,121,62;69;71;64;69;70;71;100;96;73;73;73,task:7;informational:39;navigational:32;commercial:11;transactional:11
+Relógios com Rádio,19,2614,53;77;80;79;87;94;96;99;100;100;100;99,task:3;informational:50;navigational:12;commercial:19;transactional:16
+Fritadeiras MetalCubas,17,494,79;97;99;95;89;94;96;98;100;100;100;100,task:1;informational:23;navigational:48;commercial:17;transactional:11
+Rádio Simples,21,789,68;100;93;84;86;91;92;82;89;88;80;79,task:5;informational:50;navigational:20;commercial:14;transactional:11
+Secadores Panasonic Nanocare,22,1888,26;34;39;37;49;53;48;73;86;100;81;81,informational:68;navigational:15;commercial:10;transactional:7
+Fornos com convecção,54,12061,40;47;48;57;86;88;88;100;99;99;99;99,task:5;informational:62;navigational:4;commercial:26;transactional:3
+Ott GPON e fibra Ótica,18,5667,74;77;78;80;98;99;99;100;100;100;100;100,task:2;informational:76;navigational:5;commercial:14;transactional:3
+Headsets e Headphones em Português,27,3443,35;41;44;57;74;75;75;96;100;99;99;100,task:8;informational:71;navigational:2;commercial:11;transactional:8
+Multi H e 5G - Dispositivos,16,446,19;64;78;66;55;56;44;100;59;69;50;48,task:7;informational:57;navigational:8;commercial:24;transactional:4
+Telefone sem fio Intelbras,65,23609,31;34;38;52;66;66;66;100;82;82;82;82,task:2;informational:52;navigational:7;commercial:23;transactional:16
+Multimídia Multilaser,27,2541,44;63;75;75;68;71;72;83;100;100;85;88,task:2;informational:38;navigational:29;commercial:20;transactional:11
+Vassouras Miniatura,16,102,29;36;40;36;37;38;59;100;83;40;38;39,task:7;informational:58;navigational:1;commercial:30;transactional:4
+Cabos Elétricos Multiplexados,23,4448,19;22;22;24;38;39;39;100;99;99;100;100,task:1;informational:69;navigational:4;commercial:22;transactional:4
+equipamentos de áudio e mesas de som,18,701,71;97;100;94;95;100;92;80;82;82;82;89,task:7;informational:55;navigational:4;commercial:20;transactional:14
+Microfones AKG Profissionais,26,2752,62;84;88;85;84;90;92;97;100;99;100;99,task:8;informational:39;navigational:15;commercial:18;transactional:20
+microfones ME6S,16,148,42;73;78;80;67;71;69;45;44;74;85;100,task:10;informational:46;navigational:4;commercial:32;transactional:8
+Fones de Ouvido Philco,27,3507,87;99;100;100;46;47;48;43;47;46;47;46,task:5;informational:53;navigational:10;commercial:19;transactional:13
+Geladeiras compactas Multilaser,16,314,17;41;43;19;18;19;17;16;17;100;91;18,task:3;informational:57;navigational:1;commercial:26;transactional:13
+Torquímetros Mini,15,25,12;35;40;24;86;100;29;15;18;14;14;14,task:10;informational:47;navigational:4;commercial:28;transactional:11
+Calcinha de Microfibra,23,3455,77;91;93;90;63;63;63;100;100;100;100;100,task:10;informational:38;navigational:2;commercial:36;transactional:14
+Rádios Light FM,18,1949,67;93;96;89;91;98;100;97;100;100;98;97,task:3;informational:27;navigational:57;commercial:6;transactional:7
+Mega Máquinas e Acessórios,16,189,47;55;55;100;64;65;61;60;55;53;56;60,task:3;informational:27;navigational:45;commercial:17;transactional:8
+telas e displays,16,2117,21;31;32;31;94;100;99;95;95;81;78;96,task:3;informational:68;navigational:4;commercial:22;transactional:3
+Transistores e Eletrônica,59,43906,72;75;94;89;91;91;91;98;100;100;100;100,task:2;informational:78;navigational:6;commercial:10;transactional:4
+Microagulhamento e Séruns,22,1418,23;26;50;63;52;52;52;68;100;100;61;61,task:5;informational:48;navigational:3;commercial:35;transactional:9
+Fones de Ouvido Rosa,19,1426,50;72;75;71;65;69;70;71;100;100;67;68,task:10;informational:44;navigational:4;commercial:30;transactional:12
+Interfones Amelco,16,189,88;99;96;99;96;99;100;94;93;93;93;96,task:3;informational:49;navigational:18;commercial:15;transactional:15
+Mundo Net,16,989,21;48;67;58;63;65;60;55;63;74;81;100,task:3;informational:42;navigational:35;commercial:12;transactional:8
+Casas Inteligentes Vivo,18,1684,56;75;72;55;52;52;47;43;44;80;100;85,task:2;informational:42;navigational:35;commercial:11;transactional:10
+Relógios Inteligentes Technos,22,2362,84;99;100;64;63;67;68;69;73;73;74;73,task:2;informational:51;navigational:17;commercial:13;transactional:17
+Mantas Térmicas Estéticas,28,10282,15;19;20;77;98;98;98;99;100;100;100;100,task:8;informational:36;navigational:9;commercial:33;transactional:14
+Aparelhos de áudio e acessórios Magalu,16,219,18;97;100;57;56;85;70;21;29;33;35;35,task:3;informational:24;navigational:51;commercial:11;transactional:11
+Iscas Eletrônicas,18,298,56;32;34;88;85;86;85;86;88;93;98;100,informational:49;navigational:31;commercial:16;transactional:4
+Circuladores de Ar Mondial,17,419,70;88;94;89;83;89;87;91;96;100;96;97,task:3;informational:45;navigational:18;commercial:28;transactional:6
+Interativa: rádios e escolas,26,6491,47;55;60;68;67;68;69;100;61;61;61;60,task:8;informational:61;navigational:9;commercial:10;transactional:12
+Repetidores de Sinal Wi‑Fi,71,47953,21;22;29;83;93;94;93;99;100;100;100;100,task:7;informational:63;navigational:2;commercial:22;transactional:6
+Telerádio Brasil,16,306,64;83;87;78;78;76;77;100;99;80;81;87,task:3;informational:29;navigational:41;commercial:22;transactional:5
+Micro-ondas Electrolux MEF28,20,845,27;46;58;49;46;47;46;88;84;100;96;97,task:2;informational:46;navigational:19;commercial:29;transactional:4
+Cortinas Wave e Trilhos,19,3130,32;43;44;49;97;99;100;100;99;98;98;98,task:8;informational:49;navigational:9;commercial:25;transactional:9
+Fones de Ouvido Tranya,21,966,72;100;100;97;86;91;92;83;79;79;80;80,task:1;informational:31;navigational:43;commercial:16;transactional:9
+Difusores e Aromatizadores Elétricos,64,23535,24;26;28;47;100;100;100;83;70;70;70;70,task:2;informational:47;navigational:7;commercial:34;transactional:10
+Purificadores de Ar Verdes,16,285,8;41;39;32;99;26;21;17;98;100;42;47,task:10;informational:43;navigational:4;commercial:32;transactional:11
+Tanita Bioimpedância e Balanças,23,1472,73;80;80;79;52;54;54;100;75;75;72;71,task:5;informational:53;navigational:9;commercial:27;transactional:6
+Micro-ondas LG MS3095LR,15,231,9;27;29;28;49;44;30;64;75;100;79;83,task:3;informational:47;navigational:36;commercial:10;transactional:4
+Pintura Airless Portátil,17,960,67;98;100;93;86;91;91;87;88;89;85;84,task:3;informational:50;navigational:14;commercial:18;transactional:15
+Brinquedos Sexuais Pequenos,16,1171,68;86;88;86;86;93;94;97;100;100;100;99,task:3;informational:60;navigational:1;commercial:25;transactional:11
+Sensores ultrassônicos HC-SR04,38,11096,21;27;39;54;67;69;69;100;97;97;97;97,task:2;informational:70;navigational:5;commercial:19;transactional:4
+Microscopia de Contraste de Fase,18,599,94;86;87;100;100;100;100;93;88;88;88;88,task:2;informational:54;navigational:4;commercial:36;transactional:4
+Redes Mesh Wi‑Fi,94,79951,23;30;45;85;99;99;99;100;100;100;100;100,task:3;informational:67;navigational:5;commercial:18;transactional:7
+Combiwave no Brasil,19,8459,16;19;19;13;86;87;87;100;100;99;99;98,task:2;informational:50;navigational:30;commercial:8;transactional:10
+Testes de Audição e Medidores de Som,34,4691,73;79;83;83;77;79;81;100;100;100;98;98,task:2;informational:68;navigational:5;commercial:18;transactional:7
+Transformadores Minuzzi,15,137,67;91;97;90;80;81;82;85;86;100;90;91,task:3;informational:18;navigational:58;commercial:16;transactional:5
+Cortinas de ar Springer,15,357,58;76;77;93;93;82;74;74;93;100;93;99,task:2;informational:52;navigational:9;commercial:33;transactional:4
+Espectrómetros,16,832,36;42;43;96;96;96;100;93;93;93;93;93,task:8;informational:57;navigational:5;commercial:12;transactional:18
+Fones Pro 4,23,3737,16;21;22;25;67;68;72;92;88;88;98;100,task:3;informational:44;navigational:22;commercial:23;transactional:8
+Toalhas de Microfibra,27,9699,69;76;77;37;41;42;42;99;100;100;100;100,task:2;informational:52;navigational:9;commercial:30;transactional:7
+Radios Motobras,22,3491,100;53;53;52;50;54;55;87;92;92;89;88,task:5;informational:47;navigational:15;commercial:22;transactional:11
+Multimídia Cobalt,19,404,17;76;100;52;66;51;33;39;40;65;58;62,task:4;informational:46;navigational:18;commercial:16;transactional:16
+Mundo LED,15,281,59;70;73;70;100;95;94;87;88;96;88;88,task:3;informational:35;navigational:40;commercial:14;transactional:8
+Conexão Rural,21,1203,35;43;44;45;64;84;73;100;78;79;84;89,task:1;informational:51;navigational:24;commercial:18;transactional:6
+Fibra óptica no Brasil,16,800,29;71;62;61;61;50;44;68;72;76;91;100,task:1;informational:72;navigational:10;commercial:13;transactional:4
+Rádio Mais FM Brasil,23,3148,63;90;98;93;91;96;97;96;100;100;100;99,task:3;informational:47;navigational:36;commercial:9;transactional:5
+Microfones Kadosh,16,57,90;93;99;99;99;100;99;99;100;100;100;100,task:3;informational:32;navigational:35;commercial:19;transactional:11
+Minuteria Eletrônica e Componentes,22,1262,31;32;32;46;99;100;100;38;44;45;45;45,task:2;informational:57;navigational:18;commercial:19;transactional:4
+Fones com Cancelamento de Ruído,193,114687,20;18;22;62;91;91;91;100;100;100;100;100,task:5;informational:55;navigational:4;commercial:32;transactional:4
+Câmeras Térmicas (Infravermelho),44,22374,16;20;21;78;95;95;95;100;100;100;100;100,task:2;informational:59;navigational:7;commercial:20;transactional:12
+Ultrassom Odontológico e Limpeza Ultrassônica,30,8112,14;20;30;94;43;45;45;95;100;100;100;100,task:2;informational:70;navigational:4;commercial:20;transactional:4
+Bloqueadores de Sinal,22,2119,30;34;39;58;73;74;74;94;100;100;100;100,task:1;informational:71;navigational:5;commercial:16;transactional:7
+Misturadores Portáteis e Mini,31,7816,91;97;100;100;49;50;50;56;57;57;57;56,task:3;informational:53;navigational:4;commercial:27;transactional:13
+Mini CNC e Fresadoras,15,340,73;85;88;82;81;84;100;86;88;100;98;98,task:3;informational:63;navigational:4;commercial:22;transactional:8
+Radiomaster: rádios e radiologia odontológica,17,1608,88;99;100;100;82;86;85;93;68;68;63;62,task:5;informational:64;navigational:16;commercial:9;transactional:6
+Cabos elétricos e componentes,19,1560,34;41;39;86;86;86;86;100;100;96;96;100,task:3;informational:60;navigational:7;commercial:25;transactional:5
+Fibra GPON/XG-PON,20,777,87;85;80;77;77;79;84;68;70;100;89;70,task:4;informational:80;navigational:5;commercial:7;transactional:4
+Cabelo com Ondas,20,2341,48;52;53;45;46;47;47;99;100;99;99;99,task:5;informational:75;navigational:5;commercial:10;transactional:5
+Roteadores Mesh ZTE,21,1264,24;26;26;39;45;57;26;60;32;42;47;100,task:2;informational:68;navigational:5;commercial:20;transactional:5
+Bivolt Elétrico,15,188,40;55;57;63;61;100;75;50;52;54;54;57,task:3;informational:63;navigational:8;commercial:19;transactional:7
+Toques de Celular,28,4489,23;32;56;69;98;100;96;94;93;88;97;98,task:2;informational:71;navigational:10;commercial:10;transactional:7
+Roteadores Mikrotik HAP Lite,18,604,35;36;36;43;70;71;71;72;99;100;99;99,task:2;informational:66;navigational:20;commercial:10;transactional:2
+Física Quântica,94,74970,65;90;92;95;98;98;98;99;100;100;100;100,task:8;informational:79;navigational:5;commercial:5;transactional:3
+Aspiradores de Pó Silenciosos,31,7353,17;23;23;45;81;83;83;98;100;100;100;100,task:5;informational:58;navigational:4;commercial:27;transactional:6
+Repetidores Multilaser,26,1802,40;42;66;90;86;88;87;76;100;100;100;100,task:2;informational:58;navigational:15;commercial:16;transactional:9
+Multicabos e Cabos Elétricos,16,419,66;82;80;76;91;97;95;99;100;88;89;89,task:3;informational:60;navigational:7;commercial:18;transactional:12
+Casas Inteligentes e Tecnologia,16,870,64;86;100;85;85;88;81;85;82;66;66;66,task:2;informational:72;navigational:9;commercial:11;transactional:6
+Eletrodomésticos Havan,21,2021,83;100;54;63;63;67;68;60;58;56;57;57,task:1;informational:26;navigational:41;commercial:9;transactional:23
+Tecnologia e eletrodomésticos no Brasil,16,774,36;64;71;65;79;67;83;100;90;88;83;76,task:8;informational:73;navigational:3;commercial:12;transactional:4
+GSM e Tecnologia Móvel,29,22457,75;63;65;43;64;65;65;99;100;100;100;100,task:2;informational:71;navigational:7;commercial:17;transactional:3
+SMS resistencias,15,62,83;86;90;90;90;90;99;100;96;97;96;97,task:7;informational:48;navigational:33;commercial:7;transactional:5
+Áudio e Som,17,278,55;57;58;57;100;98;97;51;43;44;43;40,task:8;informational:68;navigational:5;commercial:14;transactional:5
+Chamadas e Ligações,48,39565,20;82;98;100;72;72;72;84;86;86;86;86,task:5;informational:65;navigational:14;commercial:10;transactional:6
+Ultrassom Industrial Brasil,18,637,46;48;51;49;49;52;50;99;99;100;100;99,task:3;informational:61;navigational:15;commercial:14;transactional:7
+Tablets 5G e Chocolate,19,3259,43;54;55;27;73;74;75;100;77;82;88;86,task:2;informational:59;navigational:5;commercial:26;transactional:8
+Fones Bluetooth i12,34,10152,40;43;41;46;89;90;90;100;98;98;98;98,task:2;informational:58;navigational:4;commercial:28;transactional:8
+Placas de Indução e Fogões,17,942,44;51;43;76;74;74;74;96;86;89;78;100,task:5;informational:58;navigational:4;commercial:24;transactional:9
+Celulares e Eletrônicos,15,455,3;59;55;43;40;100;34;37;23;39;35;29,task:3;informational:45;commercial:47;transactional:5
+Rádios automotivos 1 DIN,17,108,64;81;100;97;95;92;89;84;79;69;67;68,task:13;informational:36;navigational:4;commercial:30;transactional:17
+Headsets para Telemarketing,22,2246,39;51;52;88;91;95;93;100;83;82;82;82,task:2;informational:43;navigational:4;commercial:42;transactional:9
+Sirene Sem Fio e Alarmes,19,186,34;48;47;100;100;83;63;58;54;58;58;80,task:7;informational:57;navigational:5;commercial:18;transactional:13
+Sistemas de Celular,15,362,15;43;81;71;74;34;61;100;66;81;66;31,task:10;informational:60;navigational:12;commercial:4;transactional:14
+Fones Bluetooth M30 (Mpow),15,108,6;28;36;44;77;92;100;65;44;23;30;21,task:3;informational:64;navigational:18;commercial:12;transactional:3
+Fones de ouvido i2go,20,2324,45;49;50;27;100;95;95;87;78;78;81;84,task:2;informational:45;navigational:28;commercial:12;transactional:13
+Batedeiras Planetárias,104,62972,55;57;58;81;100;100;100;98;96;96;96;96,task:4;informational:33;navigational:2;commercial:39;transactional:22
+Umidificadores de ar Multilaser,16,471,71;100;100;97;40;45;45;48;58;56;45;45,task:7;informational:34;navigational:5;commercial:29;transactional:25
+Aparelhos Auditivos,103,67219,17;21;24;72;85;85;85;100;71;71;71;71,task:2;informational:48;navigational:4;commercial:38;transactional:8
+Cones de Alto-Falante,17,263,89;100;95;93;93;95;94;78;78;82;86;87,task:5;informational:50;navigational:8;commercial:31;transactional:6
+antenas para onix,15,64,16;31;32;28;24;72;100;20;21;27;25;22,task:7;informational:49;navigational:5;commercial:25;transactional:14
+Ruídos na Comunicação,42,10134,90;95;96;88;100;100;100;86;86;86;86;86,task:7;informational:79;navigational:5;commercial:5;transactional:4
+Tecnologia de Áudio,16,675,46;72;79;72;64;68;68;100;66;66;75;81,task:7;informational:51;navigational:11;commercial:21;transactional:10
+Mini Fornos Elétricos Portáteis,17,2195,69;91;94;90;88;94;95;98;100;97;97;95,task:7;informational:45;navigational:4;commercial:33;transactional:11
+Panos de Microfibra para Limpeza,25,15872,31;35;36;81;97;98;99;100;99;99;99;98,task:5;informational:66;navigational:2;commercial:22;transactional:5
+Arandelas de Parede Recarregáveis,15,272,34;93;100;45;55;51;78;70;68;51;50;51,task:3;informational:54;navigational:4;commercial:29;transactional:10
+Miniaturas de Cozinha,15,342,68;100;100;98;86;90;91;87;87;91;81;82,task:3;informational:63;navigational:11;commercial:19;transactional:4
+Sinal 500 - Antenas,17,4202,24;39;36;30;90;91;93;100;97;90;90;90,task:5;informational:54;navigational:19;commercial:19;transactional:3
+Fones de ouvido Dell,19,722,53;80;82;76;71;77;77;100;84;83;85;86,task:3;informational:47;navigational:20;commercial:14;transactional:16
+Cinoy Multimídia,16,454,20;87;72;93;93;63;54;100;95;64;64;64,task:5;informational:43;navigational:29;commercial:20;transactional:3
+Persianas Celulares,17,1461,23;31;24;24;45;46;40;57;100;98;82;82,task:1;informational:59;navigational:4;commercial:30;transactional:6
+Tripés para Microfones,17,347,58;69;70;66;83;89;89;85;90;100;98;77,task:5;informational:54;navigational:5;commercial:27;transactional:9
+Áudio automotivo banda 8000,17,187,71;83;87;100;95;96;75;78;78;73;74;73,task:4;informational:42;navigational:27;commercial:23;transactional:4
+Pinceles Antiestáticos para Electrónica,20,3419,21;26;27;27;98;99;99;97;100;99;99;99,task:8;informational:52;navigational:1;commercial:35;transactional:4
+Termocicladores de PCR,18,1492,23;26;19;19;98;100;99;96;95;95;95;95,task:2;informational:78;navigational:5;commercial:13;transactional:2
+Ultrassom Portátil Clarius,17,539,35;100;93;70;58;59;59;55;94;91;62;62,task:7;informational:41;navigational:26;commercial:18;transactional:8
+Conexão e Telecomunicações no Brasil,30,17402,38;44;45;45;46;46;47;53;100;100;100;100,task:5;informational:70;navigational:8;commercial:13;transactional:4
+Repetidores TP-Link,18,826,87;99;100;98;70;73;73;77;87;82;80;80,task:4;informational:57;navigational:8;commercial:19;transactional:12
+Ferramentas oscilantes,24,2737,85;98;100;98;94;96;97;99;99;99;100;99,task:2;informational:65;navigational:5;commercial:15;transactional:13
+Difusores e essências Avatim,15,399,72;89;89;94;90;90;86;95;100;94;95;100,task:3;informational:21;navigational:45;commercial:9;transactional:22
+Sondas de ultrassom convexas,17,3224,75;80;80;100;84;85;85;85;80;80;81;80,task:2;informational:66;navigational:3;commercial:15;transactional:14
+Microfones Samson,16,108,45;49;53;47;47;48;100;42;42;42;42;42,informational:47;navigational:16;commercial:32;transactional:5
+Fanvil: telefones IP,16,218,86;88;89;90;90;95;100;93;86;86;86;90,task:4;informational:63;navigational:10;commercial:16;transactional:7
+Cabo de Fibra Óptica,19,1056,37;38;39;50;50;50;51;100;100;96;96;96,task:3;informational:57;navigational:4;commercial:22;transactional:14
+Amplificadores e cubos para baixo,29,8057,88;98;100;99;45;46;47;98;97;96;96;95,task:5;informational:50;navigational:1;commercial:36;transactional:8
+Secadores de cabelo com difusor,18,3788,35;44;44;44;22;22;24;98;100;99;100;99,task:3;informational:50;navigational:4;commercial:32;transactional:11
+5G: O que é e como funciona,19,4332,15;15;15;14;21;21;17;46;100;48;49;50,task:4;informational:85;navigational:5;commercial:5;transactional:1
+Aiwa Áudio e Mini System,23,2571,58;66;73;90;87;88;88;95;98;97;100;100,task:3;informational:52;navigational:24;commercial:13;transactional:8
+iPhone mini,74,86423,15;16;25;77;73;73;73;100;84;84;84;84,task:2;informational:59;navigational:9;commercial:20;transactional:10
+Fios Metálicos,17,342,22;23;26;70;70;95;79;51;51;100;90;93,task:8;informational:63;navigational:4;commercial:17;transactional:8
+Esferas de Dyson,31,15654,90;94;100;99;87;89;88;84;85;85;86;86,task:2;informational:84;navigational:5;commercial:5;transactional:4
+Churrasqueiras Elétricas Multilaser,17,222,20;47;62;39;37;25;24;100;79;31;28;28,task:7;informational:33;navigational:38;commercial:13;transactional:9
+Turbidímetros Portáteis,18,2059,25;30;30;30;100;100;100;97;98;98;99;98,task:2;informational:62;navigational:4;commercial:26;transactional:6
+Ultrawave Bauru - lojas e serviços,18,784,27;30;30;20;20;32;28;100;24;24;24;24,task:2;informational:58;navigational:33;commercial:5;transactional:2
+Tomate e Mesas de Som,16,244,8;34;58;49;38;23;18;100;81;31;82;45,task:7;informational:55;navigational:5;commercial:15;transactional:18
+Cuscuz no Micro-ondas,36,39302,14;16;17;54;58;58;58;100;78;78;78;78,task:2;informational:78;navigational:5;commercial:12;transactional:3
+Protoboards compactas,15,47,58;56;67;88;93;100;77;74;75;90;86;84,task:3;informational:67;navigational:5;commercial:18;transactional:7
+Centrais multimídia automotivas,20,1007,54;61;63;51;100;100;100;91;91;88;88;88,task:5;informational:41;navigational:3;commercial:44;transactional:7
+Lava-louças e lavadoras compactas,24,929,73;100;71;62;68;56;55;73;66;76;64;69,task:2;informational:65;navigational:5;commercial:22;transactional:6
+Cabines acústicas e audiometria,19,566,92;100;100;51;53;55;56;64;53;52;52;52,task:6;informational:55;navigational:4;commercial:28;transactional:7
+Teleféricos Rápidos e Equipamentos,19,2193,75;79;79;84;83;85;85;100;94;90;84;84,task:2;informational:64;navigational:13;commercial:13;transactional:8
+Fones M25,20,2112,23;28;28;31;67;72;64;100;92;80;78;81,task:2;informational:46;navigational:30;commercial:11;transactional:11
+Acesso sem fio fixa (FWA) e 5G,22,3319,87;96;96;81;93;94;93;97;93;95;96;100,task:8;informational:63;navigational:4;commercial:19;transactional:6
+TVs e Eletrônica,16,966,35;56;61;50;63;60;59;100;53;51;73;70,task:2;informational:58;navigational:9;commercial:23;transactional:8
+Dispositivos de escuta e gravação,41,8259,24;34;33;36;56;59;58;94;100;100;100;99,task:2;informational:58;navigational:4;commercial:25;transactional:11
+Eletrônica em Geral,17,160,28;31;32;29;29;100;66;41;38;35;35;44,task:10;informational:45;navigational:3;commercial:37;transactional:5
+Imãs de Neodímio,148,153025,42;44;84;54;64;64;64;99;100;100;100;100,task:3;informational:71;navigational:6;commercial:14;transactional:6
+Rádio Integração FM,29,4468,73;93;100;96;85;88;88;89;91;90;90;90,task:7;informational:46;navigational:26;commercial:13;transactional:8
+Torradeiras elétricas,37,12648,100;45;49;52;71;71;71;61;62;62;62;62,task:2;informational:35;navigational:4;commercial:40;transactional:19
+Difusores Doterra e Aromas,20,2305,75;99;100;89;86;92;99;91;92;92;92;91,task:2;informational:59;navigational:5;commercial:16;transactional:18
+Central de Cabos,15,516,49;83;76;71;71;100;82;77;77;76;77;95,task:2;informational:18;navigational:64;commercial:10;transactional:6
+Mundo dos Smartphones,15,827,31;83;92;75;75;61;60;100;70;60;58;100,task:7;informational:48;navigational:4;commercial:26;transactional:15
+Relógios Mibro C2,16,139,33;80;81;81;93;100;90;50;49;53;54;52,informational:73;navigational:15;commercial:10;transactional:2
+Rádio Nova Onda FM - Brasil,16,517,68;99;100;81;70;80;82;79;78;79;76;75,task:5;informational:41;navigational:41;commercial:8;transactional:5
+Fornos Elétricos,231,147415,42;40;41;53;100;100;100;97;79;79;79;79,task:2;informational:40;navigational:4;commercial:39;transactional:15
+Mercados de Eletrônicos,15,3933,59;82;87;76;77;80;79;100;94;94;100;93,task:3;informational:37;navigational:17;commercial:31;transactional:12
+Rádios Estereosom Brasil,16,1140,67;88;90;89;91;96;97;96;98;98;100;100,task:3;informational:37;navigational:36;commercial:13;transactional:11
+Soldagem com eletrodos (BR),18,557,80;57;63;47;47;38;37;74;100;98;99;98,task:2;informational:63;navigational:4;commercial:26;transactional:5
+Intercambiadores de calor,17,488,77;99;100;96;75;75;75;91;91;91;91;91,task:5;informational:75;navigational:6;commercial:10;transactional:4
+Pizza no Micro-ondas,44,9775,27;30;30;45;66;66;67;100;99;99;99;99,task:2;informational:80;navigational:5;commercial:8;transactional:5
+Acessórios automotivos com antenas de tubarão,25,7344,15;19;22;26;45;47;47;97;100;100;99;99,informational:58;navigational:2;commercial:20;transactional:20
+Telesintese,16,599,13;42;45;29;39;43;30;35;96;100;28;28,task:7;informational:51;navigational:30;transactional:12
+Rádios automotivos e rádios de moto,19,1683,85;90;91;32;96;100;100;43;46;46;45;45,task:2;informational:56;navigational:4;commercial:21;transactional:17
+Intercomunicadores de Capacete,53,34624,21;18;19;81;86;87;87;98;100;100;100;100,task:5;informational:50;navigational:5;commercial:27;transactional:13
+Conectores de Fibra Óptica,39,7569,41;47;47;38;80;81;82;95;100;100;100;100,task:2;informational:72;navigational:5;commercial:14;transactional:7
+Fones de Ouvido Koss,20,2820,65;75;76;75;75;78;78;92;100;100;97;97,task:2;informational:48;navigational:22;commercial:25;transactional:3
+Fones AKG,25,6515,82;89;98;97;93;95;95;99;100;100;100;98,task:2;informational:44;navigational:13;commercial:19;transactional:22
+Microfones Amazon,15,165,63;71;81;93;91;100;85;67;66;82;83;88,task:3;informational:25;navigational:39;commercial:11;transactional:22
+Air Wick e difusores elétricos,22,1924,45;59;60;86;94;97;100;93;77;76;73;72,task:8;informational:43;navigational:16;commercial:21;transactional:12
+Medidores de campo magnético e elétrico,19,772,33;77;74;38;32;32;31;99;99;100;100;100,task:5;informational:57;navigational:4;commercial:28;transactional:6
+Mantas elétricas de aquecimento,22,1800,56;62;61;34;34;37;37;100;93;93;92;92,task:5;informational:42;navigational:9;commercial:35;transactional:9
+Controles Remotos Inteligentes,45,7366,20;28;28;58;95;97;98;100;93;93;94;94,task:10;informational:50;navigational:5;commercial:27;transactional:8
+Tupperware para Microondas,19,886,92;100;49;59;92;95;87;79;79;78;76;75,task:3;informational:50;navigational:5;commercial:26;transactional:16
+Mibosat: receptores e controles,22,1516,91;95;94;93;100;100;100;100;100;98;99;100,task:2;informational:75;navigational:5;commercial:13;transactional:5
+Fones de Ouvido WB,15,585,16;38;60;40;75;49;34;73;60;61;47;100,task:7;informational:36;navigational:26;commercial:19;transactional:12
+gravadores de rádio,16,244,78;90;89;86;90;97;92;100;100;96;97;99,task:7;informational:47;navigational:11;commercial:24;transactional:11
+Nanofibras e Eletrofiação,18,351,17;43;42;61;59;100;63;92;71;32;28;15,task:4;informational:80;navigational:5;commercial:7;transactional:4
+Isolamento termoacústico,21,1139,18;19;16;40;64;100;93;49;56;55;77;80,task:5;informational:73;navigational:5;commercial:15;transactional:2
+Processadores e Trituradores Mondial,16,508,69;76;100;89;55;55;38;40;38;40;41;50,task:7;informational:62;navigational:5;commercial:19;transactional:7
+Inversores de Frequência,44,22161,30;30;31;79;99;99;99;99;100;100;100;100,task:2;informational:76;navigational:5;commercial:13;transactional:4
+Antenas Globo e TV por satélite,20,1214,100;97;92;66;72;72;74;85;83;73;71;71,task:5;informational:71;navigational:5;commercial:12;transactional:7
+Conectores Banana,21,1936,70;80;81;45;76;80;80;88;99;98;100;100,task:6;informational:60;navigational:5;commercial:20;transactional:9
+Misturadores elétricos,15,263,22;54;65;48;55;50;39;100;99;30;30;30,task:7;informational:46;navigational:4;commercial:29;transactional:14
+Antenas de Satélite e Internet,19,1273,32;39;38;94;95;95;94;37;98;100;98;100,task:3;informational:67;navigational:2;commercial:20;transactional:8
+Relés de estado sólido,28,5213,18;21;21;53;98;99;99;97;100;100;100;100,task:2;informational:78;navigational:5;commercial:11;transactional:4
+Bahia Eletro Receptores,16,358,28;68;68;31;33;49;100;32;31;48;49;49,task:3;informational:32;navigational:44;commercial:15;transactional:6
+Haylou fones de ouvido,21,5588,76;88;89;87;60;63;63;71;69;69;68;100,task:2;informational:64;navigational:10;commercial:15;transactional:9
+Ventiladores Ventisol e similares,17,817,41;59;60;55;54;52;63;81;57;58;80;100,task:3;informational:46;navigational:19;commercial:14;transactional:18
+Beleza com Nanotecnologia,19,1128,25;60;56;62;72;73;55;33;42;100;90;82,task:5;informational:70;navigational:4;commercial:18;transactional:3
+Micro-ondas Brastemp 20L,22,2838,83;98;100;87;78;81;83;75;73;75;76;72,task:5;informational:42;navigational:16;commercial:21;transactional:16
+Fones Goldentec e acessórios,15,95,19;20;24;24;24;23;23;94;100;35;33;37,task:3;informational:36;navigational:32;commercial:12;transactional:17
+DMR Rádio Digital em Português,30,7333,73;78;78;94;94;96;96;100;100;100;100;100,task:2;informational:79;navigational:5;commercial:11;transactional:3
+AirPlay e Transmissão Sem Fio,31,23742,84;89;94;95;94;94;95;99;100;100;100;100,task:1;informational:71;navigational:11;commercial:13;transactional:4
+Mini grampeadores e grampos compactos,18,1250,82;95;52;60;84;87;88;100;73;73;73;73,task:1;informational:49;navigational:4;commercial:37;transactional:9
+Audiômetros e Acessórios,20,1954,29;31;31;45;92;93;93;100;92;92;92;92,task:2;informational:41;navigational:14;commercial:32;transactional:11
+Medidores de Vazão Ultrassônicos,17,160,88;97;100;92;94;97;98;97;98;98;99;98,task:3;informational:50;navigational:7;commercial:29;transactional:11
+Eletrodomésticos para Cozinha,70,27782,35;38;50;72;80;80;80;93;100;100;100;100,task:2;informational:62;navigational:2;commercial:26;transactional:8
+Fones Sony MDR-7506,30,13402,31;38;39;39;99;100;100;88;94;94;94;94,task:2;informational:62;navigational:15;commercial:17;transactional:4
+Aquecedores de Marmitas Elétricas,19,1510,69;77;73;100;68;79;70;96;96;98;97;96,task:3;informational:60;navigational:2;commercial:20;transactional:15
+MMO Óptica,16,456,74;89;92;90;90;95;99;100;100;100;100;99,task:3;informational:20;navigational:63;commercial:9;transactional:5
+Fones de Ouvido Infantis,21,3575,87;100;53;64;58;62;62;64;57;57;57;57,task:2;informational:53;navigational:2;commercial:34;transactional:9
+Fones de Ouvido Lehmox,26,5198,38;44;45;28;78;80;81;100;98;98;100;100,task:5;informational:45;navigational:14;commercial:26;transactional:10
+Microfone do celular,65,14683,39;47;63;85;91;92;92;99;100;100;100;100,task:5;informational:77;navigational:5;commercial:10;transactional:3
+Teste de Microfones Online,17,248,44;63;63;100;49;52;52;55;54;55;60;59,task:7;informational:74;navigational:8;commercial:8;transactional:3
+Comunicação Multimeios,17,367,59;75;76;66;62;100;91;100;94;51;52;51,task:4;informational:78;navigational:5;commercial:10;transactional:3
+Kadosh Microfones,22,16997,36;96;97;97;90;91;91;100;100;100;100;100,task:2;informational:36;navigational:38;commercial:16;transactional:8
+Alto-falantes Morel,16,574,54;86;87;86;86;83;83;85;86;100;100;100,task:13;informational:40;navigational:12;commercial:30;transactional:5
+Resonância Vocal Lax Vox,26,5543,46;49;49;61;97;97;98;100;90;91;90;90,task:2;informational:79;navigational:5;commercial:11;transactional:3
+"Conector 3,5 mm",33,4746,28;27;36;60;85;87;87;100;98;98;96;95,task:2;informational:60;navigational:6;commercial:24;transactional:8
+Aparelhos Auditivos Cros,17,1857,87;100;93;92;35;38;38;39;42;42;40;39,task:2;informational:31;navigational:20;commercial:10;transactional:37
+Fones de Ouvido Hrebos,17,873,29;32;33;82;92;100;100;91;91;90;91;90,task:3;informational:40;navigational:25;commercial:15;transactional:17
+Modelos de Celular,19,2706,38;45;46;45;98;100;100;93;86;85;85;85,task:2;informational:73;navigational:10;commercial:13;transactional:2
+GPON ONUs e Modems,18,1067,25;48;47;43;43;23;23;69;96;100;91;97,task:4;informational:57;navigational:9;commercial:20;transactional:10
+Liquidificadores Silenciosos,18,934,56;69;71;58;70;70;79;100;96;82;83;80,task:2;informational:53;navigational:2;commercial:32;transactional:11
+Aluguel de Microfones,17,56,79;80;86;100;96;72;72;74;72;72;72;75,task:10;informational:18;navigational:3;commercial:57;transactional:12
+Ar Condicionado Embutido,19,1177,24;49;54;38;49;33;41;32;32;32;73;100,task:5;informational:48;navigational:11;commercial:19;transactional:17
+Mini amplificadores e caixas de som,16,311,67;86;88;80;76;81;100;89;89;88;88;87,task:3;informational:51;navigational:4;commercial:28;transactional:14
+Maquinas Mini e Pequenas,16,303,11;31;47;28;29;52;96;100;70;91;77;97,task:3;informational:64;navigational:6;commercial:15;transactional:12
+Caixas de Som Divoom,16,442,90;100;100;94;69;79;82;71;72;64;65;64,task:3;informational:41;navigational:29;commercial:17;transactional:10
+Mundo do Celular,15,1299,73;91;100;61;62;64;59;81;64;57;74;73,task:5;informational:32;navigational:22;commercial:35;transactional:6
+Mini pulverizadores,15,355,27;40;38;42;42;41;45;91;95;100;92;100,task:3;informational:50;navigational:5;commercial:27;transactional:15
+Rádios de Alagoas,15,380,53;98;100;89;69;69;71;63;64;70;69;69,task:3;informational:70;navigational:18;commercial:5;transactional:4
+Microscópios Zeiss,15,127,77;82;78;78;78;79;80;93;100;96;87;94,task:1;informational:34;navigational:40;commercial:8;transactional:17
+Acústica e Música,47,26858,59;53;78;100;96;96;96;89;94;94;95;95,task:7;informational:72;navigational:7;commercial:8;transactional:6
+Telefonia Rural Doméstica,29,7593,25;41;48;62;99;100;100;84;87;87;90;92,task:2;informational:60;navigational:2;commercial:30;transactional:6
+Anemometria e sensores de vento,17,994,100;90;90;87;43;43;43;44;44;45;45;44,task:8;informational:78;navigational:2;commercial:10;transactional:2
+Zona Mobile,15,659,19;49;47;54;46;100;46;88;52;51;47;57,task:3;informational:23;navigational:53;commercial:13;transactional:8
+Televisores TCL Mini LED,35,10684,56;62;65;56;81;82;82;100;52;52;52;52,task:4;informational:44;navigational:8;commercial:27;transactional:17
+Poquema Moveis,15,473,16;28;30;26;40;43;52;62;49;100;87;51,task:3;informational:20;navigational:54;commercial:15;transactional:8
+Marmitas Elétricas e Térmicas,51,27048,22;23;27;31;46;46;46;100;50;50;50;50,task:7;informational:45;navigational:5;commercial:26;transactional:17
+Dispositivos Smart Ped,16,380,17;29;29;44;44;100;32;97;86;45;44;35,task:7;informational:43;navigational:10;commercial:18;transactional:22
+Rádio Litoral FM,34,7392,77;91;99;97;93;95;95;98;100;100;100;98,task:4;informational:43;navigational:35;commercial:8;transactional:10
+Rádios Estilo FM,16,1467,66;98;100;96;87;95;95;95;97;97;98;97,task:3;informational:34;navigational:51;commercial:8;transactional:4
+Zetta Subwoofers e Áudio,16,81,35;42;47;55;55;40;100;41;41;55;56;56,task:7;informational:28;navigational:31;commercial:22;transactional:12
+Vida na Internet,27,5664,61;100;100;96;69;71;71;70;74;75;75;74,task:2;informational:64;navigational:18;commercial:12;transactional:4
+Secadoras Mueller,32,3505,85;100;100;49;47;49;48;47;50;51;53;52,task:2;informational:40;navigational:15;commercial:23;transactional:20
+Micro saias femininas,19,446,71;99;100;88;66;71;73;86;89;83;70;85,task:3;informational:42;navigational:12;commercial:25;transactional:18
+Guia de Televisores,17,8439,12;17;17;95;17;18;18;99;98;98;99;100,informational:67;navigational:10;commercial:20;transactional:3
+Sondas Odontológicas Milimetradas,21,4877,80;86;86;89;98;100;100;97;97;96;97;96,task:3;informational:66;navigational:10;commercial:16;transactional:5
+Experimentos de Física,37,7772,99;100;99;91;68;69;69;81;84;86;90;86,task:2;informational:76;navigational:5;commercial:10;transactional:7
+Paineis Evaporativos,17,376,28;49;54;30;100;81;81;83;82;81;81;81,task:4;informational:65;navigational:3;commercial:22;transactional:6
+Harte Instrumentos,15,462,29;29;29;49;80;100;88;60;60;60;60;60,task:2;informational:33;navigational:55;commercial:6;transactional:4
+Televisores de Plasma,28,7429,15;18;19;23;91;89;90;99;95;95;99;100,task:2;informational:72;navigational:5;commercial:15;transactional:6
+Cobre Eletrolítico,17,680,96;98;100;98;98;98;98;98;85;86;86;85,task:2;informational:80;navigational:5;commercial:10;transactional:3
+"TV, Som e Eletrônicos",15,725,9;49;63;50;51;36;34;81;54;100;89;84,task:10;informational:32;navigational:3;commercial:47;transactional:8
+Conserto de rádios,17,449,60;27;27;67;90;91;91;100;91;84;84;88,task:5;informational:53;navigational:9;commercial:15;transactional:18
+Mini Robôs Domésticos,16,262,37;49;50;50;53;42;51;100;85;56;54;51,task:3;informational:54;navigational:5;commercial:23;transactional:15
+Mini Monitores Portáteis,20,2479,64;93;96;93;90;97;100;93;99;99;100;99,task:10;informational:50;navigational:2;commercial:27;transactional:11
+Mini Paredão de Som Automotivo,15,750,71;96;100;97;92;96;92;86;92;93;90;90,task:10;informational:45;navigational:2;commercial:26;transactional:17
+micro: significado e usos,23,1464,56;67;72;73;68;70;71;94;100;100;100;100,task:7;informational:79;navigational:6;commercial:5;transactional:3
+Sistemas de áudio Sony,20,3982,64;74;39;40;64;66;66;100;99;99;100;100,task:2;informational:59;navigational:5;commercial:27;transactional:7
+Esmaltes Magnéticos,26,17203,19;21;22;64;74;75;76;98;100;100;99;99,task:1;informational:63;navigational:5;commercial:24;transactional:7
+Analisadores de Espectro,22,2049,33;37;34;59;100;100;100;88;87;87;87;87,task:2;informational:74;navigational:5;commercial:10;transactional:9
+Microfones de brinquedo para crianças,26,5831,89;97;100;53;53;54;54;51;55;55;55;55,task:2;informational:54;navigational:2;commercial:32;transactional:10
+Ar Condicionado com Wi‑Fi,30,5918,15;22;30;55;91;92;92;97;100;99;97;100,task:5;informational:54;navigational:4;commercial:28;transactional:9
+Fones de ouvido Philips,58,41099,60;62;30;63;44;44;44;63;100;100;100;100,task:3;informational:51;navigational:8;commercial:23;transactional:15
+GPON e redes de fibra óptica,22,4934,80;83;84;84;83;84;84;100;100;100;100;100,informational:93;navigational:3;commercial:3;transactional:1
+Eletroerosão e Corte a Fio,27,3996,63;64;59;84;86;87;87;100;87;87;87;87,task:2;informational:85;navigational:5;commercial:5;transactional:3
+Mesas Quânticas e Radionicas,22,3913,84;86;83;74;87;88;88;100;99;99;92;91,task:5;informational:78;navigational:5;commercial:10;transactional:2
+Lojas de Eletroeletrônicos,20,3147,69;93;96;85;80;94;99;87;100;100;100;100,task:2;informational:40;navigational:32;commercial:19;transactional:7
+Fones e Headsets Jabra,16,2787,84;99;100;66;61;64;65;63;65;65;66;66,task:2;informational:44;navigational:29;commercial:13;transactional:12
+Vassouras Magnéticas,15,132,34;44;50;67;94;67;89;86;99;100;100;100,task:7;informational:46;navigational:12;commercial:18;transactional:17
+Maquinas de Waffle Mundial,21,749,67;89;91;90;91;89;100;85;94;95;86;86,task:6;informational:30;navigational:11;commercial:32;transactional:21
+Fones Onikuma,18,1355,82;99;100;97;96;99;99;60;58;58;58;57,task:2;informational:40;navigational:12;commercial:36;transactional:10
+Cabeceiras de nuvem,15,1314,17;71;87;64;33;68;52;48;40;39;35;100,task:7;informational:53;navigational:5;commercial:23;transactional:12
+Equipamentos de Áudio Meteoro,23,1597,88;100;65;70;55;57;58;66;53;53;50;50,task:2;informational:48;navigational:30;commercial:15;transactional:5
+Telefones sem fio Motorola,20,2253,60;67;78;97;97;100;100;74;96;95;96;96,task:3;informational:51;navigational:9;commercial:31;transactional:6
+Chip Multi-Operadora para M2M,17,1157,10;11;12;12;24;38;31;34;31;38;37;100,task:8;informational:64;navigational:10;commercial:14;transactional:4
+lingerie micro e fio dental,24,1170,69;99;100;93;91;98;99;97;99;94;96;95,task:10;informational:44;navigational:5;commercial:31;transactional:10
+Mesas de Som,45,8721,38;43;47;48;99;100;100;54;53;53;53;53,task:7;informational:46;navigational:2;commercial:29;transactional:16
+Microfones Behringer,25,2781,45;51;52;63;63;68;71;83;97;100;100;100,task:2;informational:65;navigational:7;commercial:13;transactional:13
+Vaporizadores Capilares,21,1355,27;30;25;62;96;97;100;44;58;58;58;58,task:1;informational:53;navigational:5;commercial:28;transactional:13
+Intercomunicadores Hollyland,18,318,69;100;95;92;77;81;85;75;78;78;91;97,task:1;informational:58;navigational:11;commercial:21;transactional:9
+Roteadores WiFi de Longo Alcance,34,6354,33;38;21;36;99;100;100;87;88;88;88;88,task:8;informational:54;navigational:1;commercial:33;transactional:4
+BoyaLink: Microfones sem fio,15,305,85;90;81;79;82;83;81;100;99;90;90;90,task:1;informational:63;navigational:10;commercial:16;transactional:10
+Notecell Celulares,15,916,9;74;73;39;42;34;29;100;52;60;50;69,task:7;informational:24;navigational:33;commercial:28;transactional:8
+Balanças Omron com Bioimpedância,38,3724,48;67;71;72;71;76;76;100;94;90;90;89,task:2;informational:49;navigational:15;commercial:23;transactional:11

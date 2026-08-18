@@ -1,0 +1,1001 @@
+name,prompts_count,volume,volume_trend,intents
+Máquinas de Lavar Roupa,1033,671917,53;52;62;71;94;94;94;100;99;99;99;99,task:5;informational:45;navigational:5;commercial:36;transactional:9
+Máquinas de Lavar e Secar,335,230136,37;37;41;53;97;97;97;100;97;97;97;97,task:8;informational:37;navigational:5;commercial:38;transactional:12
+Máquinas de Lavar Roupas,24,2285,35;37;37;47;47;53;52;100;89;69;68;86,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Balde e lavadora de roupas,22,527,87;100;100;58;57;64;74;81;45;45;43;43,task:8;informational:75;navigational:2;commercial:10;transactional:5
+Maquinas de Lavar e Secar,17,844,11;36;45;30;29;22;11;57;23;100;35;55,task:5;informational:32;navigational:19;commercial:25;transactional:19
+Máquinas de lavar Bemol,18,209,17;90;100;58;58;33;35;63;42;24;25;25,task:1;informational:47;navigational:24;commercial:11;transactional:17
+Peças de máquina de lavar,53,27921,27;30;36;45;74;75;75;96;100;100;100;100,task:3;informational:46;navigational:3;commercial:33;transactional:15
+Lavadoras de roupas,17,774,36;74;82;68;41;51;53;41;64;84;56;100,task:7;informational:37;navigational:10;commercial:18;transactional:28
+Máquinas de lavar no Pontofrio,15,1347,56;92;92;83;67;69;70;89;76;84;100;100,informational:25;navigational:49;commercial:11;transactional:15
+Melhores Máquinas de Lavar Roupas,20,1915,23;27;32;31;52;49;52;100;79;86;80;96,task:2;informational:30;commercial:60;transactional:8
+Máquinas de lavar e secar roupas,15,1423,27;79;84;55;67;48;49;99;85;89;89;100,task:2;informational:55;navigational:10;commercial:15;transactional:18
+Máquinas de Passar Roupa,15,1939,36;39;41;43;44;44;46;100;98;93;93;98,task:5;informational:70;navigational:2;commercial:15;transactional:8
+Máquinas de lavar roupas no Brasil,15,548,5;47;50;39;39;28;22;100;45;70;56;58,task:5;informational:56;navigational:11;commercial:11;transactional:17
+Máquinas de Lavar Brinquedo,18,937,83;99;100;58;66;71;81;56;69;74;58;59,task:2;informational:62;navigational:5;commercial:21;transactional:10
+Eletrodomésticos Havan,21,2021,83;100;54;63;63;67;68;60;58;56;57;57,task:1;informational:26;navigational:41;commercial:9;transactional:23
+Lavadoras de Roupa Portáteis,33,9822,92;97;100;45;43;43;43;42;45;45;45;44,task:2;informational:51;navigational:5;commercial:19;transactional:23
+Máquinas de lavar no Brasil,23,2468,82;98;100;58;51;54;55;56;56;68;57;63,task:2;informational:50;navigational:12;commercial:17;transactional:19
+Limpeza de Máquina de Lavar,159,58643,69;69;75;88;88;88;88;99;100;100;100;100,task:3;informational:77;navigational:5;commercial:8;transactional:7
+Lavadoras Electrolux,200,82842,37;38;40;64;68;68;68;100;99;99;99;99,task:2;informational:43;navigational:16;commercial:21;transactional:18
+Máquinas de lavar Havan,18,2106,36;43;46;56;43;44;44;57;58;51;78;100,task:2;informational:38;navigational:28;commercial:10;transactional:22
+Máquinas de lavar industriais,69,15409,23;29;32;48;91;91;92;100;97;97;97;97,task:4;informational:44;navigational:1;commercial:40;transactional:11
+Lavadoras de roupas com centrifuga,16,611,16;62;67;55;66;42;47;100;77;87;80;71,task:1;informational:65;navigational:4;commercial:24;transactional:6
+Máquinas de lavar frontais,53,7810,91;97;100;51;55;56;56;62;60;60;60;59,informational:46;navigational:5;commercial:35;transactional:14
+Máquinas de lavar Mueller,33,6402,90;100;49;49;68;69;69;74;74;74;74;74,task:5;informational:43;navigational:10;commercial:20;transactional:22
+Limpeza de máquinas,18,1041,18;20;28;38;51;51;51;95;95;100;100;99,task:2;informational:68;navigational:5;commercial:15;transactional:10
+Instalação de máquina de lavar,51,7621,46;51;57;95;92;93;92;98;100;100;100;100,task:5;informational:82;navigational:3;commercial:2;transactional:8
+Lavadoras com secadora,31,10710,41;49;50;28;69;70;70;90;99;99;100;100,task:4;informational:41;navigational:2;commercial:38;transactional:15
+Colombo Máquinas de Lavar,16,763,24;82;93;71;63;48;48;82;66;79;77;100,informational:38;navigational:25;commercial:18;transactional:19
+Máquinas de lavar 8kg,20,2720,61;73;77;39;42;44;45;100;66;72;60;60,task:4;informational:42;navigational:1;commercial:43;transactional:10
+Máquinas de lavar no varejo brasileiro,32,5363,86;98;100;68;68;69;69;57;69;69;69;69,task:5;informational:39;navigational:12;commercial:15;transactional:29
+Máquinas de lavar suspensas,16,1389,25;32;34;50;45;45;48;29;27;71;58;100,task:5;informational:73;navigational:5;commercial:12;transactional:5
+Máquinas de lavar 9 kg,17,1041,21;51;55;46;77;61;64;100;60;40;63;93,task:3;informational:49;navigational:1;commercial:43;transactional:4
+Lavadoras Elétricas de Alta Pressão,16,90,5;100;85;40;31;25;22;13;14;9;10;10,task:3;informational:38;navigational:4;commercial:28;transactional:27
+Máquinas de lavar 12 kg,35,8424,57;66;76;80;95;97;97;100;100;100;100;99,task:5;informational:44;navigational:4;commercial:35;transactional:12
+Máquinas de lavar Ferreira Costa,17,613,5;37;41;17;15;17;17;100;66;39;30;34,informational:28;navigational:48;commercial:8;transactional:16
+Máquinas de lavar Zema,15,964,13;14;15;27;27;25;22;27;21;24;21;100,task:4;informational:33;navigational:30;commercial:11;transactional:22
+Máquinas de lavar com água quente,47,12558,16;23;34;55;99;100;100;98;96;96;96;96,task:5;informational:62;navigational:2;commercial:26;transactional:5
+Lavadoras Wanke,34,5868,51;57;58;28;59;61;63;89;100;100;98;97,task:2;informational:43;navigational:35;commercial:13;transactional:7
+Lavagem Turbo,16,234,21;89;100;95;100;84;75;40;40;40;40;40,task:5;informational:68;navigational:10;commercial:7;transactional:10
+Conserto e Manutenção de Máquinas de Lavar,28,32866,49;46;49;47;48;48;48;54;100;100;100;100,task:12;informational:44;navigational:6;commercial:26;transactional:12
+Lavadoras GE,19,1601,12;26;26;29;41;36;38;95;66;100;89;84,task:2;informational:52;navigational:15;commercial:21;transactional:10
+Lavadoras de Alta Pressão Lavor,19,1063,71;100;100;94;85;89;88;89;91;96;85;85,task:3;informational:47;navigational:27;commercial:13;transactional:10
+Lavadoras e Lava-Louças Hisense,33,11699,12;19;21;30;87;89;89;96;100;100;99;100,task:2;informational:60;navigational:10;commercial:17;transactional:11
+TCL lava e seca,19,4113,14;30;32;30;64;64;64;80;70;67;66;100,task:2;informational:58;navigational:23;commercial:12;transactional:5
+Lavadoras Panasonic,95,26110,91;92;95;84;100;100;100;76;76;78;78;77,task:2;informational:44;navigational:14;commercial:28;transactional:12
+Rolamentos de máquina de lavar,26,3591,37;43;43;64;100;100;100;75;89;89;88;88,task:5;informational:61;navigational:5;commercial:14;transactional:15
+Lavadoras Gazin,15,311,16;53;62;39;36;32;28;100;61;83;67;55,task:7;informational:31;navigational:32;commercial:11;transactional:19
+Lava-louças e lavadoras compactas,24,929,73;100;71;62;68;56;55;73;66;76;64;69,task:2;informational:65;navigational:5;commercial:22;transactional:6
+Filtros de Máquina de Lavar,23,4200,15;21;23;42;48;46;46;73;75;82;94;100,task:5;informational:59;navigational:7;commercial:17;transactional:12
+Máquinas de lavar Midea 15kg,18,1290,35;58;63;56;67;58;70;73;60;100;89;86,informational:26;navigational:17;commercial:15;transactional:42
+Manutenção e conserto de máquinas de lavar,23,2434,66;74;74;77;72;73;74;74;73;73;92;100,task:5;informational:62;navigational:5;commercial:16;transactional:12
+Gabinetes para Máquina de Lavar,15,823,79;94;100;56;63;64;67;46;64;66;52;53,task:3;informational:52;navigational:2;commercial:18;transactional:25
+Midea Lava e Seca,26,2395,100;53;59;55;51;55;58;73;91;85;86;87,task:8;informational:36;navigational:21;commercial:21;transactional:14
+Lavadoras de alta pressão,271,107601,34;32;34;100;61;61;61;65;59;59;59;59,task:1;informational:46;navigational:4;commercial:38;transactional:11
+Lavagem de Carro,19,11567,100;98;51;49;83;84;83;85;85;85;85;85,task:2;informational:60;navigational:5;commercial:19;transactional:14
+Geladeiras e Máquinas de Lavar,17,1253,28;53;55;43;66;56;56;100;56;70;78;95,task:3;informational:51;navigational:13;commercial:23;transactional:10
+Capas para Máquina de Lavar,30,3122,68;96;99;95;90;96;98;94;100;100;100;100,task:3;informational:56;navigational:8;commercial:24;transactional:9
+Ferramentas para máquinas de lavar,29,6480,20;29;43;60;98;100;100;91;90;90;90;90,task:5;informational:60;navigational:5;commercial:22;transactional:8
+Lavadoras com Inverter,17,697,20;38;40;39;78;72;77;100;44;26;26;28,task:4;informational:62;navigational:2;commercial:24;transactional:8
+Ciclos de Lavanderia,15,819,14;23;24;14;14;14;14;25;25;100;79;97,task:2;informational:40;navigational:34;commercial:19;transactional:5
+Lava-Louças Portátil,33,11938,92;100;49;44;39;39;39;43;43;43;43;43,task:5;informational:40;navigational:7;commercial:34;transactional:14
+Lavadoras de Alta Pressão Portáteis,42,14095,33;39;47;56;85;86;86;92;100;100;100;100,task:5;informational:41;navigational:4;commercial:33;transactional:17
+Praxis Eletrodomésticos,16,533,70;58;59;100;94;83;78;91;82;59;58;72,task:5;informational:48;navigational:23;commercial:13;transactional:11
+Lava-louças Elettromec,15,198,51;53;53;51;51;53;53;70;68;100;91;58,informational:33;navigational:36;commercial:11;transactional:20
+Lavanderia e Limpeza,16,243,86;87;86;89;86;87;87;87;100;100;100;100,task:5;informational:72;navigational:5;commercial:10;transactional:8
+borrachas para máquina de lavar,20,1181,28;35;34;58;67;53;48;100;62;69;66;76,task:2;informational:55;navigational:5;commercial:18;transactional:20
+Móveis para Lava-Louças e Máquina de Lavar,16,1514,85;100;99;56;60;62;63;43;48;48;48;47,task:8;informational:67;navigational:2;commercial:19;transactional:4
+Lavadoras Colormaq,40,12907,93;100;49;57;80;81;82;96;98;98;98;97,task:3;informational:52;navigational:23;commercial:13;transactional:9
+Máquinas de Bolhas de Sabão,32,8080,94;100;49;55;52;53;53;64;66;66;66;66,task:2;informational:52;navigational:2;commercial:30;transactional:14
+Lava-louças: guias e marcas,420,204827,37;38;53;71;100;100;100;84;69;69;69;69,task:2;informational:59;navigational:4;commercial:27;transactional:8
+Lavadores de Copos,20,652,84;92;100;97;52;45;45;58;52;52;52;52,task:2;informational:47;navigational:19;commercial:24;transactional:8
+Máquinas para o lar,17,1867,15;36;38;32;50;42;45;58;81;94;90;100,task:4;informational:54;navigational:2;commercial:29;transactional:11
+Lavadoras e Secadoras LG,21,2045,43;54;57;48;47;47;47;100;60;68;56;64,task:2;informational:36;navigational:10;commercial:36;transactional:16
+Lavagem de Moto e Carro,17,618,49;95;100;88;82;77;73;75;73;64;64;64,task:2;informational:57;navigational:2;commercial:28;transactional:11
+Lavadoras de Alta Pressão Intech,20,416,64;95;100;91;78;60;60;88;87;69;70;72,task:1;informational:30;navigational:44;commercial:8;transactional:17
+Lavadoras de alta pressão profissionais,17,569,62;78;78;77;76;95;92;92;95;95;99;100,task:7;informational:32;navigational:11;commercial:39;transactional:11
+Lavanderias do Brasil,17,1128,37;39;32;27;22;22;24;91;100;100;100;100,task:2;informational:68;navigational:15;commercial:10;transactional:5
+Mangueiras para Máquina de Lavar,38,31780,31;15;17;40;51;51;51;100;97;97;97;97,task:3;informational:37;navigational:4;commercial:29;transactional:27
+Máquinas de lavar usadas no OLX,24,1414,67;99;100;94;88;94;97;99;100;100;99;98,informational:12;navigational:56;commercial:5;transactional:27
+Lavadoras compactas e combos Electrolux,23,1461,46;61;60;56;62;68;66;66;83;100;79;92,task:3;informational:58;navigational:5;commercial:25;transactional:9
+Lavadoras de Peças Industriais e Automotivas,18,402,72;99;98;90;90;96;96;98;100;100;87;87,task:7;informational:53;navigational:5;commercial:29;transactional:6
+Lava e Seca: Melhores Máquinas 2024,117,52918,19;20;23;34;84;84;84;100;89;89;89;89,task:2;informational:38;navigational:1;commercial:53;transactional:6
+LG Lava e Seca,112,32728,48;50;54;58;83;83;83;100;83;83;83;83,task:2;informational:43;navigational:18;commercial:19;transactional:18
+Esfregadeiras e tábuas de lavar roupas,15,710,25;59;68;42;42;26;30;100;79;61;57;71,task:5;informational:63;navigational:2;commercial:22;transactional:8
+Lavadoras Britânia,17,598,58;78;85;76;75;87;88;76;74;75;78;100,task:4;informational:45;navigational:13;commercial:18;transactional:20
+lava-louças 16 serviços,18,1621,33;39;44;40;74;74;77;89;77;72;68;100,task:2;informational:48;navigational:6;commercial:34;transactional:10
+Peças e Placas para Máquinas de Lavar,23,1504,19;24;24;68;96;98;100;45;40;56;50;54,task:5;informational:36;navigational:7;commercial:27;transactional:25
+Lavadoras e secadoras Midea,78,45773,27;29;31;31;69;69;69;100;85;85;85;86,task:3;informational:43;navigational:17;commercial:19;transactional:18
+Jet Clean: Lavadoras,22,2918,16;22;28;24;32;32;33;60;92;97;94;100,task:5;informational:64;navigational:10;commercial:21
+Pastilhas de limpeza para máquina de lavar,75,17653,22;26;38;66;84;85;85;93;100;100;100;100,task:2;informational:56;navigational:6;commercial:24;transactional:12
+Suportes para Máquina de Lavar,23,3585,69;93;98;95;89;91;94;93;98;100;98;97,task:7;informational:46;navigational:5;commercial:28;transactional:14
+Lavadoras de Alta Pressão Electrolux,42,7478,92;100;49;65;79;80;80;75;67;68;67;66,task:2;informational:36;navigational:20;commercial:22;transactional:20
+Registros de água para máquina de lavar,25,3671,63;77;56;69;57;60;58;93;100;100;100;100,task:2;informational:69;navigational:5;commercial:16;transactional:8
+Lava-louças com função de higienizar,30,3674,24;33;43;72;78;74;74;100;72;73;84;85,task:2;informational:63;navigational:5;commercial:22;transactional:8
+Secadoras Midea,19,2500,40;49;49;39;40;45;45;87;70;76;91;100,task:5;informational:51;navigational:10;commercial:24;transactional:10
+Consumo de Energia em Lavadoras e Secadoras,31,3508,69;80;79;90;90;88;86;100;92;88;86;85,task:1;informational:76;navigational:5;commercial:14;transactional:4
+Lavanderia Self-Service,27,2409,33;38;59;70;80;80;78;100;82;80;81;80,task:2;informational:59;navigational:15;commercial:19;transactional:5
+Lavadoras que transbordam,21,1149,62;62;63;72;72;72;72;74;66;71;88;100,task:9;informational:73;navigational:4;commercial:4;transactional:10
+Adaptadores para Máquina de Lavar,33,6753,44;55;55;63;99;100;100;78;81;80;82;81,task:2;informational:58;navigational:5;commercial:21;transactional:14
+Lavadoras de Alta Pressão WAP,57,34530,79;77;79;64;93;93;93;100;99;99;99;99,task:2;informational:39;navigational:14;commercial:27;transactional:18
+Lavanderias Lavamatic,15,174,77;93;100;95;89;88;88;94;93;90;90;90,task:3;informational:32;navigational:49;commercial:8;transactional:8
+Máquinas de lavar e centrífugas Colormaq,17,165,9;16;20;15;14;15;18;44;33;100;93;11,task:3;informational:41;navigational:18;commercial:19;transactional:19
+Eletrobombas para eletrodomésticos,19,2251,54;62;63;41;42;44;44;84;84;85;95;100,informational:54;navigational:4;commercial:30;transactional:12
+Lavadoras e Secadoras Electrolux,66,22109,44;49;54;86;100;100;100;93;93;93;93;93,task:5;informational:42;navigational:11;commercial:22;transactional:20
+Pés e peças para máquinas de lavar,36,10810,44;52;54;57;98;99;99;95;99;100;98;98,task:5;informational:36;navigational:2;commercial:29;transactional:28
+Melhores Lava-Louças,31,7659,29;38;42;65;93;86;85;96;100;100;100;100,informational:42;commercial:56;transactional:2
+Peso e capacidade de máquinas de lavar,27,4587,50;55;45;56;69;68;68;71;82;82;94;100,task:2;informational:76;navigational:2;commercial:17;transactional:3
+Lavadoras inteligentes com Wi‑Fi,20,1118,15;56;63;46;57;57;59;89;63;100;83;91,task:2;informational:51;navigational:4;commercial:36;transactional:7
+Lavadoras de Alta Pressão WAP 4000,17,1355,49;55;55;27;99;100;100;41;64;68;39;40,task:1;informational:24;navigational:26;commercial:13;transactional:36
+Bombas e lavadoras Hidromar,16,280,80;100;98;86;80;80;81;82;83;92;92;94,task:3;informational:49;navigational:16;commercial:18;transactional:14
+Lava-louças industriais,21,2718,39;48;50;44;91;95;96;100;93;93;93;92,task:5;informational:54;navigational:4;commercial:32;transactional:5
+Prateleiras e Rack para Máquina de Lavar,15,370,39;80;88;44;82;80;100;78;69;86;78;88,task:7;informational:39;navigational:4;commercial:39;transactional:11
+Lavagem de tapetes na máquina,32,3261,69;76;79;93;99;100;100;74;73;73;73;73,task:2;informational:76;navigational:5;commercial:14;transactional:3
+Lavadoras de Alta Pressão Tramontina,26,961,73;97;97;92;86;92;91;100;96;96;98;97,informational:32;navigational:29;commercial:19;transactional:20
+Dimensões de Máquina de Lavar,24,4111,14;17;41;75;60;63;63;98;96;97;100;100,task:2;informational:68;navigational:1;commercial:25;transactional:4
+Lavadoras de Alta Pressão Tekna,17,568,46;61;100;79;78;85;74;53;53;90;67;75,task:10;informational:33;navigational:21;commercial:22;transactional:14
+Válvulas e Solenoides para Lavadoras,28,4271,30;36;32;48;59;61;61;95;100;100;100;100,task:5;informational:63;navigational:5;commercial:13;transactional:14
+Lavadoras de Madeira,16,433,44;100;100;100;100;65;77;42;42;52;41;42,task:5;informational:52;navigational:5;commercial:16;transactional:22
+Lava-Louças (usados e usados/revendidos),18,1548,50;57;57;38;40;41;41;79;67;68;100;99,task:2;informational:60;navigational:5;commercial:17;transactional:16
+Lavadoras Chiaperini de alta pressão,15,430,73;100;98;84;84;91;89;78;77;76;77;77,task:3;informational:38;navigational:30;commercial:13;transactional:16
+Lavadoras de Alta Pressão Philco,18,416,15;18;20;21;43;25;22;41;51;96;100;36,task:3;informational:37;navigational:20;commercial:15;transactional:25
+Lavadoras Toyama,15,820,7;24;27;16;16;7;7;7;7;100;89;93,task:3;informational:43;navigational:18;commercial:17;transactional:19
+escovas de lavar roupas,19,3773,74;86;89;45;92;93;93;97;100;100;99;98,task:2;informational:64;navigational:2;commercial:22;transactional:10
+Lavadoras de Alta Pressão Vonder,26,1779,85;99;100;51;52;55;53;52;56;56;59;58,task:3;informational:46;navigational:27;commercial:13;transactional:11
+Lavadoras Samsung 23kg,24,1941,20;71;75;59;55;39;41;100;50;72;75;90,task:10;informational:38;navigational:4;commercial:29;transactional:19
+Máquinas extratoras para estofados,116,39318,19;22;28;50;100;100;100;77;64;64;64;64,task:2;informational:37;navigational:4;commercial:41;transactional:16
+Lavadoras/Tanquinhos Rosa,15,824,31;54;59;45;44;53;45;84;44;45;82;100,task:1;informational:63;navigational:12;commercial:17;transactional:7
+Bombas de lavagem automotiva,22,3114,85;99;100;99;96;97;97;86;90;90;91;90,task:5;informational:61;navigational:6;commercial:16;transactional:12
+Lavadoras Brastemp 8kg,21,4337,57;74;75;76;78;81;82;82;85;83;84;100,task:5;informational:58;navigational:7;commercial:23;transactional:7
+Lavadoras de Alta Pressão Jacto,22,2493,86;100;100;54;60;61;64;64;62;61;62;61,task:2;informational:38;navigational:19;commercial:17;transactional:24
+Máquinas de lavar com vazamento de água,48,9663,91;97;82;79;88;88;89;98;100;100;100;100,task:2;informational:78;navigational:5;commercial:13;transactional:2
+Lavadoras Samsung 10kg,20,3026,44;68;72;64;60;57;57;41;60;100;75;76,task:2;informational:43;navigational:10;commercial:18;transactional:27
+"Lavadoras de roupas 8,5 kg",15,303,13;29;29;22;24;35;40;100;66;66;39;43,task:10;informational:48;navigational:4;commercial:34;transactional:4
+Lavadoras 17kg Brastemp & Electrolux,36,6552,95;98;100;45;39;40;40;39;40;39;39;39,task:2;informational:54;navigational:2;commercial:32;transactional:10
+Máquinas de lavar inox com cesto,19,1838,41;58;61;62;66;63;64;61;90;98;87;100,task:2;informational:56;navigational:2;commercial:29;transactional:11
+Capas para Máquinas de Lavar,27,2360,67;96;98;91;90;96;99;92;100;100;100;99,task:3;informational:47;navigational:8;commercial:27;transactional:15
+"Lavadoras Consul: limpeza, filtros e manchas",30,2247,90;91;92;100;96;95;95;82;88;89;90;89,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Lavadoras Samsung 11kg,30,8208,27;36;40;27;30;31;32;43;83;100;90;89,task:2;informational:51;navigational:11;commercial:15;transactional:21
+LG Lava-Louças,23,1671,54;67;70;65;73;74;75;100;73;84;80;77,task:4;informational:56;navigational:17;commercial:11;transactional:12
+Lavanderias e Lavare,16,130,77;81;89;87;89;94;91;99;100;100;100;100,task:7;informational:41;navigational:7;commercial:40;transactional:5
+Lavadoras Brastemp Double Wash,19,1695,63;84;86;46;59;60;52;40;79;100;82;98,task:2;informational:46;navigational:14;commercial:29;transactional:9
+Máquina azul,16,156,4;25;38;29;29;74;50;100;62;92;72;31,task:10;informational:63;navigational:12;commercial:12;transactional:3
+Agitadores de máquina de lavar Brastemp,24,4432,58;68;37;43;89;91;91;100;95;95;98;96,informational:58;navigational:5;commercial:19;transactional:18
+Lavadoras LG com Torre de Lava e Seca,22,3032,80;98;100;98;93;96;97;93;70;72;71;71,task:2;informational:39;navigational:29;commercial:16;transactional:14
+Lavagem de edredom em máquinas de lavar,29,2886,62;65;65;74;95;96;96;90;89;89;97;100,task:2;informational:81;navigational:5;commercial:8;transactional:4
+Lavadoras WAP 2610,22,2056,40;45;45;23;35;38;32;100;91;94;73;90,task:1;informational:44;navigational:27;commercial:18;transactional:10
+Lavadoras de Alta Pressão Dutra Máquinas,15,59,38;55;54;62;100;51;60;49;49;75;64;77,task:4;informational:22;navigational:41;commercial:11;transactional:22
+Carrinhos de Lavanderia,16,283,40;89;98;92;88;56;58;100;91;67;53;55,task:10;informational:42;navigational:8;commercial:29;transactional:11
+Lavadoras de Roupas Silenciosas,19,1523,19;43;49;58;55;55;50;91;76;67;66;100,task:4;informational:46;navigational:3;commercial:40;transactional:7
+Lavadoras Philco Lava e Seca,26,6629,36;43;44;31;98;99;100;61;53;53;54;54,task:2;informational:51;navigational:15;commercial:13;transactional:19
+Lavadoras de alta pressão com motor de indução,51,14981,50;55;57;41;84;85;85;100;97;97;98;97,task:2;informational:56;navigational:4;commercial:28;transactional:10
+Lavagem de roupas: manual e máquina,21,1406,100;98;99;93;91;92;92;85;85;85;85;85,task:8;informational:80;navigational:3;commercial:5;transactional:4
+Painel de máquina de lavar Brastemp,26,1607,85;100;100;50;46;47;47;86;89;89;91;91,task:2;informational:69;navigational:3;commercial:12;transactional:14
+Lavanderias Industriais e Comerciais,17,1171,86;100;100;67;87;90;90;80;80;80;78;78,task:5;informational:45;navigational:4;commercial:34;transactional:12
+Lava-Louças e Máquinas de Lavar Louça (10 serviços),35,9666,50;53;25;100;28;29;29;27;27;27;27;27,task:5;informational:51;navigational:5;commercial:31;transactional:8
+Adesivos e envelopamento para máquina de lavar,19,913,33;45;45;70;70;67;68;100;74;91;87;86,task:5;informational:56;navigational:4;commercial:27;transactional:8
+centrífugas de roupas,103,112411,16;17;18;93;100;100;100;82;82;82;82;82,task:2;informational:50;navigational:5;commercial:32;transactional:11
+Máquinas de lavar água não drena,17,272,40;41;65;72;100;88;88;59;59;77;75;73,task:2;informational:78;navigational:2;commercial:10;transactional:8
+Lavadoras Electrolux 14kg,49,8493,100;42;46;48;58;59;59;45;44;44;44;44,task:2;informational:46;navigational:12;commercial:28;transactional:12
+Máquinas de lavar Electrolux 17kg Premium Care,25,2615,80;93;93;46;62;66;66;96;94;94;95;100,task:2;informational:54;navigational:5;commercial:26;transactional:13
+Lavanderia e Passar Roupas,16,233,87;91;100;99;99;99;100;98;100;100;100;100,task:5;informational:53;navigational:9;commercial:22;transactional:11
+Lavadoras e lava-jatos a gasolina,18,583,62;64;66;57;57;59;60;90;90;98;96;100,task:5;informational:57;navigational:4;commercial:29;transactional:5
+Lavadoras Ultrassônicas Médicas,22,2392,14;28;35;52;84;85;85;100;98;98;98;98,task:1;informational:64;navigational:5;commercial:26;transactional:4
+Casa do Lavador - Lavação Automotiva Brasil,15,657,37;48;48;47;82;100;83;53;58;57;49;49,task:3;informational:18;navigational:64;commercial:10;transactional:5
+Máquinas de Lavar com Barulho,33,5533,94;97;93;98;97;98;100;93;95;95;97;97,task:3;informational:79;navigational:5;commercial:10;transactional:3
+Peças para máquina de lavar Consul,17,272,31;41;44;40;81;78;70;100;56;61;56;58,task:5;informational:35;navigational:5;commercial:17;transactional:38
+Machines à laver,16,598,24;66;70;56;52;42;40;100;76;53;51;52,task:4;informational:64;navigational:4;commercial:22;transactional:6
+Passar Roupas e Lavanderia,38,12113,36;25;25;64;91;92;92;100;99;99;99;99,task:26;informational:59;navigational:3;commercial:8;transactional:4
+Lavadoras Electrolux 17kg,15,1015,2;23;29;50;50;22;30;71;59;100;88;85,task:3;informational:37;navigational:18;commercial:25;transactional:17
+Lavadoras Samsung 15kg,18,2974,12;36;38;29;32;21;23;57;32;45;76;100,task:3;informational:55;navigational:17;commercial:15;transactional:10
+Lavadoras e tanquinhos Arno,22,5596,73;85;89;90;88;89;89;89;100;100;100;99,task:2;informational:45;navigational:14;commercial:25;transactional:14
+Lova Máquinas,17,1343,42;45;49;96;94;100;100;94;100;100;100;100,task:2;informational:47;navigational:41;commercial:7;transactional:3
+Lava-louças Brastemp,160,51660,36;37;42;70;76;76;76;100;83;83;83;83,task:2;informational:56;navigational:11;commercial:18;transactional:13
+Lavadoras LG compactas e Twinwash,15,859,4;20;23;18;18;13;23;70;55;100;88;47,task:5;informational:52;navigational:19;commercial:11;transactional:13
+Lavadoras de Alta Pressão Stihl,40,10924,84;38;41;46;67;67;67;72;100;100;100;99,task:2;informational:38;navigational:32;commercial:12;transactional:16
+Lavadoras e Secadoras LG 16kg,16,322,8;53;55;46;45;34;29;100;72;60;22;22,task:3;informational:39;navigational:5;commercial:24;transactional:29
+Kärcher Lavadoras de Alta Pressão,47,19222,99;100;46;48;60;60;60;67;65;65;65;65,task:5;informational:42;navigational:4;commercial:18;transactional:31
+Lava-louças e Electrolux,15,451,2;33;45;27;17;14;21;100;92;38;34;42,task:7;informational:64;navigational:8;commercial:18;transactional:3
+Lavadoras Electrolux 7kg,16,539,44;97;100;89;55;56;58;57;55;46;41;52,task:3;informational:39;navigational:7;commercial:21;transactional:30
+Lavadoras de alta pressão Eco Wash 2200,20,648,62;77;84;52;52;56;53;100;57;69;40;42,task:2;informational:20;navigational:5;commercial:30;transactional:43
+Bosch lava-louças,18,354,60;95;94;92;92;96;75;100;95;87;85;97,task:1;informational:49;navigational:10;commercial:34;transactional:6
+Lavadoras e Secadoras LG 12kg,21,1413,83;100;100;65;62;65;64;81;59;59;58;57,task:2;informational:65;navigational:7;commercial:14;transactional:12
+Lavadoras 16kg Brastemp e Electrolux,30,4187,89;100;58;57;55;55;56;58;53;88;65;53,task:5;informational:53;navigational:2;commercial:27;transactional:13
+Tanques de lavanderia,120,43669,38;80;44;59;100;100;100;100;54;54;54;54,task:4;informational:54;navigational:4;commercial:28;transactional:10
+Limpeza de Máquina e Bijuterias,20,1798,40;43;42;51;50;51;51;95;100;100;100;100,task:10;informational:70;navigational:5;commercial:5;transactional:10
+Lavadoras Electrolux: problemas de água e manutenção,22,3068,61;62;58;61;77;78;78;79;98;98;100;100,task:3;informational:75;navigational:5;commercial:10;transactional:7
+Lava-louças 8 serviços 220V,18,721,49;72;70;66;66;62;61;97;94;100;81;91,task:3;informational:41;navigational:4;commercial:39;transactional:13
+Máquinas de passar e dobrar roupa,32,10117,65;74;48;78;100;100;100;88;87;87;87;86,task:2;informational:63;navigational:4;commercial:20;transactional:11
+Máquinas de Cozinha Automatizadas,18,138,27;31;38;35;35;36;68;100;87;44;44;44,task:4;informational:65;navigational:1;commercial:23;transactional:7
+Lavadoras LG 17kg WD17BV2S6B,15,1199,6;30;34;25;25;31;40;82;35;100;91;80,task:5;informational:42;navigational:30;commercial:8;transactional:15
+Lavadoras de Roupas 15kg (Electrolux),55,18060,55;23;25;59;100;100;100;70;37;37;37;37,task:2;informational:36;navigational:12;commercial:33;transactional:17
+Lavadoras Midea 13kg,38,15305,19;27;29;33;100;100;100;100;83;83;82;82,task:2;informational:48;navigational:5;commercial:27;transactional:18
+Lavagem de Caminhões,21,3048,73;85;91;80;83;87;88;100;86;85;84;83,task:13;informational:58;navigational:2;commercial:22;transactional:5
+Manutenção de Lavadoras de Alta Pressão,15,77,82;89;91;87;87;87;86;97;100;94;93;96,task:3;informational:48;commercial:37;transactional:12
+Lavadoras Brastemp 13kg e 15kg,103,32892,88;89;93;98;99;99;99;100;97;98;97;98,task:2;informational:45;navigational:5;commercial:30;transactional:18
+Lavadoras Electrolux 13kg,45,4458,87;99;100;100;62;64;64;58;62;64;60;61,task:2;informational:50;navigational:10;commercial:21;transactional:17
+lava-louças Tramontina,16,423,55;70;71;84;85;73;74;75;76;90;88;100,task:3;informational:29;navigational:41;commercial:11;transactional:16
+"Samsung EcoBubble 8,5 kg – Máquinas de lavar",15,1284,3;63;69;49;45;26;28;100;48;100;72;91,task:3;informational:32;navigational:38;commercial:18;transactional:9
+Netter Lava-Louças e Lavadoras,15,110,100;45;49;41;41;42;42;35;35;59;51;34,task:2;informational:49;navigational:27;commercial:16;transactional:6
+Lavadoras 11 kg,17,1971,73;83;91;86;94;97;98;100;86;83;82;90,task:6;informational:57;navigational:4;commercial:26;transactional:7
+Lava-Louças 14 Serviços,37,8435,85;91;44;45;71;72;72;100;62;62;62;61,task:2;informational:54;navigational:4;commercial:28;transactional:12
+Lavadoras LG 11kg,41,6038,86;98;100;50;73;74;74;74;78;78;78;78,task:2;informational:55;navigational:5;commercial:24;transactional:14
+Lavadoras Midea HealthGuard 13kg,24,1699,50;70;72;82;80;76;76;100;84;95;77;80,task:2;informational:46;navigational:9;commercial:15;transactional:28
+Bolas/Esferas para Lavar Roupas,30,2511,23;27;27;74;98;100;97;82;93;93;93;93,task:8;informational:55;navigational:4;commercial:22;transactional:11
+Lavadoras Samsung Eco Bubble,52,22776,14;18;20;55;82;83;83;93;95;100;97;99,task:5;informational:55;navigational:5;commercial:21;transactional:14
+Máquinas de Costura Singer,70,36242,21;24;27;55;79;80;80;100;100;100;100;100,task:5;informational:45;navigational:15;commercial:19;transactional:16
+Peças para máquina de lavar Electrolux,19,545,85;98;100;91;67;67;68;98;71;56;56;69,task:10;informational:32;navigational:7;commercial:30;transactional:21
+Mecanismos de Lavadoras Consul e Brastemp,21,802,56;63;52;76;87;88;88;95;96;100;97;96,task:3;informational:64;navigational:2;commercial:15;transactional:16
+Lavadoras de 18kg Panasonic e Electrolux,59,12143,78;86;43;60;89;90;90;94;100;100;100;100,task:8;informational:47;navigational:2;commercial:31;transactional:12
+Kits de lavanderia,15,693,23;34;38;40;38;26;39;76;84;100;87;87,task:7;informational:51;navigational:1;commercial:31;transactional:10
+Lavadoras Electrolux 6kg,18,820,39;51;61;32;30;28;28;65;87;100;48;52,task:4;informational:42;navigational:16;commercial:16;transactional:22
+Torneiras e Adaptadores para Máquina de Lavar,19,712,50;59;59;57;98;100;76;64;65;69;65;66,task:5;informational:56;navigational:5;commercial:24;transactional:10
+Lavadoras Consul Facilite,35,3302,39;48;48;46;57;61;62;72;91;100;79;97,task:2;informational:39;navigational:29;commercial:16;transactional:14
+Lavadoras Karcher K4,20,1917,37;47;49;48;47;41;42;33;83;98;100;100,informational:46;navigational:14;commercial:26;transactional:14
+Maquinário e Máquinas,19,4266,41;45;46;32;96;97;100;100;100;100;99;99,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Máquinas de Travete,21,1843,48;49;53;48;99;100;96;100;99;96;97;98,task:2;informational:63;navigational:6;commercial:15;transactional:14
+Motores de Lavadora Brastemp,25,4936,29;16;17;37;56;57;55;100;93;94;94;98,task:2;informational:65;navigational:5;commercial:19;transactional:9
+Bombas e Lavadoras ZM,15,376,87;94;95;87;82;86;100;91;96;96;96;97,task:3;informational:31;navigational:42;commercial:16;transactional:8
+Ferros de passar roupas,194,167332,32;34;37;42;73;73;73;70;100;100;100;100,task:5;informational:34;navigational:9;commercial:39;transactional:13
+Secadoras Carrefour,19,1213,27;92;75;76;49;81;74;53;55;100;84;76,task:2;informational:32;navigational:23;commercial:15;transactional:28
+Bacias e Baldes para Lavar Roupas,15,430,37;43;44;30;28;42;52;100;58;42;43;42,task:2;informational:47;navigational:2;commercial:40;transactional:9
+Lavadoras Electrolux 17kg Perfect Care,18,659,16;100;97;82;80;42;42;24;60;73;48;51,task:3;informational:53;navigational:18;commercial:12;transactional:14
+Lavadoras LG VC5,18,2011,20;32;37;30;30;31;29;100;53;63;54;69,task:2;informational:52;navigational:10;commercial:16;transactional:20
+Lavadoras sem agitador,21,1950,36;42;25;54;58;60;60;100;88;95;83;85,task:3;informational:68;navigational:4;commercial:22;transactional:3
+Rode Smartlavs — Lavadoras Inteligentes,15,731,16;20;21;30;30;28;38;33;31;100;85;88,task:3;informational:42;navigational:13;commercial:38;transactional:4
+Máquinas de Costura,106,51567,49;47;50;57;100;100;100;78;77;77;77;77,task:2;informational:49;navigational:6;commercial:30;transactional:13
+Máquinas de lavar com defeito: compra e venda,23,2408,100;98;92;92;80;80;75;76;82;81;76;81,task:12;informational:51;navigational:3;commercial:5;transactional:29
+Lavanderia e serviços de lavanderia,15,220,13;14;18;40;74;36;30;16;16;17;17;100,task:3;informational:45;navigational:30;commercial:17;transactional:5
+Válvulas Electrolux para Máquina de Lavar,22,587,63;77;77;72;74;85;83;93;92;93;100;100,task:1;informational:57;navigational:5;commercial:21;transactional:16
+Lava-louças Midea no Brasil,58,19334,46;52;58;89;62;62;62;99;100;100;100;100,task:2;informational:55;navigational:4;commercial:20;transactional:19
+Lavadoras: problemas comuns e soluções,30,3846,44;48;48;66;66;69;69;83;100;100;100;100,task:6;informational:72;navigational:7;commercial:7;transactional:8
+Placas da Máquina de Lavar Electrolux,45,7111,51;59;32;54;91;95;96;100;94;94;93;93,task:8;informational:52;navigational:4;commercial:19;transactional:17
+LG lava e seca 10kg,16,1254,48;81;91;76;64;51;50;98;63;77;85;100,task:5;informational:21;navigational:10;commercial:20;transactional:44
+Lavanderia Brilhante,17,513,82;41;40;100;100;99;99;100;99;99;99;99,task:3;informational:51;navigational:30;commercial:12;transactional:4
+Lavadoras Samsung 17kg,18,2771,15;61;64;49;34;27;27;95;64;80;100;98,task:5;informational:49;navigational:5;commercial:17;transactional:24
+Lavanderia Dry Wash,16,4332,95;98;98;98;98;100;100;100;100;100;100;100,task:5;informational:42;navigational:13;commercial:33;transactional:7
+Carrinhos para lavadora de alta pressão,15,330,9;87;100;19;17;46;30;76;66;87;79;80,task:3;informational:46;navigational:4;commercial:40;transactional:7
+Máquinas de Costura e Conserto,19,7058,57;98;100;100;84;85;85;88;89;89;89;88,task:2;informational:51;navigational:7;commercial:30;transactional:10
+Lavadoras de roupas 20 kg,26,4844,86;97;100;52;52;53;53;51;51;50;51;51,task:5;informational:42;navigational:7;commercial:34;transactional:12
+Lavadora Consul 15kg (CWH15AB),15,1071,14;30;35;26;25;44;45;35;28;100;87;63,task:2;informational:39;navigational:31;commercial:21;transactional:7
+Placas de lavadoras Colormaq,17,224,72;90;100;92;80;84;70;69;69;69;69;69,task:5;informational:58;navigational:6;commercial:23;transactional:8
+Lavadoras de alta pressão e desentupidoras WAP,17,350,34;37;38;37;40;44;78;100;88;68;66;67,task:2;informational:65;navigational:10;commercial:15;transactional:8
+Produtos para lavanderia,21,1963,17;20;24;86;100;100;100;98;93;93;95;95,task:2;informational:51;navigational:2;commercial:35;transactional:10
+Placas de Máquina de Lavar Consul,26,1143,47;63;63;56;67;70;72;100;71;71;69;69,task:5;informational:61;navigational:4;commercial:19;transactional:11
+Peças e mecanismos Brastemp Lavadora,23,1892,30;39;40;74;99;100;100;77;72;71;71;71,informational:59;navigational:10;commercial:9;transactional:22
+Secadoras de Roupas Latinas,18,1627,28;65;64;61;57;47;46;67;76;100;88;96,task:2;informational:55;navigational:10;commercial:20;transactional:13
+Espuma para Lava Jato,21,2579,15;19;20;24;77;78;78;100;100;100;100;100,task:5;informational:59;navigational:4;commercial:25;transactional:7
+Lavadoras Mueller Popmatic 8kg,15,804,2;4;5;25;29;42;33;100;99;74;53;52,task:10;informational:57;navigational:5;commercial:18;transactional:10
+Lavanderias Lavamais,15,106,77;89;91;100;92;97;96;100;95;95;95;95,informational:30;navigational:45;commercial:22;transactional:3
+Lavadoras de Alta Pressão Vonixx,18,173,75;96;98;100;71;73;70;59;63;61;66;64,task:3;informational:59;navigational:5;commercial:12;transactional:21
+Detergentes para Lava-Louças,45,11159,10;12;20;30;50;51;50;89;99;100;100;100,task:2;informational:51;navigational:4;commercial:33;transactional:10
+Lavadoras LG 13kg,19,1846,20;28;29;25;25;26;26;32;28;29;97;100,task:6;informational:41;navigational:8;commercial:23;transactional:22
+Máquinas TM,15,67,6;8;9;29;28;8;14;100;61;16;15;10,task:3;informational:42;navigational:40;commercial:10;transactional:5
+Lavadeiras e Lavandeiros do Brasil,19,1937,70;100;100;92;67;69;69;46;44;42;41;42,task:2;informational:63;navigational:16;commercial:7;transactional:12
+Lavadoras IPC Pro 1600,19,283,57;64;62;58;57;100;78;48;49;76;63;63,task:3;informational:47;navigational:18;commercial:14;transactional:18
+Lavadoras que não Enchem Água,54,10085,84;86;90;94;97;97;98;100;99;100;100;99,task:7;informational:78;navigational:6;commercial:5;transactional:4
+Máquinas de lavar Colormaq Pioneer,15,1363,8;20;28;22;25;17;13;10;9;100;86;88,task:3;informational:33;navigational:38;commercial:22;transactional:4
+Erros e manuais da lava e seca Midea,34,4656,47;56;62;77;95;96;96;100;98;98;99;99,task:2;informational:69;navigational:11;commercial:8;transactional:10
+Lavadoras Electrolux 10 kg,19,1686,29;42;48;40;39;41;41;76;66;73;70;100,task:3;informational:46;navigational:11;commercial:29;transactional:11
+Lava-louças Electrolux 14 serviços,15,805,32;37;39;39;56;57;58;67;69;92;98;100,task:7;informational:43;navigational:4;commercial:26;transactional:20
+Lava-Louças Brastemp e Eletrodomésticos,19,641,21;48;55;53;74;78;77;68;69;100;82;82,task:1;informational:38;navigational:37;commercial:15;transactional:9
+Gabinetes de lavanderia,16,126,33;94;100;67;65;56;30;100;93;28;28;28,task:7;informational:34;navigational:4;commercial:41;transactional:14
+Lavadoras de Alta Pressão com Pistão,17,77,32;35;35;100;100;47;40;44;46;37;35;38,task:3;informational:62;navigational:1;commercial:22;transactional:12
+Manutenção e Desmontagem de Máquinas de Lavar Brastemp,15,191,55;76;83;77;74;76;69;77;77;90;80;100,task:3;informational:64;navigational:8;commercial:12;transactional:13
+Rei das Máquinas,15,164,14;13;21;22;44;74;57;24;80;100;23;23,task:3;informational:47;navigational:11;commercial:31;transactional:8
+Lavadoras Electrolux 9 kg,33,3324,73;100;100;71;64;67;68;71;76;74;73;73,task:3;informational:48;navigational:4;commercial:28;transactional:17
+Lavadoras Panasonic 16 kg,16,447,56;63;62;60;84;73;77;100;35;44;33;39,task:1;informational:62;navigational:7;commercial:18;transactional:12
+Secadoras LG no Brasil,19,536,34;42;43;40;37;35;34;100;65;40;39;39,task:5;informational:65;navigational:10;commercial:10;transactional:10
+Aluguel de Máquinas de Lavar Piso Industrial,17,397,96;97;98;99;99;100;99;98;98;98;98;98,task:5;informational:32;navigational:1;commercial:26;transactional:36
+Tampa da Máquina de Lavar Electrolux,20,753,89;100;96;56;62;63;62;78;80;81;83;83,task:12;informational:49;navigational:5;commercial:11;transactional:23
+Lavadoras Electrolux 12kg (e 10kg),110,21343,66;71;76;89;96;97;97;98;100;100;100;100,task:5;informational:44;navigational:10;commercial:20;transactional:21
+Lavar roupas à mão,34,7471,97;100;99;93;86;87;87;88;89;89;87;87,task:6;informational:81;navigational:3;commercial:5;transactional:5
+Capacitores para máquina de lavar,31,5764,12;18;29;44;69;70;70;100;98;98;99;98,task:5;informational:57;navigational:5;commercial:22;transactional:11
+Lavadoras de Alta Pressão Schulz,16,363,42;53;52;77;100;44;44;52;56;54;52;100,task:3;informational:52;navigational:18;commercial:15;transactional:12
+Lavadoras de alta pressão portáteis com bateria,16,109,80;93;94;93;55;57;100;93;81;62;60;56,task:3;informational:52;navigational:5;commercial:26;transactional:14
+Lavadoras Consul 8kg,24,1637,81;96;100;92;99;95;96;82;54;59;72;89,task:2;informational:38;navigational:9;commercial:40;transactional:11
+Lavanderias Self-Service,49,45755,38;41;36;100;39;39;39;46;46;46;46;46,informational:57;navigational:10;commercial:23;transactional:10
+Lavadoras Kala LK1305,17,119,82;34;39;39;39;39;39;100;69;94;88;90,task:2;informational:47;navigational:10;commercial:17;transactional:24
+Máquinas industriais,16,1562,34;36;37;37;53;54;54;100;100;100;100;100,task:8;informational:46;navigational:3;commercial:39;transactional:4
+Acessórios para lavadora de alta pressão,18,4368,59;67;68;43;64;66;67;100;90;90;90;90,task:2;informational:52;navigational:4;commercial:31;transactional:11
+Máquinas Amazon no Brasil,18,923,50;95;100;85;76;66;64;69;55;57;56;76,task:5;informational:51;navigational:10;commercial:11;transactional:23
+Lavadoras Consul 16kg,18,718,50;72;73;66;64;81;93;98;68;74;94;100,task:3;informational:44;navigational:8;commercial:29;transactional:16
+Lavadoras Midea 13kg com sistema ciclone,17,452,27;43;43;86;86;100;92;58;55;72;51;54,task:2;informational:70;navigational:3;commercial:15;transactional:10
+Guia de reset de lavadoras e lava-louças,22,1693,30;54;44;74;81;80;80;98;88;94;96;100,task:18;informational:58;navigational:2;commercial:10;transactional:12
+Lava-louças Carrefour,17,2719,7;26;22;20;19;22;21;21;17;19;86;100,task:3;informational:26;navigational:29;commercial:15;transactional:27
+Magazine Luiza e eletrodomésticos,17,558,28;66;77;38;51;59;63;100;62;37;43;48,task:2;informational:32;navigational:38;commercial:12;transactional:16
+Lavadoras Mueller 13kg,18,1555,7;8;8;17;17;33;27;73;64;100;88;95,task:3;informational:36;navigational:4;commercial:41;transactional:16
+Sacos para lavar roupas,41,7571,28;37;43;75;85;88;88;100;90;90;90;90,task:8;informational:52;navigational:4;commercial:31;transactional:5
+Lava-louças Consul,28,3081,85;100;100;98;94;97;97;76;70;79;86;100,informational:51;navigational:15;commercial:16;transactional:18
+Lavadoras Eletroplas: alta pressão e alta vazão,17,130,58;87;88;84;83;65;65;91;100;67;67;67,informational:53;navigational:1;commercial:30;transactional:16
+Lavadoras e Secadoras Midea HealthGuard,19,925,21;66;71;100;53;36;36;18;19;39;47;73,task:5;informational:53;navigational:15;commercial:15;transactional:12
+Lavadoras Jacto 6800,20,549,65;84;86;79;95;87;88;89;90;96;100;100,informational:61;navigational:15;commercial:16;transactional:8
+Lavadoras de roupas 12kg Suggár,16,1049,57;57;58;56;84;90;61;72;67;100;93;99,task:5;informational:15;navigational:8;commercial:62;transactional:10
+Assistência técnica Lava e Seca (Brasil),16,2907,58;77;76;74;88;93;94;93;100;100;100;99,task:10;informational:41;navigational:22;commercial:15;transactional:12
+Máquinas de lavar WAP Eco,17,749,15;56;61;47;73;60;82;73;54;92;95;100,task:3;informational:43;navigational:11;commercial:30;transactional:13
+Bombas Lava e Seca LG,18,784,26;70;71;60;57;49;43;100;76;71;65;79,task:2;informational:52;navigational:20;commercial:12;transactional:14
+Máquinas de Bebidas,16,143,65;85;85;92;100;85;80;86;81;65;65;65,task:3;informational:54;navigational:4;commercial:28;transactional:11
+Lavadoras Brastemp 14kg,20,1755,74;99;100;92;51;44;45;44;49;49;49;48,task:2;informational:56;navigational:15;commercial:13;transactional:14
+Lavadoras Brastemp 12kg BWT12,15,187,8;92;100;77;77;56;60;60;39;61;47;71,task:5;informational:46;navigational:18;commercial:26;transactional:5
+Lavadoras Panasonic 18kg Antibacterianas NA-F180P7T,16,1793,4;4;6;33;39;37;31;90;58;98;79;100,task:3;informational:45;navigational:18;commercial:15;transactional:19
+Lavadoras Consul 12kg e similares,112,29801,72;74;78;78;86;86;86;100;99;99;99;99,informational:35;navigational:30;commercial:24;transactional:11
+Lavadoras Bosch de alta pressão,28,1964,84;98;100;97;47;51;51;57;60;60;59;59,task:5;informational:44;navigational:5;commercial:19;transactional:27
+Lavadoras de alta pressão Carrefour,17,1711,18;40;39;24;30;32;21;27;24;32;31;100,task:4;informational:19;navigational:45;commercial:8;transactional:24
+Lavadoras Electrolux 8kg,39,4340,86;99;100;46;57;60;61;59;59;59;65;65,informational:50;navigational:10;commercial:22;transactional:18
+Desmontagem de agitadores de máquinas de lavar,21,811,54;58;58;88;90;89;92;100;68;67;68;68,task:8;informational:82;navigational:3;commercial:5;transactional:2
+Torneiras para lava-louças (cozinha),16,460,62;85;84;78;81;86;82;89;89;91;93;100,task:3;informational:49;navigational:4;commercial:29;transactional:15
+Máquinas de Casear Industrial,18,593,89;99;100;86;87;91;81;81;72;72;72;72,task:2;informational:47;navigational:12;commercial:27;transactional:12
+Máquinas de lavar não centrifugam,104,24969,58;62;72;82;87;87;87;96;100;100;100;100,task:2;informational:82;navigational:5;commercial:8;transactional:3
+Lavadoras Consul 14 kg,16,561,25;36;35;32;49;53;39;37;90;100;46;50,task:3;informational:24;navigational:31;commercial:29;transactional:13
+Sabão e Detergente para Lava-Louças,78,44030,17;19;24;83;100;100;100;97;78;78;78;77,task:2;informational:53;navigational:2;commercial:33;transactional:10
+Maquinas de Waffle,33,11632,79;85;88;87;95;96;96;98;100;100;100;100,task:2;informational:48;navigational:5;commercial:29;transactional:16
+Lava-louças Panasonic,19,1293,68;79;83;79;77;86;85;100;54;82;68;94,task:5;informational:61;navigational:10;commercial:16;transactional:8
+"Lava e Seca LG 8,5 kg",32,3579,43;67;68;63;68;63;61;57;80;80;95;100,task:2;informational:56;navigational:10;commercial:12;transactional:20
+"Máquinas de cuidado pessoal: cabelo, barba e pés",23,1168,78;98;100;80;84;91;92;81;90;91;85;93,task:5;informational:59;navigational:4;commercial:24;transactional:8
+Universo das Máquinas,15,557,64;82;81;80;80;81;83;84;86;86;86;100,task:3;informational:25;navigational:60;commercial:7;transactional:5
+lava-louças Philco,25,1815,74;98;100;97;77;81;85;78;86;85;87;86,task:1;informational:47;navigational:24;commercial:12;transactional:16
+Lavadoras Midea MF200,19,753,26;34;39;35;94;97;98;100;51;61;23;27,task:2;informational:52;navigational:5;commercial:15;transactional:26
+Lavadoras Consul 12kg Inox,17,437,24;35;42;28;35;38;48;100;91;48;47;43,task:2;informational:49;navigational:10;commercial:26;transactional:13
+Lavadoras WAP Mini,21,729,88;100;100;96;94;97;100;51;52;52;51;52,task:8;informational:42;navigational:4;commercial:40;transactional:6
+Cabides para lavanderia,15,156,54;86;100;99;58;63;54;57;56;59;56;58,task:3;informational:37;navigational:11;commercial:32;transactional:17
+Equipamentos de Limpeza Profissional,26,973,60;64;40;66;83;85;80;100;87;86;86;86,task:2;informational:57;navigational:2;commercial:33;transactional:6
+Máquinas de costura no Brasil,45,6732,42;47;41;71;88;89;90;96;100;100;99;99,task:5;informational:36;navigational:10;commercial:44;transactional:5
+Lavadoras de 18 kg Samsung e LG,21,1511,22;42;42;29;27;23;24;100;72;60;32;36,task:5;informational:41;navigational:5;commercial:27;transactional:22
+Máquinas para barra e bainha têxtil,19,726,63;65;66;60;65;71;68;37;98;100;99;100,task:2;informational:67;navigational:5;commercial:16;transactional:10
+Lavadoras Brastemp 13kg,25,4031,83;97;100;52;52;53;53;57;56;59;57;57,task:10;informational:45;navigational:5;commercial:23;transactional:17
+Eletrodomésticos LG no Brasil,16,801,24;75;76;59;39;40;63;88;61;100;66;71,task:3;informational:49;navigational:27;commercial:11;transactional:10
+Acessórios e Peças para Lavadoras de Alta Pressão,21,1789,85;97;97;60;88;90;90;100;92;92;93;92,task:5;informational:25;navigational:8;commercial:39;transactional:23
+Máquinas de passar roupas industriais,24,2969,58;73;75;76;87;90;87;100;79;79;82;81,task:5;informational:52;navigational:4;commercial:28;transactional:11
+Lavadoras Brastemp 12kg,78,27681,100;100;46;49;66;66;67;73;73;74;73;73,informational:46;navigational:4;commercial:30;transactional:20
+Máquinas de Reciclagem,17,188,67;100;93;80;80;79;72;82;92;91;91;98,task:8;informational:72;navigational:5;commercial:10;transactional:5
+Máquinas de lavar lava e seca na Black Friday,17,1792,36;73;83;66;88;82;86;100;69;55;50;69,task:2;informational:15;navigational:1;commercial:67;transactional:15
+Lavadoras de Alta Pressão WAP 2200,24,3528,54;63;63;62;40;42;42;72;71;84;83;100,task:5;informational:43;navigational:7;commercial:28;transactional:17
+Lavadoras Consul 13kg,22,1981,56;68;69;74;77;78;79;100;66;60;60;60,informational:34;navigational:30;commercial:20;transactional:16
+Torneiras para tanque e máquina de lavar,32,14223,39;42;45;100;80;80;80;42;44;44;44;44,task:8;informational:39;navigational:4;commercial:36;transactional:13
+Conserto de Eletrodomésticos,21,10588,34;42;46;43;40;41;41;55;100;100;100;100,task:17;informational:35;navigational:2;commercial:29;transactional:17
+Lava-louças Samsung no Brasil,35,7829,85;97;100;100;99;100;100;88;93;93;91;90,task:5;informational:37;navigational:21;commercial:20;transactional:17
+Secadoras industriais de roupas,17,243,71;95;100;89;85;94;80;91;89;77;96;97,informational:59;navigational:1;commercial:30;transactional:10
+Máquinas Irmen,15,90,63;65;75;92;92;92;93;94;99;99;100;99,task:7;informational:32;navigational:36;commercial:20;transactional:5
+Pressostatos de Lavadoras Brastemp e Similar,16,685,56;78;79;71;84;84;82;90;92;93;93;100,task:3;informational:60;navigational:5;commercial:15;transactional:17
+Lavanderias Planejadas com Móveis Embutidos,19,1742,76;98;100;98;89;96;98;95;98;97;98;96,task:3;informational:68;navigational:1;commercial:16;transactional:12
+Capas para lava e seca,17,990,17;51;52;38;38;53;56;68;56;100;81;81,task:7;informational:51;navigational:4;commercial:21;transactional:17
+Kits e Equipamentos para Lava Jato,52,7094,45;51;62;89;98;100;100;89;94;94;92;92,task:2;informational:45;navigational:2;commercial:33;transactional:18
+Maquinas de Refrigerante,29,2548,31;40;37;33;39;42;43;100;44;42;43;43,task:5;informational:55;navigational:3;commercial:28;transactional:9
+Mangueiras para Lava-Louças,16,658,21;42;43;27;39;29;43;37;34;100;86;92,task:5;informational:40;navigational:3;commercial:29;transactional:23
+Dispenser de Sabão Líquido para Lavanderia,16,237,32;100;34;60;58;49;33;65;60;35;33;33,task:3;informational:31;navigational:5;commercial:28;transactional:33
+Lavagem de Motos,62,28481,29;32;37;43;87;88;88;95;100;100;100;100,task:5;informational:58;navigational:5;commercial:21;transactional:11
+Lavadoras Midea 13kg no Reclame Aqui,16,873,16;100;90;60;57;34;33;79;46;80;60;95,task:13;informational:18;navigational:48;commercial:10;transactional:11
+Lavadoras de alta pressão 2500 psi (WAP),18,1219,45;51;48;48;74;88;87;85;68;90;85;100,task:2;informational:51;navigational:4;commercial:33;transactional:10
+Máquinas de refrigeração,17,4554,14;19;20;20;20;20;20;98;98;98;100;100,task:2;informational:70;navigational:5;commercial:17;transactional:6
+Samsung Lava e Seca: Limpeza e Manutenção,29,7332,26;37;42;49;48;46;46;98;88;96;94;100,task:2;informational:82;navigational:5;commercial:9;transactional:2
+Máquinas de limpeza e extratoras WAP,19,658,74;85;89;87;94;96;100;57;61;61;57;59,task:2;informational:60;navigational:15;commercial:12;transactional:11
+Lava-louças Electrolux Blue Touch,20,1210,30;47;52;47;45;42;45;70;67;76;100;86,task:3;informational:31;navigational:38;commercial:16;transactional:12
+Destravamento de Lavadoras Samsung e Electrolux,40,5280,48;53;56;90;99;100;100;81;85;88;88;88,task:17;informational:73;navigational:3;commercial:5;transactional:2
+Lavadora WAP Bravo 2550,17,1440,50;57;57;33;31;61;42;41;40;52;47;100,task:2;informational:50;navigational:23;commercial:17;transactional:8
+Peças e reparos para máquina de lavar Brastemp,20,1536,38;40;41;27;89;89;90;100;87;87;87;87,task:3;informational:54;navigational:5;commercial:19;transactional:19
+Lavadoras e centrífugas de tapetes,19,632,56;29;29;100;15;17;16;63;63;63;63;64,task:5;informational:33;navigational:1;commercial:37;transactional:24
+Lavadoras e Secadoras Samsung 13kg,48,9625,46;50;51;27;79;79;80;100;38;38;38;38,task:2;informational:32;navigational:24;commercial:18;transactional:24
+Maquinas de algodão doce,65,17374,44;46;51;62;76;76;77;100;82;82;82;82,task:2;informational:50;navigational:5;commercial:24;transactional:19
+Brastemp 7kg Lavadoras (Lava e Seca),17,713,21;36;42;34;33;54;82;36;34;37;34;100,task:7;informational:46;navigational:14;commercial:23;transactional:10
+Secadoras Brastemp,47,14199,96;100;47;47;55;56;56;77;76;76;76;76,task:10;informational:38;navigational:4;commercial:28;transactional:20
+LG Lava e Seca VC2,28,5022,18;27;28;37;100;100;100;82;39;39;38;39,task:2;informational:60;navigational:11;commercial:15;transactional:12
+Lavatórios Portáteis para Salões,21,3630,86;98;100;97;53;55;56;50;56;56;53;53,task:2;informational:47;navigational:2;commercial:32;transactional:17
+Lavadoras Panasonic 12kg Titanio,22,2693,25;39;41;37;37;40;45;81;72;89;100;97,task:1;informational:59;navigational:15;commercial:17;transactional:8
+Secadoras portáteis de roupas,22,1946,66;88;90;87;92;99;100;97;100;100;94;93,task:3;informational:54;navigational:1;commercial:26;transactional:16
+Lavagem de Travesseiros,55,12787,97;100;100;100;96;97;97;96;100;100;100;100,task:2;informational:82;navigational:2;commercial:6;transactional:8
+Karcher Lavadoras de Alta Pressão,20,391,60;66;69;63;63;63;62;100;62;62;59;59,task:2;informational:56;navigational:10;commercial:20;transactional:12
+Robôs de limpeza doméstica,20,1707,31;41;35;38;69;70;70;100;79;80;79;78,task:2;informational:60;navigational:5;commercial:23;transactional:10
+Placas de Lavadoras Brastemp,44,10997,58;28;32;37;58;59;59;100;77;77;77;77,task:5;informational:57;navigational:4;commercial:23;transactional:11
+Lava-louças Continental 14 serviços,16,935,12;80;100;54;52;19;16;29;21;26;24;95,task:3;informational:55;navigational:18;commercial:17;transactional:7
+Secadores de mãos para banheiro,19,3322,75;100;100;43;52;55;56;76;72;87;81;86,task:5;informational:45;navigational:4;commercial:39;transactional:7
+Passadeiras a vapor e vaporizadores de roupas,150,47716,32;31;34;75;100;100;100;76;70;70;70;70,task:5;informational:43;navigational:4;commercial:37;transactional:11
+Lavadoras de Piso (Industrial e Residencial),32,5181,38;51;62;92;97;100;100;95;80;80;79;79,task:2;informational:52;navigational:5;commercial:27;transactional:14
+Electrolux LSP11: secagem e lavagem,18,562,59;99;100;68;82;75;73;86;77;93;87;89,task:5;informational:64;navigational:5;commercial:17;transactional:9
+Tecno Eletrodomésticos,19,511,38;46;49;47;58;60;60;100;77;85;52;51,task:12;informational:40;navigational:11;commercial:30;transactional:7
+Instalação Lava e Seca LG,15,262,14;50;54;54;54;38;31;62;45;50;47;100,task:17;informational:43;navigational:7;commercial:10;transactional:23
+pistola de lavadora de alta pressão,21,1895,68;97;99;95;91;97;98;96;99;99;100;99,task:7;informational:33;navigational:5;commercial:37;transactional:18
+Tampas para tanques de lavar roupa,17,2269,17;50;48;32;31;34;36;59;57;66;62;100,task:7;informational:48;navigational:5;commercial:25;transactional:15
+Eletrodomésticos no Zoom,22,2376,85;100;100;99;75;78;82;97;86;87;93;94,task:5;informational:33;navigational:27;commercial:10;transactional:25
+Saboneteiras Automáticas com Sensor,15,130,59;69;67;67;63;100;72;61;65;62;62;62,task:3;informational:62;navigational:1;commercial:24;transactional:10
+Shampoozeiras automotivas,15,657,81;96;100;94;89;97;97;92;93;94;92;93,task:10;informational:60;navigational:1;commercial:22;transactional:7
+Máquinas Galoneira,33,13883,24;31;32;34;87;88;88;100;100;100;100;100,task:5;informational:49;navigational:7;commercial:24;transactional:15
+Samsung WD11M 11kg Lava e Seca,22,2753,33;70;72;43;39;30;29;98;79;100;83;77,task:2;informational:43;navigational:37;commercial:10;transactional:8
+Lavanderias Brasil,15,199,28;31;32;67;42;44;43;100;98;73;74;73,task:7;informational:18;navigational:33;commercial:30;transactional:12
+Máquinas de macarrão,40,10580,39;47;62;77;85;86;86;100;94;94;94;93,task:2;informational:54;navigational:5;commercial:22;transactional:17
+Equipamentos e Máquinas,17,9735,27;32;100;82;82;83;83;83;84;83;84;83,task:2;informational:68;navigational:5;commercial:19;transactional:6
+Conserto Lava-Louças,15,659,11;16;16;16;15;15;14;22;19;63;100;91,task:3;informational:38;navigational:9;commercial:26;transactional:24
+Escova Secadora Multilaser,18,322,90;100;99;65;61;63;62;98;55;62;60;59,task:2;informational:58;navigational:10;commercial:17;transactional:13
+lavadoras 17kg Consul/Brastemp,22,1276,61;99;100;56;35;36;36;53;57;58;57;57,task:10;informational:46;navigational:4;commercial:30;transactional:10
+lava e seca Samsung WD11A,31,9338,33;42;43;60;51;52;52;100;69;69;77;79,task:2;informational:52;navigational:28;commercial:9;transactional:9
+LG lava e seca Reclamações,18,369,23;34;38;33;58;54;53;78;72;100;84;66,task:7;informational:44;navigational:32;commercial:7;transactional:10
+Lava-louças Electrolux LL08B,19,377,17;19;20;59;59;100;57;47;45;70;65;71,task:3;informational:34;navigational:45;commercial:9;transactional:9
+Lavadoras Bosch GHP 220,19,220,40;92;100;84;85;91;72;72;69;73;68;66,task:1;informational:52;navigational:28;commercial:17;transactional:2
+Escovas para lavar louça,15,651,34;57;57;52;51;54;50;41;41;91;100;81,task:10;informational:47;navigational:5;commercial:23;transactional:15
+Lavar Tênis na Máquina,65,18373,97;100;100;100;95;96;96;93;98;98;98;98,task:6;informational:80;navigational:4;commercial:7;transactional:3
+Máquinas para Linguiça,26,5909,56;36;39;63;96;98;100;100;100;100;100;100,task:5;informational:54;navigational:4;commercial:23;transactional:14
+Manuais e símbolos Samsung Eco Bubble Lava e Seca,79,16381,66;70;77;89;99;99;99;91;94;100;94;94,task:2;informational:79;navigational:6;commercial:6;transactional:7
+Lavagem de roupas íntimas,43,7159,90;95;85;90;91;92;92;100;89;89;89;89,task:5;informational:80;navigational:2;commercial:6;transactional:7
+Máquinas de Tinta,18,629,88;99;100;66;92;95;94;98;99;100;94;95,task:2;informational:49;navigational:5;commercial:31;transactional:13
+Lava-louças 6 serviços,25,2633,85;100;57;53;46;49;50;51;52;52;52;51,task:4;informational:53;navigational:4;commercial:28;transactional:11
+Problemas de Lavadoras com Nível de Água,18,440,100;89;82;78;76;84;89;66;84;83;83;83,task:8;informational:63;navigational:5;commercial:10;transactional:14
+Mega Máquinas e Acessórios,16,189,47;55;55;100;64;65;61;60;55;53;56;60,task:3;informational:27;navigational:45;commercial:17;transactional:8
+Branqueadores de roupas,17,1699,14;89;78;51;54;59;31;67;67;76;98;100,task:3;informational:60;navigational:2;commercial:27;transactional:8
+Lavadoras Brastemp 17kg,15,589,35;48;55;49;46;44;53;100;63;72;29;35,task:2;informational:52;navigational:7;commercial:27;transactional:12
+Locação de Máquinas de Limpeza,28,3972,43;54;57;66;90;92;92;97;100;99;99;99,task:3;informational:32;navigational:4;commercial:45;transactional:16
+Máquinas de Costura Automatizadas,20,1011,81;84;46;42;93;96;92;100;98;98;99;99,task:8;informational:66;navigational:5;commercial:16;transactional:5
+Erros de lava e seca Midea,17,561,23;10;38;92;100;99;99;100;89;91;89;94,task:2;informational:85;navigational:5;commercial:5;transactional:3
+Lavanderia com Rodinhas,15,945,3;26;31;25;32;42;27;55;43;100;92;82,task:5;informational:58;navigational:18;commercial:12;transactional:7
+Secadoras de roupas a gás,19,1337,35;49;54;48;48;46;39;82;53;55;53;100,task:1;informational:55;navigational:4;commercial:35;transactional:5
+cozinha com lava-louças embutida,16,1095,73;85;88;59;79;79;78;63;67;67;92;100,task:2;informational:66;navigational:10;commercial:14;transactional:8
+Detergentes para Lavar Roupas,32,6559,29;35;62;75;92;93;93;88;100;100;100;100,task:2;informational:68;navigational:3;commercial:17;transactional:10
+Tanquinho Latina,16,287,23;64;72;52;52;61;37;80;66;100;87;27,task:7;informational:42;navigational:18;commercial:21;transactional:12
+Termos de lavagem de roupas (quarar),24,3077,66;69;69;69;72;73;73;92;100;100;100;100,task:1;informational:89;navigational:5;commercial:3;transactional:2
+Lava Botas e Lavadores Industriais,15,248,78;96;98;96;100;89;90;92;98;97;97;97,task:7;informational:41;navigational:11;commercial:25;transactional:16
+Máquinas de Ilhos,16,222,80;90;93;89;86;89;89;99;100;88;88;88,task:5;informational:69;navigational:5;commercial:12;transactional:9
+Máquinas de Sorvete,142,71754,28;29;31;46;95;95;95;100;85;85;85;85,task:5;informational:56;navigational:2;commercial:23;transactional:14
+Lavadoras Panasonic 17kg NA-F170P6T,15,574,22;76;76;58;57;52;49;100;73;49;44;30,task:2;informational:42;navigational:29;commercial:26;transactional:1
+Bancadas e Pias para Lavanderia,15,144,14;17;18;17;15;15;19;100;92;15;15;15,task:7;informational:34;navigational:1;commercial:47;transactional:11
+Lavadora Samsung WD11T - lava e seca,27,8950,35;46;46;44;45;46;46;100;69;72;65;70,task:2;informational:64;navigational:11;commercial:14;transactional:9
+Tanquinhos de lavar roupas 10kg,149,65471,48;48;50;60;90;90;90;100;94;94;94;94,task:2;informational:39;navigational:10;commercial:34;transactional:15
+Lavadoras Brastemp com Água Quente,16,673,12;17;19;15;35;34;46;100;54;60;49;47,task:5;informational:70;navigational:2;commercial:15;transactional:8
+Lavacar Brasil,16,3015,75;100;93;69;70;72;73;75;81;80;80;79,task:3;informational:24;navigational:40;commercial:25;transactional:8
+Lavadoras de Alta Pressão WAP WL 1820,20,997,58;68;54;62;62;71;77;71;90;100;76;76,task:2;informational:51;navigational:15;commercial:23;transactional:9
+Máquinas de Chaveiro,15,573,66;76;75;69;72;75;74;100;89;90;89;89,task:3;informational:54;navigational:4;commercial:29;transactional:10
+Máquinas Singer Heavy Duty,29,6298,27;37;36;37;92;96;97;100;98;99;100;100,task:3;informational:57;navigational:16;commercial:13;transactional:11
+Operatrix Máquinas,15,161,100;59;61;50;45;46;46;55;53;49;49;59,task:3;informational:43;navigational:44;commercial:7;transactional:3
+Lava-louças Electrolux LL14B/LV14X,16,370,18;20;22;21;79;47;35;59;45;100;84;84,task:3;informational:38;navigational:36;commercial:12;transactional:11
+Máquinas de manicure,26,2177,100;53;54;57;76;79;78;81;73;77;68;67,task:8;informational:50;navigational:7;commercial:20;transactional:15
+Lavagem de Carro Expresso,15,290,52;63;62;64;67;80;76;65;71;69;69;100,task:3;informational:18;navigational:4;commercial:67;transactional:8
+Maquinas Electra Pop,16,231,74;76;77;100;100;79;79;80;58;58;58;61,task:5;informational:56;navigational:10;commercial:17;transactional:12
+Compressores para Lava-Jato,23,1440,92;100;100;54;55;55;55;98;78;79;76;75,task:8;informational:47;navigational:4;commercial:31;transactional:10
+Lava-louças Compactas e Instalação,50,12635,70;78;80;84;99;100;100;95;94;94;94;94,task:5;informational:68;navigational:5;commercial:18;transactional:4
+Havan: Aspiradores e Lavadoras,17,1723,62;93;96;91;85;90;92;94;99;99;100;100,task:3;informational:28;navigational:33;commercial:13;transactional:23
+Lavadoras Panasonic 17kg,16,1396,26;36;43;56;79;81;71;100;71;61;77;97,task:2;informational:58;navigational:10;commercial:20;transactional:10
+Maquinas de masturbação,17,257,84;99;100;98;94;95;96;93;95;95;95;95,task:7;informational:60;navigational:2;commercial:26;transactional:5
+Secadoras de roupas no Brasil,127,49370,45;47;50;59;68;68;68;100;73;73;73;73,task:8;informational:42;navigational:6;commercial:35;transactional:9
+Linha em Máquinas de Costura,26,4340,47;25;33;71;80;82;82;95;100;100;100;100,task:7;informational:71;navigational:5;commercial:10;transactional:7
+Lavadoras que não giram: diagnóstico e soluções,27,3222,77;91;91;100;97;97;97;84;91;91;94;97,task:12;informational:67;navigational:8;commercial:5;transactional:8
+Tanquinhos de lavar roupa: melhores marcas e drenagem,35,7414,26;30;28;52;87;86;86;94;100;100;96;96,task:2;informational:48;navigational:1;commercial:42;transactional:7
+Lavadoras WAP Atacama,19,907,88;99;100;97;60;61;53;50;65;65;62;63,task:2;informational:36;navigational:29;commercial:24;transactional:9
+Enxoval e jogos de cama Lavive,15,545,68;95;100;93;80;80;79;87;88;88;75;74,informational:27;navigational:49;commercial:9;transactional:15
+Ternos: lavagem e lavanderia,34,4618,84;87;90;97;95;95;96;100;85;85;83;83,task:2;informational:71;navigational:5;commercial:13;transactional:9
+Bombas Lava Jato,55,16499,32;36;38;53;87;88;88;98;100;100;100;100,task:5;informational:55;navigational:7;commercial:22;transactional:11
+Máquinas de Corte para Tecido (Bananinha),16,392,94;98;100;70;82;87;82;89;51;52;52;48,task:1;informational:53;navigational:3;commercial:18;transactional:25
+Lançadeiras para máquinas de costura,18,753,79;81;83;82;83;82;93;68;98;99;99;100,task:5;informational:64;navigational:5;commercial:15;transactional:11
+Limpeza a Laser e Remoção de Ferrugem,19,1180,35;38;40;61;94;92;92;100;91;91;91;91,task:8;informational:58;navigational:2;commercial:23;transactional:9
+Lava-louças Electrolux ll08s,35,4302,36;49;58;79;82;85;86;85;78;78;100;98,task:2;informational:52;navigational:23;commercial:16;transactional:7
+Bicos Karcher para Lavadora,16,302,73;83;84;81;82;85;86;82;83;98;100;82,task:4;informational:35;navigational:5;commercial:29;transactional:27
+Correias para máquinas de lavar e costura,28,3995,48;55;30;39;67;68;69;94;100;100;100;100,task:2;informational:36;navigational:2;commercial:40;transactional:20
+Lanmax Máquinas de Costura,19,1118,80;88;88;94;97;100;100;100;79;78;79;78,task:5;informational:22;navigational:44;commercial:12;transactional:17
+lavadoras de pressão Black & Decker PW1400,15,181,20;50;70;45;45;48;46;100;78;64;56;59,task:3;informational:35;navigational:28;commercial:12;transactional:22
+Móveis Modulares para Lavanderia,15,272,46;53;54;52;60;62;69;85;100;59;56;56,task:1;informational:59;navigational:4;commercial:31;transactional:5
+Secadoras SFP12 12kg,17,1242,13;52;54;46;46;43;37;17;18;80;79;100,task:1;informational:41;navigational:39;commercial:14;transactional:5
+Bombas de água para máquina de lavar Electrolux,32,3676,25;35;35;86;97;100;100;73;85;85;91;92,task:8;informational:46;navigational:4;commercial:17;transactional:25
+Lavadoras de Alta Pressão WAP 1800,24,1566,48;57;57;45;99;100;100;56;60;65;55;55,task:3;informational:45;navigational:4;commercial:27;transactional:21
+Secantes e brilhos para lava-louças,37,12869,22;29;30;57;68;69;70;100;93;93;93;93,task:8;informational:53;navigational:4;commercial:29;transactional:6
+Makita: Lavadoras de Alta Pressão e Serras para Mármore,17,439,65;81;81;84;86;92;100;95;96;85;85;84,task:3;informational:50;navigational:18;commercial:15;transactional:14
+Máquinas de Prensa,18,397,71;100;97;93;92;79;80;88;97;98;91;91,task:3;informational:53;navigational:10;commercial:17;transactional:17
+Mangueiras de máquina de lavar Brastemp/Consul,18,1190,62;72;42;46;99;100;100;42;53;54;55;54,task:2;informational:54;navigational:5;commercial:15;transactional:24
+Misturadores elétricos,15,263,22;54;65;48;55;50;39;100;99;30;30;30,task:7;informational:46;navigational:4;commercial:29;transactional:14
+Lavanderia dry clean Brasil,17,2619,52;70;73;73;58;63;63;80;100;100;98;97,task:5;informational:53;navigational:20;commercial:14;transactional:8
+limpeza multiuso,18,4234,22;28;53;57;95;94;95;96;100;100;98;98,task:8;informational:52;navigational:2;commercial:34;transactional:4
+Britânia Lava-Louças,15,202,12;16;18;17;33;21;17;27;24;100;83;18,task:3;informational:40;navigational:35;commercial:15;transactional:7
+Máquinas de gelo,82,49986,36;38;41;46;63;63;63;99;100;100;100;100,task:8;informational:42;navigational:4;commercial:34;transactional:12
+Maquinaria e reparação automotiva,21,3428,87;81;50;57;92;93;93;85;100;100;100;100,task:4;informational:68;navigational:10;commercial:12;transactional:6
+Lavanderias de Qualidade,15,401,73;88;87;82;78;100;99;94;100;97;93;92,task:7;informational:42;navigational:10;commercial:36;transactional:5
+Panelas para lava-louças,47,12385,26;32;49;62;93;94;95;94;100;100;100;100,task:5;informational:61;navigational:6;commercial:19;transactional:9
+Lavagem de Carro a Domicílio,17,326,95;100;85;66;50;50;50;51;47;46;46;46,task:10;informational:42;navigational:5;commercial:18;transactional:25
+Lavadoras e secadoras Samsung 14kg,22,3242,12;39;43;32;30;28;26;16;44;100;66;81,task:7;informational:24;navigational:19;commercial:24;transactional:26
+Lavadoras Stihl RE 143,16,694,47;49;50;31;28;34;32;30;31;100;93;92,task:5;informational:40;navigational:10;commercial:10;transactional:35
+Lavanderia externa no quintal,17,859,76;87;85;100;90;80;81;80;89;89;89;88,task:8;informational:71;navigational:2;commercial:11;transactional:8
+Lavadoras de Alta Pressão Casas Bahia,16,1475,12;15;15;14;15;16;24;25;23;63;76;100,task:7;informational:11;navigational:59;commercial:10;transactional:13
+Istobal: lavagem automática de carros,17,881,33;34;35;35;55;56;56;100;85;85;85;85,task:2;informational:42;navigational:11;commercial:21;transactional:24
+Lavadoras WAP Líder 2200,19,501,82;93;93;92;54;56;91;77;60;100;92;66,task:2;informational:55;navigational:15;commercial:14;transactional:14
+Tanquinho 7kg: Lavadoras compactas,21,686,37;100;100;63;59;40;68;34;34;63;57;70,task:3;informational:25;navigational:4;commercial:54;transactional:14
+Água para Passar Roupas,20,1465,31;39;59;72;78;78;74;100;92;92;92;93,task:2;informational:68;navigational:3;commercial:12;transactional:15
+Motores de liquidificador,19,2258,45;49;50;91;99;100;100;93;93;94;93;94,task:2;informational:62;navigational:4;commercial:27;transactional:5
+Brastemp 10kg: Máquinas de lavar,33,5382,46;62;64;69;64;68;68;100;100;100;100;100,task:2;informational:52;navigational:5;commercial:27;transactional:14
+Mangueiras para Máquina de Lavar Electrolux,22,2137,65;75;76;59;98;100;100;100;64;64;64;64,task:5;informational:43;navigational:5;commercial:22;transactional:25
+Códigos de erro de lava e seca,25,2991,88;92;100;94;88;88;89;85;88;88;89;89,task:2;informational:76;navigational:5;commercial:8;transactional:9
+Máquinas de Pipoca,27,6009,54;65;64;66;63;66;67;100;98;98;99;98,task:2;informational:54;navigational:5;commercial:25;transactional:14
+Conserto de máquina de lavar em Porto Alegre,15,168,32;39;43;39;44;42;42;45;43;95;62;100,task:3;informational:5;navigational:1;commercial:40;transactional:51
+Molas e Peças para Máquina de Lavar Electrolux,23,1012,60;74;64;94;96;100;100;86;95;96;97;97,task:5;informational:41;navigational:5;commercial:24;transactional:25
+Máquinas de gelo portáteis,17,574,41;59;62;57;48;51;60;100;82;86;100;100,task:10;informational:45;navigational:4;commercial:31;transactional:10
+Washtec Lavanderias e Tinturaria,15,354,37;41;42;79;100;96;88;32;34;34;33;50,task:2;informational:43;navigational:41;commercial:7;transactional:7
+Lavadoras Consul 10kg,20,691,88;99;100;56;75;70;72;98;52;53;51;53,task:2;informational:57;navigational:15;commercial:18;transactional:8
+Ferro industrial Lanmax,15,35,52;90;100;96;66;94;81;75;75;75;75;75,task:3;informational:41;navigational:29;commercial:12;transactional:15
+Maquinas de cortar cabelo Gama,26,1693,88;100;100;95;43;46;46;49;50;49;48;48,task:2;informational:49;navigational:14;commercial:28;transactional:7
+Máquinas de sovar pão,18,551,51;73;79;70;63;64;80;77;90;100;69;70,task:3;informational:57;navigational:1;commercial:29;transactional:10
+Limpeza de motor automotivo,102,24691,44;49;53;70;83;84;84;98;100;100;100;100,task:8;informational:63;navigational:5;commercial:13;transactional:11
+Extratoras IPC Lava Pro,15,312,77;97;100;96;95;86;87;86;86;100;97;100,task:3;informational:23;navigational:41;commercial:20;transactional:13
+Conserto e Assistência Electrolux de Máquinas de Lavar,17,565,66;69;70;28;29;31;30;87;92;100;79;85,task:8;informational:57;navigational:7;commercial:10;transactional:18
+Detergentes em Pó,17,1824,25;32;32;27;68;68;68;100;100;100;100;99,task:2;informational:57;navigational:2;commercial:31;transactional:8
+Máquinas de Costura Eletrônicas,26,2556,80;92;90;49;93;96;96;100;91;91;92;93,task:2;informational:55;navigational:2;commercial:30;transactional:11
+Máquinas de salgados,74,36734,35;37;44;63;100;100;100;92;96;96;96;96,task:2;informational:50;navigational:5;commercial:27;transactional:16
+Lavanderias em Belo Horizonte,15,52,88;96;93;93;100;96;91;88;80;80;80;80,task:1;informational:28;navigational:32;commercial:28;transactional:11
+Máquinas de costura antigas,18,2049,60;68;69;74;78;86;87;87;99;98;100;100,task:5;informational:57;navigational:5;commercial:21;transactional:12
+Tanques de lavanderia com gabinete,17,5424,82;94;100;99;90;92;93;89;92;91;91;90,task:7;informational:50;navigational:5;commercial:23;transactional:15
+Tambor e cesto soltos em máquinas de lavar,19,746,63;63;66;62;95;95;95;95;89;89;89;100,task:7;informational:72;navigational:5;commercial:8;transactional:8
+Lava e seca 9kg Electrolux LSE09,18,1043,23;97;99;79;80;65;48;100;71;77;68;78,task:2;informational:40;navigational:27;commercial:22;transactional:9
+Bruxas da Limpeza,18,242,22;32;34;68;56;41;50;100;72;38;39;35,task:10;informational:60;navigational:8;commercial:17;transactional:5
+Óleo para Lavadora de Alta Pressão,18,941,31;36;38;100;67;65;63;97;97;97;97;97,task:7;informational:65;navigational:2;commercial:19;transactional:7
+Lavatórios de Cabelo Usados,16,143,84;90;94;99;97;97;100;90;92;92;92;92,task:7;informational:36;navigational:11;commercial:19;transactional:27
+Máquinas de descascar fio,20,1963,91;100;64;76;76;80;81;97;99;100;98;98,task:5;informational:56;navigational:5;commercial:20;transactional:14
+Banho-Maria Elétrico,17,217,72;83;88;86;98;100;87;80;80;77;78;79,task:3;informational:36;navigational:18;commercial:30;transactional:13
+Máquinas de fazer bolos,29,2689,70;93;92;97;91;96;100;95;87;87;90;89,task:5;informational:50;navigational:8;commercial:16;transactional:21
+Lavadoras Stihl RE 145/RE 150,18,448,57;61;62;61;61;62;62;100;84;84;84;84,task:5;informational:68;navigational:5;commercial:10;transactional:12
+Robôs domésticos,22,1813,25;30;38;87;98;98;100;85;76;76;77;77,task:4;informational:73;navigational:5;commercial:15;transactional:3
+Maquinas Mini e Pequenas,16,303,11;31;47;28;29;52;96;100;70;91;77;97,task:3;informational:64;navigational:6;commercial:15;transactional:12
+Peças e acessórios para máquina de costura,20,2748,92;48;64;71;87;90;90;100;89;89;85;84,task:2;informational:33;navigational:23;commercial:33;transactional:9
+Lavadoras Brastemp 9kg,45,7655,94;49;51;65;80;81;81;93;100;100;100;99,task:2;informational:44;navigational:5;commercial:35;transactional:14
+Maquinas de Gelo Impomac,17,235,57;95;100;88;73;75;62;54;55;55;55;55,task:2;informational:44;navigational:33;commercial:7;transactional:14
+Aspiradores Electrolux: pó e água,49,7307,72;81;88;86;89;92;92;94;100;100;100;99,task:2;informational:57;navigational:3;commercial:21;transactional:17
+Sifões e Adaptadores para Lava-Louças e Máquinas de Lavar,21,2143,55;64;64;65;62;65;65;100;72;76;84;94,task:5;informational:60;navigational:7;commercial:19;transactional:9
+Máquinas e Indústria,21,11814,31;36;23;91;99;100;100;94;95;95;95;95,task:8;informational:65;navigational:6;commercial:13;transactional:8
+Agitadores de Lavadora Brastemp/Consul,15,356,50;64;68;63;63;69;100;63;63;100;93;96,task:2;informational:64;navigational:5;commercial:11;transactional:18
+Amaciantes Comfort para lavanderia,18,1856,82;100;100;70;66;69;72;59;69;69;67;66,task:5;informational:48;navigational:14;commercial:21;transactional:12
+"Espremedores, Liquidificadores e Processadores",20,937,56;62;68;73;82;80;74;89;89;89;89;100,task:5;informational:54;navigational:4;commercial:32;transactional:5
+Limpeza a Vapor para Roupas,19,2065,47;53;53;65;99;100;100;63;64;64;63;64,task:4;informational:57;navigational:2;commercial:24;transactional:13
+Lavanderias Acqua Brasil,15,564,47;59;66;78;77;82;83;98;100;100;100;99,task:4;informational:18;navigational:52;commercial:21;transactional:5
+Electrolux LSW11 Lava e Seca,18,814,26;99;100;72;74;58;52;95;54;65;44;50,informational:47;navigational:28;commercial:20;transactional:5
+Lav Sec Lavanderias,15,141,56;94;100;91;90;73;71;77;80;80;80;80,task:3;informational:28;navigational:22;commercial:35;transactional:12
+Lavadoras de Alta Pressão Stihl RE90,21,406,94;98;100;95;95;96;96;88;87;88;88;88,task:2;informational:58;navigational:15;commercial:10;transactional:15
+Maquinas de acabamento para cabelo,48,9761,89;97;100;51;49;51;51;81;82;82;82;81,task:5;informational:36;navigational:4;commercial:35;transactional:20
+Máquinas de costura Singer portáteis,22,1768,77;97;100;96;87;93;89;82;83;82;82;83,task:3;informational:57;navigational:5;commercial:18;transactional:17
+Lavadoras Electrolux 15kg Turbo LTD15,18,1280,33;56;67;57;88;86;100;43;40;87;80;89,task:2;informational:49;navigational:14;commercial:29;transactional:6
+Lavadoras que pulam na centrifugação,18,1362,13;17;19;34;54;55;57;69;64;51;52;100,task:2;informational:89;navigational:4;commercial:4;transactional:1
+Lava-louças Hobart,17,3127,89;95;96;100;89;91;91;100;99;99;98;98,task:3;informational:63;navigational:17;commercial:12;transactional:5
+Máquinas de costura industriais,61,19819,32;34;39;44;100;100;100;89;71;71;71;71,task:2;informational:48;navigational:7;commercial:26;transactional:17
+Equipamentos e Máquinas LC,15,85,15;57;51;30;59;100;67;19;19;21;20;20,task:1;informational:18;navigational:58;commercial:17;transactional:6
+Máquinas de fazer biscoitos,24,2637,34;45;40;75;98;100;100;69;55;55;55;55,task:5;informational:50;navigational:5;commercial:21;transactional:19
+Misteiras e Eletrodomésticos,16,4024,64;90;96;96;94;96;98;98;100;100;100;99,task:7;informational:45;navigational:11;commercial:30;transactional:7
+escovas elétricas de limpeza,60,17094,47;56;64;71;82;83;83;90;100;100;100;100,task:5;informational:40;navigational:4;commercial:39;transactional:12
+Pastilhas para lava-louça,21,1807,76;85;86;49;51;53;53;100;92;93;92;92,task:2;informational:39;navigational:2;commercial:36;transactional:21
+Bener Máquinas,16,1230,31;32;33;33;33;34;33;96;96;100;100;100,informational:49;navigational:33;commercial:10;transactional:8
+lava-louças Brastemp 8 serviços preta,16,727,9;43;53;51;51;35;39;80;69;100;89;94,task:7;informational:32;navigational:31;commercial:21;transactional:9
+Lava-louças Brastemp 14 Serviços,18,689,62;76;78;71;70;68;66;67;77;86;95;100,task:5;informational:59;navigational:10;commercial:15;transactional:11
+Hidrojateamento: Máquinas e Preços,16,168,61;64;67;67;62;62;62;67;66;100;100;66,task:5;informational:65;navigational:4;commercial:23;transactional:3
+Máquinas de Costura Jack,31,3005,62;78;79;83;90;99;100;97;97;97;98;97,task:5;informational:39;navigational:21;commercial:28;transactional:7
+Limpeza de pele com aparelhos,27,2702,32;35;61;91;85;86;86;100;73;73;72;72,task:5;informational:69;navigational:5;commercial:19;transactional:2
+Máquinas de Costura com Braço,17,262,73;90;86;100;93;78;92;71;71;72;71;83,task:3;informational:49;navigational:11;commercial:24;transactional:13
+Lava Jato Americana,16,454,90;92;92;98;95;100;98;92;91;93;93;97,task:2;informational:41;navigational:25;commercial:21;transactional:11
+Máquinas hidráulicas,19,864,23;23;24;66;100;100;100;97;95;95;95;95,task:8;informational:72;navigational:2;commercial:7;transactional:11
+Lavadoras de Alta Pressão Black & Decker,17,573,66;87;84;85;80;92;90;100;92;93;86;90,task:7;informational:41;navigational:6;commercial:24;transactional:22
+Batedeiras KitchenAid,36,13764,93;97;100;46;46;47;47;56;57;57;57;57,task:3;informational:38;navigational:15;commercial:29;transactional:15
+Máquinas de Bordar e Bordado,82,23324,52;55;60;87;100;100;100;98;97;97;97;97,task:2;informational:47;navigational:7;commercial:26;transactional:18
+Mops e Vassouras,16,427,44;60;57;46;79;61;52;73;69;46;63;100,task:3;informational:44;navigational:13;commercial:23;transactional:17
+Ordenhadeiras móveis de leite,17,222,19;24;24;24;23;100;69;62;47;25;25;27,task:3;informational:63;navigational:1;commercial:20;transactional:13
+Maquinas pespontadeiras e costura,19,1373,45;52;53;55;54;56;56;88;100;96;95;90,task:2;informational:63;navigational:2;commercial:19;transactional:14
+Máquinas para Bebidas,16,159,61;76;100;88;83;90;97;94;94;90;90;90,task:10;informational:12;navigational:30;commercial:36;transactional:12
+Lavanderias Clean Brasil,16,314,65;83;88;86;85;85;85;88;100;100;95;95,task:3;informational:24;navigational:37;commercial:28;transactional:8
+Máquinas de Costura Janome,30,6424,87;98;100;60;58;59;59;80;81;81;81;80,task:2;informational:43;navigational:17;commercial:16;transactional:22
+Lavanderias Ecológicas,15,126,64;75;83;95;95;100;99;97;99;99;99;99,task:3;informational:35;navigational:21;commercial:33;transactional:8
+Pressostatos de Lavadora Electrolux,17,942,78;84;84;84;95;97;94;56;94;99;99;100,task:2;informational:60;navigational:7;commercial:24;transactional:7
+Tanquinhos e Lavadoras Lojas Cem,17,773,41;49;49;59;85;86;94;100;84;65;61;53,task:3;informational:37;navigational:24;commercial:30;transactional:6
+Lavadoras de alta pressão Stihl RE 110,19,486,94;100;100;99;94;95;96;77;56;56;60;60,task:2;informational:61;navigational:11;commercial:13;transactional:13
+Dosadores e Dispensers de Detergente,20,1430,86;99;100;98;97;100;100;51;72;74;73;72,task:5;informational:47;navigational:5;commercial:24;transactional:19
+Lavadoras de alta pressão Karcher K5,22,2546,43;48;47;49;90;92;93;100;99;100;100;100,task:3;informational:49;navigational:14;commercial:26;transactional:8
+Brastemp BWK12 Lavadoras,17,1095,44;49;50;47;50;51;49;100;72;72;70;71,task:4;informational:44;navigational:25;commercial:21;transactional:6
+Brastemp 15kg lava e seca,19,2314,39;50;54;50;45;46;54;91;61;69;90;100,task:5;informational:27;navigational:19;commercial:37;transactional:12
+Equipamentos de Limpeza no Brasil,17,277,41;65;65;71;95;46;46;52;100;89;89;89,task:5;informational:67;navigational:5;commercial:15;transactional:8
+Lavadores de Gases Industriais,19,920,38;40;41;35;100;100;100;97;84;84;83;83,task:5;informational:67;navigational:5;commercial:15;transactional:8
+Brinquedos Lava-Louça Infantis,18,315,74;94;94;90;86;91;94;86;92;100;100;99,task:9;informational:57;navigational:1;commercial:21;transactional:12
+Bainhas de roupas,23,9891,96;100;100;85;29;30;30;85;88;88;87;87,task:5;informational:70;navigational:7;commercial:10;transactional:8
+Máquinas de Fazer Fraldas Descartáveis,23,2578,31;37;43;67;85;87;87;80;99;99;100;100,task:8;informational:43;navigational:2;commercial:29;transactional:18
+Maquinas e Equipamentos Forte,15,376,69;98;99;94;93;98;98;100;85;85;85;88,task:3;informational:15;navigational:54;commercial:23;transactional:5
+Lava Rápido Brasil,82,83865,100;58;58;84;79;79;79;79;75;75;75;75,task:8;informational:40;navigational:15;commercial:22;transactional:15
+Lava Rápido com Karcher K1,16,1093,42;43;43;43;43;44;44;100;100;98;98;97,task:7;informational:55;navigational:4;commercial:25;transactional:9
+Máquinas de churros,19,3300,64;86;100;98;94;97;99;89;89;89;86;85,task:8;informational:57;navigational:3;commercial:18;transactional:14
+Máquinas de Barbeiro JRL,28,4885,83;99;100;55;79;83;85;83;85;84;84;84,task:2;informational:42;navigational:35;commercial:16;transactional:5
+Acessórios para Lavadoras de Alta Pressão Electrolux,16,541,39;55;58;56;55;53;52;58;55;100;93;100,task:3;informational:55;navigational:11;commercial:20;transactional:11
+limpmais limpeza,16,54,44;46;54;54;54;52;52;100;95;60;60;60,task:10;informational:28;navigational:10;commercial:40;transactional:12
+Instalação de lava e seca Samsung,23,3263,20;36;30;31;62;58;59;55;89;100;85;87,task:12;informational:73;navigational:5;commercial:8;transactional:2
+Máquinas de pregar botões,33,1933,58;75;76;79;82;88;88;100;86;86;82;82,task:2;informational:55;navigational:10;commercial:23;transactional:10
+Lavagem automotiva e higienização,22,1431,62;84;100;90;81;81;82;67;68;68;68;68,task:5;informational:47;navigational:9;commercial:16;transactional:23
+Máquinas de Limpeza de Bicos Injetores,16,510,64;80;90;89;89;96;96;82;83;84;99;100,task:7;informational:22;navigational:17;commercial:40;transactional:14
+T9 Máquinas Vintage,19,5171,68;89;91;99;89;90;90;94;92;91;100;100,task:5;informational:57;navigational:5;commercial:13;transactional:20
+Peças Brastemp: Geladeira e Lavadora,25,1723,87;100;100;52;66;68;68;84;71;71;71;71,task:3;informational:40;navigational:26;commercial:22;transactional:9
+Assistência LG Lava e Seca,15,143,15;22;25;23;24;31;26;100;45;65;36;35,task:10;informational:18;navigational:42;commercial:18;transactional:12
+Tanquinhos de Lavar Roupa 8–15kg,17,983,38;68;75;60;50;45;53;100;58;67;64;89,task:3;informational:33;navigational:18;commercial:30;transactional:16
+Máquinas de Café,19,2140,41;44;45;21;21;22;23;100;22;21;22;22,task:2;informational:39;navigational:7;commercial:20;transactional:32
+Máquinas de Costura 4432,18,300,48;52;53;52;51;54;53;77;63;44;43;100,task:3;informational:42;navigational:25;commercial:17;transactional:13
+Andrade Máquinas,15,95,85;89;95;91;91;100;93;86;86;91;86;89,task:5;informational:20;navigational:60;commercial:7;transactional:8
+Máquinas de tosa ProPetz,21,299,85;99;100;92;92;96;97;91;96;95;96;95,task:3;informational:20;navigational:35;commercial:26;transactional:16
+Lavadoras de Alta Pressão no Mercado Livre,17,419,79;100;99;89;82;91;90;85;85;86;73;78,task:3;informational:20;navigational:41;commercial:14;transactional:22
+Marcas de Máquinas,18,358,44;67;100;83;93;94;65;64;80;84;79;82,task:3;informational:69;navigational:4;commercial:21;transactional:3
+Secadoras Mueller,32,3505,85;100;100;49;47;49;48;47;50;51;53;52,task:2;informational:40;navigational:15;commercial:23;transactional:20
+Brastemp lava-louças BLF62AR,18,1279,8;48;55;43;70;55;53;75;62;81;76;100,task:3;informational:48;navigational:31;commercial:14;transactional:4
+Wahl Legend: Máquinas de Corte,18,438,80;100;93;80;80;87;87;72;47;48;43;43,task:5;informational:50;navigational:2;commercial:30;transactional:13
+Lavanderias Pequenas Decoradas,21,6083,72;100;98;87;64;65;65;75;80;80;80;80,task:8;informational:69;navigational:5;commercial:12;transactional:6
+wap limpeza e detergentes,32,5175,35;41;31;44;79;80;80;97;93;95;100;100,task:2;informational:52;navigational:4;commercial:30;transactional:12
+Minas Máquinas,16,808,67;98;100;93;86;92;92;97;98;98;94;95,task:3;informational:22;navigational:54;commercial:13;transactional:8
+Bombas Samsung Lava e Seca,15,1138,9;35;32;34;40;29;33;41;25;39;30;100,task:10;informational:48;navigational:5;commercial:22;transactional:15
+Eletrodomésticos Pernambucanas,17,662,25;56;56;47;30;26;24;31;44;100;33;57,task:7;informational:23;navigational:46;commercial:8;transactional:16
+Máquinas de costura usadas,22,5700,62;100;88;98;91;93;92;100;100;100;100;100,task:2;informational:32;navigational:6;commercial:35;transactional:25
+Tanquinhos de lavar com agitador lateral (Colormaq),20,1879,42;53;63;67;95;97;100;60;60;60;56;56,task:2;informational:60;navigational:7;commercial:18;transactional:13
+Outlets de Eletrodomésticos,15,239,11;89;99;68;63;57;62;100;66;36;32;35,task:3;informational:42;navigational:10;commercial:40;transactional:5
+centrífugas de roupas Wanke,19,1517,43;54;49;27;50;52;47;62;93;100;62;63,task:2;informational:48;navigational:29;commercial:12;transactional:9
+Lavadoras de alta pressão 2000 psi,17,255,45;58;61;62;62;98;100;85;74;78;78;83,task:3;informational:46;navigational:4;commercial:36;transactional:11
+Alfa Laval Brasil,19,2728,95;100;100;100;56;58;55;56;57;57;57;57,task:2;informational:42;navigational:48;commercial:4;transactional:4
+Área de Serviço e Lavanderia,60,20674,58;98;79;100;82;82;82;73;71;71;71;71,task:5;informational:65;navigational:10;commercial:14;transactional:6
+Torradeiras Electrolux,20,1755,49;71;73;70;73;78;80;97;95;100;83;82,task:3;informational:44;navigational:18;commercial:19;transactional:16
+Aqua Magic Lavanderias,15,296,22;28;33;31;32;34;33;100;31;31;31;31,task:3;informational:21;navigational:46;commercial:19;transactional:11
+OMO 3L: Detergentes Líquidos,20,2268,83;99;100;100;53;57;58;58;58;58;58;58,task:5;informational:27;navigational:9;commercial:27;transactional:32
+Lavagem a Seco de Estofados,38,8701,37;48;61;68;98;100;100;94;91;91;91;91,task:5;informational:58;navigational:1;commercial:28;transactional:8
+Máquinas para Gastronomia,17,613,63;86;86;79;81;90;89;91;100;100;94;93,task:4;informational:33;navigational:23;commercial:17;transactional:23
+Liquidificadores Arno Clic Lav,17,814,63;92;92;84;78;83;100;79;74;76;82;83,task:7;informational:44;navigational:4;commercial:33;transactional:12
+Tanquinhos Newmaq de Lavanderia,30,9292,33;40;41;22;65;67;67;90;98;100;96;97,task:8;informational:53;navigational:11;commercial:21;transactional:7
+Lavadoras de Alta Pressão Karcher K3 98,20,2167,69;78;77;74;70;72;72;99;100;100;95;94,task:5;informational:50;navigational:12;commercial:25;transactional:8
+Lavatórios de Inox,15,202,25;28;30;28;29;28;25;24;25;100;99;93,task:7;informational:49;navigational:5;commercial:25;transactional:14
+Máquinas de algodão doce Inovamaq,15,279,29;78;100;56;54;68;38;40;44;39;38;50,task:10;informational:24;navigational:21;commercial:22;transactional:23
+Mop PowerMaid Brasil,17,475,52;82;86;81;81;100;87;97;63;37;37;61,task:2;informational:47;navigational:30;commercial:18;transactional:3
+centrífugas Mueller para roupas,23,3435,84;100;51;59;59;62;61;72;58;58;64;63,task:5;informational:44;navigational:9;commercial:28;transactional:14
+Pias e Lavabos de Banheiro,16,1991,59;73;76;73;72;76;76;87;91;100;96;94,task:2;informational:54;navigational:11;commercial:21;transactional:12
+Sabão líquido para lavar roupas,68,27975,45;49;53;76;88;88;88;100;95;95;95;95,task:5;informational:49;navigational:4;commercial:30;transactional:12
+Máquinas de dinheiro,25,6929,28;35;38;52;47;49;47;100;99;99;98;98,task:2;informational:69;navigational:5;commercial:16;transactional:8
+Tanquinho Colormaq,54,26729,95;98;100;47;47;48;48;47;75;75;75;75,task:2;informational:44;navigational:15;commercial:16;transactional:23
+Liquidificadores com Processador,17,2101,66;99;99;85;85;89;90;98;96;96;100;99,task:7;informational:42;navigational:1;commercial:39;transactional:11
+Organização de lavanderia e área de serviço,17,1681,69;91;93;100;90;94;100;91;92;92;86;85,task:10;informational:64;navigational:5;commercial:15;transactional:6
+Barbeadores e aparadores à prova d'água,24,3757,31;35;35;51;61;62;62;80;95;95;97;100,task:5;informational:43;navigational:4;commercial:38;transactional:10
+Lavanderias em Maceió,15,264,42;90;93;50;50;100;80;46;47;47;47;49,task:3;informational:47;navigational:11;commercial:31;transactional:8
+Tanquinhos Colormaq 6kg e lavadoras de roupas 6kg,18,390,16;23;23;20;18;39;35;100;29;35;20;22,task:7;informational:43;navigational:8;commercial:32;transactional:10
+Aspiradores industriais,22,3341,85;99;100;54;66;69;69;68;77;77;76;75,task:5;informational:43;navigational:7;commercial:34;transactional:11
+Equipamentos de Pintura,19,426,44;45;48;71;89;91;88;100;100;59;59;59,task:7;informational:53;navigational:4;commercial:35;transactional:1
+Extratoras de sujeira e higienizadoras,23,3765,16;21;32;50;62;62;64;68;88;88;100;100,task:7;informational:41;navigational:2;commercial:43;transactional:7
+Casa e banho,17,628,11;37;38;59;50;76;38;72;75;97;100;95,task:2;informational:56;navigational:4;commercial:29;transactional:9
+Máquinas de Café Bianchi,15,79,83;83;92;84;80;82;82;98;100;84;84;84,task:3;informational:31;navigational:41;commercial:21;transactional:4
+Olivetti - máquinas de escrever,22,4411,90;96;99;100;86;88;88;82;83;83;82;81,task:2;informational:56;navigational:15;commercial:19;transactional:8
+Lavagem de Carros Top,16,371,90;94;100;74;74;76;76;75;84;84;84;83,task:2;informational:10;navigational:28;commercial:52;transactional:8
+Limpeza Doméstica e Higiene,36,12503,21;23;100;23;95;96;96;24;24;24;24;24,task:8;informational:70;navigational:3;commercial:7;transactional:12
+Dyson Chapinha e Secadora,25,2421,40;46;46;47;98;99;99;100;86;86;81;80,task:6;informational:55;navigational:2;commercial:22;transactional:15
+Lavadoras LG: Erros e Desbloqueio,18,792,76;94;95;97;87;85;84;56;89;96;100;100,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Máquinas de costura Magazine Luiza,16,266,76;98;100;87;80;87;88;67;63;75;64;66,task:5;informational:26;navigational:42;commercial:8;transactional:19
+Lavadoras WAP Combate Turbo 2600,25,2588,60;69;70;35;35;38;37;100;39;43;40;46,task:3;informational:39;navigational:32;commercial:17;transactional:9
+Máquinas de Costura Antigas com Pedal,22,4604,51;64;76;89;97;100;100;79;90;90;90;90,task:3;informational:53;navigational:4;commercial:20;transactional:20
+Maquinas de Overlock,74,40423,23;25;28;58;100;100;100;100;87;87;87;87,informational:55;navigational:5;commercial:27;transactional:13
+Casa de Máquinas e Elevadores,21,3332,33;39;39;53;55;57;58;100;94;94;94;93,task:5;informational:46;navigational:17;commercial:21;transactional:11
+Lavadoras de Alta Pressão WAP 4100,19,1191,59;71;72;72;74;76;76;100;51;51;51;53,task:2;informational:29;navigational:34;commercial:14;transactional:21
+Postos com Lava Rápido,19,2274,93;100;95;87;81;83;83;82;83;83;80;79,task:2;informational:48;navigational:25;commercial:19;transactional:6
+Detergentes CIF para lava-louças,18,360,56;59;57;70;63;55;53;67;67;75;72;100,task:7;informational:36;navigational:8;commercial:32;transactional:17
+Eletrodomésticos Antigos,16,156,26;27;28;86;86;100;82;96;72;40;39;39,task:2;informational:49;navigational:9;commercial:36;transactional:4
+Liquidificadores Mondial,64,20753,74;77;81;86;94;94;94;100;95;95;95;95,task:2;informational:42;navigational:14;commercial:30;transactional:12
+Lonking Máquinas Pesadas,19,468,43;43;44;44;63;81;71;86;83;100;96;73,task:2;informational:66;navigational:20;commercial:10;transactional:2
+Lavanderia e Tinturaria no Brasil,15,261,58;60;63;100;72;64;64;74;73;73;73;73,task:2;informational:54;navigational:9;commercial:29;transactional:6
+Máquinas de Café Saeco,23,3646,87;98;100;51;51;52;51;47;50;50;51;49,task:2;informational:45;navigational:13;commercial:32;transactional:8
+Secadoras Electrolux 10kg e Compactas,16,1353,23;35;60;41;41;36;39;29;69;87;100;96,task:1;informational:52;navigational:5;commercial:27;transactional:15
+Mangueiras de lava jato para carros,19,1433,87;100;69;91;70;73;75;81;78;75;76;75,task:5;informational:36;navigational:1;commercial:42;transactional:16
+Desentupidora Ligeirinho,15,42,85;89;100;94;94;94;94;94;96;96;96;96,task:3;informational:12;navigational:70;commercial:7;transactional:8
+Pistolas e lavadoras de alta pressão Karcher,16,222,71;83;94;100;91;93;88;100;97;89;89;88,task:7;informational:43;navigational:18;commercial:17;transactional:15
+Máquinas de costura Zoje,19,698,53;62;56;64;89;100;100;98;89;92;89;89,task:3;informational:33;navigational:26;commercial:12;transactional:26
+Lavacar Londrina,15,95,10;11;12;12;100;12;16;13;12;23;20;11,task:3;informational:33;navigational:31;commercial:29;transactional:4
+Máquinas de costura Brother,20,2481,100;53;53;53;48;51;51;50;50;50;50;50,informational:47;navigational:31;commercial:13;transactional:9
+Tanquinhos 2 em 1 com centrífuga,40,21095,42;44;21;24;100;100;100;94;51;51;51;51,task:8;informational:46;navigational:5;commercial:24;transactional:17
+Lavagem e Polimento Automotivo,19,1901,58;66;67;37;44;46;46;98;100;99;99;100,task:5;informational:46;navigational:9;commercial:31;transactional:9
+Batedeiras Mondial no Brasil,19,345,54;83;88;76;65;69;68;100;89;73;63;64,task:7;informational:49;navigational:5;commercial:23;transactional:16
+Purificadores Electrolux,18,467,42;51;53;51;53;73;53;78;74;50;86;100,task:3;informational:39;navigational:10;commercial:20;transactional:28
+Códigos LG Lava e Seca,20,708,42;52;54;97;97;96;95;84;99;100;100;99,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Máquinas de empadas,19,559,50;63;63;85;93;100;100;94;77;77;63;63,task:8;informational:54;navigational:4;commercial:27;transactional:7
+Máquinas de bala de coco,19,536,31;36;37;64;100;100;99;65;65;54;55;55,task:2;informational:41;navigational:4;commercial:30;transactional:23
+Máquinas de panquecas e waffles,16,1098,44;48;48;32;44;52;52;100;87;77;77;73,task:5;informational:63;navigational:5;commercial:17;transactional:10
+Washing Machines,28,10891,24;32;34;34;99;100;100;67;68;67;68;68,task:2;informational:51;navigational:6;commercial:26;transactional:15
+Máquinas de Costura Singer Usadas,15,904,49;54;55;85;98;100;99;84;60;62;62;56,task:2;informational:43;navigational:7;commercial:28;transactional:20
+Remoção de manchas de maquiagem em roupas,80,31708,90;100;100;100;85;85;85;99;98;98;98;98,task:2;informational:83;navigational:3;commercial:10;transactional:2
+Pias e tanques para lavanderia,23,4358,100;52;57;59;71;72;72;56;57;57;58;57,task:5;informational:55;navigational:5;commercial:21;transactional:14
+Máquinas de Corte de Tecido Industrial,15,62,92;95;99;92;92;93;99;93;100;92;92;92,task:7;informational:52;navigational:5;commercial:22;transactional:14
+Lavanderias em São Paulo,15,600,67;96;100;97;88;92;95;87;87;85;86;85,task:3;informational:41;navigational:14;commercial:32;transactional:10
+Secadores Revair,17,332,96;100;100;94;71;74;74;68;67;94;83;63,task:2;informational:63;navigational:9;commercial:19;transactional:7
+Calcadores para Máquinas de Costura,34,4835,51;57;63;69;64;65;66;100;94;94;94;94,task:2;informational:56;navigational:4;commercial:27;transactional:11
+Aspiradores Lavor no Brasil,18,288,29;58;67;66;50;46;52;63;61;100;93;45,task:7;informational:45;navigational:18;commercial:16;transactional:14
+Máquinas de costura Singer no Brasil,18,309,44;69;86;65;100;100;99;94;72;72;71;74,task:2;informational:70;navigational:15;commercial:10;transactional:3
+Lavagem de vestidos de festa e noiva,20,900,88;86;86;100;100;87;87;93;84;84;85;84,task:2;informational:79;navigational:5;commercial:11;transactional:3
+Maquinas de Salgados Interlaser e Jetfood,17,1151,44;56;56;75;97;100;94;71;92;92;95;95,task:5;informational:26;navigational:25;commercial:16;transactional:28
+Misturadores de água para chuveiro,25,2279,21;25;31;45;87;100;95;93;93;93;94;93,task:5;informational:53;navigational:4;commercial:24;transactional:14
+Dispenser de Sabão Automático,18,720,73;100;100;93;81;87;83;80;80;81;82;81,task:10;informational:49;navigational:1;commercial:26;transactional:14
+Máquinas elétricas,20,2571,21;26;25;33;78;80;75;100;91;94;96;91,task:3;informational:70;navigational:4;commercial:20;transactional:3
+centrífugas de roupas Arno,16,772,86;100;100;93;89;92;94;54;79;93;51;55,informational:67;navigational:22;commercial:8;transactional:3
+Máquinas de cortar cabelo,188,95010,38;41;44;51;68;68;68;88;100;100;100;100,task:2;informational:46;navigational:4;commercial:36;transactional:12
+Aspiradores Philco PH Rapid 1000,20,1387,28;31;33;30;29;56;46;59;99;100;92;97,task:2;informational:57;navigational:4;commercial:27;transactional:10
+Máquinas Yguaçu,15,107,14;15;15;16;74;100;21;36;31;20;20;20,task:3;informational:25;navigational:57;commercial:10;transactional:5
+Lavanderias Ecolav,15,1872,29;33;33;32;32;33;33;99;99;100;100;99,task:2;informational:23;navigational:17;commercial:53;transactional:5
+Motores para Máquinas de Costura,28,6292,57;31;36;40;98;100;100;74;72;72;73;72,task:2;informational:57;navigational:2;commercial:28;transactional:11
+Geladeiras com dispenser de água,18,1373,22;38;42;33;53;49;48;100;38;36;60;71,task:2;informational:60;navigational:4;commercial:28;transactional:6
+Eurovac Máquinas e Implementos,15,39,69;73;81;71;79;73;71;100;94;83;83;83,informational:37;navigational:43;commercial:11;transactional:9
+Máquina de costura Singer M3405,17,618,33;33;33;97;98;100;100;83;97;96;96;98,task:2;informational:52;navigational:15;commercial:13;transactional:18
+Mop Lava e Seca: Eletrodomésticos no Brasil,15,688,25;58;68;41;45;45;53;100;75;56;51;96,task:3;informational:57;navigational:2;commercial:21;transactional:17
+Placas Samsung para lava e seca,20,1520,27;51;55;34;35;32;36;100;55;63;68;70,task:2;informational:47;navigational:4;commercial:38;transactional:9
+Maquinas de bolear e dividir massa,17,889,71;77;77;49;93;95;95;99;100;100;100;100,task:2;informational:58;navigational:3;commercial:17;transactional:20
+AquaSoft Purificadores e Lavanderia,15,67,58;58;74;59;100;73;67;78;68;62;62;62,task:3;informational:28;navigational:32;commercial:21;transactional:16
+Máquinas de Suco Zummo,16,360,96;100;100;98;61;62;62;56;57;57;57;57,task:2;informational:32;navigational:20;commercial:16;transactional:30
+LG Lava e Seca: Códigos de Erro e Manuais,56,12927,81;87;82;88;93;94;94;91;100;100;100;100,informational:79;navigational:13;commercial:5;transactional:3
+Máquinas de Costura Philco,18,576,76;96;100;95;86;91;91;95;87;88;85;86,task:3;informational:62;navigational:11;commercial:12;transactional:12
+Sabão líquido para roupas (OMO e similares),61,34793,49;55;59;69;86;86;86;100;97;97;97;97,task:3;informational:46;navigational:5;commercial:36;transactional:10
+Lava-louças Brastemp 8 serviços,20,984,37;59;65;61;59;57;58;54;100;77;57;56,task:3;informational:53;navigational:12;commercial:20;transactional:12
+Lavanderias Mauá,15,181,32;97;100;38;55;64;57;41;39;41;41;36,task:3;informational:22;navigational:30;commercial:40;transactional:5
+Máquinas de Cupcake,27,1854,88;100;100;95;42;45;46;47;53;52;53;52,task:5;informational:52;navigational:4;commercial:23;transactional:16
+Brinort: limpeza e cuidado de roupas,17,884,54;56;57;39;83;84;84;96;99;100;99;99,task:2;informational:71;navigational:5;commercial:19;transactional:3
+Máquinas para desentupir esgoto,20,4120,24;33;33;56;88;90;89;99;100;99;99;98,task:8;informational:56;navigational:2;commercial:21;transactional:13
+Lavatórios e Pias para Banheiro e Salão,36,13708,53;55;59;58;56;56;56;100;58;58;58;58,task:5;informational:39;navigational:4;commercial:40;transactional:12
+Desnatadeiras de Leite,18,2688,48;54;54;53;98;100;100;93;83;83;83;83,task:7;informational:62;navigational:9;commercial:14;transactional:8
+Eletrodomésticos para Cozinha,70,27782,35;38;50;72;80;80;80;93;100;100;100;100,task:2;informational:62;navigational:2;commercial:26;transactional:8
+Tabela de Preços de Conserto de Eletrodomésticos,18,592,98;92;93;93;99;100;90;90;86;87;87;86,informational:49;navigational:5;commercial:10;transactional:36
+Fritadeiras Labravia,20,1091,56;59;55;41;97;100;100;88;88;89;91;92,informational:60;navigational:15;commercial:16;transactional:9
+Máquinas para Beneficiar Café,25,1617,55;65;66;77;98;100;100;83;72;72;70;70,task:2;informational:57;navigational:4;commercial:23;transactional:14
+Secadores Gama Profissionais,36,6943,92;100;48;48;48;49;49;63;65;64;64;64,task:5;informational:38;navigational:15;commercial:34;transactional:8
+Baldes com Espremedor para Limpeza,18,683,66;90;92;87;83;90;91;88;100;100;90;91,task:3;informational:47;navigational:5;commercial:30;transactional:15
+Lavagem e Higienização Automotiva,51,14830,79;84;90;82;91;92;93;94;100;100;100;100,task:8;informational:59;navigational:2;commercial:20;transactional:11
+lava-louças gourmand Brastemp,15,382,6;16;18;46;40;38;9;100;54;33;28;32,task:3;informational:41;navigational:31;commercial:16;transactional:9
+Lavagem de Carros em Maceió,15,154,28;31;34;37;35;100;74;42;36;57;63;57,task:7;informational:43;navigational:11;commercial:12;transactional:27
+Maquininha Unica,17,595,13;31;28;26;58;80;72;63;78;93;87;100,task:3;informational:20;navigational:27;commercial:27;transactional:23
+Lavatórios para Barbearias,15,373,68;100;100;95;94;83;79;77;78;78;94;96,informational:56;navigational:4;commercial:29;transactional:11
+Maquinas de Chapisco,16,349,76;100;97;96;88;97;99;86;87;88;87;83,task:5;informational:44;navigational:2;commercial:20;transactional:29
+Máquina Singer M2405,19,783,32;34;33;45;87;88;100;81;98;93;93;95,task:2;informational:56;navigational:25;commercial:13;transactional:4
+Espremedores Electrolux,16,637,18;22;22;51;58;43;32;100;91;60;55;56,task:5;informational:33;navigational:29;commercial:11;transactional:22
+lava-louças Electrolux com 8 a 14 serviços,160,56910,50;50;52;65;68;68;68;100;78;78;78;78,task:5;informational:59;navigational:5;commercial:18;transactional:13
+Detergentes e Limpeza Doméstica,73,23707,49;54;57;96;94;95;95;94;100;100;100;100,task:5;informational:63;navigational:6;commercial:17;transactional:9
+Máquinas de Sorvete Italianinha,24,5162,79;90;92;51;79;82;82;100;100;99;99;99,task:2;informational:46;navigational:10;commercial:25;transactional:17
+Empilhadeiras e equipamentos de içamento,42,14070,28;31;35;41;95;96;96;100;55;55;55;55,informational:48;navigational:4;commercial:32;transactional:16
+Água sanitária e limpeza,41,30374,15;67;85;90;96;97;96;100;100;100;100;100,task:7;informational:62;navigational:4;commercial:16;transactional:11
+Secadores e Máquinas de Barbearia,16,105,41;70;81;67;74;64;100;42;41;39;39;39,task:3;informational:49;navigational:4;commercial:33;transactional:11
+Lava-louças Brastemp 10 serviços,21,792,58;91;93;100;96;97;93;92;94;94;94;93,task:3;informational:54;navigational:18;commercial:17;transactional:8
+Maquinas de Fazer Nhoque,19,840,80;100;95;69;83;83;91;75;67;67;69;68,task:5;informational:55;navigational:5;commercial:20;transactional:15
+Mercado de Máquinas,15,1167,65;98;99;98;84;97;100;89;99;99;92;91,task:3;informational:42;navigational:27;commercial:23;transactional:5
+Aspiradores e Extratoras Domésticos,16,526,44;89;100;84;79;51;56;88;60;70;57;71,task:7;informational:42;navigational:4;commercial:32;transactional:15
+Purificadores de Água,344,220775,43;42;44;94;88;88;88;100;83;83;83;83,task:2;informational:46;navigational:4;commercial:38;transactional:10
+Mops de Limpeza com Água,21,1192,85;100;55;54;76;79;83;53;54;54;56;56,task:1;informational:60;navigational:2;commercial:24;transactional:13
+Máquinas de Geladinho,21,4035,44;55;62;78;93;96;96;94;100;100;100;100,task:2;informational:52;navigational:2;commercial:24;transactional:20
+Aspiradores Electrolux Hidrolux AWD01,24,835,45;63;63;61;59;62;61;68;94;100;69;71,task:3;informational:51;navigational:12;commercial:14;transactional:20
+Secadoras de Roupas 17kg,16,1468,12;42;42;36;40;31;33;67;76;100;69;83,task:3;informational:47;navigational:1;commercial:40;transactional:9
+Limpeza Eficiente,17,142,84;89;93;79;79;80;81;93;92;89;89;100,task:7;informational:74;navigational:5;commercial:10;transactional:4
+cafeteiras elétricas Electrolux,24,1471,83;99;100;54;57;60;60;56;55;55;55;54,task:2;informational:23;navigational:25;commercial:13;transactional:37
+Erros de lava e seca Samsung,20,2427,48;58;59;59;60;56;58;100;68;79;91;96,task:2;informational:83;navigational:5;commercial:8;transactional:2
+Limpeza e higienização de ar condicionado,40,9210,26;34;56;80;98;100;100;94;85;85;86;86,task:8;informational:64;navigational:4;commercial:10;transactional:14
+Peças originais para lava e seca Samsung,17,986,39;60;62;42;58;50;51;98;61;82;93;100,task:23;informational:25;navigational:4;commercial:10;transactional:38
+Máquinas e Equipamentos JM,15,514,40;100;61;55;53;56;54;49;59;59;56;56,informational:18;navigational:61;commercial:17;transactional:4
+Lava Rápido de Carros no Brasil,15,555,46;69;71;66;66;78;87;100;88;63;59;58,task:3;informational:53;navigational:5;commercial:32;transactional:7
+Detergentes e Buchas,15,156,66;94;100;98;74;65;63;75;74;80;69;67,task:3;informational:60;navigational:8;commercial:12;transactional:17
+Maquinas Manitou Brasil,15,45,80;84;88;88;88;88;88;100;92;90;90;90,task:5;informational:32;navigational:41;commercial:17;transactional:5
+Maquinas de Massa para Salgados,22,1807,43;55;68;100;93;96;92;98;82;82;79;79,task:5;informational:48;navigational:5;commercial:24;transactional:18
+LG Lava e Seca: Erros Comuns,17,619,57;50;53;85;85;84;100;90;86;87;87;94,task:2;informational:81;navigational:3;commercial:10;transactional:4
+Pfaff: Máquinas de Costura,17,497,92;98;100;73;73;76;65;93;92;90;90;89,task:2;informational:43;navigational:20;commercial:21;transactional:14
+Liquidificadores Arno Magiclean,15,325,39;48;50;46;45;48;55;100;95;47;47;49,task:3;informational:30;navigational:36;commercial:27;transactional:4
+Maquinatec: Máquinas e Prensas,15,218,67;74;76;75;93;96;97;98;100;100;100;100,task:1;informational:29;navigational:47;commercial:11;transactional:12
+Máquinas de Shrink,15,31,66;72;94;94;94;94;94;97;97;97;100;97,task:10;informational:50;navigational:5;commercial:18;transactional:17
+Aquecedores para lavatórios de salão,23,1725,83;100;100;59;59;61;61;68;58;59;59;58,task:5;informational:34;navigational:4;commercial:41;transactional:16
+Aspiradores Bosch,16,182,36;77;100;51;51;48;68;49;46;43;43;48,task:7;informational:43;navigational:4;commercial:32;transactional:14
+Varredeiras Industriais e Manuais,15,261,66;75;78;79;72;74;75;100;85;86;78;78,task:3;informational:59;navigational:5;commercial:23;transactional:10
+Duchas elétricas Lorenzetti,52,11375,23;27;29;36;100;100;100;99;54;54;54;54,task:2;informational:43;navigational:15;commercial:32;transactional:8
+Secadores Gama 2100W,24,2245,27;14;14;27;39;41;43;100;89;91;81;87,task:3;informational:54;navigational:10;commercial:17;transactional:16
+Air Wash Samsung e Desodorização,19,1808,15;51;53;20;20;14;15;100;70;82;70;73,task:6;informational:75;navigational:2;commercial:11;transactional:6
+Lavanderias de Vitória,15,229,77;96;89;100;95;92;89;85;87;87;87;89,task:3;informational:38;navigational:11;commercial:26;transactional:22
+MaqTec Equipamentos,17,326,91;99;100;98;59;65;65;61;62;63;67;67,task:1;informational:47;navigational:36;commercial:13;transactional:3
+Secadores Rotativos,16,564,30;31;32;32;32;32;33;100;83;83;83;83,task:3;informational:51;navigational:4;commercial:28;transactional:14
+Samsung Lava e Seca: problemas de centrifugação,19,2727,19;37;39;37;33;28;29;71;36;50;93;100,task:2;informational:78;navigational:5;commercial:10;transactional:5
+Suportes e bases para lava-louças,15,1967,61;89;90;87;83;89;90;90;93;100;91;90,task:10;informational:43;navigational:5;commercial:34;transactional:8
+Sistemas SWL para lavanderias,16,265,64;77;86;87;81;84;84;91;97;100;90;92,task:3;informational:46;navigational:16;commercial:21;transactional:14
+Evaporadores de Geladeira,18,1201,31;40;40;37;48;48;33;75;66;100;92;100,task:5;informational:63;navigational:4;commercial:20;transactional:8
+Elementos de Máquinas,29,4266,86;90;92;89;94;97;94;85;98;100;93;92,task:2;informational:73;navigational:5;commercial:12;transactional:8
+Máquinas Bras no Brasil,15,93,16;40;51;41;100;35;54;91;82;26;32;27,task:3;informational:47;navigational:29;commercial:11;transactional:10
+Máquinas de tosa Bravura e Wahl,20,136,71;99;100;72;68;70;70;69;67;79;79;80,task:7;informational:43;navigational:4;commercial:33;transactional:13
+Nível a laser Bosch GLL 3-80,18,1047,55;72;74;84;97;100;99;78;73;78;79;75,task:2;informational:67;navigational:10;commercial:10;transactional:11
+Mop e Acessórios de Limpeza,100,51253,62;63;68;76;90;90;90;93;100;100;100;100,task:5;informational:34;navigational:4;commercial:31;transactional:26
+Limpadores Multiuso,17,975,15;19;46;88;100;63;61;68;68;71;68;69,task:2;informational:74;navigational:6;commercial:15;transactional:3
+BioWash: Lava-Roupas Ecológico,16,316,68;78;77;77;84;78;78;89;90;100;95;97,task:3;informational:42;navigational:16;commercial:18;transactional:21
+Lavagem de Bonés,32,4548,100;98;92;90;86;86;86;90;79;79;81;82,task:8;informational:80;navigational:5;commercial:5;transactional:2
+Secadores Parlux,19,1676,86;99;100;61;57;60;61;61;51;48;48;47,task:2;informational:26;navigational:15;commercial:40;transactional:17
+Espremedores Mondial,30,3300,86;99;100;99;93;96;96;50;56;57;57;56,task:2;informational:43;navigational:7;commercial:28;transactional:20
+"Baldes, Mops e Esfregões",18,935,66;87;87;82;79;87;87;100;83;83;79;79,task:7;informational:50;navigational:4;commercial:24;transactional:15
+Lavagem a Seco e Limpeza de Carros,87,28741,46;72;73;88;88;89;89;99;100;100;100;100,task:2;informational:72;navigational:5;commercial:17;transactional:4
+Eletroportáteis de Cozinha,26,5956,23;26;26;26;90;91;91;99;100;100;100;100,task:2;informational:50;navigational:4;commercial:34;transactional:10
+Suportes para Tanque de Lavar Roupa,17,1186,37;40;41;45;50;58;61;95;94;100;98;99,task:3;informational:65;navigational:5;commercial:17;transactional:10
+Máquinas de costura Siruba,17,1226,96;53;52;47;45;49;49;100;94;95;93;93,task:2;informational:44;navigational:27;commercial:16;transactional:11
+Enceradeiras e Lavadoras Bralimpia,15,32,26;88;100;38;38;38;38;47;54;42;42;43,informational:45;navigational:39;commercial:5;transactional:11
+Máquinas Galoneira Jack,15,143,84;89;89;82;82;84;84;100;98;86;86;86,task:3;informational:34;navigational:25;commercial:24;transactional:14
+Máquinas Ceimaq,15,619,16;21;22;21;21;17;17;92;69;95;91;100,task:3;informational:25;navigational:45;commercial:8;transactional:19
+Tapetes Laváveis,15,354,20;40;38;34;44;46;33;49;50;100;99;78,task:3;informational:55;navigational:6;commercial:28;transactional:8
+Máquinas e Costura: Lojas de Máquinas no Brasil,17,821,95;100;55;53;68;78;77;78;84;81;83;84,task:5;informational:37;navigational:14;commercial:38;transactional:6
+Lavanderias Cristal,15,212,66;85;89;97;91;100;97;94;98;98;99;98,task:3;informational:18;navigational:37;commercial:37;transactional:5
+Máquinas de caldo de cana,23,4505,93;48;50;83;89;92;93;98;100;100;99;98,task:1;informational:55;navigational:6;commercial:21;transactional:17
+Dessecadores de laboratório,23,4456,13;14;15;14;27;28;28;98;100;100;100;100,task:5;informational:68;navigational:5;commercial:16;transactional:6
+Profitec Espresso,15,175,84;92;97;97;81;83;83;98;98;100;100;100,task:1;informational:34;navigational:53;commercial:8;transactional:4
+Lavagem de Carros - Campo Grande,15,204,75;100;100;96;90;90;88;90;86;90;92;92,task:3;informational:18;navigational:37;commercial:37;transactional:5
+Torradeiras elétricas,37,12648,100;45;49;52;71;71;71;61;62;62;62;62,task:2;informational:35;navigational:4;commercial:40;transactional:19
+Máquinas de costura para sacos,17,126,32;35;36;43;44;35;100;46;44;34;34;34,task:3;informational:52;navigational:4;commercial:29;transactional:12
+Máquinas de Fabricação,18,514,26;20;16;32;31;30;30;59;56;100;56;56,task:2;informational:66;navigational:2;commercial:22;transactional:8
+Maquinas e Serviços (Maq Service),15,96,59;57;64;64;79;100;84;87;78;65;65;65,task:3;informational:35;navigational:32;commercial:25;transactional:5
+Detergentes Minuano,17,125,32;90;88;100;69;64;53;68;68;47;40;40,task:3;informational:49;navigational:11;commercial:26;transactional:11
+Vaporização e higienização de estofados,22,10856,25;14;15;89;99;100;100;91;93;93;94;93,task:2;informational:59;navigational:4;commercial:23;transactional:12
+Desidratadores de Alimentos,31,12086,22;29;29;72;99;100;100;54;95;95;94;94,task:1;informational:60;navigational:5;commercial:25;transactional:9
+Enceradeiras e lavadoras de pisos,29,12124,59;29;30;40;98;99;100;99;100;100;100;100,task:8;informational:55;navigational:4;commercial:26;transactional:7
+Tanquinhos Mueller 12–16kg com Aquatec,17,301,35;44;100;83;83;40;41;37;37;37;38;39,task:3;informational:29;navigational:41;commercial:13;transactional:14
+JM Equipamentos Gastronômicos,15,50,22;100;95;24;24;27;25;25;25;25;25;25,task:1;informational:27;navigational:49;commercial:8;transactional:15
+Rede de Máquinas,15,70,13;16;18;17;21;100;63;20;19;21;22;17,task:3;informational:31;navigational:40;commercial:11;transactional:15
+"Secagem de Roupas: Varal, Micro-ondas e Métodos",50,7025,93;95;94;96;97;98;98;100;94;94;94;94,task:5;informational:79;navigational:5;commercial:8;transactional:3
+Instalação e Nicho de Lava-Louças,21,2094,89;93;98;89;76;77;76;66;76;77;95;100,task:2;informational:76;navigational:5;commercial:8;transactional:9
+Desinfetantes e limpadores de roupas,66,17315,50;55;58;68;94;95;96;100;99;99;99;99,task:5;informational:62;navigational:5;commercial:24;transactional:4
+Máquinas de gelo compactas,20,775,71;77;78;82;86;88;88;87;92;100;85;84,task:5;informational:45;navigational:4;commercial:35;transactional:11
+Lavadores de Carros Profissionais,20,3404,35;40;45;50;97;99;99;100;96;96;94;94,task:2;informational:63;navigational:5;commercial:20;transactional:10
+Lavadoras Brastemp 11kg,46,19228,52;54;59;60;58;58;58;93;98;100;99;100,task:2;informational:50;navigational:15;commercial:25;transactional:8
+Colormaq: Centrífugas e Tanquinhos,21,1577,55;80;83;78;72;77;81;70;93;100;81;79,task:3;informational:55;navigational:11;commercial:18;transactional:13
+Maquinas de Passa ou Repassa,17,1027,26;60;57;50;100;84;87;85;81;78;78;78,task:2;informational:76;navigational:5;commercial:14;transactional:3
+Máquinas de Salgados Predileta,15,91,38;68;91;75;74;100;78;69;62;44;44;44,informational:31;navigational:41;commercial:18;transactional:10
+Limpadores de Banheiro,15,321,30;59;100;73;44;46;45;79;67;68;59;63,task:3;informational:56;navigational:1;commercial:29;transactional:11
+Lavatórios Dompel para Salão,15,166,14;18;18;15;23;17;21;97;76;100;88;13,task:7;informational:26;navigational:17;commercial:28;transactional:22
+Varais de lavanderia para espaços pequenos,16,271,42;78;86;78;70;64;57;61;63;100;47;52,task:3;informational:66;navigational:1;commercial:24;transactional:6
+Máquinas varre-rua e caminhões varredeira,21,828,93;93;94;93;94;96;96;100;72;72;73;73,task:2;informational:72;navigational:5;commercial:16;transactional:5
+Limpeza Fácil,17,604,27;32;36;43;40;40;41;28;43;100;43;43,task:8;informational:62;navigational:8;commercial:11;transactional:11
+Aspiradores de água e pó,21,1449,94;99;100;100;35;36;37;24;29;29;35;41,task:5;informational:48;navigational:5;commercial:22;transactional:20
+Chuveiros e duchas para lavatórios,22,1055,89;100;99;48;46;48;48;48;53;53;54;53,task:2;informational:58;navigational:2;commercial:31;transactional:7
+Motores de tanquinho,24,5572,27;35;37;39;95;97;97;100;95;95;93;93,task:2;informational:67;navigational:5;commercial:20;transactional:6
+Retentores para Lavadoras Brastemp/Consul,20,1303,39;44;49;66;79;80;79;85;100;97;97;97,task:8;informational:37;navigational:6;commercial:29;transactional:20
+Smeg Eletrodomésticos,15,3189,84;98;100;48;47;52;52;48;49;49;50;50,task:3;informational:26;navigational:25;commercial:15;transactional:31
+Máquinas de Crochê,26,6594,45;50;25;33;78;79;79;96;99;99;100;100,task:7;informational:69;navigational:5;commercial:12;transactional:7
+OMO lavanda: detergente líquido,15,264,79;97;100;98;96;97;98;99;95;95;95;96,task:7;informational:54;navigational:5;commercial:18;transactional:16
+Mix de Eletrodomésticos,15,366,7;100;93;83;83;61;43;56;36;57;54;57,task:3;informational:42;navigational:4;commercial:43;transactional:8
+Limpeza Ultrassônica,23,2729,41;46;47;34;55;57;57;100;100;100;100;100,task:2;informational:61;navigational:4;commercial:24;transactional:9
+Máquinas de costura antigas e gabinetes,20,7363,53;64;68;75;88;90;92;100;95;95;95;94,task:5;informational:70;navigational:4;commercial:16;transactional:5
+Robôs Aspiradores Liectroux,21,5088,72;85;87;86;52;56;57;97;100;100;98;98,task:5;informational:45;navigational:18;commercial:15;transactional:17
+Tanques de Cimento para Lavanderia,25,5773,66;81;80;86;99;100;100;93;97;96;96;95,task:3;informational:50;navigational:5;commercial:18;transactional:24
+Lavagem de Tapetes,69,17870,76;88;85;96;93;94;94;97;100;100;100;100,task:2;informational:64;navigational:5;commercial:19;transactional:10
+Aparelhos para vies e galoneira,20,610,46;59;62;57;100;100;96;79;80;81;80;83,task:2;informational:60;navigational:10;commercial:22;transactional:6
+Máquinas de Corte de Tecido,34,13506,37;42;46;54;81;82;83;96;100;100;100;100,task:5;informational:56;navigational:5;commercial:19;transactional:15
+Liquidificadores Multifuncionais,15,47,7;72;100;55;48;46;78;23;19;12;12;12,task:3;informational:49;navigational:5;commercial:25;transactional:18
+Plush para lavanderia,17,195,33;79;100;59;52;47;41;70;68;54;45;45,task:4;informational:57;navigational:4;commercial:22;transactional:13
+Higiene de aparelhos ortodônticos,33,3954,50;54;73;83;80;81;81;94;100;100;100;100,task:6;informational:77;navigational:3;commercial:12;transactional:2
+Bolha Azul Lavanderias,15,226,67;82;84;88;88;83;84;74;74;97;100;99,task:3;informational:12;navigational:43;commercial:37;transactional:5
+Unidades Hidráulicas,16,188,67;67;68;68;53;53;53;100;53;53;53;53,task:2;informational:65;navigational:5;commercial:12;transactional:16
+Secadoras Samsung a gás,23,2129,64;92;92;49;41;40;40;73;61;100;59;57,task:8;informational:35;navigational:7;commercial:33;transactional:17
+Duchas higiênicas elétricas,26,3595,45;58;59;76;85;88;89;95;100;100;100;100,task:4;informational:50;navigational:3;commercial:22;transactional:21
+Umidificadores Ultrassônicos,20,1227,70;79;79;40;99;100;100;29;31;31;29;29,task:2;informational:72;navigational:6;commercial:15;transactional:5
+Lavadoras Tanquinho Libell,20,2993,24;38;40;26;61;59;55;100;98;92;76;78,task:3;informational:43;navigational:23;commercial:15;transactional:16
+Eletrodomésticos reembalados,17,100,25;94;100;37;31;42;21;22;22;22;22;22,task:3;informational:47;navigational:4;commercial:35;transactional:11
+Maquininhas Promocionais,15,795,57;68;48;42;31;36;28;17;17;64;89;100,task:8;informational:51;navigational:4;commercial:31;transactional:6
+Lavadoras de alta pressão Karcher HD 585,41,8232,87;96;50;49;56;57;58;100;100;100;100;100,task:2;informational:38;navigational:13;commercial:17;transactional:30
+Robo Aspirador e Limpeza,216,167007,35;35;37;73;89;89;89;100;96;96;96;96,task:2;informational:51;navigational:1;commercial:37;transactional:9
+Escovas Secadoras de Cabelo,175,102840,59;65;65;81;93;93;93;100;97;97;97;97,task:5;informational:45;navigational:1;commercial:36;transactional:13
+"FerDan: Máquinas, Equipamentos e Casa",16,125,22;33;42;27;29;29;39;41;36;100;100;55,task:10;informational:46;navigational:18;commercial:22;transactional:4
+Lavadoras de Alta Pressão WAP Combate Turbo 2600,17,988,37;70;72;65;41;68;48;69;31;100;96;94,task:2;informational:45;navigational:20;commercial:19;transactional:14
+Tampa de máquina de lavar Brastemp,21,1597,66;94;95;86;87;93;94;99;100;100;97;96,task:3;informational:51;navigational:12;commercial:15;transactional:19
+Philco escovas secadoras 4 em 1,15,161,20;100;83;90;88;62;56;92;81;98;31;29,task:3;informational:44;navigational:12;commercial:20;transactional:21
+Ferros de Passar Singer,18,7404,36;43;43;99;99;100;100;82;82;82;89;91,task:3;informational:35;navigational:24;commercial:26;transactional:12
+Finish Lava Louças e Powerball,20,4016,67;87;92;93;92;95;96;97;99;99;100;100,task:3;informational:62;navigational:7;commercial:18;transactional:10
+Duchas Fame,36,7927,38;50;55;57;98;100;100;97;100;100;100;99,task:5;informational:51;navigational:4;commercial:19;transactional:21
+Pistolas de água de alta pressão,19,508,70;97;99;97;88;86;81;74;75;87;86;100,task:2;informational:54;navigational:3;commercial:24;transactional:17
+Limpeza doméstica,26,2024,44;52;53;53;98;100;99;65;63;63;64;64,task:2;informational:60;navigational:5;commercial:17;transactional:16
+Amaciante de roupas Amacitel,15,651,70;87;88;87;80;86;96;98;100;100;99;98,task:4;informational:42;navigational:28;commercial:22;transactional:4
+Dispositivos de desengasgamento,23,8626,14;20;21;19;48;49;49;83;86;86;100;100,task:7;informational:69;navigational:5;commercial:16;transactional:3
+Detergentes Limpol Brasil,22,7430,81;90;92;91;95;98;98;98;99;100;100;100,task:2;informational:30;navigational:27;commercial:18;transactional:23
+"Sabão para lava e seca: tipos, usos e dicas",28,3299,80;79;83;92;69;67;66;83;87;90;90;100,informational:77;navigational:5;commercial:14;transactional:4
+Lider Equipamentos,15,255,52;100;97;78;78;75;72;59;64;100;71;72,task:7;informational:8;navigational:66;commercial:14;transactional:5
+Máquinas de costura Elgin,54,12339,91;97;100;52;97;98;98;89;94;94;93;93,task:2;informational:48;navigational:27;commercial:9;transactional:14
+Máquinas de Depenar Frango,22,2877,37;47;42;55;60;63;63;100;93;92;96;95,task:8;informational:46;navigational:5;commercial:15;transactional:26
+Cafeteiras programáveis,43,13081,23;27;30;66;71;72;72;100;47;46;46;46,task:2;informational:49;navigational:7;commercial:30;transactional:12
+Casa dos Motores e Bombas,15,270,69;78;81;79;76;100;94;87;93;94;94;97,task:3;informational:29;navigational:31;commercial:23;transactional:14
+Máquinas Interlock de Costura,31,6286,31;36;37;59;96;99;100;100;99;100;99;99,task:3;informational:49;navigational:19;commercial:17;transactional:12
+Liquidificadores e Biscuit,15,55,8;78;100;18;15;16;12;79;61;13;13;14,task:7;informational:51;navigational:24;commercial:14;transactional:4
+Armários para lavanderia e área de serviço,21,32519,97;97;100;97;92;92;92;91;92;92;92;92,task:7;informational:27;navigational:4;commercial:50;transactional:12
+Área gourmet com lavanderia,24,4638,87;100;88;62;46;48;48;49;51;51;51;51,task:12;informational:74;navigational:4;commercial:8;transactional:2
+Lixeiras e Lixo Doméstico,24,3864,69;93;99;99;95;97;99;97;100;100;100;99,task:3;informational:68;navigational:5;commercial:20;transactional:4
+Lavagem de Carros em BH,15,229,41;43;49;48;51;100;79;55;48;49;52;57,task:3;informational:18;navigational:37;commercial:34;transactional:8
+LG evaporadoras,16,1021,25;73;68;69;77;74;71;77;60;68;64;100,task:5;informational:38;navigational:21;commercial:26;transactional:10
+Motores de Micro-ondas,30,5359,33;40;40;55;85;85;85;100;96;96;97;97,task:2;informational:62;navigational:4;commercial:19;transactional:13
+Máquinas Solo,15,205,84;92;100;94;86;89;90;86;89;89;89;89,task:7;informational:25;navigational:39;commercial:18;transactional:11
+Rebitadeiras elétricas,15,445,73;89;89;96;92;90;92;95;97;96;97;100,task:1;informational:65;navigational:4;commercial:22;transactional:8
+Máquinas de Brinquedo,15,533,76;97;100;97;58;63;71;69;64;63;70;68,task:3;informational:53;navigational:14;commercial:21;transactional:9
+Máquinas para raspar e limpar cana,19,1014,69;78;77;40;39;62;59;63;71;100;90;68,task:2;informational:57;navigational:2;commercial:20;transactional:19
+Carrinhos e Paleteiras Hidráulicos,17,238,51;55;56;61;100;100;100;40;51;51;51;51,task:5;informational:49;navigational:9;commercial:27;transactional:10
+Top Clean: Limpeza e Lavanderia no Brasil,15,286,39;45;100;90;96;50;48;55;67;69;53;53,task:3;informational:53;navigational:8;commercial:32;transactional:4
+Aparelhos de vapor e aerossóis,24,1966,47;58;57;55;97;100;87;96;95;97;97;95,task:2;informational:73;navigational:5;commercial:15;transactional:5
+Máquinas de fazer capeletti e agnolini,19,506,62;65;67;60;60;62;66;58;70;72;75;100,task:5;informational:62;navigational:2;commercial:20;transactional:11
+Escovas e Secadoras Mondial,35,13045,89;92;100;96;88;88;88;92;92;93;92;92,task:2;informational:47;navigational:15;commercial:22;transactional:14
+Liquidificadores Walita/Philips,24,1306,51;61;67;54;63;64;64;100;64;64;100;74,task:2;informational:52;navigational:11;commercial:17;transactional:18
+Secadoras Fischer 8kg,19,1349,48;64;67;57;62;64;56;100;82;95;60;65,task:1;informational:47;navigational:30;commercial:14;transactional:8
+Lavanderias no Brasil,15,1765,67;94;94;88;84;90;94;99;100;97;97;96,task:3;informational:45;navigational:9;commercial:27;transactional:16
+Máquinas de costura semi-industriais,18,969,89;100;100;97;86;87;87;98;84;85;85;85,task:5;informational:37;navigational:2;commercial:46;transactional:10
+Máquinas de milkshake e sorvete,16,294,97;100;100;99;65;66;65;88;88;80;80;80,task:5;informational:61;navigational:4;commercial:22;transactional:8
+Esmerilhadeiras Bosch GWS 22-180,16,364,41;46;45;44;64;59;59;59;59;97;100;57,informational:48;navigational:14;commercial:34;transactional:4
+Maquinas Andis (tosas e acabamento),27,1504,76;98;100;92;89;96;96;91;94;94;94;93,task:3;informational:40;navigational:11;commercial:34;transactional:12
+Esfregões e limpadores de piso elétricos,30,5978,20;25;27;28;73;73;74;100;34;34;34;34,task:1;informational:54;navigational:5;commercial:26;transactional:14
+Misturadores e Torneiras de Banheiro,15,542,26;36;39;38;40;84;54;100;100;77;85;91,task:3;informational:49;navigational:8;commercial:30;transactional:10
+Máquinas Nespresso Lattissima,24,1585,85;100;100;98;70;73;73;49;63;67;61;60,task:5;informational:59;navigational:13;commercial:10;transactional:13
+Misturadores Industriais de Massa,15,173,61;59;60;59;59;60;60;100;74;47;47;47,task:5;informational:36;navigational:4;commercial:36;transactional:19
+Secadores e Pranchas Taiff,29,2659,85;99;100;98;94;97;97;42;45;45;45;44,task:2;informational:37;navigational:24;commercial:17;transactional:20
+Pias e Lavatórios de Jardim,16,124,39;99;100;96;96;82;88;40;44;53;55;44,task:10;informational:38;navigational:5;commercial:36;transactional:11
+Máquinas de costura portáteis,35,12247,81;84;94;97;100;100;100;77;83;83;83;83,task:5;informational:56;navigational:3;commercial:20;transactional:16
+Máquinas de acabamento Kemei 2299,21,7103,13;39;39;39;23;25;25;100;95;95;95;94,task:3;informational:44;navigational:31;commercial:14;transactional:8
+Flotadores e produtos de limpeza,29,18830,11;13;14;60;66;66;66;94;100;100;100;100,task:5;informational:73;navigational:8;commercial:12;transactional:2
+Aspiradores Electrolux AQP20,20,819,48;83;100;58;62;46;45;46;43;55;73;76,task:2;informational:54;navigational:15;commercial:17;transactional:12
+Secadoras Samsung 12kg,16,1963,3;39;42;30;30;18;12;84;66;100;52;68,task:3;informational:41;navigational:11;commercial:28;transactional:17
+Lavanderias em Gravataí,15,99,26;28;34;71;70;64;55;100;76;31;32;32,task:1;informational:42;navigational:12;commercial:39;transactional:6
+Saboneteiras para Banheiro,15,6044,79;93;100;100;94;96;96;98;99;99;100;99,task:7;informational:33;navigational:1;commercial:39;transactional:20
+Baldes de água e itens molhados,19,1826,25;26;28;27;27;31;31;100;100;100;100;100,task:7;informational:75;navigational:5;commercial:10;transactional:3
+Linha Branca: Eletrodomésticos,25,7744,34;42;42;91;94;93;96;87;94;98;100;98,task:1;informational:69;navigational:14;commercial:12;transactional:4
+Eletrodomésticos online Brasil,15,1081,15;99;100;98;28;44;43;54;43;54;47;63,task:2;informational:33;navigational:34;commercial:27;transactional:4
+Alta Pressão – Peças e Serviços,15,319,37;40;44;68;68;73;45;61;63;60;60;100,task:7;informational:46;navigational:25;commercial:15;transactional:7
+Limpeza Automotiva em Shoppings,16,264,67;76;78;81;81;93;92;82;100;100;85;87,task:3;informational:55;navigational:7;commercial:30;transactional:5
+Filtros de Secador,21,5072,31;36;31;32;97;99;99;100;100;100;98;98,task:2;informational:65;navigational:5;commercial:18;transactional:10
+Desarenação de água,17,482,77;78;78;100;100;100;100;100;100;100;100;100,task:5;informational:72;navigational:5;commercial:10;transactional:8
+Erros de Lava e Seca LG,18,1406,86;88;99;99;99;99;99;100;100;100;100;100,task:12;informational:73;navigational:5;commercial:10
+Roupas Pretas — Lavagem e Cuidados,49,13408,40;45;53;72;84;86;87;100;100;100;100;100,task:1;informational:78;navigational:5;commercial:13;transactional:3
+Cadeiras com lavatório para salão,17,203,43;58;58;61;75;86;45;100;79;44;44;45,task:7;informational:28;navigational:4;commercial:38;transactional:23
+Purificadores de Água Superzon,21,2410,88;99;100;69;77;81;82;90;86;82;83;82,informational:27;navigational:31;commercial:35;transactional:7
+Maquininha de cartão: bobina e papel,20,1470,48;53;65;87;83;88;85;76;97;100;76;78,task:6;informational:81;navigational:5;commercial:6;transactional:2
+Electrolux Lavadoras: Manuais e Guias,27,2551,30;43;41;66;64;64;64;77;100;100;100;100,task:2;informational:60;navigational:9;commercial:13;transactional:16
+Máquinas de Costura Direct Drive,20,464,65;27;28;27;43;53;30;100;100;99;99;99,task:2;informational:57;navigational:4;commercial:28;transactional:9
+Roupas Brancas: Clarear e Lavar,258,94208,97;92;91;100;91;92;92;96;97;97;97;97,task:8;informational:76;navigational:5;commercial:8;transactional:3
+Vanish e limpeza de manchas,17,198,81;84;88;100;86;86;86;87;87;87;87;87,task:3;informational:53;navigational:2;commercial:20;transactional:22
+Micro-ondas LG,30,5315,86;97;100;52;59;60;61;56;62;62;62;61,task:2;informational:48;navigational:18;commercial:20;transactional:12
+Lavadora Brastemp BWK11 11kg,18,1530,35;41;47;41;76;90;91;97;72;71;69;100,task:3;informational:28;navigational:23;commercial:10;transactional:36
+Máquinas Muller para Construção,16,270,30;32;33;33;33;33;33;96;100;63;63;63,task:2;informational:38;navigational:23;commercial:12;transactional:25
+Aparelhos de maquiagem,15,65,2;6;9;8;26;4;16;11;100;9;7;7,task:10;informational:46;navigational:2;commercial:25;transactional:17
+Sabão Líquido Concentrado para Lavanderia,16,598,23;24;50;99;99;100;100;74;74;77;74;74,task:5;informational:55;navigational:5;commercial:19;transactional:16
+Máquinas Poedeiras de Blocos,16,243,97;100;100;68;66;67;67;78;79;69;69;69,task:2;informational:25;navigational:5;commercial:23;transactional:45
+Máquinas de Cana e Juicers,15,127,57;84;87;78;50;53;53;100;82;37;36;35,task:3;informational:49;navigational:5;commercial:25;transactional:18
+Lavanderias em Joinville e Região,15,677,80;90;92;89;83;88;88;100;90;90;97;95,task:4;informational:32;navigational:26;commercial:30;transactional:8
+Aspiradores de secreção portáteis,44,10166,47;55;29;59;90;92;91;100;100;99;99;99,task:2;informational:55;navigational:2;commercial:29;transactional:12
+Detergentes de 500 ml,16,1019,44;64;72;65;74;70;68;77;68;69;100;98,task:8;informational:50;navigational:5;commercial:24;transactional:13
+Lavanderias em Tubarão,15,160,15;95;100;95;58;19;23;15;14;14;14;34,task:3;informational:45;navigational:4;commercial:39;transactional:9
+Fermaq: Máquinas e Ferramentas,15,1108,65;89;89;96;92;98;98;95;100;100;93;92,task:7;informational:20;navigational:46;commercial:20;transactional:7
+Aspiradores Britania,26,3917,86;97;100;51;46;47;47;52;44;44;47;46,task:5;informational:43;navigational:11;commercial:24;transactional:17
+Máquina de churros,15,100,64;78;79;77;81;100;45;99;37;39;37;37,task:3;informational:54;navigational:5;commercial:27;transactional:11
+Chuveiros Lorenzetti,255,175682,52;52;54;86;81;81;81;100;87;87;87;87,task:5;informational:47;navigational:10;commercial:23;transactional:15
+Depuradores embutidos para cozinha,18,472,39;54;100;84;72;55;53;56;62;62;77;80,task:7;informational:47;navigational:11;commercial:25;transactional:10
+Secadoras 11kg STL11 e Similares,18,1252,43;83;79;57;56;46;45;76;85;100;76;83,task:5;informational:44;navigational:12;commercial:27;transactional:12
+Brastemp BNC10 Lava e Seca,17,1043,19;23;23;22;22;23;22;100;59;79;65;87,task:5;informational:64;navigational:15;commercial:10;transactional:6
+Espumadores de Leite Elétricos,17,2281,100;55;57;58;56;60;61;65;67;67;67;66,task:1;informational:53;navigational:5;commercial:25;transactional:16
+Máquinas de Café Nespresso,19,487,16;24;30;33;47;60;55;100;82;88;52;52,task:2;informational:54;navigational:10;commercial:26;transactional:8
+Lixadeiras Portáteis e Esmerilhadeiras,24,5094,86;99;100;100;49;52;52;89;95;95;96;95,task:2;informational:43;navigational:5;commercial:25;transactional:25
+Vaporizadores e passadeiras Philips Walita,19,1102,84;97;98;63;61;64;63;100;79;80;80;78,task:3;informational:45;navigational:24;commercial:18;transactional:10
+Peças Electrolux Peltier,18,1037,50;63;61;71;48;48;47;81;82;100;97;84,task:2;informational:50;navigational:9;commercial:28;transactional:11
+Máquinas de Costura: Galoneiras e Singer,15,41,98;91;96;96;89;89;89;89;91;100;96;96,task:3;informational:52;navigational:5;commercial:23;transactional:17
+Ferramentas e Máquinas no Brasil,15,429,64;85;86;78;90;99;100;91;94;95;97;96,task:7;informational:45;navigational:27;commercial:10;transactional:11
+Trituradores sanitários,19,2508,18;21;21;27;39;40;42;97;100;100;100;100,task:3;informational:57;navigational:13;commercial:18;transactional:9
+Lavagens de Carros em Itu,15,210,33;39;41;38;63;40;38;100;90;51;51;29,task:5;informational:53;navigational:14;commercial:22;transactional:6
+Máquinas de pastel,19,2242,59;79;89;93;97;100;100;91;88;88;86;85,task:7;informational:55;navigational:7;commercial:21;transactional:10
+Secadoras Enxutas no Brasil,22,9455,83;77;78;76;90;91;92;97;98;100;99;97,task:2;informational:55;navigational:10;commercial:26;transactional:7
+Removedores de manchas e clareadores,18,882,28;29;31;32;98;97;96;96;96;99;100;100,task:5;informational:52;navigational:2;commercial:24;transactional:17
+Conserto de secadores,18,911,45;54;53;50;46;47;47;85;85;86;86;100,task:5;informational:62;navigational:8;commercial:17;transactional:8
+Máquinas de casquinha de sorvete,18,1200,43;45;45;57;72;77;77;100;39;38;39;39,task:4;informational:62;navigational:3;commercial:17;transactional:14
+Casas de Máquina para Piscinas,19,786,79;82;82;82;100;100;100;92;93;92;93;93,task:8;informational:58;navigational:9;commercial:19;transactional:6
+Limpeza de Ventiladores,47,18511,38;42;98;59;51;51;52;100;100;99;99;99,task:8;informational:77;navigational:5;commercial:5;transactional:5
+Lava-louças Electrolux ll10b,17,1282,4;24;40;18;22;37;52;17;17;100;88;83,task:3;informational:38;navigational:38;commercial:9;transactional:12
+Manutenção de Máquinas e Equipamentos,19,1344,74;75;76;47;54;55;55;84;100;100;100;100,task:5;informational:63;navigational:4;commercial:22;transactional:6
+limpeza automotiva: vassouras para lavar carros e ônibus,18,604,25;36;50;42;96;96;100;48;48;48;48;48,task:3;informational:53;navigational:5;commercial:20;transactional:19
+Maquinas de Waffle Mundial,21,749,67;89;91;90;91;89;100;85;94;95;86;86,task:6;informational:30;navigational:11;commercial:32;transactional:21
+Centrífugas Walita/Philips,16,292,70;77;80;78;62;61;60;100;85;67;70;68,task:2;informational:49;navigational:32;commercial:9;transactional:8
+Amaciante de roupas: uso e cuidados,21,2291,43;49;49;52;52;52;52;53;52;52;93;100,task:5;informational:83;navigational:5;commercial:5;transactional:2
+Lavadoras Electrolux 15kg Ultra Clean,20,867,13;33;48;36;35;44;43;92;78;100;37;43,informational:40;navigational:14;commercial:20;transactional:26
+Lavadoras de alta pressão em promoção com frete grátis,15,163,9;41;56;42;19;35;51;100;83;36;34;35,task:13;informational:21;navigational:1;commercial:47;transactional:18
+Máquinas de Café & Cafeteiras,75,26688,66;67;30;38;100;100;100;43;42;42;42;42,task:3;informational:52;navigational:4;commercial:33;transactional:8
+Aparelhos de Barbeiro Dragão,26,3474,84;99;99;98;96;100;100;56;58;58;59;58,task:5;informational:49;navigational:14;commercial:22;transactional:10
+Tira manchas: dicas e produtos,30,13618,45;57;97;100;96;97;98;100;100;100;100;100,task:2;informational:70;navigational:3;commercial:17;transactional:8
+Conserto de máquinas de costura Singer,17,378,92;97;98;96;91;93;89;91;90;90;99;100,task:22;informational:46;navigational:5;commercial:12;transactional:15
+Desentupidora Brasil,17,122,97;98;92;93;100;100;100;92;43;43;43;43,task:2;informational:58;navigational:25;commercial:10;transactional:5
+Dispenser de shampoo e condicionador,16,392,75;100;96;95;87;87;86;71;72;72;79;79,task:3;informational:54;navigational:18;commercial:19;transactional:6
+Lavanderias em Cascavel,15,129,57;65;70;100;100;62;60;52;49;54;52;49,informational:45;navigational:10;commercial:40;transactional:5
+Cortinas para lavanderia,20,749,40;54;66;74;64;65;64;54;100;96;67;68,task:5;informational:39;navigational:9;commercial:32;transactional:15
+Lorenzetti duchas elétricas,21,733,58;79;80;77;79;98;99;84;86;100;95;95,informational:47;navigational:10;commercial:33;transactional:10
+Purificadores Electrolux com compressor,20,871,30;53;52;51;51;45;51;100;54;57;48;50,task:10;informational:43;navigational:6;commercial:22;transactional:19
+Escova Secadora Mega,16,304,15;22;27;27;57;53;100;32;29;91;86;78,task:3;informational:32;navigational:39;commercial:8;transactional:18
+Astoria Máquinas de Café,16,3489,36;43;43;42;96;97;97;100;98;98;98;98,task:3;informational:44;navigational:30;commercial:17;transactional:6
+Magnetron de Micro-ondas,41,30430,25;28;17;84;84;84;84;100;100;100;100;100,task:2;informational:60;navigational:5;commercial:19;transactional:14
+Misturadores e Torneiras de Cozinha,20,4539,24;32;34;33;99;100;100;96;45;44;45;45,task:2;informational:51;navigational:1;commercial:38;transactional:8
+Matisa Máquinas Brasil,15,115,77;81;83;79;79;89;86;88;99;100;96;100,task:3;informational:24;navigational:55;commercial:7;transactional:11
+Purificadores de Água Latina,33,18554,88;93;95;31;32;33;33;100;100;100;100;100,task:4;informational:45;navigational:18;commercial:24;transactional:9
+Real Equipamentos e Máquinas,15,1310,62;82;83;82;87;93;94;99;100;100;100;100,task:5;informational:20;navigational:50;commercial:17;transactional:8
+Reparos de Refrigeração,16,568,58;79;80;77;85;95;75;84;100;100;89;89,task:17;informational:40;navigational:19;commercial:8;transactional:16
+"Britânia: Vapores, Passadeiras e Higienizadores",17,532,74;93;96;91;87;100;99;88;91;93;82;82,task:3;informational:35;navigational:39;commercial:8;transactional:15
+Separadores de Ovo,20,943,42;49;49;85;99;100;98;100;59;48;48;47,task:2;informational:71;navigational:5;commercial:17;transactional:5
+Lavanderias em SBC,16,220,83;100;97;92;94;92;90;88;84;83;84;83,task:7;informational:22;navigational:30;commercial:33;transactional:8
+Lavadoras de Alta Pressão WAP Extreme Turbo 2800,24,2027,82;98;100;49;52;54;55;91;86;94;75;72,informational:28;navigational:29;commercial:36;transactional:7
+Secadores Lizze,29,3275,50;56;56;38;96;98;100;59;44;44;44;43,task:3;informational:39;navigational:28;commercial:18;transactional:12
+Capas para Máquina de Lavar Brastemp,17,747,46;77;86;66;56;58;58;60;94;100;93;94,task:7;informational:28;navigational:2;commercial:21;transactional:42
+Maquinas de drinks Bartesian,16,836,60;75;78;75;81;89;90;100;87;87;86;86,task:7;informational:46;navigational:13;commercial:24;transactional:10
+Casa: vassouras e armários,18,2292,30;34;55;63;83;84;83;94;99;91;87;100,task:2;informational:48;navigational:5;commercial:25;transactional:20
+Lavanderia com tanques e cuba de inox,15,424,68;89;90;91;89;94;89;97;98;98;98;100,task:10;informational:60;navigational:1;commercial:22;transactional:7
+Maquinas e Equipamentos Industriais,19,17297,18;23;26;28;100;100;100;95;95;95;95;95,task:8;informational:39;navigational:1;commercial:45;transactional:7
+Máquinas de cintar,18,559,87;100;100;97;100;95;95;95;69;69;69;68,task:5;informational:62;navigational:5;commercial:11;transactional:17
+Limpeza Tudo,22,6790,27;28;34;100;99;99;99;99;100;100;99;99,task:2;informational:72;navigational:5;commercial:10;transactional:11
+Lavadoras Electrolux 2200 PSI: Peças e Reparo,17,960,38;64;67;84;91;97;100;73;63;68;66;74,task:2;informational:60;navigational:4;commercial:27;transactional:7
+Liquidificadores Electrolux,30,4588,74;94;100;100;95;97;97;99;100;99;99;98,task:1;informational:50;navigational:11;commercial:23;transactional:15
+Conserto de Liquidificadores,16,816,89;100;100;73;75;77;77;65;77;77;79;79,task:3;informational:64;navigational:6;commercial:19;transactional:8
+Proclean Limpeza,15,205,72;79;85;83;89;100;95;91;93;93;93;93,task:3;informational:25;navigational:46;commercial:11;transactional:15
+Haier Eletrodomésticos Brasil,17,3034,16;22;24;21;77;82;83;80;79;77;78;100,task:1;informational:36;navigational:55;commercial:5;transactional:3
+Tanquinhos de 4 kg,17,1603,36;50;50;47;47;49;53;67;40;40;84;100,task:7;informational:41;navigational:7;commercial:32;transactional:13
+Lixadeiras e ferramentas pneumáticas,18,2025,63;91;93;91;92;100;100;97;98;98;100;99,task:5;informational:55;navigational:3;commercial:25;transactional:12
+Máquinas de Suco de Laranja,44,12899,43;48;56;58;75;76;76;100;97;97;97;97,task:3;informational:60;navigational:2;commercial:21;transactional:14
+Plaina elétrica Bosch,19,1264,69;98;100;98;79;88;89;84;83;83;90;89,task:3;informational:32;navigational:28;commercial:27;transactional:10
+Gatilhos de Lavadora de Alta Pressão,15,295,70;97;100;94;94;96;91;97;97;89;90;91,task:1;informational:76;navigational:6;commercial:15;transactional:2
+Limpeza de Sofás,15,50,37;37;46;42;55;53;37;66;35;100;35;36,task:10;informational:43;navigational:1;commercial:34;transactional:12
+Prensas Mecânicas,16,1646,36;42;27;27;98;96;96;100;100;100;100;100,task:5;informational:71;navigational:5;commercial:14;transactional:5
+Limpeza de Sofás e Estofados,260,183019,99;99;99;100;82;82;82;49;51;51;51;51,task:3;informational:73;navigational:5;commercial:14;transactional:5
+Removedor de bolinhas para roupas,44,8779,18;24;25;33;41;42;42;100;45;45;45;45,task:5;informational:32;navigational:4;commercial:38;transactional:21
+Máquinas de Silagem,20,2335,88;99;100;56;53;57;57;67;71;70;71;70,task:2;informational:46;navigational:5;commercial:26;transactional:21
+Lava Rápido e Estética Automotiva,15,87,56;62;64;57;53;54;54;100;95;61;67;64,task:3;informational:35;navigational:32;commercial:25;transactional:5
+Lavanderias Vila Mariana,15,114,15;49;100;17;17;17;16;17;17;22;20;21,task:1;informational:24;navigational:39;commercial:33;transactional:3
+Semiautomáticas: máquinas e armas,34,6612,44;48;49;86;90;92;92;100;95;95;95;95,task:5;informational:70;navigational:5;commercial:17;transactional:3
+Máquinas de Venda Automática,60,25081,47;47;77;84;100;100;100;86;85;85;85;85,task:2;informational:54;navigational:4;commercial:33;transactional:7
+Sprays de espuma para lavagem de carros,39,4439,26;33;31;45;66;68;69;100;90;90;90;90,task:5;informational:61;navigational:4;commercial:22;transactional:8
+Lavanderias 5àsec,33,15941,38;43;44;61;50;51;51;100;84;84;84;83,task:2;informational:22;navigational:58;commercial:6;transactional:12
+Maquinas de Capinar,22,1444,29;36;45;44;98;100;100;88;73;71;72;73,task:2;informational:67;navigational:6;commercial:16;transactional:9
+Amassador de Latinhas,21,6598,39;51;53;57;99;100;100;85;83;83;84;84,task:2;informational:65;navigational:10;commercial:11;transactional:12

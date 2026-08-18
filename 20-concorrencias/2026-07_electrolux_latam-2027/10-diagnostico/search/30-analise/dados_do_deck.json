@@ -2815,13 +2815,13 @@
    }
   },
   "topicos": {
-   "total_topicos": 2671,
-   "volume_total": 19967886,
+   "total_topicos": 2820,
+   "volume_total": 20802138,
    "familias": {
     "uso e receita": {
-     "n": 19,
-     "volume": 418940,
-     "pct": 2.1,
+     "n": 20,
+     "volume": 423354,
+     "pct": 2.0,
      "maiores": [
       [
        "Air Fryer: Receitas e Usos",
@@ -2844,7 +2844,7 @@
     "limpeza e manutencao": {
      "n": 38,
      "volume": 516764,
-     "pct": 2.6,
+     "pct": 2.5,
      "maiores": [
       [
        "Robo Aspirador e Limpeza",
@@ -2867,7 +2867,7 @@
     "comparacao e modelo": {
      "n": 15,
      "volume": 275956,
-     "pct": 1.4,
+     "pct": 1.3,
      "maiores": [
       [
        "Melhores Ar Condicionado",
@@ -2888,8 +2888,8 @@
      ]
     },
     "peca e filtro": {
-     "n": 50,
-     "volume": 256794,
+     "n": 55,
+     "volume": 260995,
      "pct": 1.3,
      "maiores": [
       [
@@ -2911,8 +2911,8 @@
      ]
     },
     "consumo e energia": {
-     "n": 14,
-     "volume": 174403,
+     "n": 15,
+     "volume": 182834,
      "pct": 0.9,
      "maiores": [
       [
@@ -2934,8 +2934,8 @@
      ]
     },
     "instalacao": {
-     "n": 20,
-     "volume": 155850,
+     "n": 21,
+     "volume": 159113,
      "pct": 0.8,
      "maiores": [
       [
@@ -2957,8 +2957,8 @@
      ]
     },
     "defeito e problema": {
-     "n": 15,
-     "volume": 112515,
+     "n": 24,
+     "volume": 135061,
      "pct": 0.6,
      "maiores": [
       [
@@ -2970,19 +2970,19 @@
        30560
       ],
       [
-       "Brastemp geladeiras que não gelam",
-       5955
+       "LG Lava e Seca: Códigos de Erro e Manuais",
+       12927
       ],
       [
-       "Erros e manuais da lava e seca Midea",
-       4656
+       "Brastemp geladeiras que não gelam",
+       5955
       ]
      ]
     },
     "assistencia e conserto": {
-     "n": 42,
-     "volume": 69342,
-     "pct": 0.3,
+     "n": 46,
+     "volume": 73139,
+     "pct": 0.4,
      "maiores": [
       [
        "Conserto de Geladeiras e Assistência Técnica",
@@ -3003,10 +3003,14 @@
      ]
     },
     "preco e compra": {
-     "n": 8,
-     "volume": 13958,
+     "n": 10,
+     "volume": 22281,
      "pct": 0.1,
      "maiores": [
+      [
+       "Pipoca de Micro-ondas: preços e calorias",
+       8160
+      ],
       [
        "Geladeiras em Promoção Casas Bahia",
        6504
@@ -3018,15 +3022,11 @@
       [
        "Ar Condicionado Split — Preços",
        977
-      ],
-      [
-       "Hyla Aspiradores: Preços e Avaliações",
-       967
       ]
      ]
     }
    },
-   "vazamento_pct": 64
+   "vazamento_pct": 67
   }
  },
  "meta": {
@@ -4031,12 +4031,12 @@
  ],
  "panorama": {
   "universo": {
-   "topicos_exportados": 9175,
-   "topicos_br": 7445,
+   "topicos_exportados": 10198,
+   "topicos_br": 8468,
    "topicos_us": 1730,
-   "topicos_categoria": 3056,
-   "volume": 22608981,
-   "prompts_declarados": 82919,
+   "topicos_categoria": 3205,
+   "volume": 23443233,
+   "prompts_declarados": 86817,
    "seeds": [
     "air_fryers",
     "airfryer",
@@ -4050,7 +4050,10 @@
     "geladeiras_e_refrigeradores_no_brasil",
     "lava_lou_a",
     "liquidificador",
-    "m_quinas_de_lavar_roupas"
+    "m_quinas_de_lavar_roupas",
+    "maquina-de-lavar",
+    "micro-ondas",
+    "microondas-v2"
    ],
    "teto_por_export": 1000,
    "prompts_lidos": 4987,
@@ -4064,8 +4067,8 @@
   },
   "cobertura_nome": {
    "electrolux": {
-    "topicos": 200,
-    "volume": 1286687,
+    "topicos": 218,
+    "volume": 1333120,
     "pct": 5.69,
     "exemplos": [
      [
@@ -4097,27 +4100,27 @@
     "nome": "Electrolux",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 608160,
-      "pct": 5.81
+      "volume": 632823,
+      "pct": 5.69
      },
      "descoberta": {
-      "volume": 382831,
-      "pct": 25.44
+      "volume": 385621,
+      "pct": 25.39
      },
      "escolha": {
-      "volume": 239445,
-      "pct": 2.83
+      "volume": 257202,
+      "pct": 3.0
      },
      "posse": {
-      "volume": 56251,
-      "pct": 2.58
+      "volume": 57474,
+      "pct": 2.56
      }
     }
    },
    "brastemp": {
-    "topicos": 112,
-    "volume": 431319,
-    "pct": 1.91,
+    "topicos": 125,
+    "volume": 466715,
+    "pct": 1.99,
     "exemplos": [
      [
       "Lava-louças Brastemp",
@@ -4148,27 +4151,27 @@
     "nome": "Brastemp",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 178755,
-      "pct": 1.71
+      "volume": 185284,
+      "pct": 1.67
      },
      "descoberta": {
-      "volume": 65178,
-      "pct": 4.33
+      "volume": 67552,
+      "pct": 4.45
      },
      "escolha": {
-      "volume": 152248,
-      "pct": 1.8
+      "volume": 177370,
+      "pct": 2.07
      },
      "posse": {
-      "volume": 35138,
-      "pct": 1.61
+      "volume": 36509,
+      "pct": 1.63
      }
     }
    },
    "consul": {
-    "topicos": 75,
-    "volume": 265013,
-    "pct": 1.17,
+    "topicos": 78,
+    "volume": 268000,
+    "pct": 1.14,
     "exemplos": [
      [
       "Lavadoras Consul 12kg e similares",
@@ -4199,27 +4202,27 @@
     "nome": "Consul",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 57978,
-      "pct": 0.55
+      "volume": 59662,
+      "pct": 0.54
      },
      "descoberta": {
       "volume": 40827,
-      "pct": 2.71
+      "pct": 2.69
      },
      "escolha": {
-      "volume": 124170,
+      "volume": 125473,
       "pct": 1.47
      },
      "posse": {
       "volume": 42038,
-      "pct": 1.92
+      "pct": 1.87
      }
     }
    },
    "samsung": {
-    "topicos": 39,
-    "volume": 292360,
-    "pct": 1.29,
+    "topicos": 50,
+    "volume": 325496,
+    "pct": 1.39,
     "exemplos": [
      [
       "Ar-condicionado Samsung: Wind-Free e Inverter",
@@ -4250,27 +4253,27 @@
     "nome": "Samsung",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 107920,
-      "pct": 1.03
+      "volume": 125715,
+      "pct": 1.13
      },
      "descoberta": {
       "volume": 14734,
-      "pct": 0.98
+      "pct": 0.97
      },
      "escolha": {
-      "volume": 162918,
-      "pct": 1.93
+      "volume": 171283,
+      "pct": 2.0
      },
      "posse": {
-      "volume": 6788,
-      "pct": 0.31
+      "volume": 13764,
+      "pct": 0.61
      }
     }
    },
    "midea": {
-    "topicos": 49,
-    "volume": 354286,
-    "pct": 1.57,
+    "topicos": 52,
+    "volume": 355631,
+    "pct": 1.52,
     "exemplos": [
      [
       "ar condicionado Midea",
@@ -4301,15 +4304,15 @@
     "nome": "Midea",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 266593,
-      "pct": 2.55
+      "volume": 267154,
+      "pct": 2.4
      },
      "descoberta": {
-      "volume": 25820,
+      "volume": 26083,
       "pct": 1.72
      },
      "escolha": {
-      "volume": 61873,
+      "volume": 62394,
       "pct": 0.73
      },
      "posse": {
@@ -4321,7 +4324,7 @@
    "hisense": {
     "topicos": 8,
     "volume": 57379,
-    "pct": 0.25,
+    "pct": 0.24,
     "exemplos": [
      [
       "Ar Condicionado Hisense",
@@ -4353,7 +4356,7 @@
     "por_estagio": {
      "exploracao de categoria": {
       "volume": 56058,
-      "pct": 0.54
+      "pct": 0.5
      },
      "descoberta": {
       "volume": 0,
@@ -4406,9 +4409,9 @@
     }
    },
    "outras_marcas": {
-    "topicos": 308,
-    "volume": 1597615,
-    "pct": 7.07,
+    "topicos": 329,
+    "volume": 1636246,
+    "pct": 6.98,
     "exemplos": [
      [
       "Ar Condicionado Elgin",
@@ -4440,9 +4443,9 @@
    }
   },
   "sem_marca": {
-   "topicos": 2275,
-   "volume": 18370167,
-   "pct": 81.25,
+   "topicos": 2358,
+   "volume": 19054264,
+   "pct": 81.28,
    "exemplos": [
     [
      "Ar condicionado e refrigeração",
@@ -4474,15 +4477,15 @@
   },
   "estagios": {
    "exploracao de categoria": {
-    "topicos": 1483,
-    "volume": 10467610,
-    "pct": 46.3,
-    "prompts": 40240,
-    "sem_marca_pct": 77.1,
+    "topicos": 1561,
+    "volume": 11117551,
+    "pct": 47.4,
+    "prompts": 42638,
+    "sem_marca_pct": 77.9,
     "familias": [
      [
       "produto e categoria",
-      10467610,
+      11117551,
       100.0
      ]
     ],
@@ -4552,21 +4555,21 @@
     ]
    },
    "descoberta": {
-    "topicos": 462,
-    "volume": 1504549,
-    "pct": 6.7,
-    "prompts": 9315,
+    "topicos": 476,
+    "volume": 1518814,
+    "pct": 6.5,
+    "prompts": 9562,
     "sem_marca_pct": 56.1,
     "familias": [
      [
       "produto e categoria",
-      924209,
-      61.4
+      936049,
+      61.6
      ],
      [
       "marca e loja",
-      580340,
-      38.6
+      582765,
+      38.4
      ]
     ],
     "exemplos": [
@@ -4635,31 +4638,31 @@
     ]
    },
    "escolha": {
-    "topicos": 819,
-    "volume": 8452900,
-    "pct": 37.4,
-    "prompts": 24502,
-    "sem_marca_pct": 87.6,
+    "topicos": 859,
+    "volume": 8560896,
+    "pct": 36.5,
+    "prompts": 25341,
+    "sem_marca_pct": 87.0,
     "familias": [
      [
       "produto e categoria",
-      4862690,
-      57.5
+      4885895,
+      57.1
      ],
      [
       "especificacao de produto",
-      3033960,
-      35.9
+      3110428,
+      36.3
      ],
      [
       "comparacao e modelo",
       294905,
-      3.5
+      3.4
      ],
      [
       "preco e compra",
-      253718,
-      3.0
+      262041,
+      3.1
      ],
      [
       "consumo e energia",
@@ -4733,41 +4736,41 @@
     ]
    },
    "posse": {
-    "topicos": 292,
-    "volume": 2183922,
-    "pct": 9.7,
-    "prompts": 8862,
-    "sem_marca_pct": 94.1,
+    "topicos": 309,
+    "volume": 2245972,
+    "pct": 9.6,
+    "prompts": 9276,
+    "sem_marca_pct": 93.1,
     "familias": [
      [
       "manutencao e limpeza",
       608652,
-      27.9
+      27.1
      ],
      [
       "peca e filtro",
-      498001,
-      22.8
+      499895,
+      22.3
      ],
      [
       "uso e receita",
-      433609,
-      19.9
+      438023,
+      19.5
      ],
      [
       "defeito e problema",
-      201163,
-      9.2
+      247538,
+      11.0
+     ],
+     [
+      "instalacao",
+      158830,
+      7.1
      ],
      [
       "consumo e energia",
       157944,
-      7.2
-     ],
-     [
-      "instalacao",
-      155567,
-      7.1
+      7.0
      ]
     ],
     "exemplos": [
@@ -4837,18 +4840,18 @@
    }
   },
   "intents": {
-   "informational": 53.2,
-   "commercial": 24.1,
-   "transactional": 10.6,
-   "navigational": 8.3,
+   "informational": 53.8,
+   "commercial": 23.7,
+   "transactional": 10.4,
+   "navigational": 8.2,
    "task": 3.9
   },
   "familias": {
    "produto e categoria": {
-    "volume": 16254509,
-    "topicos": 2237,
-    "pct": 71.9,
-    "sem_marca_pct": 81.2,
+    "volume": 16939495,
+    "topicos": 2339,
+    "pct": 72.3,
+    "sem_marca_pct": 81.5,
     "exemplos": [
      [
       "Ar condicionado e refrigeração",
@@ -4869,10 +4872,10 @@
     ]
    },
    "especificacao de produto": {
-    "volume": 3033960,
-    "topicos": 436,
-    "pct": 13.4,
-    "sem_marca_pct": 72.5,
+    "volume": 3110428,
+    "topicos": 462,
+    "pct": 13.3,
+    "sem_marca_pct": 71.6,
     "exemplos": [
      [
       "Geladeiras e Refrigeradores Frost Free e Inox",
@@ -4917,8 +4920,8 @@
     ]
    },
    "preco e compra": {
-    "volume": 253718,
-    "topicos": 20,
+    "volume": 262041,
+    "topicos": 22,
     "pct": 1.1,
     "sem_marca_pct": 100.0,
     "exemplos": [
@@ -4941,10 +4944,10 @@
     ]
    },
    "peca e filtro": {
-    "volume": 498001,
-    "topicos": 105,
-    "pct": 2.2,
-    "sem_marca_pct": 80.7,
+    "volume": 499895,
+    "topicos": 108,
+    "pct": 2.1,
+    "sem_marca_pct": 80.4,
     "exemplos": [
      [
       "Ar condicionado: peças e funcionamento",
@@ -4965,8 +4968,8 @@
     ]
    },
    "uso e receita": {
-    "volume": 433609,
-    "topicos": 23,
+    "volume": 438023,
+    "topicos": 24,
     "pct": 1.9,
     "sem_marca_pct": 99.7,
     "exemplos": [
@@ -5037,10 +5040,10 @@
     ]
    },
    "assistencia e conserto": {
-    "volume": 82446,
-    "topicos": 48,
+    "volume": 88550,
+    "topicos": 54,
     "pct": 0.4,
-    "sem_marca_pct": 98.0,
+    "sem_marca_pct": 95.2,
     "exemplos": [
      [
       "Conserto de Geladeiras e Assistência Técnica",
@@ -5063,7 +5066,7 @@
    "manutencao e limpeza": {
     "volume": 608652,
     "topicos": 38,
-    "pct": 2.7,
+    "pct": 2.6,
     "sem_marca_pct": 98.9,
     "exemplos": [
      [
@@ -5085,10 +5088,10 @@
     ]
    },
    "marca e loja": {
-    "volume": 580340,
-    "topicos": 56,
-    "pct": 2.6,
-    "sem_marca_pct": 62.0,
+    "volume": 582765,
+    "topicos": 58,
+    "pct": 2.5,
+    "sem_marca_pct": 62.1,
     "exemplos": [
      [
       "Electrolux no Brasil: Geladeiras, Serviços e Lojas",
@@ -5109,10 +5112,10 @@
     ]
    },
    "instalacao": {
-    "volume": 155567,
-    "topicos": 23,
+    "volume": 158830,
+    "topicos": 24,
     "pct": 0.7,
-    "sem_marca_pct": 99.5,
+    "sem_marca_pct": 97.4,
     "exemplos": [
      [
       "Instalação de Ar Condicionado",
@@ -5133,10 +5136,10 @@
     ]
    },
    "defeito e problema": {
-    "volume": 201163,
-    "topicos": 26,
-    "pct": 0.9,
-    "sem_marca_pct": 90.0,
+    "volume": 247538,
+    "topicos": 32,
+    "pct": 1.1,
+    "sem_marca_pct": 84.4,
     "exemplos": [
      [
       "Geladeira Não gela: Vazamento de gás e falhas",
@@ -5151,8 +5154,8 @@
       30560
      ],
      [
-      "Geladeiras: barulhos e falhas comuns",
-      16378
+      "Micro-ondas: Não Esquentando",
+      27577
      ]
     ]
    }
@@ -5161,31 +5164,31 @@
    "brastemp-com-br": {
     "dominio": "brastemp.com.br",
     "linhas": 1000,
-    "topicos_no_universo": 621,
-    "fora_do_universo": 379,
+    "topicos_no_universo": 662,
+    "fora_do_universo": 338,
     "presenca_pct": 19.2,
     "ocupacao_pct": 8.2,
     "visibility_mediana": 35,
     "por_estagio": {
      "exploracao de categoria": {
-      "presenca": 16.9,
-      "ocupacao": 7.5,
-      "descoberto": 83.1
+      "presenca": 16.4,
+      "ocupacao": 7.3,
+      "descoberto": 83.6
      },
      "descoberta": {
-      "presenca": 13.6,
-      "ocupacao": 7.2,
-      "descoberto": 86.4
+      "presenca": 13.8,
+      "ocupacao": 7.3,
+      "descoberto": 86.2
      },
      "escolha": {
-      "presenca": 22.8,
-      "ocupacao": 9.5,
-      "descoberto": 77.2
+      "presenca": 23.3,
+      "ocupacao": 9.8,
+      "descoberto": 76.7
      },
      "posse": {
-      "presenca": 20.2,
-      "ocupacao": 6.9,
-      "descoberto": 79.8
+      "presenca": 21.0,
+      "ocupacao": 7.1,
+      "descoberto": 79.0
      }
     },
     "maiores": [
@@ -5351,10 +5354,10 @@
     ]
    ],
    "marca_por_familia": {
-    "especificacao de produto": {
-     "n": 227,
-     "com_marca": 27.8,
-     "sem_marca": 72.2
+    "produto e categoria": {
+     "n": 302,
+     "com_marca": 20.9,
+     "sem_marca": 79.1
     },
     "consumo e energia": {
      "n": 28,
@@ -5366,10 +5369,10 @@
      "com_marca": 21.4,
      "sem_marca": 78.6
     },
-    "produto e categoria": {
-     "n": 302,
-     "com_marca": 20.9,
-     "sem_marca": 79.1
+    "especificacao de produto": {
+     "n": 227,
+     "com_marca": 27.8,
+     "sem_marca": 72.2
     },
     "peca e filtro": {
      "n": 34,
@@ -5383,15 +5386,35 @@
     }
    },
    "marca_por_familia_contaminado": {
-    "especificacao de produto": {
-     "n": 732,
-     "com_marca": 74.2,
-     "sem_marca": 25.8
+    "produto e categoria": {
+     "n": 1163,
+     "com_marca": 77.8,
+     "sem_marca": 22.2
+    },
+    "garantia e suporte": {
+     "n": 66,
+     "com_marca": 81.8,
+     "sem_marca": 18.2
+    },
+    "instalacao": {
+     "n": 36,
+     "com_marca": 83.3,
+     "sem_marca": 16.7
+    },
+    "assistencia e conserto": {
+     "n": 26,
+     "com_marca": 80.8,
+     "sem_marca": 19.2
     },
     "manutencao e limpeza": {
      "n": 25,
      "com_marca": 68.0,
      "sem_marca": 32.0
+    },
+    "marca e loja": {
+     "n": 23,
+     "com_marca": 47.8,
+     "sem_marca": 52.2
     },
     "consumo e energia": {
      "n": 53,
@@ -5403,60 +5426,40 @@
      "com_marca": 60.2,
      "sem_marca": 39.8
     },
-    "produto e categoria": {
-     "n": 1163,
-     "com_marca": 77.8,
-     "sem_marca": 22.2
-    },
-    "preco e compra": {
-     "n": 282,
-     "com_marca": 50.4,
-     "sem_marca": 49.6
+    "especificacao de produto": {
+     "n": 732,
+     "com_marca": 74.2,
+     "sem_marca": 25.8
     },
     "peca e filtro": {
      "n": 90,
      "com_marca": 63.3,
      "sem_marca": 36.7
     },
-    "garantia e suporte": {
-     "n": 66,
-     "com_marca": 81.8,
-     "sem_marca": 18.2
-    },
-    "marca e loja": {
-     "n": 23,
-     "com_marca": 47.8,
-     "sem_marca": 52.2
-    },
-    "assistencia e conserto": {
-     "n": 26,
-     "com_marca": 80.8,
-     "sem_marca": 19.2
-    },
-    "instalacao": {
-     "n": 36,
-     "com_marca": 83.3,
-     "sem_marca": 16.7
+    "preco e compra": {
+     "n": 282,
+     "com_marca": 50.4,
+     "sem_marca": 49.6
     }
    },
    "n_limpo": 943,
    "taxa_marca_geral": 23.6,
    "exemplos_limpos": {
-    "especificacao de produto": [
+    "produto e categoria": [
      [
-      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
+      "Geladeiras de Luxo",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Geladeiras para Chopp",
       "gemini",
       ""
      ],
      [
-      "geladeira frost free com congelador embaixo",
-      "google_ai_overview",
+      "Quais marcas de geladeiras de luxo vocês recomendam para uma cozinha moderna?",
+      "gemini",
       ""
-     ],
-     [
-      "geladeiras inverter inox",
-      "google_ai_overview",
-      "electrolux|brastemp|midea"
      ]
     ],
     "consumo e energia": [
@@ -5493,21 +5496,21 @@
       ""
      ]
     ],
-    "produto e categoria": [
+    "especificacao de produto": [
      [
-      "Geladeiras de Luxo",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Geladeiras para Chopp",
+      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
       "gemini",
       ""
      ],
      [
-      "Quais marcas de geladeiras de luxo vocês recomendam para uma cozinha moderna?",
-      "gemini",
+      "geladeira frost free com congelador embaixo",
+      "google_ai_overview",
       ""
+     ],
+     [
+      "geladeiras inverter inox",
+      "google_ai_overview",
+      "electrolux|brastemp|midea"
      ]
     ],
     "peca e filtro": [
