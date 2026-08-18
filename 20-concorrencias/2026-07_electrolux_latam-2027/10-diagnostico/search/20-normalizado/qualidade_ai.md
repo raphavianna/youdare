@@ -21,24 +21,24 @@ seed** e é a medida primária deste material.
 
 ## Prompts
 
-- **7914** pares prompt × provedor únicos, de 6013 prompts distintos
+- **8186** pares prompt × provedor únicos, de 6165 prompts distintos
 - Provedores: chatgpt, gemini, google_ai_mode, google_ai_overview
-- Seeds: ar-condicionado, brastemp, eletrolux, geladeira, hisense, maquina-de-lavar, microondas, midea
+- Seeds: air-fryer, ar-condicionado, brastemp, eletrolux, geladeira, hisense, maquina-de-lavar, microondas, midea
 
 **Estes têm viés de seed e a contagem de marca sobre eles é enviesada.** Quatro dos seeds são
-nomes de marca — ar-condicionado, brastemp, eletrolux, hisense, maquina-de-lavar, microondas, midea — e nenhum é Consul,
+nomes de marca — air-fryer, ar-condicionado, brastemp, eletrolux, hisense, maquina-de-lavar, microondas, midea — e nenhum é Consul,
 Samsung ou Haier. Marca com seed próprio aparece mais por construção. Serve para **exemplo de
 prompt e leitura de conteúdo**, nunca para ranking de cobertura.
 
 Marcas encontradas no texto das respostas, para registro do viés:
-- electrolux: 1383 de 7914 respostas (17.5%)
-- brastemp: 1357 de 7914 respostas (17.1%)
-- midea: 1188 de 7914 respostas (15.0%)
-- consul: 296 de 7914 respostas (3.7%)
-- lg: 283 de 7914 respostas (3.6%)
-- samsung: 144 de 7914 respostas (1.8%)
-- hisense: 140 de 7914 respostas (1.8%)
-- panasonic: 127 de 7914 respostas (1.6%)
+- electrolux: 1383 de 8186 respostas (16.9%)
+- brastemp: 1359 de 8186 respostas (16.6%)
+- midea: 1188 de 8186 respostas (14.5%)
+- consul: 300 de 8186 respostas (3.7%)
+- lg: 283 de 8186 respostas (3.5%)
+- samsung: 144 de 8186 respostas (1.8%)
+- hisense: 140 de 8186 respostas (1.7%)
+- panasonic: 127 de 8186 respostas (1.6%)
 
 ## Outras ressalvas
 

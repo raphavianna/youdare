@@ -4833,9 +4833,9 @@ Quais são as principais diferenças entre os modelos de micro-ondas Midea de 27
 Quais são as principais diferenças entre os modelos de micro-ondas Midea de 27 litros disponíveis no mercado brasileiro?,chatgpt,especificacao de produto,micro-ondas,1,midea,midea,1,12,90,173,midea,1
 Quais são as principais diferenças entre os modelos de micro-ondas Midea de 27 litros disponíveis no mercado brasileiro?,google_ai_mode,especificacao de produto,micro-ondas,1,midea,midea,1,5,90,173,midea,1
 fogão 4 bocas midea,google_ai_overview,especificacao de produto,coccao,1,midea,midea,1,12,90,173,midea,1
-Quais receitas rápidas você recomendaria para uma air fryer Midea?,gemini,uso e receita,air fryer,1,midea,midea,1,0,90,173,midea,1
-Quais receitas rápidas você recomendaria para uma air fryer Midea?,chatgpt,uso e receita,air fryer,1,midea,midea,1,14,90,173,midea,1
-Quais receitas rápidas você recomendaria para uma air fryer Midea?,google_ai_mode,uso e receita,air fryer,1,midea,midea,1,9,90,173,midea,1
+Quais receitas rápidas você recomendaria para uma air fryer Midea?,gemini,uso e receita,air fryer,1,midea,midea,1,0,90,173,air-fryer|midea,1
+Quais receitas rápidas você recomendaria para uma air fryer Midea?,chatgpt,uso e receita,air fryer,1,midea,midea,1,14,90,173,air-fryer|midea,1
+Quais receitas rápidas você recomendaria para uma air fryer Midea?,google_ai_mode,uso e receita,air fryer,1,midea,midea,1,9,90,173,air-fryer|midea,1
 assistencia midea,google_ai_overview,assistencia e conserto,sem categoria,0,midea,midea,1,4,90,173,midea,1
 Quais são as vantagens de uma lavadora e secadora Midea com HealthGuard em comparação com modelos tradicionais?,chatgpt,comparacao e modelo,lavanderia,1,midea,midea,1,14,90,173,midea,1
 Quais são as vantagens de uma lavadora e secadora Midea com HealthGuard em comparação com modelos tradicionais?,gemini,comparacao e modelo,lavanderia,1,midea,midea,1,0,90,173,midea,1
@@ -4986,6 +4986,278 @@ fogao de indução midea,google_ai_overview,produto e categoria,coccao,1,midea,m
 Qual motor Hidea é mais adequado para um barco de pesca de pequeno porte?,chatgpt,comparacao e modelo,sem categoria,0,,,1,12,90,173,midea,1
 Qual motor Hidea é mais adequado para um barco de pesca de pequeno porte?,google_ai_mode,comparacao e modelo,sem categoria,0,,,1,14,90,173,midea,1
 Qual motor Hidea é mais adequado para um barco de pesca de pequeno porte?,gemini,comparacao e modelo,sem categoria,0,,,1,0,90,173,midea,1
+Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?,chatgpt,uso e receita,air fryer,1,,,0,12,94,173,air-fryer,0
+Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?,google_ai_mode,uso e receita,air fryer,1,,,0,0,94,173,air-fryer,0
+Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?,gemini,uso e receita,air fryer,1,,,0,0,94,173,air-fryer,0
+Você poderia me explicar qual a melhor forma de usar um air fryer com forno para receitas de assados?,chatgpt,uso e receita,coccao,1,,,4,14,93,173,air-fryer,0
+Você recomendaria um air fryer Walita/Philips ou um forno elétrico tradicional da Philips para receitas brasileiras?,gemini,uso e receita,coccao,1,,,2,0,93,173,air-fryer,0
+Você recomendaria um air fryer Walita/Philips ou um forno elétrico tradicional da Philips para receitas brasileiras?,chatgpt,uso e receita,coccao,1,,,2,12,93,173,air-fryer,0
+Você recomendaria um air fryer Walita/Philips ou um forno elétrico tradicional da Philips para receitas brasileiras?,google_ai_mode,uso e receita,coccao,1,,,1,8,93,173,air-fryer,0
+Você poderia me explicar qual a melhor forma de usar um air fryer com forno para receitas de assados?,google_ai_mode,uso e receita,coccao,1,,,1,17,93,173,air-fryer,0
+Quais receitas ficam melhores em air fryer quando já tenho forno elétrico?,chatgpt,uso e receita,coccao,1,,,0,12,93,173,air-fryer,0
+Quais receitas ficam melhores em air fryer quando já tenho forno elétrico?,google_ai_mode,uso e receita,coccao,1,,,0,3,93,173,air-fryer,0
+Quais receitas ficam melhores em air fryer quando já tenho forno elétrico?,gemini,uso e receita,coccao,1,,,0,0,93,173,air-fryer,0
+Você poderia me explicar qual a melhor forma de usar um air fryer com forno para receitas de assados?,gemini,uso e receita,coccao,1,,,0,0,93,173,air-fryer,0
+Airfryer ligada ou desligada durante o preparo: qual é a prática mais comum em receitas online?,chatgpt,assistencia e conserto,air fryer,1,,,1,36,92,173,air-fryer,0
+Que receitas rápidas ficam perfeitas no forno Brastemp com air fryer de 12L?,chatgpt,uso e receita,coccao,1,brastemp,brastemp,1,12,92,173,air-fryer,0
+Que receitas rápidas ficam perfeitas no forno Brastemp com air fryer de 12L?,gemini,uso e receita,coccao,1,brastemp,brastemp,1,0,92,173,air-fryer,0
+Airfryer ligada ou desligada durante o preparo: qual é a prática mais comum em receitas online?,gemini,assistencia e conserto,air fryer,1,,,0,0,92,173,air-fryer,0
+Airfryer ligada ou desligada durante o preparo: qual é a prática mais comum em receitas online?,google_ai_mode,assistencia e conserto,air fryer,1,,,0,6,92,173,air-fryer,0
+Que receitas rápidas ficam perfeitas no forno Brastemp com air fryer de 12L?,google_ai_mode,uso e receita,coccao,1,brastemp,,0,2,92,173,air-fryer,0
+Você pode sugerir os melhores air fryers compatíveis com Alexa para cozinhar diferentes receitas?,chatgpt,uso e receita,air fryer,1,,,4,11,91,173,air-fryer,0
+Você pode sugerir os melhores air fryers compatíveis com Alexa para cozinhar diferentes receitas?,google_ai_mode,uso e receita,air fryer,1,,,4,0,91,173,air-fryer,0
+Quais são as receitas mais fáceis para começar a fazer na air fryer sem óleo ou com pouca gordura?,google_ai_mode,uso e receita,air fryer,1,,,3,18,91,173,air-fryer,0
+Você pode sugerir os melhores air fryers compatíveis com Alexa para cozinhar diferentes receitas?,gemini,uso e receita,air fryer,1,,,3,0,91,173,air-fryer,0
+Você pode me passar uma receita de rabanada na airfryer usando pão de forma e leite condensado?,chatgpt,uso e receita,air fryer,1,,,2,12,91,173,air-fryer,0
+receitas para fazer na airfryer,google_ai_overview,uso e receita,air fryer,1,,,2,5,91,173,air-fryer,0
+receita para fazer na air fryer,google_ai_overview,uso e receita,air fryer,1,,,2,5,91,173,air-fryer,0
+receitas feita na airfryer,google_ai_overview,uso e receita,air fryer,1,,,2,8,91,173,air-fryer,0
+Quais receitas fáceis posso fazer na fritadeira a ar Seara para iniciantes?,gemini,uso e receita,air fryer,1,,,2,0,91,173,air-fryer,0
+receitas no air fryer,google_ai_overview,uso e receita,air fryer,1,,,1,3,91,173,air-fryer,0
+receitas com air fryer,google_ai_overview,uso e receita,air fryer,1,,,1,8,91,173,air-fryer,0
+Pode indicar receitas de empada com tapioca ou massas mais saudáveis para usar na air fryer?,chatgpt,uso e receita,air fryer,1,,,1,13,91,173,air-fryer,0
+Como adaptar receitas tradicionais para a air fryer mantendo crocância e textura desejadas?,google_ai_mode,uso e receita,air fryer,1,,,1,11,91,173,air-fryer,0
+Como fazer receitas rápidas no forno Fischer com air fryer sem comprometer o sabor?,chatgpt,uso e receita,coccao,1,fischer,fischer,1,23,91,173,air-fryer,0
+Como fazer receitas rápidas no forno Fischer com air fryer sem comprometer o sabor?,google_ai_mode,uso e receita,coccao,1,fischer,fischer,1,0,91,173,air-fryer,0
+Como fazer receitas rápidas no forno Fischer com air fryer sem comprometer o sabor?,gemini,uso e receita,coccao,1,fischer,fischer,1,0,91,173,air-fryer,0
+Quais receitas fáceis posso fazer na fritadeira a ar Seara para iniciantes?,google_ai_mode,uso e receita,air fryer,1,,,1,0,91,173,air-fryer,0
+Quais receitas fáceis posso fazer na fritadeira a ar Seara para iniciantes?,chatgpt,uso e receita,air fryer,1,,,1,24,91,173,air-fryer,0
+Quais são as receitas mais fáceis para começar a fazer na air fryer sem óleo ou com pouca gordura?,chatgpt,uso e receita,air fryer,1,,,0,24,91,173,air-fryer,0
+Quais são as receitas mais fáceis para começar a fazer na air fryer sem óleo ou com pouca gordura?,gemini,uso e receita,air fryer,1,,,0,0,91,173,air-fryer,0
+Você pode me passar uma receita de rabanada na airfryer usando pão de forma e leite condensado?,gemini,uso e receita,air fryer,1,,,0,0,91,173,air-fryer,0
+Você pode me passar uma receita de rabanada na airfryer usando pão de forma e leite condensado?,google_ai_mode,uso e receita,air fryer,1,,,0,0,91,173,air-fryer,0
+receitas faceis para fazer na airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,21,91,173,air-fryer,0
+Air Fryer: Receitas e Usos,gemini,uso e receita,air fryer,1,,,0,0,91,173,air-fryer,0
+Air Fryer: Receitas e Usos,google_ai_mode,uso e receita,air fryer,1,,,0,21,91,173,air-fryer,0
+Air Fryer: Receitas e Usos,chatgpt,uso e receita,air fryer,1,,,0,24,91,173,air-fryer,0
+Pode indicar receitas de empada com tapioca ou massas mais saudáveis para usar na air fryer?,gemini,uso e receita,air fryer,1,,,0,0,91,173,air-fryer,0
+Pode indicar receitas de empada com tapioca ou massas mais saudáveis para usar na air fryer?,google_ai_mode,uso e receita,air fryer,1,,,0,19,91,173,air-fryer,0
+receitas simples airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,10,91,173,air-fryer,0
+Quais são as melhores práticas para usar papel alumínio na air fryer sem prejudicar o sabor ou a segurança das receitas?,google_ai_mode,uso e receita,air fryer,1,,,0,11,91,173,air-fryer,0
+Quais são as melhores práticas para usar papel alumínio na air fryer sem prejudicar o sabor ou a segurança das receitas?,gemini,uso e receita,air fryer,1,,,0,0,91,173,air-fryer,0
+Quais são as melhores práticas para usar papel alumínio na air fryer sem prejudicar o sabor ou a segurança das receitas?,chatgpt,uso e receita,air fryer,1,,,0,12,91,173,air-fryer,0
+receitas airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,7,91,173,air-fryer,0
+Como adaptar receitas tradicionais para a air fryer mantendo crocância e textura desejadas?,chatgpt,uso e receita,air fryer,1,,,0,12,91,173,air-fryer,0
+Como adaptar receitas tradicionais para a air fryer mantendo crocância e textura desejadas?,gemini,uso e receita,air fryer,1,,,0,0,91,173,air-fryer,0
+Pode me passar uma receita rápida de fraldinha na airfryer com manteiga e alho?,google_ai_mode,uso e receita,air fryer,1,,,0,18,91,173,air-fryer,0
+Pode me passar uma receita rápida de fraldinha na airfryer com manteiga e alho?,chatgpt,uso e receita,air fryer,1,,,0,12,91,173,air-fryer,0
+Pode me passar uma receita rápida de fraldinha na airfryer com manteiga e alho?,gemini,uso e receita,air fryer,1,,,0,0,91,45,air-fryer,0
+Quais receitas de pão na airfryer são rápidas e fáceis para o dia a dia?,google_ai_mode,uso e receita,air fryer,1,,,4,11,90,173,air-fryer,0
+Quais são as receitas fáceis de doces ou salgados para fazer na airfryer para toda a família?,chatgpt,uso e receita,air fryer,1,,,3,12,90,173,air-fryer,0
+Como escolher o tamanho ideal de frigideira Tefal para minhas receitas?,gemini,uso e receita,sem categoria,0,,,3,0,90,173,air-fryer,0
+Receitas na AirFryer,chatgpt,uso e receita,air fryer,1,,,2,13,90,173,air-fryer,0
+Pode me passar uma receita simples de bolo na airfryer com poucos ingredientes?,chatgpt,uso e receita,air fryer,1,,,1,12,90,173,air-fryer,0
+Como escolher o tamanho ideal de frigideira Tefal para minhas receitas?,chatgpt,uso e receita,sem categoria,0,,,1,12,90,173,air-fryer,0
+Como escolher o tamanho ideal de frigideira Tefal para minhas receitas?,google_ai_mode,uso e receita,sem categoria,0,,,1,0,90,173,air-fryer,0
+Como adaptar uma receita tradicional de bolo para ficar fofinho na airfryer?,chatgpt,uso e receita,air fryer,1,,,1,12,90,173,air-fryer,0
+"Qual a diferença entre mixer 3 em 1 e processador tradicional, e qual é mais útil para receitas rápidas?",google_ai_mode,uso e receita,sem categoria,0,,,1,15,90,173,air-fryer,0
+Como adaptar receitas de frango empanado para airfryer com farinha de trigo ou opções sem glúten?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Como adaptar receitas de frango empanado para airfryer com farinha de trigo ou opções sem glúten?,chatgpt,uso e receita,air fryer,1,,,0,12,90,173,air-fryer,0
+Como adaptar receitas de frango empanado para airfryer com farinha de trigo ou opções sem glúten?,google_ai_mode,uso e receita,air fryer,1,,,0,19,90,173,air-fryer,0
+Como adaptar receitas de frango da geladeira para a air fryer mantendo o sabor e a suculência?,gemini,uso e receita,geladeira,1,,,0,0,90,173,air-fryer,0
+Como adaptar receitas de frango da geladeira para a air fryer mantendo o sabor e a suculência?,google_ai_mode,uso e receita,geladeira,1,,,0,19,90,173,air-fryer,0
+Como adaptar receitas de frango da geladeira para a air fryer mantendo o sabor e a suculência?,chatgpt,uso e receita,geladeira,1,,,0,13,90,173,air-fryer,0
+receita fit airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,5,90,173,air-fryer,0
+Pode me passar uma receita simples de bolo na airfryer com poucos ingredientes?,google_ai_mode,uso e receita,air fryer,1,,,0,13,90,173,air-fryer,0
+Pode me passar uma receita simples de bolo na airfryer com poucos ingredientes?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+receitas para fazer na airfryer lanche da tarde,google_ai_overview,uso e receita,air fryer,1,,,0,12,90,173,air-fryer,0
+É possível fazer pudim de leite condensado na air fryer e como adaptar a receita tradicional?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+É possível fazer pudim de leite condensado na air fryer e como adaptar a receita tradicional?,google_ai_mode,uso e receita,air fryer,1,,,0,17,90,173,air-fryer,0
+É possível fazer pudim de leite condensado na air fryer e como adaptar a receita tradicional?,chatgpt,uso e receita,air fryer,1,,,0,11,90,173,air-fryer,0
+Quais são as receitas fáceis de doces ou salgados para fazer na airfryer para toda a família?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Quais são as receitas fáceis de doces ou salgados para fazer na airfryer para toda a família?,google_ai_mode,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+receita na airfryer lanche,google_ai_overview,uso e receita,air fryer,1,,,0,14,90,173,air-fryer,0
+Pode me indicar receitas fitness ou saudáveis para a airfryer para café da manhã?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Pode me indicar receitas fitness ou saudáveis para a airfryer para café da manhã?,google_ai_mode,uso e receita,air fryer,1,,,0,19,90,173,air-fryer,0
+Pode me indicar receitas fitness ou saudáveis para a airfryer para café da manhã?,chatgpt,uso e receita,air fryer,1,,,0,12,90,173,air-fryer,0
+Receitas na AirFryer,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Receitas na AirFryer,google_ai_mode,uso e receita,air fryer,1,,,0,21,90,173,air-fryer,0
+receitas doces na airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,9,90,173,air-fryer,0
+receita de torresmo na air fryer,google_ai_overview,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Como adaptar receitas comuns para ficar crocantes na airfryer sem perder o sabor?,chatgpt,uso e receita,air fryer,1,,,0,10,90,173,air-fryer,0
+Como adaptar receitas comuns para ficar crocantes na airfryer sem perder o sabor?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Como adaptar receitas comuns para ficar crocantes na airfryer sem perder o sabor?,google_ai_mode,uso e receita,air fryer,1,,,0,16,90,173,air-fryer,0
+receitas fit airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,4,90,173,air-fryer,0
+receita de frango a passarinho na airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,8,90,173,air-fryer,0
+É possível adaptar receitas tradicionais de milanesa/parmegiana para a air fryer com menos óleo?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+É possível adaptar receitas tradicionais de milanesa/parmegiana para a air fryer com menos óleo?,google_ai_mode,uso e receita,air fryer,1,,,0,3,90,173,air-fryer,0
+É possível adaptar receitas tradicionais de milanesa/parmegiana para a air fryer com menos óleo?,chatgpt,uso e receita,air fryer,1,,,0,15,90,173,air-fryer,0
+Você pode sugerir 4 receitas rápidas de torresmo ou panceta para preparar na air fryer?,chatgpt,uso e receita,air fryer,1,,,0,15,90,173,air-fryer,0
+Você pode sugerir 4 receitas rápidas de torresmo ou panceta para preparar na air fryer?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Você pode sugerir 4 receitas rápidas de torresmo ou panceta para preparar na air fryer?,google_ai_mode,uso e receita,air fryer,1,,,0,22,90,173,air-fryer,0
+Quais receitas de pão na airfryer são rápidas e fáceis para o dia a dia?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Quais receitas de pão na airfryer são rápidas e fáceis para o dia a dia?,chatgpt,uso e receita,air fryer,1,,,0,12,90,173,air-fryer,0
+receitas salgadas airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,6,90,173,air-fryer,0
+Como adaptar uma receita tradicional de bolo para ficar fofinho na airfryer?,gemini,uso e receita,air fryer,1,,,0,0,90,173,air-fryer,0
+Como adaptar uma receita tradicional de bolo para ficar fofinho na airfryer?,google_ai_mode,uso e receita,air fryer,1,,,0,21,90,173,air-fryer,0
+"Qual a diferença entre mixer 3 em 1 e processador tradicional, e qual é mais útil para receitas rápidas?",chatgpt,uso e receita,sem categoria,0,,,0,12,90,173,air-fryer,0
+"Qual a diferença entre mixer 3 em 1 e processador tradicional, e qual é mais útil para receitas rápidas?",gemini,uso e receita,sem categoria,0,,,0,0,90,173,air-fryer,0
+Quais lojas online no Brasil vendem equipamentos ou bolos de bubble waffle e onde encontrar receitas?,gemini,uso e receita,sem categoria,0,,,15,0,89,173,air-fryer,0
+receita de berinjela na air fryer,google_ai_overview,uso e receita,air fryer,1,,,12,11,89,173,air-fryer,0
+Quais lojas online no Brasil vendem equipamentos ou bolos de bubble waffle e onde encontrar receitas?,chatgpt,uso e receita,sem categoria,0,,,11,15,89,173,air-fryer,0
+Pode indicar os top 5 livros/sites com as melhores receitas de airfryer Philips Walita?,gemini,uso e receita,air fryer,1,,,11,0,89,173,air-fryer,0
+Quais lojas online no Brasil vendem equipamentos ou bolos de bubble waffle e onde encontrar receitas?,google_ai_mode,uso e receita,sem categoria,0,,,10,5,89,173,air-fryer,0
+berinjela empanada receita,google_ai_overview,uso e receita,sem categoria,0,,,7,7,89,173,air-fryer,0
+Pode indicar os top 5 livros/sites com as melhores receitas de airfryer Philips Walita?,google_ai_mode,uso e receita,air fryer,1,,,5,8,89,173,air-fryer,0
+Pode indicar os top 5 livros/sites com as melhores receitas de airfryer Philips Walita?,chatgpt,uso e receita,air fryer,1,,,4,78,89,173,air-fryer,0
+Quais receitas fáceis de pão você recomendaria para iniciantes usando uma máquina de pão?,chatgpt,uso e receita,sem categoria,0,,,4,24,89,173,air-fryer,0
+livro de receitas panificadora pdf,google_ai_overview,uso e receita,sem categoria,0,,,4,6,89,173,air-fryer,0
+Como adaptar uma receita de pudim tradicional para a airfryer com poucos ingredientes?,google_ai_mode,uso e receita,air fryer,1,,,4,16,89,173,air-fryer,0
+manual de receitas panificadora britânia,google_ai_overview,uso e receita,sem categoria,0,britania,britania,4,7,89,173,air-fryer,0
+arroz de panela eletrica receita,google_ai_overview,uso e receita,sem categoria,1,,,3,7,89,173,air-fryer,0
+receitas panificadora britania pdf,google_ai_overview,uso e receita,sem categoria,0,britania,,3,5,89,173,air-fryer,0
+livro de receitas panificadora britania multipane 2 pdf,google_ai_overview,uso e receita,sem categoria,0,britania,britania,3,3,89,173,air-fryer,0
+Pode me indicar uma receita rápida de berinjela à milanesa na airfryer para o almoço?,google_ai_mode,uso e receita,air fryer,1,,,3,17,89,173,air-fryer,0
+Quais são as melhores receitas de airfryer da Philips Walita para começar?,google_ai_mode,uso e receita,air fryer,1,,,3,18,89,173,air-fryer,0
+livro de receitas panificadora britania multipane pdf,google_ai_overview,uso e receita,sem categoria,0,britania,britania,3,6,89,173,air-fryer,0
+Quais são as melhores receitas para fazer na Philips Walita RI9280 sem usar muito óleo?,gemini,uso e receita,sem categoria,0,,,3,0,89,173,air-fryer,0
+Você pode indicar algumas receitas de brownie na airfryer com chocolate/Nescau ou similares e dicas de preparo?,gemini,assistencia e conserto,air fryer,1,,,2,0,89,173,air-fryer,0
+Você pode indicar algumas receitas de brownie na airfryer com chocolate/Nescau ou similares e dicas de preparo?,chatgpt,assistencia e conserto,air fryer,1,,,2,13,89,173,air-fryer,0
+receita panificadora britania pdf,google_ai_overview,uso e receita,sem categoria,0,britania,britania,2,1,89,173,air-fryer,0
+receitas panificadora britânia pdf,google_ai_overview,uso e receita,sem categoria,0,britania,consul|britania,2,7,89,173,air-fryer,0
+Quais receitas fáceis de pão você recomendaria para iniciantes usando uma máquina de pão?,google_ai_mode,uso e receita,sem categoria,0,,,2,0,89,173,air-fryer,0
+Quais são as melhores receitas de coxinha da asa na air fryer que você recomenda para iniciantes?,chatgpt,uso e receita,air fryer,1,,,2,12,89,173,air-fryer,0
+100 receitas para airfryer pdf,google_ai_overview,uso e receita,air fryer,1,,consul,2,4,89,173,air-fryer,0
+Como usar a Thermomix para economizar tempo na cozinha e encontrar receitas ideais para iniciantes?,chatgpt,uso e receita,sem categoria,0,,,2,14,89,173,air-fryer,0
+Como usar a Thermomix para economizar tempo na cozinha e encontrar receitas ideais para iniciantes?,google_ai_mode,uso e receita,sem categoria,0,,,2,17,89,173,air-fryer,0
+Como usar a Thermomix para economizar tempo na cozinha e encontrar receitas ideais para iniciantes?,gemini,uso e receita,sem categoria,0,,,2,0,89,173,air-fryer,0
+Como adaptar receitas tradicionais para a Airfryer Philips Walita Mondial mantendo o sabor?,google_ai_mode,uso e receita,air fryer,1,mondial,mondial,2,5,89,173,air-fryer,0
+Como adaptar receitas tradicionais para a Airfryer Philips Walita Mondial mantendo o sabor?,chatgpt,uso e receita,air fryer,1,mondial,mondial,2,24,89,173,air-fryer,0
+Como adaptar receitas tradicionais para a Airfryer Philips Walita Mondial mantendo o sabor?,gemini,uso e receita,air fryer,1,mondial,mondial,2,0,89,173,air-fryer,0
+Receitas de Airfryer Philips Walita Mondial,google_ai_mode,uso e receita,air fryer,1,mondial,mondial,2,5,89,173,air-fryer,0
+Receitas de Airfryer Philips Walita Mondial,chatgpt,uso e receita,air fryer,1,mondial,mondial,2,12,89,173,air-fryer,0
+Receitas de Airfryer Philips Walita Mondial,gemini,uso e receita,air fryer,1,mondial,mondial,2,0,89,173,air-fryer,0
+receitas de berinjelas fritas,google_ai_overview,uso e receita,sem categoria,0,,,2,12,89,173,air-fryer,0
+maquina pao britania receitas,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,10,89,173,air-fryer,0
+receitas máquina de pão britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,10,89,173,air-fryer,0
+manual de receita panificadora britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,8,89,173,air-fryer,0
+Você pode indicar algumas receitas de brownie na airfryer com chocolate/Nescau ou similares e dicas de preparo?,google_ai_mode,assistencia e conserto,air fryer,1,,,1,21,89,173,air-fryer,0
+livro de receitas panificadora britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,8,89,173,air-fryer,0
+livro de receitas da panificadora britânia,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,8,89,173,air-fryer,0
+receita para maquina de pão britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,8,89,173,air-fryer,0
+receitas para fazer na airfryer tudo gostoso,google_ai_overview,uso e receita,air fryer,1,,,1,5,89,173,air-fryer,0
+receitas máquina de pão britânia,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,9,89,173,air-fryer,0
+Pode me sugerir 4 receitas rápidas de couve-flor na airfryer com milanesa?,gemini,uso e receita,air fryer,1,,,1,0,89,173,air-fryer,0
+Pode me sugerir 4 receitas rápidas de couve-flor na airfryer com milanesa?,google_ai_mode,uso e receita,air fryer,1,,,1,2,89,173,air-fryer,0
+receita de pão da maquina britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,2,89,173,air-fryer,0
+Quais receitas são ideais para testar com uma batedeira Braesi Eclair?,google_ai_mode,uso e receita,sem categoria,1,,,1,0,89,173,air-fryer,0
+Quais receitas são ideais para testar com uma batedeira Braesi Eclair?,gemini,uso e receita,sem categoria,1,,,1,0,89,173,air-fryer,0
+Quais receitas são ideais para testar com uma batedeira Braesi Eclair?,chatgpt,uso e receita,sem categoria,1,,,1,23,89,173,air-fryer,0
+receitas pão panificadora britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,6,89,173,air-fryer,0
+britania multi pane receitas,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,9,89,173,air-fryer,0
+multipane britania receitas,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,12,89,173,air-fryer,0
+receita peixe na airfryer,google_ai_overview,uso e receita,air fryer,1,,,1,10,89,173,air-fryer,0
+receitas para maquina de pao,google_ai_overview,uso e receita,sem categoria,0,,,1,9,89,173,air-fryer,0
+receitas da panificadora britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,5,89,173,air-fryer,0
+maquina de pão receitas britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,9,89,173,air-fryer,0
+receita de pão na panificadora britânia multipane,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,10,89,173,air-fryer,0
+panificadora britania receitas de pao,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,4,89,173,air-fryer,0
+panificadora britania receitas,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,5,89,173,air-fryer,0
+receitas panificadora britânia,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,9,89,173,air-fryer,0
+multi pane britania receitas,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,11,89,173,air-fryer,0
+Pode me dar uma receita rápida de salgadinho de macarrão na airfryer para 2 pessoas?,google_ai_mode,uso e receita,air fryer,1,,,1,5,89,173,air-fryer,0
+Pode me dar uma receita rápida de salgadinho de macarrão na airfryer para 2 pessoas?,chatgpt,uso e receita,air fryer,1,,,1,12,89,173,air-fryer,0
+Pode me passar uma receita rápida de almôndegas na airfryer com creme de cebola?,google_ai_mode,uso e receita,air fryer,1,,,1,11,89,173,air-fryer,0
+receitas da maquina de pão britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,11,89,173,air-fryer,0
+Quais são as melhores receitas de airfryer da Philips Walita para começar?,gemini,uso e receita,air fryer,1,,,1,0,89,173,air-fryer,0
+Quais são as melhores receitas de airfryer da Philips Walita para começar?,chatgpt,uso e receita,air fryer,1,,,1,23,89,173,air-fryer,0
+receitas maquina de pão britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,9,89,173,air-fryer,0
+panificadora britania receita,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,8,89,173,air-fryer,0
+receita de pão na panificadora mondial,google_ai_overview,uso e receita,sem categoria,0,mondial,mondial,1,9,89,173,air-fryer,0
+Como adaptar uma receita tradicional de brownie para a airfryer sem deixar seco ou quebradiço?,chatgpt,uso e receita,air fryer,1,,,1,12,89,173,air-fryer,0
+Quais são os melhores usos do Power Mix 550W para diferentes receitas domésticas?,gemini,uso e receita,sem categoria,0,,arno,1,0,89,173,air-fryer,0
+Quais são os melhores usos do Power Mix 550W para diferentes receitas domésticas?,google_ai_mode,uso e receita,sem categoria,0,,arno,1,9,89,173,air-fryer,0
+receitas para pão de maquina,google_ai_overview,uso e receita,sem categoria,0,,,1,6,89,173,air-fryer,0
+livro de receitas panificadora britânia pdf,google_ai_overview,uso e receita,sem categoria,0,britania,consul|britania,1,9,89,173,air-fryer,0
+livro de receitas da panificadora britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,9,89,173,air-fryer,0
+Quais são as melhores receitas para fazer na Philips Walita RI9280 sem usar muito óleo?,chatgpt,uso e receita,sem categoria,0,,,1,13,89,173,air-fryer,0
+Quais são as melhores receitas para fazer na Philips Walita RI9280 sem usar muito óleo?,google_ai_mode,uso e receita,sem categoria,0,,,1,4,89,173,air-fryer,0
+receitas para maquina de pão britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,8,89,173,air-fryer,0
+receitas airfryer saudaveis,google_ai_overview,uso e receita,air fryer,1,,,1,4,89,173,air-fryer,0
+"Como escolher o misturador Black & Decker ideal para receitas rápidas, como bolos e massas leves?",google_ai_mode,uso e receita,sem categoria,0,,,1,9,89,173,air-fryer,0
+"Como escolher o misturador Black & Decker ideal para receitas rápidas, como bolos e massas leves?",gemini,uso e receita,sem categoria,0,,,1,0,89,173,air-fryer,0
+"Como escolher o misturador Black & Decker ideal para receitas rápidas, como bolos e massas leves?",chatgpt,uso e receita,sem categoria,0,,,1,13,89,173,air-fryer,0
+receitas com panela elétrica de arroz,google_ai_overview,uso e receita,sem categoria,1,,,1,22,89,173,air-fryer,0
+livro de receitas panificadora mondial pdf,google_ai_overview,uso e receita,sem categoria,0,mondial,mondial,1,3,89,173,air-fryer,0
+receita de pão da panificadora britania,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,6,89,173,air-fryer,0
+livro de receitas panificadora britânia,google_ai_overview,uso e receita,sem categoria,0,britania,consul|britania,1,10,89,173,air-fryer,0
+receita de pão na panificadora britania multipane,google_ai_overview,uso e receita,sem categoria,0,britania,britania,1,11,89,173,air-fryer,0
+receita na panela de arroz elétrica,google_ai_overview,uso e receita,sem categoria,0,,,0,15,89,173,air-fryer,0
+Pode me indicar 5 receitas simples de inhame chips para fazer na airfryer?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Pode me indicar 5 receitas simples de inhame chips para fazer na airfryer?,google_ai_mode,uso e receita,air fryer,1,,,0,13,89,173,air-fryer,0
+Pode me indicar 5 receitas simples de inhame chips para fazer na airfryer?,chatgpt,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+receitas para fazer na air fryer,google_ai_overview,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+Você pode me sugerir 5 receitas rápidas de legumes na air fryer com pouco óleo?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Você pode me sugerir 5 receitas rápidas de legumes na air fryer com pouco óleo?,chatgpt,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+Você pode me sugerir 5 receitas rápidas de legumes na air fryer com pouco óleo?,google_ai_mode,uso e receita,air fryer,1,,,0,13,89,173,air-fryer,0
+receitas saudaveis na air fryer,google_ai_overview,uso e receita,air fryer,1,,,0,3,89,173,air-fryer,0
+receita de carne na air fryer,google_ai_overview,uso e receita,air fryer,1,,,0,9,89,173,air-fryer,0
+Pode me sugerir 4 receitas rápidas de couve-flor na airfryer com milanesa?,chatgpt,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+receita com batata na airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,4,89,173,air-fryer,0
+receitas panela de arroz eletrica,google_ai_overview,uso e receita,sem categoria,0,,,0,11,89,173,air-fryer,0
+receitas em panela eletrica de arroz,google_ai_overview,uso e receita,sem categoria,1,,,0,18,89,173,air-fryer,0
+Quais recursos são mais úteis em uma batedeira com função mixer para receitas comuns?,gemini,uso e receita,sem categoria,1,,,0,0,89,173,air-fryer,0
+Quais recursos são mais úteis em uma batedeira com função mixer para receitas comuns?,chatgpt,uso e receita,sem categoria,1,,,0,12,89,173,air-fryer,0
+Quais recursos são mais úteis em uma batedeira com função mixer para receitas comuns?,google_ai_mode,uso e receita,sem categoria,1,,,0,3,89,173,air-fryer,0
+receita de batata doce na air fryer,google_ai_overview,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+receita de peixe na airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,8,89,173,air-fryer,0
+receitas airfryer saudáveis,google_ai_overview,uso e receita,air fryer,1,,,0,8,89,173,air-fryer,0
+Quais receitas fáceis de pão você recomendaria para iniciantes usando uma máquina de pão?,gemini,uso e receita,sem categoria,0,,,0,0,89,173,air-fryer,0
+receitas para fazer na air fry,google_ai_overview,uso e receita,sem categoria,0,,,0,22,89,173,air-fryer,0
+Quais são as melhores receitas de coxinha da asa na air fryer que você recomenda para iniciantes?,google_ai_mode,uso e receita,air fryer,1,,,0,17,89,173,air-fryer,0
+Quais são as melhores receitas de coxinha da asa na air fryer que você recomenda para iniciantes?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+receitas saudaveis na airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,1,89,173,air-fryer,0
+panela eletrica de arroz receita,google_ai_overview,uso e receita,sem categoria,1,,,0,10,89,173,air-fryer,0
+Pode me indicar uma receita rápida de berinjela à milanesa na airfryer para o almoço?,chatgpt,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+Pode me indicar uma receita rápida de berinjela à milanesa na airfryer para o almoço?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+pão de panificadora receita,google_ai_overview,uso e receita,sem categoria,0,,,0,9,89,173,air-fryer,0
+Pode me dar uma receita rápida de salgadinho de macarrão na airfryer para 2 pessoas?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Pode me passar uma receita rápida de almôndegas na airfryer com creme de cebola?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Pode me passar uma receita rápida de almôndegas na airfryer com creme de cebola?,chatgpt,uso e receita,air fryer,1,,,0,13,89,173,air-fryer,0
+Quais receitas de batata na airfryer são as favoritas para acompanhar um prato principal?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Quais receitas de batata na airfryer são as favoritas para acompanhar um prato principal?,chatgpt,uso e receita,air fryer,1,,,0,22,89,173,air-fryer,0
+Quais receitas de batata na airfryer são as favoritas para acompanhar um prato principal?,google_ai_mode,uso e receita,air fryer,1,,,0,22,89,173,air-fryer,0
+pao de maquina britania receitas,google_ai_overview,uso e receita,sem categoria,0,britania,,0,5,89,173,air-fryer,0
+panela de arroz eletrica receitas,google_ai_overview,uso e receita,sem categoria,0,,,0,11,89,173,air-fryer,0
+Como adaptar uma receita tradicional de brownie para a airfryer sem deixar seco ou quebradiço?,google_ai_mode,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+Como adaptar uma receita tradicional de brownie para a airfryer sem deixar seco ou quebradiço?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+receitas com batatas na airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,4,89,173,air-fryer,0
+receitas de pão para máquina,google_ai_overview,uso e receita,sem categoria,0,,,0,6,89,173,air-fryer,0
+receita de arroz na panela eletrica,google_ai_overview,uso e receita,sem categoria,1,,,0,8,89,173,air-fryer,0
+receita panela elétrica de arroz,google_ai_overview,uso e receita,sem categoria,1,,,0,12,89,173,air-fryer,0
+Quais são as receitas rápidas de carne na airfryer que você recomendaria para o almoço?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Quais são as receitas rápidas de carne na airfryer que você recomendaria para o almoço?,chatgpt,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+Quais são as receitas rápidas de carne na airfryer que você recomendaria para o almoço?,google_ai_mode,uso e receita,air fryer,1,,,0,6,89,173,air-fryer,0
+Pode adaptar a receita de rosquinha frita para versão sem lactose/vegana?,chatgpt,uso e receita,sem categoria,0,,,0,12,89,173,air-fryer,0
+Pode adaptar a receita de rosquinha frita para versão sem lactose/vegana?,gemini,uso e receita,sem categoria,0,,,0,0,89,173,air-fryer,0
+Pode adaptar a receita de rosquinha frita para versão sem lactose/vegana?,google_ai_mode,uso e receita,sem categoria,0,,,0,0,89,173,air-fryer,0
+"Como variar as receitas de bisteca na air fryer entre porco, boi e carré para ficar mais saboroso?",google_ai_mode,uso e receita,air fryer,1,,,0,17,89,173,air-fryer,0
+"Como variar as receitas de bisteca na air fryer entre porco, boi e carré para ficar mais saboroso?",chatgpt,uso e receita,air fryer,1,,,0,14,89,173,air-fryer,0
+"Como variar as receitas de bisteca na air fryer entre porco, boi e carré para ficar mais saboroso?",gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+carne na airfryer receita,google_ai_overview,uso e receita,air fryer,1,,,0,8,89,173,air-fryer,0
+Como adaptar uma receita de pudim tradicional para a airfryer com poucos ingredientes?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Como adaptar uma receita de pudim tradicional para a airfryer com poucos ingredientes?,chatgpt,uso e receita,air fryer,1,,,0,11,89,173,air-fryer,0
+Quais são os melhores usos do Power Mix 550W para diferentes receitas domésticas?,chatgpt,uso e receita,sem categoria,0,,,0,11,89,173,air-fryer,0
+receitas berinjela empanada,google_ai_overview,uso e receita,sem categoria,0,,,0,7,89,173,air-fryer,0
+Airfryer: carnes e receitas,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Airfryer: carnes e receitas,chatgpt,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+Airfryer: carnes e receitas,google_ai_mode,uso e receita,air fryer,1,,,0,18,89,173,air-fryer,0
+receitas para maquina de pão,google_ai_overview,uso e receita,sem categoria,0,,,0,10,89,173,air-fryer,0
+Pode sugerir as top 5 receitas simples de peixe na airfryer para iniciantes?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Pode sugerir as top 5 receitas simples de peixe na airfryer para iniciantes?,chatgpt,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
+Pode sugerir as top 5 receitas simples de peixe na airfryer para iniciantes?,google_ai_mode,uso e receita,air fryer,1,,,0,18,89,173,air-fryer,0
+receita para fazer na airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,17,89,173,air-fryer,0
+receitas faceis air fryer,google_ai_overview,uso e receita,air fryer,1,,,0,8,89,173,air-fryer,0
+panela eletrica de arroz receitas,google_ai_overview,uso e receita,sem categoria,1,,,0,13,89,173,air-fryer,0
+receitas fáceis na air fryer,google_ai_overview,uso e receita,air fryer,1,,,0,8,89,173,air-fryer,0
+receita para airfryer,google_ai_overview,uso e receita,air fryer,1,,,0,14,89,173,air-fryer,0
+pão máquina receita,google_ai_overview,uso e receita,sem categoria,0,,,0,8,89,173,air-fryer,0
+Receitas de peixe na airfryer,chatgpt,uso e receita,air fryer,1,,,0,11,89,173,air-fryer,0
+Receitas de peixe na airfryer,google_ai_mode,uso e receita,air fryer,1,,,0,14,89,173,air-fryer,0
+Receitas de peixe na airfryer,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Como adaptar uma receita tradicional de couve-flor frita para a airfryer sem usar óleo?,google_ai_mode,uso e receita,air fryer,1,,,0,6,89,173,air-fryer,0
+Como adaptar uma receita tradicional de couve-flor frita para a airfryer sem usar óleo?,gemini,uso e receita,air fryer,1,,,0,0,89,173,air-fryer,0
+Como adaptar uma receita tradicional de couve-flor frita para a airfryer sem usar óleo?,chatgpt,uso e receita,air fryer,1,,,0,12,89,173,air-fryer,0
 Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?,gemini,preco e compra,ar condicionado,1,,,16,0,94,173,ar-condicionado,0
 Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?,chatgpt,preco e compra,ar condicionado,1,,,15,21,94,173,ar-condicionado,0
 Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?,google_ai_mode,preco e compra,ar condicionado,1,,lg,12,26,94,173,ar-condicionado,0

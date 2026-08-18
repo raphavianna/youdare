@@ -1,27 +1,33 @@
 """
 Extrai os relatorios de AI Visibility (PDF) para CSV auditavel.
 
-Fonte: dois PDFs de "Desempenho da marca" sobre loja.electrolux.com.br, um por
-plataforma (ChatGPT e Google AI Mode). Trazem uma medida que nenhuma outra fonte
-do pacote tem: **share of voice em resposta de IA**, por marca, com sentimento.
+Cada relatorio e um "Desempenho da marca" da Semrush sobre UM dominio, numa
+plataforma. Traz share of voice, mencoes e sentimento — medidas que nenhuma
+outra fonte do pacote tem.
+
+REGRA DE LEITURA QUE VEM ANTES DO NUMERO
+Cada relatorio monta o proprio universo de perguntas, em torno do dominio
+analisado. Por isso o mesmo player aparece com valores diferentes em relatorios
+diferentes: a Electrolux tem 12,4% de SOV no relatorio dela, 16,5% no da Consul
+e 11,2% no da Midea. **Nao se compara SOV entre relatorios.** A comparacao
+valida e sempre entre players DENTRO do mesmo relatorio.
 
 Os numeros sao lidos do texto do PDF por regex, nao digitados. Rodar de novo
-reproduz o mesmo CSV; se o PDF mudar, o script quebra em vez de mentir.
+reproduz o mesmo CSV; se o PDF mudar de layout, o script quebra em vez de mentir.
 
 Uso: python3 normalizar_visibility.py  ->  20-normalizado/ai_visibility.csv
 """
-import re, csv, subprocess
+import re, csv, subprocess, glob, os
 from pathlib import Path
 
 B = Path(__file__).resolve().parent.parent
-RAW, OUT = B/"00-raw"/"ai-search", B/"20-normalizado"
-
-PDFS = [("ChatGPT",        "2026-08-17_semrush_ai-visibility_desempenho-marca-chatgpt.pdf"),
-        ("Google AI Mode", "2026-08-17_semrush_ai-visibility_desempenho-marca-google-ai-mode.pdf")]
+RAW, OUT = B/"00-raw"/"ai-search"/"ai-visibility", B/"20-normalizado"
 
 # como as marcas aparecem no relatorio -> chave do material
-NOMES = {"electrolux (brazil official online store)": "electrolux", "consul": "consul",
-         "brastemp": "brastemp", "midea": "midea", "samsung": "samsung", "other": "outras"}
+NOMES = {"electrolux (brazil official online store)": "electrolux", "electrolux": "electrolux",
+         "consul": "consul", "brastemp": "brastemp", "midea": "midea", "samsung": "samsung",
+         "hisense": "hisense", "haier": "haier", "lg": "lg", "panasonic": "panasonic",
+         "philco": "philco", "other": "outras"}
 
 def texto(pdf):
     r = subprocess.run(["pdftotext", "-layout", str(pdf), "-"], capture_output=True, text=True)
@@ -31,50 +37,56 @@ def texto(pdf):
 def pct(x): return float(x.replace(".", "").replace(",", "."))
 
 def bloco(t, titulo, ate):
-    """recorta o trecho entre um titulo de secao e o proximo marcador"""
-    i = t.index(titulo)
-    j = t.index(ate, i)
-    return t[i:j]
+    i = t.index(titulo); return t[i:t.index(ate, i)]
 
 linhas = []
-for plataforma, arq in PDFS:
-    t = texto(RAW/arq)
+for fp in sorted(glob.glob(str(RAW/"*.pdf"))):
+    base = os.path.basename(fp)
+    # 2026-08-18_ai-visibility_<dominio>_<plataforma>.pdf
+    m = re.match(r"(\d{4}-\d{2}-\d{2})_ai-visibility_([^_]+)_(.+)\.pdf", base)
+    if not m: raise RuntimeError(f"nome fora do padrao: {base}")
+    data, dominio, plat = m.groups()
+    plataforma = {"chatgpt": "ChatGPT", "google-ai-mode": "Google AI Mode"}[plat]
+    t = texto(fp)
 
-    # --- share of voice: "Marca    14,7%"
     sov = {}
     for nome, v in re.findall(r"^\s*([A-Za-z][A-Za-z ()À-ÿ]+?)\s{2,}(\d{1,2},\d)%\s*$",
                               bloco(t, "Distribuição de Share of Voz", "Gerado em"), re.M):
         k = NOMES.get(nome.strip().lower())
         if k: sov[k] = pct(v)
 
-    # --- sentimento geral: "Favorable   41%"
     sb = bloco(t, "Sentimento geral", "Distribuição de Share of Voz")
     fav = re.search(r"Favorable\s{2,}(\d{1,3})%", sb)
     favoravel = int(fav.group(1)) if fav else None
 
-    # --- mencoes: "Marca    24,7%    37" (a tabela quebra em duas paginas)
     men = {}
     for nome, v, n in re.findall(
             r"^\s*([A-Za-z][A-Za-z ()À-ÿ]+?)\s{2,}(\d{1,2},?\d?)%\s{2,}(\d+)\s*$", t, re.M):
         k = NOMES.get(nome.strip().lower())
         if k and k not in men: men[k] = (pct(v), int(n))
 
-    for marca in ["electrolux", "consul", "brastemp", "midea", "samsung", "outras"]:
-        if marca not in sov: continue
-        m = men.get(marca, (None, None))
-        linhas.append({"plataforma": plataforma, "marca": marca,
-                       "share_of_voice": sov[marca],
-                       "mencoes_pct": m[0], "mencoes_n": m[1],
-                       "sentimento_favoravel_marca": favoravel if marca == "electrolux" else ""})
+    # o dominio analisado, como chave de marca — para saber de quem e o sentimento
+    dono = {"loja-electrolux": "electrolux", "consul": "consul", "midea": "midea"}.get(dominio, dominio)
+    for marca, v in sorted(sov.items(), key=lambda i: -i[1]):
+        mm = men.get(marca, (None, None))
+        linhas.append({
+            "relatorio": f"{dominio} · {plataforma}", "data": data,
+            "dominio_analisado": dominio, "plataforma": plataforma,
+            "marca": marca, "eh_o_dono_do_relatorio": int(marca == dono),
+            "share_of_voice": v, "mencoes_pct": mm[0], "mencoes_n": mm[1],
+            "sentimento_favoravel_do_dono": favoravel if marca == dono else ""})
 
 with open(OUT/"ai_visibility.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=list(linhas[0].keys())); w.writeheader(); w.writerows(linhas)
 
-print(f"ai_visibility.csv — {len(linhas)} linhas, {len(PDFS)} plataformas\n")
-for p, _ in PDFS:
-    sub = [l for l in linhas if l["plataforma"] == p]
-    print(f"{p}:")
+print(f"ai_visibility.csv — {len(linhas)} linhas · "
+      f"{len({l['relatorio'] for l in linhas})} relatórios\n")
+for rel in sorted({l["relatorio"] for l in linhas}):
+    sub = [l for l in linhas if l["relatorio"] == rel]
+    fav = next((l["sentimento_favoravel_do_dono"] for l in sub if l["eh_o_dono_do_relatorio"]), "")
+    print(f"{rel}   (favorável do dono: {fav}%)")
     for l in sub:
-        mp = f'{l["mencoes_pct"]}% ({l["mencoes_n"]})' if l["mencoes_pct"] is not None else "—"
-        print(f"   {l['marca']:11} SOV {l['share_of_voice']:>5}%   menções {mp}")
+        marca = l["marca"] + (" ←" if l["eh_o_dono_do_relatorio"] else "")
+        print(f"   {marca:14} SOV {l['share_of_voice']:>5}%")
     print()
+print("Lembrete: SOV NAO se compara entre relatorios. So entre players do mesmo relatorio.")

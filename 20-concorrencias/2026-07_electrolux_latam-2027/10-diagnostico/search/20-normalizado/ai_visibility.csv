@@ -1,13 +1,24 @@
-plataforma,marca,share_of_voice,mencoes_pct,mencoes_n,sentimento_favoravel_marca
-ChatGPT,electrolux,14.7,24.7,37,41
-ChatGPT,consul,12.1,21.3,32,
-ChatGPT,brastemp,8.8,14.7,22,
-ChatGPT,midea,4.7,8.0,12,
-ChatGPT,samsung,5.9,11.3,17,
-ChatGPT,outras,53.7,,,
-Google AI Mode,electrolux,12.4,9.4,14,71
-Google AI Mode,consul,10.8,8.1,12,
-Google AI Mode,brastemp,11.6,8.1,12,
-Google AI Mode,midea,1.2,0.7,1,
-Google AI Mode,samsung,3.2,2.7,4,
-Google AI Mode,outras,60.5,,,
+relatorio,data,dominio_analisado,plataforma,marca,eh_o_dono_do_relatorio,share_of_voice,mencoes_pct,mencoes_n,sentimento_favoravel_do_dono
+loja-electrolux · ChatGPT,2026-08-17,loja-electrolux,ChatGPT,outras,0,53.7,,,
+loja-electrolux · ChatGPT,2026-08-17,loja-electrolux,ChatGPT,electrolux,1,14.7,24.7,37,41
+loja-electrolux · ChatGPT,2026-08-17,loja-electrolux,ChatGPT,consul,0,12.1,21.3,32,
+loja-electrolux · ChatGPT,2026-08-17,loja-electrolux,ChatGPT,brastemp,0,8.8,14.7,22,
+loja-electrolux · ChatGPT,2026-08-17,loja-electrolux,ChatGPT,samsung,0,5.9,11.3,17,
+loja-electrolux · ChatGPT,2026-08-17,loja-electrolux,ChatGPT,midea,0,4.7,8.0,12,
+loja-electrolux · Google AI Mode,2026-08-17,loja-electrolux,Google AI Mode,outras,0,60.5,,,
+loja-electrolux · Google AI Mode,2026-08-17,loja-electrolux,Google AI Mode,electrolux,1,12.4,9.4,14,71
+loja-electrolux · Google AI Mode,2026-08-17,loja-electrolux,Google AI Mode,brastemp,0,11.6,8.1,12,
+loja-electrolux · Google AI Mode,2026-08-17,loja-electrolux,Google AI Mode,consul,0,10.8,8.1,12,
+loja-electrolux · Google AI Mode,2026-08-17,loja-electrolux,Google AI Mode,samsung,0,3.2,2.7,4,
+loja-electrolux · Google AI Mode,2026-08-17,loja-electrolux,Google AI Mode,midea,0,1.2,0.7,1,
+consul · Google AI Mode,2026-08-18,consul,Google AI Mode,outras,0,37.7,,,
+consul · Google AI Mode,2026-08-18,consul,Google AI Mode,brastemp,0,17.3,81.7,143,
+consul · Google AI Mode,2026-08-18,consul,Google AI Mode,electrolux,0,16.5,85.1,149,
+consul · Google AI Mode,2026-08-18,consul,Google AI Mode,consul,1,14.6,75.4,132,89
+consul · Google AI Mode,2026-08-18,consul,Google AI Mode,lg,0,5.7,37.1,65,
+midea · Google AI Mode,2026-08-18,midea,Google AI Mode,outras,0,50.5,,,
+midea · Google AI Mode,2026-08-18,midea,Google AI Mode,electrolux,0,11.2,62.6,109,
+midea · Google AI Mode,2026-08-18,midea,Google AI Mode,panasonic,0,10.6,64.4,112,
+midea · Google AI Mode,2026-08-18,midea,Google AI Mode,lg,0,10.3,55.7,97,
+midea · Google AI Mode,2026-08-18,midea,Google AI Mode,samsung,0,8.8,52.3,91,
+midea · Google AI Mode,2026-08-18,midea,Google AI Mode,midea,1,8.2,52.3,91,100

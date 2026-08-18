@@ -4056,8 +4056,8 @@
     "microondas-v2"
    ],
    "teto_por_export": 1000,
-   "prompts_lidos": 7914,
-   "prompts_distintos": 6013,
+   "prompts_lidos": 8186,
+   "prompts_distintos": 6165,
    "provedores": [
     "chatgpt",
     "gemini",
@@ -5238,9 +5238,10 @@
    }
   },
   "prompts": {
-   "n": 7914,
-   "distintos": 6013,
+   "n": 8186,
+   "distintos": 6165,
    "seeds": [
+    "air-fryer",
     "ar-condicionado",
     "brastemp",
     "eletrolux",
@@ -5251,6 +5252,7 @@
     "midea"
    ],
    "seeds_de_marca": [
+    "air-fryer",
     "ar-condicionado",
     "brastemp",
     "eletrolux",
@@ -5265,36 +5267,36 @@
     "haier"
    ],
    "por_provedor": {
-    "chatgpt": 1027,
-    "gemini": 1052,
-    "google_ai_mode": 1080,
-    "google_ai_overview": 4755
+    "chatgpt": 1087,
+    "gemini": 1112,
+    "google_ai_mode": 1140,
+    "google_ai_overview": 4847
    },
    "mencao_na_resposta": [
     [
      "electrolux",
      1383,
-     17.5
+     16.9
     ],
     [
      "brastemp",
-     1357,
-     17.1
+     1359,
+     16.6
     ],
     [
      "midea",
      1188,
-     15.0
+     14.5
     ],
     [
      "consul",
-     296,
+     300,
      3.7
     ],
     [
      "lg",
      283,
-     3.6
+     3.5
     ],
     [
      "samsung",
@@ -5304,7 +5306,7 @@
     [
      "hisense",
      140,
-     1.8
+     1.7
     ],
     [
      "panasonic",
@@ -5314,17 +5316,17 @@
     [
      "philco",
      100,
-     1.3
+     1.2
     ],
     [
-     "mondial",
-     55,
-     0.7
+     "britania",
+     80,
+     1.0
     ]
    ],
-   "marcas_por_resposta": 2.9,
-   "fontes_por_resposta": 7.5,
-   "sem_fonte_pct": 15,
+   "marcas_por_resposta": 2.8,
+   "fontes_por_resposta": 7.6,
+   "sem_fonte_pct": 16,
    "familias": [
     [
      "produto e categoria",
@@ -5343,6 +5345,10 @@
      797
     ],
     [
+     "uso e receita",
+     289
+    ],
+    [
      "peca e filtro",
      168
     ],
@@ -5352,23 +5358,29 @@
     ],
     [
      "assistencia e conserto",
-     119
-    ],
-    [
-     "consumo e energia",
-     103
+     125
     ]
    ],
    "marca_por_familia": {
-    "preco e compra": {
-     "n": 516,
-     "com_marca": 28.1,
-     "sem_marca": 71.9
-    },
     "peca e filtro": {
      "n": 47,
      "com_marca": 19.1,
      "sem_marca": 80.9
+    },
+    "garantia e suporte": {
+     "n": 28,
+     "com_marca": 32.1,
+     "sem_marca": 67.9
+    },
+    "manutencao e limpeza": {
+     "n": 36,
+     "com_marca": 25.0,
+     "sem_marca": 75.0
+    },
+    "comparacao e modelo": {
+     "n": 591,
+     "com_marca": 39.9,
+     "sem_marca": 60.1
     },
     "marca e loja": {
      "n": 26,
@@ -5380,77 +5392,77 @@
      "com_marca": 11.8,
      "sem_marca": 88.2
     },
-    "manutencao e limpeza": {
-     "n": 36,
-     "com_marca": 25.0,
-     "sem_marca": 75.0
+    "preco e compra": {
+     "n": 516,
+     "com_marca": 28.1,
+     "sem_marca": 71.9
     },
-    "produto e categoria": {
-     "n": 1214,
-     "com_marca": 24.1,
-     "sem_marca": 75.9
-    },
-    "garantia e suporte": {
-     "n": 28,
-     "com_marca": 32.1,
-     "sem_marca": 67.9
-    },
-    "comparacao e modelo": {
-     "n": 591,
-     "com_marca": 39.9,
-     "sem_marca": 60.1
+    "instalacao": {
+     "n": 38,
+     "com_marca": 0.0,
+     "sem_marca": 100.0
     },
     "especificacao de produto": {
      "n": 798,
      "com_marca": 39.1,
      "sem_marca": 60.9
     },
-    "instalacao": {
-     "n": 38,
-     "com_marca": 0.0,
-     "sem_marca": 100.0
+    "produto e categoria": {
+     "n": 1214,
+     "com_marca": 24.1,
+     "sem_marca": 75.9
+    },
+    "uso e receita": {
+     "n": 201,
+     "com_marca": 3.5,
+     "sem_marca": 96.5
     }
    },
    "marca_por_familia_contaminado": {
-    "preco e compra": {
-     "n": 618,
-     "com_marca": 38.3,
-     "sem_marca": 61.7
-    },
     "peca e filtro": {
      "n": 103,
      "com_marca": 61.2,
      "sem_marca": 38.8
-    },
-    "marca e loja": {
-     "n": 36,
-     "com_marca": 55.6,
-     "sem_marca": 44.4
-    },
-    "consumo e energia": {
-     "n": 93,
-     "com_marca": 33.3,
-     "sem_marca": 66.7
-    },
-    "manutencao e limpeza": {
-     "n": 54,
-     "com_marca": 48.1,
-     "sem_marca": 51.9
-    },
-    "produto e categoria": {
-     "n": 2075,
-     "com_marca": 54.7,
-     "sem_marca": 45.3
     },
     "garantia e suporte": {
      "n": 83,
      "com_marca": 68.7,
      "sem_marca": 31.3
     },
+    "defeito e problema": {
+     "n": 28,
+     "com_marca": 67.9,
+     "sem_marca": 32.1
+    },
+    "manutencao e limpeza": {
+     "n": 54,
+     "com_marca": 48.1,
+     "sem_marca": 51.9
+    },
     "comparacao e modelo": {
      "n": 784,
      "com_marca": 51.4,
      "sem_marca": 48.6
+    },
+    "marca e loja": {
+     "n": 36,
+     "com_marca": 55.6,
+     "sem_marca": 44.4
+    },
+    "instalacao": {
+     "n": 70,
+     "com_marca": 42.9,
+     "sem_marca": 57.1
+    },
+    "preco e compra": {
+     "n": 618,
+     "com_marca": 38.3,
+     "sem_marca": 61.7
+    },
+    "consumo e energia": {
+     "n": 93,
+     "com_marca": 33.3,
+     "sem_marca": 66.7
     },
     "especificacao de produto": {
      "n": 1303,
@@ -5458,41 +5470,24 @@
      "sem_marca": 39.2
     },
     "assistencia e conserto": {
-     "n": 32,
-     "com_marca": 65.6,
-     "sem_marca": 34.4
+     "n": 38,
+     "com_marca": 55.3,
+     "sem_marca": 44.7
     },
-    "instalacao": {
-     "n": 70,
-     "com_marca": 42.9,
-     "sem_marca": 57.1
+    "produto e categoria": {
+     "n": 2075,
+     "com_marca": 54.7,
+     "sem_marca": 45.3
     },
-    "defeito e problema": {
-     "n": 28,
-     "com_marca": 67.9,
-     "sem_marca": 32.1
+    "uso e receita": {
+     "n": 207,
+     "com_marca": 6.3,
+     "sem_marca": 93.7
     }
    },
-   "n_limpo": 3404,
-   "taxa_marca_geral": 30.8,
+   "n_limpo": 3599,
+   "taxa_marca_geral": 29.2,
    "exemplos_limpos": {
-    "preco e compra": [
-     [
-      "Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?",
-      "gemini",
-      ""
-     ],
-     [
-      "Quais são as melhores opções de ar-condicionado para a minha casa com eficiência e custo-benefício?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
-      "gemini",
-      ""
-     ]
-    ],
     "peca e filtro": [
      [
       "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
@@ -5507,6 +5502,57 @@
      [
       "Peças de Geladeira",
       "chatgpt",
+      ""
+     ]
+    ],
+    "garantia e suporte": [
+     [
+      "Como funcionar o suporte e reclamações de geladeiras via Reclame Aqui e quais são os passos para resolver?",
+      "gemini",
+      "brastemp|consul"
+     ],
+     [
+      "Quais são as políticas de atendimento ao cliente e garantia da Proar para aparelhos de ar condicionado?",
+      "gemini",
+      ""
+     ],
+     [
+      "manual do controle ar condicionado samsung",
+      "google_ai_overview",
+      "samsung"
+     ]
+    ],
+    "manutencao e limpeza": [
+     [
+      "Quais são os principais cuidados de manutenção para conservar o desempenho de um ar condicionado?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais dicas você me daria para manter uma geladeira comercial com baixa necessidade de manutenção e maior durabilidade?",
+      "gemini",
+      ""
+     ]
+    ],
+    "comparacao e modelo": [
+     [
+      "Quais são as melhores dicas para escolher um ar condicionado adequado para Campinas, Curitiba e outras cidades do Brasil?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Qual é o melhor tipo de ar condicionado para uma sala de 20 m²?",
+      "gemini",
+      ""
+     ],
+     [
+      "Quais fatores devo considerar ao escolher um ar condicionado (potência, eficiência, ruído, uso diário)?",
+      "gemini",
       ""
      ]
     ],
@@ -5544,19 +5590,53 @@
       ""
      ]
     ],
-    "manutencao e limpeza": [
+    "preco e compra": [
      [
-      "Quais são os principais cuidados de manutenção para conservar o desempenho de um ar condicionado?",
-      "chatgpt",
+      "Quais são as melhores marcas e dicas para encontrar ofertas confiáveis em lojas online brasileiras de ar condicionado e climatização?",
+      "gemini",
       ""
      ],
      [
-      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "Quais são as melhores opções de ar-condicionado para a minha casa com eficiência e custo-benefício?",
       "google_ai_mode",
       ""
      ],
      [
-      "Quais dicas você me daria para manter uma geladeira comercial com baixa necessidade de manutenção e maior durabilidade?",
+      "Quais marcas de geladeira/choppeira são mais confiáveis no Brasil e onde comprar?",
+      "gemini",
+      ""
+     ]
+    ],
+    "instalacao": [
+     [
+      "Vale a pena comprar ar condicionado pelo preço no ponto frio/lojas parecidas e comparar instalação/serviço?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais lojas confiáveis online para comparar preços de ar-condicionado e instalação em imóveis já existentes?",
+      "google_ai_mode",
+      ""
+     ]
+    ],
+    "especificacao de produto": [
+     [
+      "Quais são as principais diferenças entre ar condicionado de janela, split e portátil e quando usar cada um?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Como calcular a capacidade de ar-condicionado ideal para um cômodo?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais são as principais diferenças entre ar condicionado split, portátil e janela, e qual é o mais indicado para cada ambiente?",
       "gemini",
       ""
      ]
@@ -5578,71 +5658,20 @@
       ""
      ]
     ],
-    "garantia e suporte": [
+    "uso e receita": [
      [
-      "Como funcionar o suporte e reclamações de geladeiras via Reclame Aqui e quais são os passos para resolver?",
-      "gemini",
-      "brastemp|consul"
-     ],
-     [
-      "Quais são as políticas de atendimento ao cliente e garantia da Proar para aparelhos de ar condicionado?",
-      "gemini",
-      ""
-     ],
-     [
-      "manual do controle ar condicionado samsung",
-      "google_ai_overview",
-      "samsung"
-     ]
-    ],
-    "comparacao e modelo": [
-     [
-      "Quais são as melhores dicas para escolher um ar condicionado adequado para Campinas, Curitiba e outras cidades do Brasil?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Qual é o melhor tipo de ar condicionado para uma sala de 20 m²?",
-      "gemini",
-      ""
-     ],
-     [
-      "Quais fatores devo considerar ao escolher um ar condicionado (potência, eficiência, ruído, uso diário)?",
-      "gemini",
-      ""
-     ]
-    ],
-    "especificacao de produto": [
-     [
-      "Quais são as principais diferenças entre ar condicionado de janela, split e portátil e quando usar cada um?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Como calcular a capacidade de ar-condicionado ideal para um cômodo?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Quais são as principais diferenças entre ar condicionado split, portátil e janela, e qual é o mais indicado para cada ambiente?",
-      "gemini",
-      ""
-     ]
-    ],
-    "instalacao": [
-     [
-      "Vale a pena comprar ar condicionado pelo preço no ponto frio/lojas parecidas e comparar instalação/serviço?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Como instalar uma chopeira em uma geladeira comum e manter a temperatura estável?",
+      "Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?",
       "chatgpt",
       ""
      ],
      [
-      "Quais lojas confiáveis online para comparar preços de ar-condicionado e instalação em imóveis já existentes?",
+      "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
       "google_ai_mode",
+      ""
+     ],
+     [
+      "Você poderia me explicar qual a melhor forma de usar um air fryer com forno para receitas de assados?",
+      "chatgpt",
       ""
      ]
     ]
@@ -5760,23 +5789,23 @@
     ],
     "uso e receita": [
      [
-      "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
+      "Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?",
       "google_ai_mode",
       ""
      ],
      [
-      "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
+      "Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?",
       "gemini",
       ""
      ],
      [
       "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
-      "chatgpt",
-      ""
-     ],
-     [
-      "controle ar condicionado agratto como usar",
-      "google_ai_overview",
+      "google_ai_mode",
       ""
      ]
     ],
