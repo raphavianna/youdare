@@ -147,7 +147,7 @@ acrescentam tópicos e não movem nenhum número.
 
 ---
 
-## 5. Campos que decidem
+## 6. Campos que decidem
 
 | Export | Campos |
 |---|---|
@@ -160,7 +160,7 @@ citadas vêm de busca de string no texto da resposta, aproximação declarada.
 
 ---
 
-## 6. Material ancorado e ainda não digerido
+## 7. Material ancorado e ainda não digerido
 
 - **Os dois PDFs de AI Visibility**, 88 páginas sobre `loja.electrolux.com.br`, com Share of
   Voice (14,66% contra 12,45% da Consul) e sentimento por plataforma. Nenhum script os lê e
