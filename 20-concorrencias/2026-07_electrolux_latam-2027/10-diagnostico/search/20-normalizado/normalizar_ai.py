@@ -56,7 +56,14 @@ FAMILIAS = [
     ("instalacao",             r"instala|instalar"),
     ("manutencao e limpeza",   r"limpe|limpar|manuten|cuidado|higieniz|degel|descong|desentup|conserva[çc]"),
     ("uso e receita",          r"receita|preparo|como usar|modo de|dicas de uso|assar|fritar|tempo de|temperatura para"),
-    ("consumo e energia",      r"consumo|energia|kwh|economia|selo|procel|invert|gasta|voltagem"),
+    # Especificacao vem ANTES de consumo: quem procura "9000 BTU inverter" esta
+    # escolhendo o aparelho, nao medindo a conta de luz. `inverter` e `split` sao
+    # tecnologia de produto, e capacidade em BTU, litros ou kg e atributo de compra.
+    ("especificacao de produto", r"\d[\d\.\s]*btus?\b|\binvert(er)?\b|\bsplit\b|wind.?free|multi.?split|"
+                                 r"\d[\d\.]*\s*(litros?|kg)\b|frost.?free|\binox\b|duplex|side.?by.?side|"
+                                 r"french.?door|\b(110|127|220)v?\b|bivolt|\d+\s*(bocas|portas)\b|"
+                                 r"\bcapacidade\b|\bpolegadas\b"),
+    ("consumo e energia",      r"consumo|kwh|energia|economia de|selo|procel|inmetro|gasta|quanto custa para"),
     ("garantia e suporte",     r"garantia|suporte|manual|atendimento|sac\b|reclama"),
     ("preco e compra",         r"pre[çc]o|comprar|oferta|promo[çc]|barat|custo|desconto|black friday|parcel|frete"),
     ("comparacao e modelo",    r"melhor|compar|\bvs\b|modelo|escolher|qual\b|review|avalia|ranking|vale a pena|diferen[çc]a entre"),
@@ -65,7 +72,7 @@ FAMILIAS = [
 RX_FAMILIAS = [(f, re.compile(p, re.I)) for f, p in FAMILIAS]
 # familias que descrevem vida com o produto — o eixo de posse do material
 POSSE = {"assistencia e conserto", "defeito e problema", "peca e filtro", "instalacao",
-         "manutencao e limpeza", "uso e receita", "consumo e energia", "garantia e suporte"}
+         "manutencao e limpeza", "uso e receita", "garantia e suporte"}
 
 CATEGORIAS = [
     ("geladeira", r"geladeira|refrigerad|frigobar"), ("lavanderia", r"m[aá]quina de lavar|lavadora|lava.?e.?seca|secadora|roupa"),
@@ -87,9 +94,15 @@ def primeiro(rx_lista, texto, default="nao classificado"):
 # melhor geladeira" quanto "como limpar a geladeira", e a familia nao distingue quem
 # pesquisa para comprar de quem pesquisa para usar.
 DESCOBERTA = {"marca e loja"}
-ESCOLHA    = {"comparacao e modelo", "preco e compra"}
+ESCOLHA    = {"comparacao e modelo", "preco e compra", "especificacao de produto"}
+# Consumo e energia e a unica familia genuinamente transversal: "quanto gasta"
+# tanto compara aparelhos antes da compra quanto explica a conta de quem ja tem.
+# Ela nao entra em posse por definicao — o intent decide.
+AMBIGUAS  = {"consumo e energia"}
 
 def estagio(familia, it):
+    if familia in AMBIGUAS:
+        return "escolha" if it.get("commercial", 0) + it.get("transactional", 0) >= 0.35 else "posse"
     if familia in POSSE: return "posse"
     if familia in ESCOLHA: return "escolha"
     if familia in DESCOBERTA: return "descoberta"

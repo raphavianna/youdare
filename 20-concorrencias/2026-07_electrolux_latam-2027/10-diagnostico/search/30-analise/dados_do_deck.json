@@ -4097,20 +4097,20 @@
     "nome": "Electrolux",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 749384,
-      "pct": 6.68
+      "volume": 608160,
+      "pct": 5.81
      },
      "descoberta": {
-      "volume": 400659,
-      "pct": 25.28
+      "volume": 382831,
+      "pct": 25.44
      },
      "escolha": {
-      "volume": 80393,
-      "pct": 1.2
+      "volume": 239445,
+      "pct": 2.83
      },
      "posse": {
       "volume": 56251,
-      "pct": 1.81
+      "pct": 2.58
      }
     }
    },
@@ -4148,20 +4148,20 @@
     "nome": "Brastemp",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 232006,
-      "pct": 2.07
+      "volume": 178755,
+      "pct": 1.71
      },
      "descoberta": {
-      "volume": 67976,
-      "pct": 4.29
+      "volume": 65178,
+      "pct": 4.33
      },
      "escolha": {
-      "volume": 96199,
-      "pct": 1.44
+      "volume": 152248,
+      "pct": 1.8
      },
      "posse": {
       "volume": 35138,
-      "pct": 1.13
+      "pct": 1.61
      }
     }
    },
@@ -4173,7 +4173,7 @@
      [
       "Lavadoras Consul 12kg e similares",
       29801,
-      "descoberta"
+      "escolha"
      ],
      [
       "Ar Condicionado Consul",
@@ -4188,7 +4188,7 @@
      [
       "Geladeiras frost free Consul 300–342 L",
       16502,
-      "exploracao de categoria"
+      "escolha"
      ],
      [
       "Geladeiras Consul com gelo seco",
@@ -4199,20 +4199,20 @@
     "nome": "Consul",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 94883,
-      "pct": 0.85
+      "volume": 57978,
+      "pct": 0.55
      },
      "descoberta": {
-      "volume": 74539,
-      "pct": 4.7
+      "volume": 40827,
+      "pct": 2.71
      },
      "escolha": {
-      "volume": 53553,
-      "pct": 0.8
+      "volume": 124170,
+      "pct": 1.47
      },
      "posse": {
       "volume": 42038,
-      "pct": 1.35
+      "pct": 1.92
      }
     }
    },
@@ -4224,7 +4224,7 @@
      [
       "Ar-condicionado Samsung: Wind-Free e Inverter",
       88552,
-      "posse"
+      "escolha"
      ],
      [
       "Lavadoras Samsung Eco Bubble",
@@ -4244,26 +4244,26 @@
      [
       "ar condicionado Samsung 12.000 BTU",
       11058,
-      "exploracao de categoria"
+      "escolha"
      ]
     ],
     "nome": "Samsung",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 154112,
-      "pct": 1.37
+      "volume": 107920,
+      "pct": 1.03
      },
      "descoberta": {
-      "volume": 18376,
-      "pct": 1.16
+      "volume": 14734,
+      "pct": 0.98
      },
      "escolha": {
-      "volume": 20460,
-      "pct": 0.31
+      "volume": 162918,
+      "pct": 1.93
      },
      "posse": {
-      "volume": 99412,
-      "pct": 3.19
+      "volume": 6788,
+      "pct": 0.31
      }
     }
    },
@@ -4301,20 +4301,20 @@
     "nome": "Midea",
     "por_estagio": {
      "exploracao de categoria": {
-      "volume": 274322,
-      "pct": 2.44
+      "volume": 266593,
+      "pct": 2.55
      },
      "descoberta": {
-      "volume": 27430,
-      "pct": 1.73
+      "volume": 25820,
+      "pct": 1.72
      },
      "escolha": {
-      "volume": 44575,
-      "pct": 0.67
+      "volume": 61873,
+      "pct": 0.73
      },
      "posse": {
-      "volume": 7959,
-      "pct": 0.26
+      "volume": 0,
+      "pct": 0.0
      }
     }
    },
@@ -4353,7 +4353,7 @@
     "por_estagio": {
      "exploracao de categoria": {
       "volume": 56058,
-      "pct": 0.5
+      "pct": 0.54
      },
      "descoberta": {
       "volume": 0,
@@ -4418,7 +4418,7 @@
      [
       "Ar Condicionado LG Inverter",
       89177,
-      "posse"
+      "escolha"
      ],
      [
       "Ar Condicionado Gree",
@@ -4474,15 +4474,15 @@
   },
   "estagios": {
    "exploracao de categoria": {
-    "topicos": 1691,
-    "volume": 11220497,
-    "pct": 49.6,
-    "prompts": 45050,
-    "sem_marca_pct": 75.7,
+    "topicos": 1483,
+    "volume": 10467610,
+    "pct": 46.3,
+    "prompts": 40240,
+    "sem_marca_pct": 77.1,
     "familias": [
      [
       "produto e categoria",
-      11220497,
+      10467610,
       100.0
      ]
     ],
@@ -4552,21 +4552,21 @@
     ]
    },
    "descoberta": {
-    "topicos": 488,
-    "volume": 1584710,
-    "pct": 7.0,
-    "prompts": 9873,
-    "sem_marca_pct": 54.1,
+    "topicos": 462,
+    "volume": 1504549,
+    "pct": 6.7,
+    "prompts": 9315,
+    "sem_marca_pct": 56.1,
     "familias": [
      [
       "produto e categoria",
-      1004370,
-      63.4
+      924209,
+      61.4
      ],
      [
       "marca e loja",
       580340,
-      36.6
+      38.6
      ]
     ],
     "exemplos": [
@@ -4635,26 +4635,36 @@
     ]
    },
    "escolha": {
-    "topicos": 552,
-    "volume": 6688851,
-    "pct": 29.6,
-    "prompts": 16948,
-    "sem_marca_pct": 93.3,
+    "topicos": 819,
+    "volume": 8452900,
+    "pct": 37.4,
+    "prompts": 24502,
+    "sem_marca_pct": 87.6,
     "familias": [
      [
       "produto e categoria",
-      6133550,
-      91.7
+      4862690,
+      57.5
+     ],
+     [
+      "especificacao de produto",
+      3033960,
+      35.9
      ],
      [
       "comparacao e modelo",
-      295915,
-      4.4
+      294905,
+      3.5
      ],
      [
       "preco e compra",
-      259386,
-      3.9
+      253718,
+      3.0
+     ],
+     [
+      "consumo e energia",
+      7627,
+      0.1
      ]
     ],
     "exemplos": [
@@ -4666,7 +4676,7 @@
      [
       "Geladeiras e Refrigeradores Frost Free e Inox",
       715796,
-      "produto e categoria"
+      "especificacao de produto"
      ],
      [
       "Fritadeiras Elétricas (Air Fryers)",
@@ -4684,9 +4694,9 @@
       "produto e categoria"
      ],
      [
-      "Purificadores de Água",
-      220775,
-      "produto e categoria"
+      "Ar condicionado 9000 BTU (split/inverter)",
+      263219,
+      "especificacao de produto"
      ]
     ],
     "exemplos_sem_marca": [
@@ -4698,7 +4708,7 @@
      [
       "Geladeiras e Refrigeradores Frost Free e Inox",
       715796,
-      "produto e categoria"
+      "especificacao de produto"
      ],
      [
       "Fritadeiras Elétricas (Air Fryers)",
@@ -4716,57 +4726,52 @@
       "produto e categoria"
      ],
      [
-      "Purificadores de Água",
-      220775,
-      "produto e categoria"
+      "Ar condicionado 9000 BTU (split/inverter)",
+      263219,
+      "especificacao de produto"
      ]
     ]
    },
    "posse": {
-    "topicos": 325,
-    "volume": 3114923,
-    "pct": 13.8,
-    "prompts": 11048,
-    "sem_marca_pct": 89.4,
+    "topicos": 292,
+    "volume": 2183922,
+    "pct": 9.7,
+    "prompts": 8862,
+    "sem_marca_pct": 94.1,
     "familias": [
-     [
-      "consumo e energia",
-      1088945,
-      35.0
-     ],
      [
       "manutencao e limpeza",
       608652,
-      19.5
+      27.9
      ],
      [
       "peca e filtro",
       498001,
-      16.0
+      22.8
      ],
      [
       "uso e receita",
       433609,
-      13.9
+      19.9
      ],
      [
       "defeito e problema",
       201163,
-      6.5
+      9.2
+     ],
+     [
+      "consumo e energia",
+      157944,
+      7.2
      ],
      [
       "instalacao",
       155567,
-      5.0
+      7.1
      ]
     ],
     "exemplos": [
      [
-      "Ar condicionado 9000 BTU (split/inverter)",
-      263219,
-      "consumo e energia"
-     ],
-     [
       "Air Fryer: Receitas e Usos",
       189428,
       "uso e receita"
@@ -4777,28 +4782,28 @@
       "manutencao e limpeza"
      ],
      [
-      "Ar condicionado 12000 BTU com inverter",
-      143732,
-      "consumo e energia"
-     ],
-     [
       "Ar condicionado: peças e funcionamento",
       93398,
       "peca e filtro"
      ],
      [
-      "Ar Condicionado Inverter e Split",
-      92193,
-      "consumo e energia"
+      "Limpeza de Ar Condicionado",
+      80659,
+      "manutencao e limpeza"
+     ],
+     [
+      "Arroz de Forno: Receitas e Dicas",
+      62196,
+      "uso e receita"
+     ],
+     [
+      "Instalação de Ar Condicionado",
+      60532,
+      "instalacao"
      ]
     ],
     "exemplos_sem_marca": [
      [
-      "Ar condicionado 9000 BTU (split/inverter)",
-      263219,
-      "consumo e energia"
-     ],
-     [
       "Air Fryer: Receitas e Usos",
       189428,
       "uso e receita"
@@ -4809,19 +4814,24 @@
       "manutencao e limpeza"
      ],
      [
-      "Ar condicionado 12000 BTU com inverter",
-      143732,
-      "consumo e energia"
-     ],
-     [
       "Ar condicionado: peças e funcionamento",
       93398,
       "peca e filtro"
      ],
      [
-      "Ar Condicionado Inverter e Split",
-      92193,
-      "consumo e energia"
+      "Limpeza de Ar Condicionado",
+      80659,
+      "manutencao e limpeza"
+     ],
+     [
+      "Arroz de Forno: Receitas e Dicas",
+      62196,
+      "uso e receita"
+     ],
+     [
+      "Instalação de Ar Condicionado",
+      60532,
+      "instalacao"
      ]
     ]
    }
@@ -4835,18 +4845,14 @@
   },
   "familias": {
    "produto e categoria": {
-    "volume": 18358417,
-    "topicos": 2637,
-    "pct": 81.2,
-    "sem_marca_pct": 79.9,
+    "volume": 16254509,
+    "topicos": 2237,
+    "pct": 71.9,
+    "sem_marca_pct": 81.2,
     "exemplos": [
      [
       "Ar condicionado e refrigeração",
       739015
-     ],
-     [
-      "Geladeiras e Refrigeradores Frost Free e Inox",
-      715796
      ],
      [
       "Fritadeiras Elétricas (Air Fryers)",
@@ -4855,12 +4861,40 @@
      [
       "Tortas de Liquidificador",
       582698
+     ],
+     [
+      "Cooktops e Fogões de Indução",
+      417452
+     ]
+    ]
+   },
+   "especificacao de produto": {
+    "volume": 3033960,
+    "topicos": 436,
+    "pct": 13.4,
+    "sem_marca_pct": 72.5,
+    "exemplos": [
+     [
+      "Geladeiras e Refrigeradores Frost Free e Inox",
+      715796
+     ],
+     [
+      "Ar condicionado 9000 BTU (split/inverter)",
+      263219
+     ],
+     [
+      "Ar condicionado 12000 BTU com inverter",
+      143732
+     ],
+     [
+      "Ar Condicionado Inverter e Split",
+      92193
      ]
     ]
    },
    "comparacao e modelo": {
-    "volume": 295915,
-    "topicos": 15,
+    "volume": 294905,
+    "topicos": 14,
     "pct": 1.3,
     "sem_marca_pct": 99.2,
     "exemplos": [
@@ -4883,8 +4917,8 @@
     ]
    },
    "preco e compra": {
-    "volume": 259386,
-    "topicos": 23,
+    "volume": 253718,
+    "topicos": 20,
     "pct": 1.1,
     "sem_marca_pct": 100.0,
     "exemplos": [
@@ -4979,26 +5013,26 @@
     ]
    },
    "consumo e energia": {
-    "volume": 1088945,
-    "topicos": 44,
-    "pct": 4.8,
-    "sem_marca_pct": 81.5,
+    "volume": 165571,
+    "topicos": 12,
+    "pct": 0.7,
+    "sem_marca_pct": 99.4,
     "exemplos": [
      [
-      "Ar condicionado 9000 BTU (split/inverter)",
-      263219
+      "Consumo de energia de ventiladores e climatizadores",
+      33796
      ],
      [
-      "Ar condicionado 12000 BTU com inverter",
-      143732
+      "Ar Condicionado e Economia de Energia",
+      32858
      ],
      [
-      "Ar Condicionado Inverter e Split",
-      92193
+      "Consumo de Ar Condicionado em Watts",
+      30130
      ],
      [
-      "Ar Condicionado LG Inverter",
-      89177
+      "Potência e consumo de eletrodomésticos",
+      16263
      ]
     ]
    },
@@ -5134,24 +5168,24 @@
     "visibility_mediana": 35,
     "por_estagio": {
      "exploracao de categoria": {
-      "presenca": 18.6,
-      "ocupacao": 8.2,
-      "descoberto": 81.4
+      "presenca": 16.9,
+      "ocupacao": 7.5,
+      "descoberto": 83.1
      },
      "descoberta": {
-      "presenca": 15.5,
-      "ocupacao": 7.7,
-      "descoberto": 84.5
+      "presenca": 13.6,
+      "ocupacao": 7.2,
+      "descoberto": 86.4
      },
      "escolha": {
-      "presenca": 23.2,
-      "ocupacao": 9.8,
-      "descoberto": 76.8
+      "presenca": 22.8,
+      "ocupacao": 9.5,
+      "descoberto": 77.2
      },
      "posse": {
-      "presenca": 14.5,
-      "ocupacao": 4.9,
-      "descoberto": 85.5
+      "presenca": 20.2,
+      "ocupacao": 6.9,
+      "descoberto": 79.8
      }
     },
     "maiores": [
@@ -5285,19 +5319,19 @@
    "familias": [
     [
      "produto e categoria",
-     2924
+     2453
+    ],
+    [
+     "especificacao de produto",
+     946
     ],
     [
      "comparacao e modelo",
-     742
+     574
     ],
     [
      "preco e compra",
-     502
-    ],
-    [
-     "consumo e energia",
-     238
+     399
     ],
     [
      "peca e filtro",
@@ -5305,27 +5339,37 @@
     ],
     [
      "garantia e suporte",
-     152
+     131
     ],
     [
      "assistencia e conserto",
      112
     ],
     [
-     "marca e loja",
-     52
+     "consumo e energia",
+     60
     ]
    ],
    "marca_por_familia": {
+    "especificacao de produto": {
+     "n": 227,
+     "com_marca": 27.8,
+     "sem_marca": 72.2
+    },
+    "consumo e energia": {
+     "n": 28,
+     "com_marca": 17.9,
+     "sem_marca": 82.1
+    },
     "comparacao e modelo": {
-     "n": 189,
-     "com_marca": 22.2,
-     "sem_marca": 77.8
+     "n": 131,
+     "com_marca": 21.4,
+     "sem_marca": 78.6
     },
     "produto e categoria": {
-     "n": 363,
-     "com_marca": 21.2,
-     "sem_marca": 78.8
+     "n": 302,
+     "com_marca": 20.9,
+     "sem_marca": 79.1
     },
     "peca e filtro": {
      "n": 34,
@@ -5333,71 +5377,105 @@
      "sem_marca": 91.2
     },
     "preco e compra": {
-     "n": 235,
-     "com_marca": 33.2,
-     "sem_marca": 66.8
-    },
-    "consumo e energia": {
-     "n": 76,
-     "com_marca": 11.8,
-     "sem_marca": 88.2
+     "n": 180,
+     "com_marca": 27.8,
+     "sem_marca": 72.2
     }
    },
    "marca_por_familia_contaminado": {
-    "garantia e suporte": {
-     "n": 84,
-     "com_marca": 85.7,
-     "sem_marca": 14.3
-    },
-    "comparacao e modelo": {
-     "n": 444,
-     "com_marca": 58.6,
-     "sem_marca": 41.4
-    },
-    "produto e categoria": {
-     "n": 1530,
-     "com_marca": 79.3,
-     "sem_marca": 20.7
-    },
-    "peca e filtro": {
-     "n": 90,
-     "com_marca": 63.3,
-     "sem_marca": 36.7
-    },
-    "preco e compra": {
-     "n": 373,
-     "com_marca": 54.7,
-     "sem_marca": 45.3
-    },
-    "consumo e energia": {
-     "n": 184,
-     "com_marca": 62.0,
-     "sem_marca": 38.0
-    },
-    "marca e loja": {
-     "n": 28,
-     "com_marca": 50.0,
-     "sem_marca": 50.0
-    },
-    "instalacao": {
-     "n": 36,
-     "com_marca": 83.3,
-     "sem_marca": 16.7
+    "especificacao de produto": {
+     "n": 732,
+     "com_marca": 74.2,
+     "sem_marca": 25.8
     },
     "manutencao e limpeza": {
      "n": 25,
      "com_marca": 68.0,
      "sem_marca": 32.0
     },
+    "consumo e energia": {
+     "n": 53,
+     "com_marca": 52.8,
+     "sem_marca": 47.2
+    },
+    "comparacao e modelo": {
+     "n": 324,
+     "com_marca": 60.2,
+     "sem_marca": 39.8
+    },
+    "produto e categoria": {
+     "n": 1163,
+     "com_marca": 77.8,
+     "sem_marca": 22.2
+    },
+    "preco e compra": {
+     "n": 282,
+     "com_marca": 50.4,
+     "sem_marca": 49.6
+    },
+    "peca e filtro": {
+     "n": 90,
+     "com_marca": 63.3,
+     "sem_marca": 36.7
+    },
+    "garantia e suporte": {
+     "n": 66,
+     "com_marca": 81.8,
+     "sem_marca": 18.2
+    },
+    "marca e loja": {
+     "n": 23,
+     "com_marca": 47.8,
+     "sem_marca": 52.2
+    },
     "assistencia e conserto": {
      "n": 26,
      "com_marca": 80.8,
      "sem_marca": 19.2
+    },
+    "instalacao": {
+     "n": 36,
+     "com_marca": 83.3,
+     "sem_marca": 16.7
     }
    },
    "n_limpo": 943,
    "taxa_marca_geral": 23.6,
    "exemplos_limpos": {
+    "especificacao de produto": [
+     [
+      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
+      "gemini",
+      ""
+     ],
+     [
+      "geladeira frost free com congelador embaixo",
+      "google_ai_overview",
+      ""
+     ],
+     [
+      "geladeiras inverter inox",
+      "google_ai_overview",
+      "electrolux|brastemp|midea"
+     ]
+    ],
+    "consumo e energia": [
+     [
+      "Como comparar preços e consumo entre geladeiras com freezer embaixo e modelos tradicionais?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Como escolher uma geladeira com baixo consumo e preço adequado nas lojas brasileiras populares?",
+      "gemini",
+      ""
+     ],
+     [
+      "Entre geladeiras caras e econômicas, qual oferece mais durabilidade e economia de energia",
+      "gemini",
+      ""
+     ]
+    ],
     "comparacao e modelo": [
      [
       "Quais são os melhores fabricantes de geladeiras comerciais para supermercados?",
@@ -5463,23 +5541,6 @@
      [
       "Quais são as melhores opções de geladeira para famílias de 4 a 5 pessoas dentro de faixas de preço comuns no varejo online?",
       "gemini",
-      ""
-     ]
-    ],
-    "consumo e energia": [
-     [
-      "Quais fatores comparar ao comprar uma geladeira no Brasil (capacidade, consumo, frost-free, dimensões)?",
-      "gemini",
-      ""
-     ],
-     [
-      "geladeiras inverter inox",
-      "google_ai_overview",
-      "electrolux|brastemp|midea"
-     ],
-     [
-      "Como comparar preços e consumo entre geladeiras com freezer embaixo e modelos tradicionais?",
-      "chatgpt",
       ""
      ]
     ]
