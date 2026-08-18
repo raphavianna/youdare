@@ -478,6 +478,7 @@ FAMN = {"assistencia e conserto":"Assistência e conserto","defeito e problema":
         "peca e filtro":"Peça e filtro","instalacao":"Instalação","manutencao e limpeza":"Manutenção e limpeza",
         "uso e receita":"Uso e receita","consumo e energia":"Consumo e energia","garantia e suporte":"Garantia e suporte",
         "preco e compra":"Preço e compra","comparacao e modelo":"Comparação e modelo","marca e loja":"Marca e loja",
+        "especificacao de produto":"Especificação de produto",
         "produto e categoria":"Produto e categoria"}
 def fn(f): return FAMN.get(f, f.capitalize())
 
@@ -497,7 +498,7 @@ sintese("ia", "Parte 2 · Síntese", "81,2% da demanda em IA não nomeia nenhum 
   "Com a maior parte da demanda sem marca, a disputa é por <b>ocupar território vago</b> e não por tirar participação de um concorrente. As telas seguintes mostram qual território, em que momento da jornada e a que distância cada player está dele.",
   F_PAN)
 
-slide("ia", "O universo", "9.175 tópicos lidos, 3.056 sobre a categoria, e o mapa não cobre o território todo",
+slide("ia", "O universo", f'{n(U["topicos_exportados"])} tópicos lidos, {n(U["topicos_categoria"])} sobre a categoria, e o mapa não cobre o território todo',
   "Um tópico é um agrupamento de prompts que os assistentes tratam como o mesmo assunto. Cada export para em 1.000 linhas, então o que está medido é <b>demanda mapeada</b>, não demanda total.",
   kpis([(n(U["topicos_categoria"]), "tópicos de categoria no Brasil", "#199e70"),
         (n(U["volume"]), "de volume mediado por IA", "#f0ede4"),
@@ -603,7 +604,7 @@ slide("ia", "Retrato", "O território de posse é o maior espaço vago da catego
         (pct(d["pct"]), "da demanda mediada por IA", "#f0ede4"),
         (pct(d["sem_marca_pct"], 1), "sem marca nenhuma", "#c98500"),
         (pct(CN["electrolux"]["por_estagio"]["posse"]["pct"], 2), "é o que a Electrolux cobre", COR["electrolux"])]),
-  f'A posse pesa {pct(d["pct"])} da demanda mediada, quase o dobro da descoberta ({pct(ES["descoberta"]["pct"])}), e {pct(d["sem_marca_pct"],1)} dela não carrega nome de fabricante.', F_PAN)
+  f'A posse pesa {pct(d["pct"])} da demanda mediada contra {pct(ES["descoberta"]["pct"])} da descoberta, e {pct(d["sem_marca_pct"],1)} dela não carrega nome de fabricante — a maior taxa de território vago dos quatro estágios.', F_PAN)
 
 # --- ocupacao real por dominio -------------------------------------------
 DOM = list(OC.values())[0] if OC else None
@@ -643,21 +644,48 @@ slide("ia", "Os prompts", "O que as pessoas de fato perguntam aos assistentes so
                "instalacao","uso e receita","comparacao e modelo","preco e compra"] if f in EXF], "wide"),
   f'Uma resposta cita <b>{dec(PP["marcas_por_resposta"])} marcas em média</b> e apoia-se em {dec(PP["fontes_por_resposta"])} fontes. Não há segunda página: a marca não citada fica fora do resultado que o consumidor lê.', F_PRO)
 
-slide("ia", "Os prompts", "Sem marca na pergunta, a maioria das respostas também não traz marca",
-  f'Recorte limpo: só as {n(PP["n_limpo"])} respostas do seed sem marca. É o único em que citar um fabricante é decisão do modelo, e não eco do prompt. A barra é a fatia de respostas que cita alguma das sete marcas do conjunto.',
-  barras_h([(fn(f), MPF[f]["com_marca"], None) for f in sorted(MPF, key=lambda f: -MPF[f]["com_marca"])],
+slide("ia", "Retrato", "Quanto mais a pergunta se afasta da compra, menos a IA nomeia fabricante",
+  f'Recorte limpo: as {n(PP["n_limpo"])} respostas de seeds sem marca, o único em que citar um fabricante é decisão do modelo e não eco do prompt. A barra é a fatia de respostas que cita alguma das sete marcas.',
+  barras_h([(f'{fn(f)}  ·  n {MPF[f]["n"]}', MPF[f]["com_marca"], None)
+            for f in sorted(MPF, key=lambda f: -MPF[f]["com_marca"])],
            lambda x: "#199e70", max_v=100, fmt=lambda v: pct(v, 1)) +
-  tabela(["Família","n","Cita alguma das sete","Pergunta real e o que a resposta nomeou"],
-    [[f'<b>{fn(f)}</b>', str(MPF[f]["n"]),
-      f'<b class="{"down" if MPF[f]["com_marca"] < 25 else "flat"}">{pct(MPF[f]["com_marca"],1)}</b>',
-      # mostra um exemplo que cita marca quando existe, para o leitor ver os dois
-      # desfechos e nao suspeitar de falha de classificacao
-      (lambda x: f'<code>{e(x[0][:74])}</code> → ' +
-                 (", ".join(y.capitalize() for y in x[2].split("|") if y)
-                  or '<span style="color:#d95926">nenhuma das sete</span>')
-       )(next((x for x in EXL[f] if x[2]), EXL[f][0]))]
-     for f in sorted(MPF, key=lambda f: -MPF[f]["com_marca"])], "wide"),
-  f'<b>{pct(PP["taxa_marca_geral"],1)} das respostas nomeiam alguma das sete marcas.</b> Perguntas explícitas como <code>quais marcas oferecem as melhores opções</code> costumam ser respondidas sem citar nenhuma delas, e sem substituí-las por outro fabricante.', F_LIMPO)
+  # os dois extremos da curva, com a pergunta real de cada um
+  '<div class="chips">' + "".join(
+    f'<span class="chip"><b>{fn(f)} · {pct(MPF[f]["com_marca"],1)}</b>'
+    f'<code>{e((next((x for x in EXL[f] if x[2]), EXL[f][0]))[0][:66])}</code></span>'
+    for f in ["marca e loja", "especificacao de produto", "uso e receita", "instalacao"]
+    if f in EXL and EXL[f]) + '</div>',
+  f'<b>Não há degrau: é uma descida contínua ao longo de {len(MPF)} famílias.</b> Quando a pergunta é sobre loja, metade das respostas nomeia uma das sete. Quando é sobre instalar, nenhuma nomeia. E {pct(PP["taxa_marca_geral"],1)} das respostas do recorte inteiro citam alguma das sete.', F_LIMPO)
+
+# --- AI Visibility: quatro relatorios, tres dominios
+V = PAN["visibility"]
+VNOME = {"electrolux":"Electrolux","brastemp":"Brastemp","consul":"Consul","midea":"Midea",
+         "samsung":"Samsung","lg":"LG","panasonic":"Panasonic","outras":"Outras marcas"}
+slide("ia", "Visibilidade", "Onde quer que se olhe, a Electrolux é das marcas mais faladas",
+  "Share of voice em resposta de IA, de quatro relatórios sobre três domínios. <b>Cada relatório monta o próprio universo de perguntas, em torno do domínio analisado</b>, então a comparação só vale entre players da mesma linha. Em negrito, o dono de cada relatório.",
+  tabela(["Relatório", "1º", "2º", "3º", "Onde o dono fica", "Sentimento do dono"],
+    [[f'<b>{VNOME.get(d["dono"], d["dono"])}</b><br><span class="th2">{d["plataforma"]}</span>'] +
+     [(f'<b>{VNOME.get(m, m)} {pct(sv,1)}</b>' if dono else f'{VNOME.get(m, m)} {pct(sv,1)}')
+      for m, sv, _, dono in [x for x in d["players"] if x[0] != "outras"][:3]] +
+     [f'<b class="{"up" if d["posicao_do_dono"] == 1 else "down"}">{d["posicao_do_dono"]}º</b>',
+      f'<b class="{"down" if (d["favoravel_do_dono"] or 0) < 60 else "up"}">{d["favoravel_do_dono"]}%</b>']
+     for d in V.values()], "wide") +
+  kpis([(pct(V["consul · Google AI Mode"]["electrolux_sov"], 1), "de SOV da Electrolux no relatório da Consul", COR["electrolux"]),
+        (pct([p[1] for p in V["consul · Google AI Mode"]["players"] if p[0] == "consul"][0], 1), "da própria Consul, no relatório dela", COR["consul"]),
+        (pct(V["midea · Google AI Mode"]["electrolux_sov"], 1), "de SOV da Electrolux no relatório da Midea", COR["electrolux"]),
+        (pct([p[1] for p in V["midea · Google AI Mode"]["players"] if p[0] == "midea"][0], 1), "da própria Midea, no relatório dela", COR["midea"])]),
+  "Em dois dos três relatórios de concorrente a Electrolux aparece mais que o dono da casa. E no da Consul quem lidera é a Brastemp, com 17,3% — posição que ela não tem em nenhuma outra medida do material.",
+  "Relatórios de visibilidade em IA · 4 relatórios · 3 domínios")
+
+slide("ia", "Visibilidade", "A percepção da marca muda de acordo com o assistente",
+  "Sentimento favorável do mesmo domínio, <code>loja.electrolux.com.br</code>, medido no mesmo dia em duas plataformas.",
+  '<div class="confronto">'
+  f'<div class="cf"><span class="cft">No ChatGPT</span><span class="cfv" style="color:#d95926">{V["loja-electrolux · ChatGPT"]["favoravel_do_dono"]}%</span><span class="cfl">de sentimento favorável</span></div>'
+  '<div class="cfx">↔</div>'
+  f'<div class="cf"><span class="cft">No Google AI Mode</span><span class="cfv" style="color:#199e70">{V["loja-electrolux · Google AI Mode"]["favoravel_do_dono"]}%</span><span class="cfl">de sentimento favorável</span></div></div>' +
+  '<div class="quadro"><p>Não é ruído de amostra: são dois relatórios completos, com série temporal, gerados pela mesma ferramenta no mesmo dia. <b>Qualquer meta de percepção em IA precisa ser definida por plataforma</b> — uma média entre os dois descreveria uma marca que não existe.</p></div>',
+  "O relatório do ChatGPT registra 40,5% de menções positivas para a Electrolux contra 53,1% da Consul. É a segunda fonte independente a colocar a Consul acima em percepção.",
+  "Relatórios de visibilidade em IA · loja.electrolux.com.br")
 
 REF = AI["referrals"]
 slide("ia", "Tendência", "O tráfego vindo de LLM multiplicou por 5,4 em doze meses",
@@ -793,7 +821,10 @@ slide("ambos", "Ressalvas", "Números frágeis: confira antes de levar para o cl
     ["Cobertura por marca em IA","Medida pelo <b>nome do tópico</b>, sobre o total da demanda. Não tem viés de seed, porque os 16 exports são de categoria, mas mede o que é <b>perguntado</b> e não quem a IA cita na resposta","Cobertura consolidado e por marca"],
     ["Menção de marca dentro da resposta","Vem de busca de string no texto: a ferramenta entrega a contagem, não os nomes. E os exports de prompt são semeados por marca","Slides de prompt"],
     ["Ocupação por domínio (19,2% e 8,2%)","A medida existe por domínio e está disponível para um domínio do conjunto. Não comparar com as demais marcas até haver a mesma medida para elas","Slides de ocupação"],
-    ["Estágio da jornada em IA","Derivado por regra declarada: família cruzada com intent da ferramenta, com cortes em 25% e 45%. É regra, não medição","Todos os slides de jornada em IA"]], "wide"),
+    ["Estágio da jornada em IA","Derivado por regra declarada: família cruzada com intent da ferramenta, com cortes em 25% e 45%. É regra, não medição","Todos os slides de jornada em IA"],
+    ["Curva de citação por família","Duas famílias ficam de fora por amostra: <b>assistência e conserto</b> e <b>defeito e problema</b>, ambas com n=18 e corte em 20. São as duas mais centrais à tese de serviço e entram no próximo ciclo","Retrato de citação por necessidade"],
+    ["Share of voice em IA","<b>Cada relatório monta o próprio universo de perguntas.</b> A Electrolux tem 12,4% no relatório dela, 16,5% no da Consul e 11,2% no da Midea. Comparar SOV entre relatórios é erro; só vale entre players do mesmo","Slides de visibilidade"],
+    ["Sentimento por plataforma","41% no ChatGPT e 71% no Google AI Mode. Cada um é do dono dentro do próprio universo, então a distância é indicativa e não conclusiva","Slide de percepção por assistente"]], "wide"),
   "", "", apendice)
 
 slide("ambos", "Ressalvas", "O que este pacote de dados não responde",

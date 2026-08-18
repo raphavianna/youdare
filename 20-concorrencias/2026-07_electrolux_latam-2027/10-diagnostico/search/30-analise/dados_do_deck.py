@@ -398,6 +398,29 @@ for f in ("assistencia e conserto","defeito e problema","manutencao e limpeza","
                  key=lambda r: -i(r["relevancia"]))[:4]
     if sel: pan["prompts"]["exemplos"][f] = [[r["prompt"][:190], r["provedor"],
                                               r["marcas_na_resposta"]] for r in sel]
+# --- eixo 6: AI Visibility, um relatorio por dominio ------------------------
+# Cada relatorio monta o proprio universo de perguntas. SOV NAO se compara entre
+# relatorios; so entre players do mesmo. O JSON guarda agrupado por relatorio
+# justamente para que nenhum slide consiga cruzar dois.
+VIS = list(csv.DictReader(open(NORM/"ai_visibility.csv", encoding="utf-8")))
+rel = collections.OrderedDict()
+for r in VIS:
+    d = rel.setdefault(r["relatorio"], {
+        "dominio": r["dominio_analisado"], "plataforma": r["plataforma"],
+        "data": r["data"], "players": [], "favoravel_do_dono": None, "dono": None})
+    d["players"].append([r["marca"], float(r["share_of_voice"]),
+                         float(r["mencoes_pct"]) if r["mencoes_pct"] else None,
+                         int(r["eh_o_dono_do_relatorio"])])
+    if r["eh_o_dono_do_relatorio"] == "1":
+        d["dono"] = r["marca"]
+        if r["sentimento_favoravel_do_dono"]:
+            d["favoravel_do_dono"] = int(r["sentimento_favoravel_do_dono"])
+for d in rel.values():
+    d["players"].sort(key=lambda p: -p[1])
+    d["posicao_do_dono"] = next((i for i, p in enumerate(
+        [x for x in d["players"] if x[0] != "outras"], 1) if p[3]), None)
+    d["electrolux_sov"] = next((p[1] for p in d["players"] if p[0] == "electrolux"), None)
+pan["visibility"] = rel
 out["panorama"] = pan
 
 out["meta"] = {"kw_total": len(kws), "kw_cauda": len(cauda), "perguntas_ia": 150,

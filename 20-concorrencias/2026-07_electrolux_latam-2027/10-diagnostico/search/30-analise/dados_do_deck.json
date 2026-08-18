@@ -5362,35 +5362,40 @@
     ]
    ],
    "marca_por_familia": {
+    "produto e categoria": {
+     "n": 1214,
+     "com_marca": 24.1,
+     "sem_marca": 75.9
+    },
+    "especificacao de produto": {
+     "n": 798,
+     "com_marca": 39.1,
+     "sem_marca": 60.9
+    },
     "peca e filtro": {
      "n": 47,
      "com_marca": 19.1,
      "sem_marca": 80.9
-    },
-    "garantia e suporte": {
-     "n": 28,
-     "com_marca": 32.1,
-     "sem_marca": 67.9
-    },
-    "manutencao e limpeza": {
-     "n": 36,
-     "com_marca": 25.0,
-     "sem_marca": 75.0
     },
     "comparacao e modelo": {
      "n": 591,
      "com_marca": 39.9,
      "sem_marca": 60.1
     },
-    "marca e loja": {
-     "n": 26,
-     "com_marca": 50.0,
-     "sem_marca": 50.0
+    "garantia e suporte": {
+     "n": 28,
+     "com_marca": 32.1,
+     "sem_marca": 67.9
     },
-    "consumo e energia": {
-     "n": 68,
-     "com_marca": 11.8,
-     "sem_marca": 88.2
+    "uso e receita": {
+     "n": 201,
+     "com_marca": 3.5,
+     "sem_marca": 96.5
+    },
+    "manutencao e limpeza": {
+     "n": 36,
+     "com_marca": 25.0,
+     "sem_marca": 75.0
     },
     "preco e compra": {
      "n": 516,
@@ -5402,92 +5407,121 @@
      "com_marca": 0.0,
      "sem_marca": 100.0
     },
-    "especificacao de produto": {
-     "n": 798,
-     "com_marca": 39.1,
-     "sem_marca": 60.9
+    "marca e loja": {
+     "n": 26,
+     "com_marca": 50.0,
+     "sem_marca": 50.0
     },
-    "produto e categoria": {
-     "n": 1214,
-     "com_marca": 24.1,
-     "sem_marca": 75.9
-    },
-    "uso e receita": {
-     "n": 201,
-     "com_marca": 3.5,
-     "sem_marca": 96.5
+    "consumo e energia": {
+     "n": 68,
+     "com_marca": 11.8,
+     "sem_marca": 88.2
     }
    },
    "marca_por_familia_contaminado": {
-    "peca e filtro": {
-     "n": 103,
-     "com_marca": 61.2,
-     "sem_marca": 38.8
-    },
-    "garantia e suporte": {
-     "n": 83,
-     "com_marca": 68.7,
-     "sem_marca": 31.3
-    },
-    "defeito e problema": {
-     "n": 28,
-     "com_marca": 67.9,
-     "sem_marca": 32.1
-    },
-    "manutencao e limpeza": {
-     "n": 54,
-     "com_marca": 48.1,
-     "sem_marca": 51.9
-    },
-    "comparacao e modelo": {
-     "n": 784,
-     "com_marca": 51.4,
-     "sem_marca": 48.6
-    },
-    "marca e loja": {
-     "n": 36,
-     "com_marca": 55.6,
-     "sem_marca": 44.4
-    },
-    "instalacao": {
-     "n": 70,
-     "com_marca": 42.9,
-     "sem_marca": 57.1
-    },
-    "preco e compra": {
-     "n": 618,
-     "com_marca": 38.3,
-     "sem_marca": 61.7
-    },
-    "consumo e energia": {
-     "n": 93,
-     "com_marca": 33.3,
-     "sem_marca": 66.7
+    "produto e categoria": {
+     "n": 2075,
+     "com_marca": 54.7,
+     "sem_marca": 45.3
     },
     "especificacao de produto": {
      "n": 1303,
      "com_marca": 60.8,
      "sem_marca": 39.2
     },
-    "assistencia e conserto": {
-     "n": 38,
-     "com_marca": 55.3,
-     "sem_marca": 44.7
+    "comparacao e modelo": {
+     "n": 784,
+     "com_marca": 51.4,
+     "sem_marca": 48.6
     },
-    "produto e categoria": {
-     "n": 2075,
-     "com_marca": 54.7,
-     "sem_marca": 45.3
+    "peca e filtro": {
+     "n": 103,
+     "com_marca": 61.2,
+     "sem_marca": 38.8
+    },
+    "defeito e problema": {
+     "n": 28,
+     "com_marca": 67.9,
+     "sem_marca": 32.1
+    },
+    "garantia e suporte": {
+     "n": 83,
+     "com_marca": 68.7,
+     "sem_marca": 31.3
     },
     "uso e receita": {
      "n": 207,
      "com_marca": 6.3,
      "sem_marca": 93.7
+    },
+    "manutencao e limpeza": {
+     "n": 54,
+     "com_marca": 48.1,
+     "sem_marca": 51.9
+    },
+    "assistencia e conserto": {
+     "n": 38,
+     "com_marca": 55.3,
+     "sem_marca": 44.7
+    },
+    "marca e loja": {
+     "n": 36,
+     "com_marca": 55.6,
+     "sem_marca": 44.4
+    },
+    "preco e compra": {
+     "n": 618,
+     "com_marca": 38.3,
+     "sem_marca": 61.7
+    },
+    "instalacao": {
+     "n": 70,
+     "com_marca": 42.9,
+     "sem_marca": 57.1
+    },
+    "consumo e energia": {
+     "n": 93,
+     "com_marca": 33.3,
+     "sem_marca": 66.7
     }
    },
    "n_limpo": 3599,
    "taxa_marca_geral": 29.2,
    "exemplos_limpos": {
+    "produto e categoria": [
+     [
+      "Poloar Ar Condicionado",
+      "gemini",
+      ""
+     ],
+     [
+      "Ar Condicionado",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Ar Condicionado Único",
+      "gemini",
+      ""
+     ]
+    ],
+    "especificacao de produto": [
+     [
+      "Quais são as principais diferenças entre ar condicionado de janela, split e portátil e quando usar cada um?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Como calcular a capacidade de ar-condicionado ideal para um cômodo?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais são as principais diferenças entre ar condicionado split, portátil e janela, e qual é o mais indicado para cada ambiente?",
+      "gemini",
+      ""
+     ]
+    ],
     "peca e filtro": [
      [
       "Quais são as melhores lojas brasileiras para comprar peças de geladeira e quais garantias oferecem?",
@@ -5502,40 +5536,6 @@
      [
       "Peças de Geladeira",
       "chatgpt",
-      ""
-     ]
-    ],
-    "garantia e suporte": [
-     [
-      "Como funcionar o suporte e reclamações de geladeiras via Reclame Aqui e quais são os passos para resolver?",
-      "gemini",
-      "brastemp|consul"
-     ],
-     [
-      "Quais são as políticas de atendimento ao cliente e garantia da Proar para aparelhos de ar condicionado?",
-      "gemini",
-      ""
-     ],
-     [
-      "manual do controle ar condicionado samsung",
-      "google_ai_overview",
-      "samsung"
-     ]
-    ],
-    "manutencao e limpeza": [
-     [
-      "Quais são os principais cuidados de manutenção para conservar o desempenho de um ar condicionado?",
-      "chatgpt",
-      ""
-     ],
-     [
-      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Quais dicas você me daria para manter uma geladeira comercial com baixa necessidade de manutenção e maior durabilidade?",
-      "gemini",
       ""
      ]
     ],
@@ -5556,37 +5556,54 @@
       ""
      ]
     ],
-    "marca e loja": [
+    "garantia e suporte": [
      [
-      "Quais são as diferenças entre geladeiras expositoras e congeladores para uso em loja?",
-      "chatgpt",
-      ""
+      "Como funcionar o suporte e reclamações de geladeiras via Reclame Aqui e quais são os passos para resolver?",
+      "gemini",
+      "brastemp|consul"
      ],
      [
-      "Ar Condicionado em Lojas Online",
+      "Quais são as políticas de atendimento ao cliente e garantia da Proar para aparelhos de ar condicionado?",
       "gemini",
       ""
      ],
      [
-      "lojas quero quero ar condicionado",
+      "manual do controle ar condicionado samsung",
       "google_ai_overview",
+      "samsung"
+     ]
+    ],
+    "uso e receita": [
+     [
+      "Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?",
+      "chatgpt",
+      ""
+     ],
+     [
+      "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Você poderia me explicar qual a melhor forma de usar um air fryer com forno para receitas de assados?",
+      "chatgpt",
       ""
      ]
     ],
-    "consumo e energia": [
+    "manutencao e limpeza": [
      [
-      "Como economizar energia usando poloar/ar condicionado em casa ou no escritório?",
-      "gemini",
-      ""
-     ],
-     [
-      "Quais são as dicas para economizar energia e manter a eficiência do ar condicionado?",
-      "gemini",
-      ""
-     ],
-     [
-      "Como escolher o ar condicionado ideal considerando tamanho da sala, isolamento e consumo de energia?",
+      "Quais são os principais cuidados de manutenção para conservar o desempenho de um ar condicionado?",
       "chatgpt",
+      ""
+     ],
+     [
+      "Quais itens de manutenção simples ajudam a prolongar a vida de uma geladeira e de um freezer?",
+      "google_ai_mode",
+      ""
+     ],
+     [
+      "Quais dicas você me daria para manter uma geladeira comercial com baixa necessidade de manutenção e maior durabilidade?",
+      "gemini",
       ""
      ]
     ],
@@ -5624,53 +5641,36 @@
       ""
      ]
     ],
-    "especificacao de produto": [
+    "marca e loja": [
      [
-      "Quais são as principais diferenças entre ar condicionado de janela, split e portátil e quando usar cada um?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Como calcular a capacidade de ar-condicionado ideal para um cômodo?",
-      "google_ai_mode",
-      ""
-     ],
-     [
-      "Quais são as principais diferenças entre ar condicionado split, portátil e janela, e qual é o mais indicado para cada ambiente?",
-      "gemini",
-      ""
-     ]
-    ],
-    "produto e categoria": [
-     [
-      "Poloar Ar Condicionado",
-      "gemini",
-      ""
-     ],
-     [
-      "Ar Condicionado",
+      "Quais são as diferenças entre geladeiras expositoras e congeladores para uso em loja?",
       "chatgpt",
       ""
      ],
      [
-      "Ar Condicionado Único",
+      "Ar Condicionado em Lojas Online",
       "gemini",
+      ""
+     ],
+     [
+      "lojas quero quero ar condicionado",
+      "google_ai_overview",
       ""
      ]
     ],
-    "uso e receita": [
+    "consumo e energia": [
      [
-      "Quais receitas fáceis e saudáveis posso fazer na air fryer no dia a dia?",
-      "chatgpt",
+      "Como economizar energia usando poloar/ar condicionado em casa ou no escritório?",
+      "gemini",
       ""
      ],
      [
-      "Qual é o tamanho de ar condicionado ideal para um cômodo de tamanho médio (BTU adequado para cada ambiente)?",
-      "google_ai_mode",
+      "Quais são as dicas para economizar energia e manter a eficiência do ar condicionado?",
+      "gemini",
       ""
      ],
      [
-      "Você poderia me explicar qual a melhor forma de usar um air fryer com forno para receitas de assados?",
+      "Como escolher o ar condicionado ideal considerando tamanho da sala, isolamento e consumo de energia?",
       "chatgpt",
       ""
      ]
@@ -5875,6 +5875,190 @@
       "samsung|lg"
      ]
     ]
+   }
+  },
+  "visibility": {
+   "loja-electrolux · ChatGPT": {
+    "dominio": "loja-electrolux",
+    "plataforma": "ChatGPT",
+    "data": "2026-08-17",
+    "players": [
+     [
+      "outras",
+      53.7,
+      null,
+      0
+     ],
+     [
+      "electrolux",
+      14.7,
+      24.7,
+      1
+     ],
+     [
+      "consul",
+      12.1,
+      21.3,
+      0
+     ],
+     [
+      "brastemp",
+      8.8,
+      14.7,
+      0
+     ],
+     [
+      "samsung",
+      5.9,
+      11.3,
+      0
+     ],
+     [
+      "midea",
+      4.7,
+      8.0,
+      0
+     ]
+    ],
+    "favoravel_do_dono": 41,
+    "dono": "electrolux",
+    "posicao_do_dono": 1,
+    "electrolux_sov": 14.7
+   },
+   "loja-electrolux · Google AI Mode": {
+    "dominio": "loja-electrolux",
+    "plataforma": "Google AI Mode",
+    "data": "2026-08-17",
+    "players": [
+     [
+      "outras",
+      60.5,
+      null,
+      0
+     ],
+     [
+      "electrolux",
+      12.4,
+      9.4,
+      1
+     ],
+     [
+      "brastemp",
+      11.6,
+      8.1,
+      0
+     ],
+     [
+      "consul",
+      10.8,
+      8.1,
+      0
+     ],
+     [
+      "samsung",
+      3.2,
+      2.7,
+      0
+     ],
+     [
+      "midea",
+      1.2,
+      0.7,
+      0
+     ]
+    ],
+    "favoravel_do_dono": 71,
+    "dono": "electrolux",
+    "posicao_do_dono": 1,
+    "electrolux_sov": 12.4
+   },
+   "consul · Google AI Mode": {
+    "dominio": "consul",
+    "plataforma": "Google AI Mode",
+    "data": "2026-08-18",
+    "players": [
+     [
+      "outras",
+      37.7,
+      null,
+      0
+     ],
+     [
+      "brastemp",
+      17.3,
+      81.7,
+      0
+     ],
+     [
+      "electrolux",
+      16.5,
+      85.1,
+      0
+     ],
+     [
+      "consul",
+      14.6,
+      75.4,
+      1
+     ],
+     [
+      "lg",
+      5.7,
+      37.1,
+      0
+     ]
+    ],
+    "favoravel_do_dono": 89,
+    "dono": "consul",
+    "posicao_do_dono": 3,
+    "electrolux_sov": 16.5
+   },
+   "midea · Google AI Mode": {
+    "dominio": "midea",
+    "plataforma": "Google AI Mode",
+    "data": "2026-08-18",
+    "players": [
+     [
+      "outras",
+      50.5,
+      null,
+      0
+     ],
+     [
+      "electrolux",
+      11.2,
+      62.6,
+      0
+     ],
+     [
+      "panasonic",
+      10.6,
+      64.4,
+      0
+     ],
+     [
+      "lg",
+      10.3,
+      55.7,
+      0
+     ],
+     [
+      "samsung",
+      8.8,
+      52.3,
+      0
+     ],
+     [
+      "midea",
+      8.2,
+      52.3,
+      1
+     ]
+    ],
+    "favoravel_do_dono": 100,
+    "dono": "midea",
+    "posicao_do_dono": 5,
+    "electrolux_sov": 11.2
    }
   }
  }
