@@ -49,6 +49,11 @@ justamente para tornar esse erro impossível.
 
 É a mesma classe de armadilha da cobertura contra ocupação, e precisa da mesma disciplina.
 
+**Regra de desempate, decidida em 19/08.** Quando os relatórios divergirem sobre o mesmo player,
+o número de referência do material é sempre o do **relatório da Electrolux** — 14,7% no ChatGPT e
+12,4% no Google AI Mode. Os relatórios de concorrente entram como confirmação da leitura, nunca
+como a medida. Vale para todo o material, não só para o slide de visibilidade.
+
 ---
 
 ## 3. O que os relatórios de concorrente mostram

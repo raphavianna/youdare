@@ -75,7 +75,9 @@ def perfil(rows, chave):
          "intent": [[k, round(100*v/V)] for k,v in intent.most_common(3)],
          "familias": {k: round(100*v/V,1) for k,v in fam.most_common() if 100*v/V >= 0.4},
          "categorias": {k: round(100*v/V,1) for k,v in cat.most_common() if 100*v/V >= 0.5},
-         "top_keywords": [[r["keyword"], round(num(r["volume_medio_12m"]))] for r in top],
+         # a familia vai junto: nenhum termo de exemplo aparece no deck sem dizer
+         # de que familia de necessidade ele veio
+         "top_keywords": [[r["keyword"], round(num(r["volume_medio_12m"])), r["familia"]] for r in top],
          "serie": [round(x) for x in S] if S else None}
     # exemplos deste recorte, por familia — para que o chip de um slide de marca
     # nunca mostre consulta de outra marca

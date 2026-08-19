@@ -91,7 +91,8 @@ def indexar(s):
     b = s[0] or 1
     return [100*v/b for v in s]
 
-def linhas(series, destaque=None, w=1000, h=290, rotulos_x=None, ref100=False, y0=None, y1=None):
+def linhas(series, destaque=None, w=1000, h=290, rotulos_x=None, ref100=False, y0=None, y1=None,
+           rotular_todos=False, reflab="base 100"):
     vals = [v for s in series.values() for v in s]
     lo = y0 if y0 is not None else min(vals); hi = y1 if y1 is not None else max(vals)
     if hi == lo: hi = lo + 1
@@ -99,17 +100,26 @@ def linhas(series, destaque=None, w=1000, h=290, rotulos_x=None, ref100=False, y
     X = lambda i, L: pl + (w-pl-pr)*i/(L-1)
     Y = lambda v: pt + (h-pt-pb)*(1-(v-lo)/(hi-lo))
     out = []
+    rot = []
     if ref100 and lo < 100 < hi:
         out.append(f'<line class="ref" x1="{pl}" y1="{Y(100):.1f}" x2="{w-pr}" y2="{Y(100):.1f}"/>')
-        out.append(f'<text class="reflab" x="{w-pr+6}" y="{Y(100)+4:.1f}">base 100</text>')
+        # entra na fila de rotulos para nao colidir com as pontas das series
+        rot.append([Y(100), w-pr, "#8b8981", reflab, "ref"])
     for k, s in series.items():
         forte = (destaque is None) or (k == destaque)
-        c = COR.get(k, "#6b6a63") if forte else "#3a3a37"
+        c = COR.get(k, "#6b6a63") if forte else "#6f6e67"
         d = " ".join(f"{'M' if i==0 else 'L'}{X(i,len(s)):.1f},{Y(v):.1f}" for i, v in enumerate(s))
         out.append(f'<path d="{d}" stroke="{c}" class="ln{" forte" if forte else ""}"/>')
-        if forte:
-            out.append(f'<circle cx="{X(len(s)-1,len(s)):.1f}" cy="{Y(s[-1]):.1f}" r="4.5" fill="{c}"/>')
-            out.append(f'<text class="lnlab" x="{X(len(s)-1,len(s))+9:.1f}" y="{Y(s[-1])+4:.1f}" fill="{c}">{e(NOME.get(k,k))}</text>')
+        if forte or rotular_todos:
+            out.append(f'<circle cx="{X(len(s)-1,len(s)):.1f}" cy="{Y(s[-1]):.1f}" r="{4.5 if forte else 3}" fill="{c}"/>')
+            rot.append([Y(s[-1]), X(len(s)-1, len(s)), c, NOME.get(k, k), forte])
+    # rotulos a direita, empurrados para nao se sobrepor
+    rot.sort(key=lambda r: r[0])
+    for i in range(1, len(rot)):
+        if rot[i][0] - rot[i-1][0] < 15: rot[i][0] = rot[i-1][0] + 15
+    for y, x, c, lab, forte in rot:
+        cls_ = "reflab" if forte == "ref" else ("lnlab" if forte else "lnlab fraco")
+        out.append(f'<text class="{cls_}" x="{x+9:.1f}" y="{y+4:.1f}" fill="{c}">{e(lab)}</text>')
     if rotulos_x:
         for i, r in enumerate(rotulos_x):
             if r: out.append(f'<text class="xlab" x="{X(i,len(rotulos_x)):.1f}" y="{h-6}">{e(r)}</text>')
@@ -159,8 +169,10 @@ def heatmap(cols, rows, get, fmt=lambda v: pct(v, 0)):
     return f'<table class="hm"><thead><tr><th></th>{th}</tr></thead><tbody>{"".join(tr)}</tbody></table>'
 
 def tabela(cabec, linhas_, classe=""):
+    """linha como str = linha de grupo, ja em <td colspan>; separa blocos dentro da tabela"""
     th = "".join(f"<th>{c}</th>" for c in cabec)
-    tr = "".join("<tr>" + "".join(f"<td>{c}</td>" for c in l) + "</tr>" for l in linhas_)
+    tr = "".join(f'<tr class="grp-row">{l}</tr>' if isinstance(l, str)
+                 else "<tr>" + "".join(f"<td>{c}</td>" for c in l) + "</tr>" for l in linhas_)
     return f'<table class="tb {classe}"><thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table>'
 
 def kpis(itens):
@@ -187,6 +199,13 @@ def _exs(fam, prefer="marca", escopo=None):
 def ex(fam, k=3, prefer="marca", escopo=None):
     """exemplos reais de consulta daquela familia, direto do dataset"""
     return " · ".join(f'<code>{e(q)}</code>' for q, _ in _exs(fam, prefer, escopo)[:k])
+
+def exf(fam, rotulo, k=2, prefer="marca", escopo=None):
+    """o mesmo, com a familia nomeada antes — nenhum termo de exemplo aparece solto"""
+    qs = _exs(fam, prefer, escopo)[:k]
+    if not qs: return ""
+    return (f'<span class="fam">{e(rotulo)}</span> '
+            + " · ".join(f'<code>{e(q)}</code>' for q, _ in qs))
 
 
 # estagios -> familias que os compoem, para exibir em todo slide de jornada
@@ -275,12 +294,18 @@ slide("ambos", "As fontes", "Duas fontes de demanda, lidas separadamente antes d
 # --- a jornada em 4 estagios (NOVO)
 slide("search", "O modelo", "A jornada tem quatro estágios, e o primeiro não tem marca nenhuma",
   "Toda a leitura deste material usa estes quatro estágios. Eles saem da forma da consulta: o que a pessoa digita revela em que ponto da relação com a categoria ela está.",
-  tabela(["Estágio","O que a pessoa procura","Como aparece na consulta"], [
-    [f'<b style="color:{EST["sem_marca"]}">0 · Sem marca</b>',"A categoria, sem ter escolhido fabricante", ex("heads", 2, "cauda") + " · " + ex("assistencia", 1, "cauda")],
-    [f'<b style="color:{EST["descoberta"]}">1 · Descoberta de marca</b>',"Quem é a marca, se ela é boa", ex("marca e navegacao", 3)],
-    [f'<b style="color:{EST["escolha"]}">2 · Escolha de produto</b>',"Qual modelo, qual capacidade, qual preço", ex("especificacao produto", 2) + " · " + ex("aquisicao e comparacao", 1)],
-    [f'<b style="color:{EST["posse"]}">3 · Posse</b>',"Já tem o produto e convive com ele", ex("manutencao", 1, "cauda") + " · " + ex("defeito", 1, "cauda") + " · " + ex("peca", 1, "cauda")]], "wide"),
-  "O estágio 0 é a maior fatia da demanda e o único em que nenhum player é nomeado.", F_KW)
+  tabela(["Estágio","O que a pessoa procura","Famílias de necessidade e um termo real de cada"], [
+    [f'<b style="color:{EST["sem_marca"]}">0 · Sem marca</b>',"A categoria, sem ter escolhido fabricante",
+     f'<span class="fam">Cabeça de categoria</span> <code>{e(HD["exemplos_familia"]["nao classificado"][0][0])}</code> · '
+     + exf("assistencia", "Assistência e reparo", 1, "cauda")],
+    [f'<b style="color:{EST["descoberta"]}">1 · Descoberta de marca</b>',"Quem é a marca, se ela é boa",
+     exf("marca e navegacao", "Marca e navegação", 3)],
+    [f'<b style="color:{EST["escolha"]}">2 · Escolha de produto</b>',"Qual modelo, qual capacidade, qual preço",
+     exf("especificacao produto", "Especificação de produto", 2) + " · " + exf("aquisicao e comparacao", "Aquisição e comparação", 1)],
+    [f'<b style="color:{EST["posse"]}">3 · Posse</b>',"Já tem o produto e convive com ele",
+     exf("instalacao", "Instalação", 1, "cauda") + " · " + exf("manutencao", "Manutenção e cuidado", 1, "cauda")
+     + " · " + exf("peca", "Peça e consumível", 1, "cauda")]], "wide"),
+  "O estágio 0 é a maior fatia da demanda e o único em que nenhum player é nomeado. Os estágios 1 a 3 são, por definição, buscas que trazem o nome de um fabricante escrito.", F_KW)
 
 slides.append("""<section class="slide divisor"><div class="slide-inner">
   <span class="parte">Parte 1</span><h2>A categoria e os players</h2>
@@ -313,24 +338,25 @@ slide("search", "Panorama", "Hisense e Haier são os únicos que terminam o per�
 
 # --- Electrolux
 el = P["electrolux"]
-ARQ = {"electrolux":"Conhecida, pouco convivida","brastemp":"Grande e perdendo espaço",
-       "consul":"Converteu base em relação","samsung":"Perde espaço em base pequena",
-       "midea":"Cresce sem pós-venda","hisense":"Entrando por reputação","haier":"Formando nome"}
+ARQ = {"electrolux":"Conhecida, pouco procurada depois","brastemp":"Grande e perdendo espaço",
+       "consul":"Procurada por quem já comprou","samsung":"Perde espaço, base pequena",
+       "midea":"Cresce, e ninguém procura depois","hisense":"Entra pelo nome","haier":"Ainda formando nome"}
 
 def cls(k):
     """volume classificado da marca: os tres estagios somam 100% dele.
     O nao classificado varia muito entre recortes e domina a barra sem dizer nada."""
     return max(P[k]["descoberta"] + P[k]["escolha"] + P[k]["posse"], 0.01)
 
-slide("search", "Retrato", "Três arquétipos explicam os sete players melhor do que sete fichas",
-  "Cada player em duas medidas: <b>trajetória</b> no eixo horizontal, quanto de share de demanda ganhou ou perdeu contra a categoria em doze meses; e <b>maturidade de relação</b> no vertical, a fatia da demanda classificada que vem de quem já tem o produto em casa. As duas são de perfil e não dependem do tamanho do recorte de cada marca.",
+slide("search", "Retrato", "Nenhuma marca da categoria cresce e é procurada por quem já comprou",
+  "Cada marca em duas medidas. <b>Horizontal: se ganhou ou perdeu demanda contra a categoria em doze meses</b> — 1,00 é crescer no mesmo ritmo da categoria, acima é ganhar espaço, abaixo é perder. "
+  "<b>Vertical: quanto da demanda pela marca vem de quem já tem o produto em casa</b> — quem procura peça, assistência, instalação, manutenção, manual, garantia. As duas são proporções, então o tamanho da marca não interfere.",
   quadrante([(k, P[k]["inclinacao_vs_categoria"], 100*P[k]["posse"]/cls(k)) for k in ORDEM],
-            "Trajetória contra a categoria", "Fatia de posse no volume classificado", 1.0,
+            "Ganha demanda contra a categoria", "Demanda de quem já tem o produto", 1.0,
             st.median([100*P[k]["posse"]/cls(k) for k in ORDEM]),
-            ["Converteu base instalada, mas não cresce", "Cresce e já tem relação de pós-venda",
-             "Nem cresce nem tem relação", "Cresce sem ter construído pós-venda"]) +
-  '<div class="quadro"><p><b>O quadrante superior direito está vazio.</b> Nenhum player da categoria cresce e tem relação de pós-venda ao mesmo tempo. À esquerda, Consul, Samsung e Brastemp têm mais demanda de posse e trajetória parada ou em queda. À direita, Hisense, Haier e Midea ganham share sem ter construído pós-venda.</p></div>',
-  f'A Electrolux cai exatamente sobre os dois cortes: {vs("electrolux")} de trajetória, que é não ganhar nem perder share, e {pct(100*el["posse"]/cls("electrolux"))} de posse, que é a mediana da categoria. Ela é o ponto médio do mercado nas duas medidas.', F_KW)
+            ["Procurada depois · não cresce", "Procurada depois · e cresce",
+             "Não procurada depois · não cresce", "Não procurada depois · cresce"]) +
+  '<div class="quadro"><p><b>O quadrante de cima à direita está vazio.</b> À esquerda, Consul, Samsung e Brastemp são procuradas por quem já tem o produto e pararam de ganhar demanda. À direita, Hisense, Haier e Midea ganham demanda e quase ninguém as procura depois da compra. Ser lembrado depois da compra e crescer são, hoje, coisas que nenhuma marca faz ao mesmo tempo.</p></div>',
+  f'A Electrolux fica em cima das duas linhas de corte: {vs("electrolux")} contra a categoria, que é nem ganhar nem perder demanda, e {pct(100*el["posse"]/cls("electrolux"))} de demanda de quem já comprou, que é exatamente a mediana das sete. Nas duas medidas ela é a média do mercado.', F_KW)
 
 slide("search", "Retrato", "Quem entra na categoria vive de nome; quem já está vive de produto",
   "Composição da demanda de cada marca entre os três estágios que existem dentro dela, ordenada pela fatia de posse. As barras somam 100% do volume classificado de cada marca, e a leitura é de perfil, não de tamanho: os recortes de origem têm profundidade diferente por marca.",
@@ -341,7 +367,12 @@ slide("search", "Retrato", "Quem entra na categoria vive de nome; quem já está
                      for k in sorted(ORDEM, key=lambda k: -P[k]["posse"]/cls(k))]) +
   legenda([("1 · Descoberta de marca", EST["descoberta"]), ("2 · Escolha de produto", EST["escolha"]),
            ("3 · Posse", EST["posse"])]) +
-  chips("posse", 5),
+  # a barra escura é a posse: mostrar as familias que a compoem, com um termo real
+  # de cada uma. So uma de assistencia; as demais, de relacao neutra com a marca.
+  '<span class="chips-tit">A barra escura, aberta: as famílias de posse, com um termo real de cada</span>' +
+  chips_familias([("instalacao","Instalação"),("peca e consumivel","Peça e consumível"),
+                  ("manutencao e cuidado","Manutenção e cuidado"),("manual e uso","Manual e uso"),
+                  ("assistencia e reparo","Assistência e reparo")]),
   f"Haier e Hisense concentram a demanda no próprio nome: é o retrato de quem está entrando. Nenhum player passa de {pct(100*P['consul']['posse']/cls('consul'))} do volume classificado em posse, e é lá que vivem as dez famílias de necessidade da vida com o produto.", F_KW)
 
 CATS = ["geladeira","lavanderia","ar condicionado","coccao","lava loucas","freezer","aspirador","adega"]
@@ -352,8 +383,9 @@ slide("search", "Retrato", "Cada grupo de players disputa um território de cate
               next(k for k in CATS if catn(k) == c), 0)),
   "Hisense, Haier e Midea concentram em ar condicionado, categoria fora do core histórico da disputa entre as marcas estabelecidas. O território sem dono também: 28% dele é ar condicionado.", F_KW)
 
+PC = lambda v: pct(100*v/J4["total"], 1)
 slide("search", "Retrato", "Metade da demanda de busca acontece antes de qualquer marca entrar na conta",
-  "Os quatro estágios da jornada em busca, pelo volume que cada um concentra, e o que cada um contém.",
+  "A demanda de busca da categoria parte em dois: <b>a que não escreve nome de fabricante nenhum</b> e <b>a que escreve</b>. Só a segunda se divide em estágios de jornada — descoberta, escolha e posse são, por definição, buscas que já trazem uma marca no texto.",
   barras_empilhadas([("Demanda de busca", [
       ("Sem marca", 100*J4["sem_marca"]/J4["total"], EST["sem_marca"]),
       ("Descoberta", 100*J4["descoberta"]/J4["total"], EST["descoberta"]),
@@ -363,28 +395,38 @@ slide("search", "Retrato", "Metade da demanda de busca acontece antes de qualque
   legenda([("0 · Sem marca", EST["sem_marca"]), ("1 · Descoberta", EST["descoberta"]),
            ("2 · Escolha", EST["escolha"]), ("3 · Posse", EST["posse"]), ("Não classificado", EST["nc"])]) +
   '<div class="col2"><div>' +
-  tabela(["Estágio","Buscas/mês","O que contém"], [
-    [f'<b style="color:{EST["sem_marca"]}">0 · Sem marca</b>', n(J4["sem_marca"]),
-     f'Cabeças de categoria ({n(J4["heads"])}) e a cauda de posse sem fabricante ({n(J4["cauda"])})'],
-    [f'<b style="color:{EST["descoberta"]}">1 · Descoberta</b>', n(J4["descoberta"]), "O nome do fabricante, sozinho ou com a categoria"],
-    [f'<b style="color:{EST["escolha"]}">2 · Escolha</b>', n(J4["escolha"]), "Capacidade, tecnologia, modelo, preço e comparação"],
-    [f'<b style="color:{EST["posse"]}">3 · Posse</b>', n(J4["posse"]), "As dez famílias de vida com o produto"]], "wide") +
+  tabela(["Estágio","Buscas/mês","% do total","O que contém"], [
+    '<td class="grp" colspan="4"><b>Sem nome de fabricante nenhum</b> — nenhum player é procurado aqui</td>',
+    [f'<b style="color:{EST["sem_marca"]}">0 · Sem marca</b>', n(J4["sem_marca"]), f'<b>{PC(J4["sem_marca"])}</b>',
+     f'Cabeças de categoria ({n(J4["heads"])}) e a cauda de serviço sem fabricante ({n(J4["cauda"])})'],
+    '<td class="grp" colspan="4"><b>Com o nome de um fabricante escrito na busca</b> — a soma dos sete players</td>',
+    [f'<b style="color:{EST["descoberta"]}">1 · Descoberta</b>', n(J4["descoberta"]), f'<b>{PC(J4["descoberta"])}</b>', "O nome do fabricante, sozinho ou com a categoria"],
+    [f'<b style="color:{EST["escolha"]}">2 · Escolha</b>', n(J4["escolha"]), f'<b>{PC(J4["escolha"])}</b>', "Marca + capacidade, tecnologia, modelo, preço, comparação"],
+    [f'<b style="color:{EST["posse"]}">3 · Posse</b>', n(J4["posse"]), f'<b>{PC(J4["posse"])}</b>', "Marca + as dez famílias de vida com o produto"],
+    [f'<b style="color:#8b8981">Não classificado</b>', n(J4["nao_class"]), f'<b>{PC(J4["nao_class"])}</b>', "Traz marca, mas o texto não permite dizer qual estágio"]], "wide") +
   '</div><div>' +
-  tabela(["Maiores consultas do território sem dono","Buscas/mês"],
-         [[e(k[:44]), "<b>" + n(v) + "</b>"] for k, v in SD["top_keywords"][:6]]) +
-  kpis([(n(SD["volume"]), "buscas/mês que ninguém reivindica", COR["sem_dono"]),
+  tabela([f'Dentro do estágio 0: a cauda de serviço ({n(J4["cauda"])})',"% dela","Termo real"],
+         [[e(FAMLAB.get(f, f.capitalize())), "<b>" + pct(v) + "</b>",
+           f'<code>{e(SD["exemplos_familia"][f][0][0][:30])}</code>' if SD["exemplos_familia"].get(f) else "—"]
+          for f, v in list(SD["familias"].items())[:6]]) +
+  kpis([(n(SD["volume"]), "buscas/mês de serviço sem nenhum fabricante", COR["sem_dono"]),
         (f'{SD["ai_overview"]}%', "já respondidas com resumo de IA", "#c98500")]) +
   '</div></div>',
-  f'O estágio 0 é {pct(100*J4["sem_marca"]/J4["total"],1)} da demanda e não pertence a nenhum player. Dentro dele, {n(SD["volume"])} buscas/mês são de posse pura: quem já tem o produto e procura serviço sem nomear fabricante.', F_KW + " · " + F_CAUDA)
+  f'O estágio 0 é {PC(J4["sem_marca"])} da demanda e não pertence a nenhum player. Os outros {pct(100 - 100*J4["sem_marca"]/J4["total"],1)} trazem um nome de fabricante escrito na busca — é essa fatia que se reparte entre as sete marcas. Dentro do estágio 0, {n(SD["volume"])} buscas/mês são de quem já tem o produto e procura serviço sem nomear quem fabricou — é a coluna da direita.', F_KW + " · 492 keywords sem marca com volume")
 
 slide("search", "Electrolux", "Contra a categoria, a demanda da Electrolux está parada",
-  "Share de demanda indexado ao próprio primeiro mês. Hisense e Haier ficam fora deste gráfico: a base pequena faz a série oscilar e achataria todo o resto.",
+  "Cada linha é a <b>fatia da categoria</b> que a marca tem, mês a mês, indexada ao próprio primeiro mês. "
+  "<b>A categoria é a linha horizontal em 100</b>: por construção ela não sobe nem desce neste gráfico, porque é a régua contra a qual todas as outras são medidas. "
+  "Linha acima de 100 é marca ganhando espaço dentro da categoria; abaixo, perdendo. Hisense e Haier ficam de fora: a base pequena faz a série oscilar e achataria todo o resto.",
   linhas({k: indexar(P[k]["serie_relativa"]) for k in ["electrolux","brastemp","consul","samsung","midea"]},
-         destaque="electrolux", rotulos_x=MESES, ref100=True) +
-  kpis([(vs("electrolux"), "ano a ano · média dos 5 últimos meses contra os 7 primeiros", "#3987e5"),
+         destaque="electrolux", rotulos_x=MESES, ref100=True, rotular_todos=True,
+         reflab="Categoria = 100") +
+  kpis([(vs("electrolux"), "Electrolux ano a ano contra a categoria · média dos 5 últimos meses contra os 7 primeiros", "#3987e5"),
         (f'{indexar(el["serie_relativa"])[-1]:.0f}', "ponta a ponta · último mês contra o primeiro", "#f0ede4"),
-        (f'{el["inclinacao_bruta"]:.2f}'.replace(".",","), "sem descontar a sazonalidade, a leitura enganosa", "#6b6a63")]),
-  "As duas medidas divergem de propósito: julho foi um mês forte, o que puxa a leitura ponta a ponta para 115, mas a <b>média do período não se move</b>. É o ano a ano que descreve a trajetória.", F_KW)
+        (f'{indexar(HD["serie"])[-1]:.0f}', "a categoria em volume absoluto, ponta a ponta — ela também não cresce", "#6b6a63")]),
+  f'<b>A categoria não está crescendo</b>: em volume absoluto ela termina os doze meses em {indexar(HD["serie"])[-1]:.0f} contra a base 100, com pico sazonal em fevereiro e março. '
+  f'Dentro dela, a Electrolux termina praticamente onde começou — {vs("electrolux")} ano a ano. Julho foi um mês forte, o que puxa a leitura ponta a ponta para {indexar(el["serie_relativa"])[-1]:.0f}, mas a <b>média do período não se move</b>. '
+  f'Brastemp ({vs("brastemp")}) e Samsung ({vs("samsung")}) perdem espaço; Consul ({vs("consul")}) fica parada; Midea ({vs("midea")}) é a única das cinco que ganha.', F_KW)
 
 # --- submarcas: atributo transversal, nao familia
 FR = {k: v for k, v in D["frentes"]}
@@ -436,8 +478,9 @@ slide("search", "Electrolux", "Geladeira concentra um terço da demanda de marca
   '<div class="col2"><div>' +
   barras_h([(catn(c), v, "electrolux") for c, v in list(el["categorias"].items())[:7]],
            lambda k: COR["electrolux"], fmt=lambda v: pct(v)) + '</div><div>' +
-  tabela(["Maiores consultas da marca","Buscas/mês"],
-         [[e(k), "<b>" + n(v) + "</b>"] for k, v in el["top_keywords"][:6]]) + '</div></div>',
+  tabela(["Maiores consultas da marca","Família","Buscas/mês"],
+         [[e(k), f'<span class="fam">{e(FAMLAB.get(f, f.capitalize()))}</span>', "<b>" + n(v) + "</b>"]
+          for k, v, f in el["top_keywords"][:6]]) + '</div></div>',
   f'Ar condicionado é {pct(el["categorias"].get("ar condicionado", 0))} da demanda da Electrolux, contra {pct(P["midea"]["categorias"].get("ar condicionado", 0))} da Midea e {pct(P["haier"]["categorias"].get("ar condicionado", 0))} da Haier.', F_KW)
 
 # --- demais players
@@ -456,8 +499,9 @@ def bloco_player(k, titulo, subtitulo, leitura):
                  (vs(k), "ano a ano vs categoria", "#f0ede4"),
                  (f'{indexar(p["serie_relativa"])[-1]:.0f}', "ponta a ponta, base 100", "#f0ede4")]) + \
            '<div class="mm"><span class="mml">Mês a mês</span>' + sparkbar(p["serie_relativa"]) + '</div>' + \
-           tabela(["Maiores consultas da marca","Buscas/mês"],
-                  [[e(kw), "<b>" + n(v) + "</b>"] for kw, v in p["top_keywords"][:5]])
+           tabela(["Maiores consultas da marca","Família","Buscas/mês"],
+                  [[e(kw), f'<span class="fam">{e(FAMLAB.get(f, f.capitalize()))}</span>', "<b>" + n(v) + "</b>"]
+                   for kw, v, f in p["top_keywords"][:5]])
     slide("search", p["nome"], titulo, subtitulo,
           f'<div class="col2"><div>{esq}</div><div>{dir_}</div></div>' + chips_estagio(p), leitura, F_KW)
 
@@ -486,7 +530,7 @@ slides.append("""<section class="slide divisor"><div class="slide-inner">
   <span class="parte">Parte 2</span><h2>A demanda em IA</h2>
   <p class="sub">O tamanho da conversa mediada por assistente, como ela se distribui pela jornada, e quanto dela nenhuma marca ocupa</p></div></section>""")
 
-sintese("ia", "Parte 2 · Síntese", "81,2% da demanda em IA não nomeia nenhum fabricante",
+sintese("ia", "Parte 2 · Síntese", f'{pct(SM["pct"], 1)} da demanda em IA não nomeia nenhum fabricante',
   "O que esta parte estabelece, antes de abrir marca por marca. Todos os números são de demanda mediada por assistente no Brasil. É outra fonte e outra unidade que a busca, e não se soma com ela.",
   [(pct(SM["pct"], 1), "da demanda não nomeia fabricante", "O maior dado da base. A demanda é de categoria, não de fabricante.", EST["sem_marca"]),
    (pct(CN["electrolux"]["pct"], 1), "é a Electrolux, a maior das marcas", f'À frente de Brastemp ({pct(CN["brastemp"]["pct"],1)}) e Midea ({pct(CN["midea"]["pct"],1)}). Lidera entre as sete, sobre uma base pequena.', COR["electrolux"]),
@@ -498,18 +542,18 @@ sintese("ia", "Parte 2 · Síntese", "81,2% da demanda em IA não nomeia nenhum 
   "Com a maior parte da demanda sem marca, a disputa é por <b>ocupar território vago</b> e não por tirar participação de um concorrente. As telas seguintes mostram qual território, em que momento da jornada e a que distância cada player está dele.",
   F_PAN)
 
-slide("ia", "O universo", f'{n(U["topicos_exportados"])} tópicos lidos, {n(U["topicos_categoria"])} sobre a categoria, e o mapa não cobre o território todo',
-  "Um tópico é um agrupamento de prompts que os assistentes tratam como o mesmo assunto. Cada export para em 1.000 linhas, então o que está medido é <b>demanda mapeada</b>, não demanda total.",
+slide("ia", "O universo", f'{n(U["topicos_categoria"])} tópicos de categoria, {n(U["volume"])} de demanda mediada por assistente',
+  "Um tópico é um agrupamento de prompts que os assistentes tratam como o mesmo assunto — a unidade desta parte, equivalente ao que a keyword é na busca. Toda a leitura a seguir se refere ao Brasil e a eletrodomésticos.",
   kpis([(n(U["topicos_categoria"]), "tópicos de categoria no Brasil", "#199e70"),
         (n(U["volume"]), "de volume mediado por IA", "#f0ede4"),
         (n(U["prompts_declarados"]), "prompts dentro desses tópicos", "#f0ede4"),
         (n(U["prompts_distintos"]), "prompts lidos um a um", "#c98500")]) +
-  tabela(["Etapa do funil de dado","Tópicos","O que sai e por quê"], [
-    ["Exportados", n(U["topicos_exportados"]), f'{len(U["seeds"])} seeds de categoria, nenhum com nome de marca'],
-    ["Brasil", n(U["topicos_br"]), f'{n(U["topicos_us"])} tópicos dos Estados Unidos ficam fora de todo agregado'],
+  tabela(["Do que foi lido ao que entra na conta","Tópicos","O critério"], [
+    ["Tópicos lidos", n(U["topicos_exportados"]), f'{len(U["seeds"])} pontos de partida, todos de categoria — <b>nenhum com nome de marca</b>, e é isso que torna a cobertura por marca uma medida limpa'],
+    ["No Brasil", n(U["topicos_br"]), f'{n(U["topicos_us"])} tópicos dos Estados Unidos ficam fora de todo agregado'],
     ["<b>Sobre a categoria</b>", f'<b>{n(U["topicos_categoria"])}</b>',
-     f'{100 - round(100*U["topicos_categoria"]/U["topicos_br"])}% do recorte Brasil é vazamento de clustering e não menciona aparelho']], "wide"),
-  "Os percentuais desta parte são participação sobre <b>o que foi mapeado</b>, não sobre o universo da categoria. Cada seed novo alarga o mapa.", F_PAN)
+     f'{100 - round(100*U["topicos_categoria"]/U["topicos_br"])}% do recorte Brasil trata de outro assunto e não menciona aparelho']], "wide"),
+  "Nenhuma marca foi usada como ponto de partida. Toda marca que aparecer nas telas seguintes foi encontrada dentro da demanda de categoria, não procurada — e por isso as sete se comparam entre si sobre a mesma base.", F_PAN)
 
 # --- cenario consolidado da cobertura -------------------------------------
 CN_ORD = sorted([k for k in CN], key=lambda k: -CN[k]["pct"])
@@ -525,17 +569,20 @@ slide("ia", "Cobertura · Consolidado", f'{pct(SM["pct"],1)} da demanda mediada 
         (pct(100 - SM["pct"], 1), "é tudo que as marcas juntas ocupam", "#6b6a63")]),
   f'A mesma leitura do estágio 0 da parte de busca, em patamar mais alto: {pct(100*J4["sem_marca"]/J4["total"],1)} da demanda de busca não nomeia marca, contra {pct(SM["pct"],1)} em IA.', F_PAN)
 
-slide("ia", "Cobertura · Por marca", "Electrolux é a marca mais presente da categoria em IA, com 5,7% da demanda",
+slide("ia", "Cobertura · Por marca", f'Electrolux é a marca mais presente da categoria em IA, com {pct(CN["electrolux"]["pct"],1)} da demanda',
   "As sete marcas do conjunto declarado, pelo volume dos tópicos que carregam o nome delas. A coluna de exemplos mostra o maior tópico de cada uma.",
   barras_h([(CN[k]["nome"], CN[k]["pct"], k) for k in CN_ORD if k != "outras_marcas"],
            lambda k: COR.get(k, "#6b6a63"), max_v=max(6.0, CN["electrolux"]["pct"]), fmt=lambda v: pct(v, 2)) +
-  tabela(["Marca","Tópicos","Volume","Maior tópico da marca"],
+  tabela(["Marca","Tópicos","Volume","Maior tópico da marca","Estágio dele"],
     [[f'<span class="dot" style="background:{COR.get(k,"#6b6a63")}"></span>{CN[k]["nome"]}',
       n(CN[k]["topicos"]), "<b>" + n(CN[k]["volume"]) + "</b>",
-      f'<code>{e(CN[k]["exemplos"][0][0][:56])}</code>' if CN[k]["exemplos"] else "—"]
+      f'<code>{e(CN[k]["exemplos"][0][0][:56])}</code>' if CN[k]["exemplos"] else "—",
+      f'<span class="fam">{e(EST_NOME.get(CN[k]["exemplos"][0][2], CN[k]["exemplos"][0][2]))}</span>' if CN[k]["exemplos"] else "—"]
      for k in CN_ORD[:6] if k != "outras_marcas"], "wide"),
   f'LG, Philco, Mondial, Britânia e outras marcas fora do conjunto declarado somam {pct(CN["outras_marcas"]["pct"],1)}, acima da Electrolux. O conjunto competitivo do briefing não cobre tudo que a IA nomeia.', F_PAN)
 
+POSSE_TOP = max(((k, CN[k]["por_estagio"]["posse"]["pct"]) for k in CN_ORD if k != "outras_marcas"),
+                key=lambda x: x[1])
 slide("ia", "Cobertura · Por estágio", "A Electrolux cobre um quarto da descoberta e quase nada da escolha",
   "A mesma cobertura, quebrada por estágio: quanto do volume de cada estágio carrega o nome de cada marca. Cada coluna soma sobre o total daquele estágio, não sobre a marca.",
   heatmap([EST_NOME[k] for k in EST_ORD], [k for k in CN_ORD if k != "outras_marcas"],
@@ -544,8 +591,9 @@ slide("ia", "Cobertura · Por estágio", "A Electrolux cobre um quarto da descob
   kpis([(pct(CN["electrolux"]["por_estagio"]["descoberta"]["pct"], 1), "da descoberta é Electrolux", EST["descoberta"]),
         (pct(CN["electrolux"]["por_estagio"]["escolha"]["pct"], 1), "da escolha", EST["escolha"]),
         (pct(CN["electrolux"]["por_estagio"]["posse"]["pct"], 1), "da posse", EST["posse"]),
-        (pct(CN["samsung"]["por_estagio"]["posse"]["pct"], 1), "da posse é Samsung, a maior do conjunto", COR["samsung"])]),
-  "O perfil da Electrolux em IA repete o da busca: forte onde a marca é procurada pelo nome, quase ausente onde o produto é escolhido e onde se convive com ele. A Samsung é a única com cobertura de posse acima de 3%.", F_PAN)
+        (pct(POSSE_TOP[1], 2), f'da posse é {CN[POSSE_TOP[0]]["nome"]}, a maior das sete nesse estágio', COR.get(POSSE_TOP[0], "#6b6a63"))]),
+  f'O perfil da Electrolux em IA repete o da busca: forte onde a marca é procurada pelo nome ({pct(CN["electrolux"]["por_estagio"]["descoberta"]["pct"],1)} da descoberta), quase ausente onde o produto é escolhido e onde se convive com ele. '
+  f'Nenhuma das sete passa de {pct(POSSE_TOP[1],2)} na posse — o estágio inteiro cabe numa margem estreita, e o resto dele não tem nome de fabricante nenhum.', F_PAN)
 
 # --- as outras medidas de marca em IA, ancoradas na cobertura sobre o total
 slide("ia", "Cobertura · Outras medidas", "Citação, posição e sentimento: três leituras que não substituem a cobertura",
@@ -587,7 +635,8 @@ slide("ia", "Jornada · Consolidado", "Metade da demanda em IA é exploração d
     [[f'<b style="color:{EST_COR[k]}">{EST_NOME[k]}</b>', n(ES[k]["volume"]), pct(ES[k]["pct"]),
       n(ES[k]["prompts"]),
       f'<b class="{"down" if ES[k]["sem_marca_pct"] >= 85 else "flat"}">{pct(ES[k]["sem_marca_pct"],1)}</b>',
-      f'<code>{e(ES[k]["exemplos_sem_marca"][0][0][:44])}</code>' if ES[k]["exemplos_sem_marca"] else "—"]
+      (f'<code>{e(ES[k]["exemplos_sem_marca"][0][0][:40])}</code> '
+       f'<span class="fam">{e(fn(ES[k]["exemplos_sem_marca"][0][2]))}</span>') if ES[k]["exemplos_sem_marca"] else "—"]
      for k in EST_ORD], "wide"),
   f'<b>A escolha é o estágio mais desocupado: {pct(ES["escolha"]["sem_marca_pct"],1)} do volume não nomeia fabricante.</b> É o estágio em que a compra se decide e aquele em que as marcas menos aparecem na conversa mediada.', F_PAN)
 
@@ -597,8 +646,9 @@ slide("ia", "Retrato", "O território de posse é o maior espaço vago da catego
   '<div class="col2"><div>' +
   barras_h([(fn(f), pp, None) for f, c, pp in d["familias"]], lambda x: EST["posse"], fmt=lambda v: pct(v)) +
   '</div><div>' +
-  tabela(["Maiores tópicos <b>sem marca</b> da posse","Volume"],
-         [[e(t[:46]), "<b>" + n(v) + "</b>"] for t, v, _ in d["exemplos_sem_marca"][:6]]) +
+  tabela(["Maiores tópicos <b>sem marca</b> da posse","Família","Volume"],
+         [[e(t[:40]), f'<span class="fam">{e(fn(f))}</span>', "<b>" + n(v) + "</b>"]
+          for t, v, f in d["exemplos_sem_marca"][:6]]) +
   '</div></div>' +
   kpis([(n(d["volume"]), "de volume no estágio", EST["posse"]),
         (pct(d["pct"]), "da demanda mediada por IA", "#f0ede4"),
@@ -616,7 +666,7 @@ if DOM:
        (str(DOM["visibility_mediana"]), "visibilidade mediana", "Nos tópicos em que aparece, ocupa cerca de um terço do espaço.", "#f0ede4"),
        (pct(DOM["por_estagio"]["posse"]["descoberto"], 1), "da posse sem ela", "O estágio em que está mais ausente é o de vida com o produto.", EST["posse"])],
       f'A marca com a maior base instalada da categoria ocupa <b>{pct(DOM["ocupacao_pct"],1)}</b> da demanda mediada por IA. Esse é o patamar de quem lidera em base instalada, o que situa o tamanho do território vago para todos os outros. <b>Não leia este número contra os {pct(CN["electrolux"]["pct"],1)} de cobertura da Electrolux</b>: cobertura é o que se pergunta, ocupação é o que a IA mostra, e a Electrolux ainda não tem esta segunda medida calculada.',
-      f'Tópicos de marca · {DOM["dominio"]} · {DOM["topicos_no_universo"]} tópicos no universo mapeado')
+      f'Tópicos de marca · {DOM["dominio"]} · {DOM["topicos_no_universo"]} tópicos de categoria em que o domínio aparece')
 
     slide("ia", "Ocupação", f'A {DOM["dominio"].split(".")[0].capitalize()} aparece em {pct(DOM["presenca_pct"],1)} da demanda da categoria e ocupa {pct(DOM["ocupacao_pct"],1)}',
       "Presença contra ocupação, estágio a estágio. A barra clara é o volume em que a marca aparece; a escura é o que ela de fato ocupa depois de ponderar pela visibilidade.",
@@ -661,8 +711,11 @@ slide("ia", "Retrato", "Quanto mais a pergunta se afasta da compra, menos a IA n
 V = PAN["visibility"]
 VNOME = {"electrolux":"Electrolux","brastemp":"Brastemp","consul":"Consul","midea":"Midea",
          "samsung":"Samsung","lg":"LG","panasonic":"Panasonic","outras":"Outras marcas"}
+EL_CHAT = V["loja-electrolux · ChatGPT"]["electrolux_sov"]
+EL_AIM  = V["loja-electrolux · Google AI Mode"]["electrolux_sov"]
 slide("ia", "Visibilidade", "Onde quer que se olhe, a Electrolux é das marcas mais faladas",
-  "Share of voice em resposta de IA, de quatro relatórios sobre três domínios. <b>Cada relatório monta o próprio universo de perguntas, em torno do domínio analisado</b>, então a comparação só vale entre players da mesma linha. Em negrito, o dono de cada relatório.",
+  "Share of voice em resposta de IA, de quatro relatórios sobre três domínios. <b>Cada relatório monta o próprio universo de perguntas, em torno do domínio analisado</b>, então a comparação só vale entre players da mesma linha. Em negrito, o dono de cada relatório. "
+  "<b>Quando o mesmo player aparece com valores diferentes, o número de referência é o do relatório da Electrolux</b>; os demais entram como confirmação, não como medida.",
   tabela(["Relatório", "1º", "2º", "3º", "Onde o dono fica", "Sentimento do dono"],
     [[f'<b>{VNOME.get(d["dono"], d["dono"])}</b><br><span class="th2">{d["plataforma"]}</span>'] +
      [(f'<b>{VNOME.get(m, m)} {pct(sv,1)}</b>' if dono else f'{VNOME.get(m, m)} {pct(sv,1)}')
@@ -670,11 +723,14 @@ slide("ia", "Visibilidade", "Onde quer que se olhe, a Electrolux é das marcas m
      [f'<b class="{"up" if d["posicao_do_dono"] == 1 else "down"}">{d["posicao_do_dono"]}º</b>',
       f'<b class="{"down" if (d["favoravel_do_dono"] or 0) < 60 else "up"}">{d["favoravel_do_dono"]}%</b>']
      for d in V.values()], "wide") +
-  kpis([(pct(V["consul · Google AI Mode"]["electrolux_sov"], 1), "de SOV da Electrolux no relatório da Consul", COR["electrolux"]),
-        (pct([p[1] for p in V["consul · Google AI Mode"]["players"] if p[0] == "consul"][0], 1), "da própria Consul, no relatório dela", COR["consul"]),
-        (pct(V["midea · Google AI Mode"]["electrolux_sov"], 1), "de SOV da Electrolux no relatório da Midea", COR["electrolux"]),
-        (pct([p[1] for p in V["midea · Google AI Mode"]["players"] if p[0] == "midea"][0], 1), "da própria Midea, no relatório dela", COR["midea"])]),
-  "Em dois dos três relatórios de concorrente a Electrolux aparece mais que o dono da casa. E no da Consul quem lidera é a Brastemp, com 17,3% — posição que ela não tem em nenhuma outra medida do material.",
+  kpis([(pct(EL_CHAT, 1), "SOV da Electrolux no ChatGPT · relatório dela, o número de referência", COR["electrolux"]),
+        (pct(EL_AIM, 1), "SOV da Electrolux no Google AI Mode · relatório dela", COR["electrolux"]),
+        ("1º", "posição dela nos dois relatórios próprios", "#199e70"),
+        (f'{pct(V["midea · Google AI Mode"]["electrolux_sov"],1)} a {pct(V["consul · Google AI Mode"]["electrolux_sov"],1)}',
+         "faixa em que ela aparece nos relatórios dos concorrentes", "#6b6a63")]),
+  f'Nos relatórios da própria Electrolux ela é 1ª nas duas plataformas, com {pct(EL_CHAT,1)} e {pct(EL_AIM,1)} — são esses os números que valem. '
+  f'Os relatórios de concorrente confirmam a leitura por outro caminho: em dois dos três, a Electrolux aparece mais que o dono da casa. '
+  f'E no da Consul quem lidera é a Brastemp, com {pct([p[1] for p in V["consul · Google AI Mode"]["players"] if p[0] == "brastemp"][0],1)} — posição que ela não tem em nenhuma outra medida do material.',
   "Relatórios de visibilidade em IA · 4 relatórios · 3 domínios")
 
 slide("ia", "Visibilidade", "A percepção da marca muda de acordo com o assistente",
@@ -735,7 +791,7 @@ slide("ambos", "Síntese", "As duas fontes concordam sobre o vão e discordam so
   tabela(["","<span class='badge b-search'>Search</span>","<span class='badge b-ia'>IA</span>"],
     [["<b>Posição da Electrolux</b>","3ª em volume de marca · recortes de profundidade diferente impedem comparar tamanho entre players", f'<b>{pct(CN["electrolux"]["pct"],1)}</b> de cobertura sobre o total · <b>1ª entre as sete</b>'],
      ["<b>Trajetória</b>","não ganha share; quem cresce são os entrantes","share de tráfego <b>39,9% → 46,0%</b>"],
-     ["<b>Posse</b>", f'{pct(el["posse"])} da demanda da marca · metade da Consul', f'cobre {pct(CN["electrolux"]["por_estagio"]["posse"]["pct"],2)} do estágio · Samsung cobre {pct(CN["samsung"]["por_estagio"]["posse"]["pct"],2)}'],
+     ["<b>Posse</b>", f'{pct(el["posse"])} da demanda da marca · metade da Consul', f'cobre {pct(CN["electrolux"]["por_estagio"]["posse"]["pct"],2)} do estágio · a maior das sete é a {CN[POSSE_TOP[0]]["nome"]}, com {pct(POSSE_TOP[1],2)}'],
      ["<b>Quem ocupa a posse</b>", f'Consul, com {pct(P["consul"]["posse"])} da demanda dela', f'Ninguém: {pct(ES["posse"]["sem_marca_pct"],1)} do estágio não tem marca no nome'],
      ["<b>Percepção</b>","não é o que a fonte mede", f'sentimento {dec(AI["marcas"]["Electrolux"]["sentimento"])}, 2º pior do conjunto']], "wide"),
   "A marca está melhor posicionada no canal novo do que no maduro, e não construiu essa vantagem deliberadamente.", F_KW + " · " + F_IA)
@@ -745,26 +801,32 @@ slide("ambos", "Fechamento", "Os quatro achados que sustentam o resto",
   '<div class="achados">' + "".join(
     f'<div class="ach"><span class="an">{i}</span><div><b>{t}</b><p>{dd}</p></div></div>'
     for i, (t, dd) in enumerate([
-      ("A posse é o vão, nas duas fontes",
-       f'Electrolux tem {pct(el["posse"])} da demanda em posse contra {pct(P["consul"]["posse"])} da Consul, e não é citada em nenhuma das perguntas de manutenção feitas à IA.'),
-      ("A mediação por IA já chegou ao território vago",
-       f'{ag["posse"]["aio"]}% das consultas de posse são respondidas com resumo, contra {ag["electrolux"]}% das consultas da Electrolux.'),
+      ("A IA só nomeia fabricante quando a pergunta é de compra",
+       f'A citação cai de forma contínua ao longo de {len(MPF)} famílias: {pct(MPF["marca e loja"]["com_marca"],1)} das respostas sobre onde comprar citam uma das sete marcas, '
+       f'{pct(MPF["produto e categoria"]["com_marca"],1)} das respostas sobre o produto, {pct(MPF["uso e receita"]["com_marca"],1)} das sobre uso e receita, e {pct(MPF["instalacao"]["com_marca"],1)} das sobre instalação. '
+       f'Quanto mais a pergunta se afasta da transação, mais a categoria é respondida sem que exista fabricante.'),
+      ("A Electrolux ganhou presença em IA sem ganhar reputação",
+       f'É a mais coberta das sete ({pct(CN["electrolux"]["pct"],1)} da demanda mediada, contra {pct(CN["brastemp"]["pct"],1)} da Brastemp) e a segunda pior em sentimento ({dec(AI["marcas"]["Electrolux"]["sentimento"])} contra {dec(AI["marcas"]["Consul"]["sentimento"])} da Consul). '
+       f'São medidas independentes: ser citada mais não faz ser falada melhor.'),
       ("O crescimento da categoria está nos entrantes",
        f'Hisense a {vs("hisense")} e Haier a {vs("haier")} contra a categoria; Brastemp a {vs("brastemp")} e Samsung a {vs("samsung")}.'),
-      ("A Electrolux lidera a cobertura em IA, sobre uma base pequena",
-       f'{pct(CN["electrolux"]["pct"],1)} da demanda mediada contra {pct(CN["brastemp"]["pct"],1)} da Brastemp. O sentimento nas respostas fica em {dec(AI["marcas"]["Electrolux"]["sentimento"])}, atrás de Consul ({dec(AI["marcas"]["Consul"]["sentimento"])}).')], 1)) + '</div>',
+      ("Quem for ocupar a posse vai encontrar um intermediário já instalado",
+       f'{pct(ES["posse"]["sem_marca_pct"],1)} da demanda de posse em IA não nomeia fabricante e {ag["posse"]["aio"]}% das consultas de posse em busca já são respondidas por resumo gerado. '
+       f'O território está vago do lado das marcas e ocupado do lado da mediação.')], 1)) + '</div>',
   "", "")
 
 slide("ambos", "Fechamento", "O que muda com o tempo, e o que não",
   "Este material para aqui: os dados e a leitura deles. A decisão de território, mensagem e plano é das áreas.",
   '<div class="col2"><div class="quadro"><span class="qh">Move com o tempo</span><ul>'
-  '<li>A mediação por IA avança das consultas de posse para as de marca</li>'
   '<li>A base instalada de Haier e Hisense começa a gerar demanda de pós-compra</li>'
-  '<li>O tráfego de LLM segue crescendo em toda a categoria</li></ul></div>'
+  '<li>O tráfego de LLM segue crescendo em toda a categoria</li>'
+  f'<li>A conversa de uso e receita já trocou de canal: é a menor família em busca ({pct(SD["familias"]["receita"])} do território sem dono) e a maior de posse em IA ({pct(PAN["familias"]["uso e receita"]["pct"])} da categoria)</li>'
+  f'<li>A mediação sobe da posse para a compra: hoje responde {ag["posse"]["aio"]}% das consultas de posse e {ag["electrolux"]}% das da Electrolux — a distância entre os dois números é o prazo que a marca tem</li></ul></div>'
   '<div class="quadro"><span class="qh">Não move sozinho</span><ul>'
   '<li>O território de posse continua sem dono enquanto ninguém o ocupar</li>'
-  '<li>O sentimento da marca em IA não melhora por volume de citação</li>'
-  f'<li>O nome das frentes não vira demanda sozinho: as sete somam {n(V_FRENTES)} buscas/mês, {pct(100*V_FRENTES/el["volume"],1)} da demanda pela marca</li></ul></div></div>',
+  f'<li>A escolha de produto segue sem dono: {pct(ES["escolha"]["sem_marca_pct"],1)} do estágio em que a compra se decide não nomeia fabricante nenhum</li>'
+  f'<li>Reputação não vem junto com presença: a Electrolux é a mais citada da categoria e a segunda pior em sentimento ({dec(AI["marcas"]["Electrolux"]["sentimento"])} contra {dec(AI["marcas"]["Consul"]["sentimento"])} da Consul)</li>'
+  f'<li>Nome de frente comercial não vira demanda por existir: as sete somam {n(V_FRENTES)} buscas/mês, {pct(100*V_FRENTES/el["volume"],1)} da demanda pela marca</li></ul></div></div>',
   "", "")
 _p1=[]
 sintese("search", "Parte 1 · Síntese", "A marca é grande onde se escolhe o produto e pequena onde se convive com ele",
@@ -823,7 +885,7 @@ slide("ambos", "Ressalvas", "Números frágeis: confira antes de levar para o cl
     ["Ocupação por domínio (19,2% e 8,2%)","A medida existe por domínio e está disponível para um domínio do conjunto. Não comparar com as demais marcas até haver a mesma medida para elas","Slides de ocupação"],
     ["Estágio da jornada em IA","Derivado por regra declarada: família cruzada com intent da ferramenta, com cortes em 25% e 45%. É regra, não medição","Todos os slides de jornada em IA"],
     ["Curva de citação por família","Duas famílias ficam de fora por amostra: <b>assistência e conserto</b> e <b>defeito e problema</b>, ambas com n=18 e corte em 20. São as duas mais centrais à tese de serviço e entram no próximo ciclo","Retrato de citação por necessidade"],
-    ["Share of voice em IA","<b>Cada relatório monta o próprio universo de perguntas.</b> A Electrolux tem 12,4% no relatório dela, 16,5% no da Consul e 11,2% no da Midea. Comparar SOV entre relatórios é erro; só vale entre players do mesmo","Slides de visibilidade"],
+    ["Share of voice em IA","<b>Cada relatório monta o próprio universo de perguntas.</b> A Electrolux tem 12,4% no relatório dela, 16,5% no da Consul e 11,2% no da Midea. Comparar SOV entre relatórios é erro; só vale entre players do mesmo. <b>Regra do material: divergindo, o número de referência é sempre o do relatório da Electrolux</b>; os de concorrente entram como confirmação","Slides de visibilidade"],
     ["Sentimento por plataforma","41% no ChatGPT e 71% no Google AI Mode. Cada um é do dono dentro do próprio universo, então a distância é indicativa e não conclusiva","Slide de percepção por assistente"]], "wide"),
   "", "", apendice)
 
@@ -952,7 +1014,8 @@ h2{font-family:'Zodiak',Georgia,serif;font-weight:400;line-height:1.06;
 .ln.forte{stroke-width:2.6;opacity:1}
 .ref{stroke:var(--hair);stroke-width:1;stroke-dasharray:3 4}
 .reflab,.xlab,.lnlab{font-family:'Supreme',sans-serif;font-size:11px;fill:var(--ink-3)}
-.lnlab{font-size:12px;font-weight:600}.xlab{text-anchor:middle}
+.lnlab{font-size:12px;font-weight:600}.lnlab.fraco{font-size:11px;font-weight:500}
+.xlab{text-anchor:middle}
 
 /* === TABELAS === */
 .tb,.hm{width:100%;border-collapse:collapse;font-size:clamp(.58rem,.85vw,.82rem)}
@@ -972,6 +1035,16 @@ h2{font-family:'Zodiak',Georgia,serif;font-weight:400;line-height:1.06;
 .flat,.tb td b.flat{color:var(--ink-3)}
 code{font-family:ui-monospace,monospace;font-size:.88em;color:var(--ink);background:#26261f;
   padding:.1em .4em;border-radius:2px;white-space:nowrap}
+/* nome da familia colado ao termo de exemplo: nenhum termo aparece sem dizer de onde vem */
+.fam{display:inline-block;font-size:.86em;letter-spacing:.06em;color:var(--ink-3);
+  border:1px solid var(--hair);border-radius:2px;padding:.06em .45em;white-space:nowrap}
+/* linha de grupo dentro da tabela: separa com-marca de sem-marca */
+.tb tr.grp-row td.grp{padding:.7em .65em .3em;border-bottom:1px solid var(--hair);
+  color:var(--ink-2);font-size:.94em}
+.tb tr.grp-row td.grp b{color:var(--ink);letter-spacing:.02em}
+.chips-tit{display:block;margin-top:clamp(.35rem,.9vh,.8rem);font-size:clamp(.48rem,.66vw,.62rem);
+  letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+.chips-tit + .chips{margin-top:.35rem}
 
 /* === KPIS E BLOCOS === */
 .kpis{display:flex;flex-wrap:wrap;gap:clamp(.5rem,1.8vw,2.2rem);
@@ -1021,7 +1094,7 @@ cite{display:block;margin-top:.55em;font-style:normal;font-size:clamp(.56rem,.78
 .quad .qbg{fill:#1e1e1c}
 .quad .qhi{fill:color-mix(in srgb,var(--accent) 7%,transparent)}
 .quad .qax{stroke:var(--hair);stroke-width:1;stroke-dasharray:4 4}
-.quad .qlab{fill:var(--ink-3);font-size:13px;letter-spacing:.14em;text-transform:uppercase}
+.quad .qlab{fill:var(--ink-3);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
 .quad .qnome{font-size:15px;font-weight:600}
 .quad .qcorte{fill:var(--ink-3);font-size:12px}
 .quad .qeixo{fill:var(--ink-3);font-size:12px;letter-spacing:.1em;text-transform:uppercase}

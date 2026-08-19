@@ -85,13 +85,15 @@ uma à outra, e só depois cruzadas. É essa independência que dá valor às co
   </div>
 </div>
 <h3>O que limita as duas</h3>
-<p><b>Em IA, todo export para em 1.000 linhas.</b> O universo é censurado por seed: os
-percentuais descrevem <b>demanda mapeada</b>, não demanda total. Cada seed novo alarga o mapa.
-Nenhum percentual da parte de IA deve ser lido como participação sobre o universo da categoria.</p>
-<p><b>Em busca, os arquivos por marca têm profundidade diferente</b> — Brastemp com 1.998
+<p><b>Em busca, os recortes por marca têm profundidade diferente</b> — Brastemp com 1.998
 keywords, Haier com 44. A composição interna de cada marca é comparável; o tamanho entre marcas
 não. Por isso a comparação de cobertura entre players só é válida na base de IA, cujos
-{len(U["seeds"])} exports partem todos dos mesmos seeds de categoria.</p>"""))
+{len(U["seeds"])} pontos de partida são todos de categoria e nenhum carrega nome de marca.</p>
+<p><b>Em IA, cada relatório de visibilidade monta o próprio universo de perguntas</b>, em torno
+do domínio analisado. O mesmo player aparece com valores diferentes em relatórios diferentes.
+Share of voice nunca se compara entre relatórios, só entre players dentro do mesmo — e
+<b>quando os relatórios divergem, o número de referência do material é sempre o do relatório da
+Electrolux</b>; os de concorrente entram como confirmação.</p>"""))
 
 S.append(secao("03", "As medidas, uma a uma", "".join([
     medida("Cobertura",
@@ -188,19 +190,21 @@ duas grafias da marca.</p>"""))
 S.append(secao("06", "O que pode e o que não pode ser comparado", f"""
 {tab(["Comparação", "Pode?", "Por quê"], [
   ["Cobertura de uma marca contra outra, em IA", '<b class="ok">Sim</b>',
-   f"Os {len(U['seeds'])} exports partem dos mesmos seeds de categoria, e nenhum carrega nome de marca. Marca que aparece foi descoberta pela ferramenta."],
+   f"Os {len(U['seeds'])} pontos de partida são todos de categoria e nenhum carrega nome de marca. Marca que aparece foi descoberta pela ferramenta."],
   ["Perfil de jornada de uma marca contra outra, em busca", '<b class="ok">Sim</b>',
    "A composição interna de cada marca não depende da profundidade do recorte."],
   ["Trajetória de uma marca contra outra", '<b class="ok">Sim</b>',
    "A inclinação é relativa à própria série da marca, descontada a categoria."],
   ["Volume absoluto de uma marca contra outra, em busca", '<b class="nao">Não</b>',
-   "Brastemp foi exportada com 1.998 keywords e Haier com 44. O tamanho reflete o recorte."],
+   "O recorte de Brastemp tem 1.998 keywords e o de Haier, 44. O tamanho reflete a profundidade do recorte, não a marca."],
   ["Citação em resposta de uma marca contra outra", '<b class="nao">Não</b>',
-   "Os exports de prompt são semeados por marca, e Consul, Samsung e Haier não têm seed. Quem tem seed aparece mais por construção."],
+   "Os recortes de prompt partem de nomes de marca, e Consul, Samsung e Haier não têm um. Quem tem aparece mais por construção — por isso a leitura de citação usa só o recorte limpo."],
   ["Volume de busca somado com volume de IA", '<b class="nao">Não</b>',
    "Unidades diferentes. Buscas por mês e volume de tópico não são a mesma coisa."],
   ["Ocupação de um domínio contra a cobertura de outra marca", '<b class="nao">Não</b>',
    "São medidas distintas. Ocupação só se compara com ocupação."],
+  ["Share of voice entre dois relatórios de visibilidade", '<b class="nao">Não</b>',
+   "Cada relatório monta o próprio universo de perguntas. Só vale a comparação entre players dentro do mesmo relatório, e o número de referência do material é o do relatório da Electrolux."],
 ], "wide")}
 <h3>O recorte limpo dos prompts</h3>
 <p>Onde a leitura depende de a IA citar uma marca, o material usa só as <b>{n(PP["n_limpo"])}
@@ -211,7 +215,7 @@ das sete marcas.</p>"""))
 S.append(secao("07", "Glossário rápido", tab(["Termo", "O que quer dizer aqui"], [
   ["<b>Tópico</b>", "Agrupamento de prompts que os assistentes tratam como o mesmo assunto. É a unidade da base de IA."],
   ["<b>Prompt</b>", "A pergunta real que uma pessoa fez a um assistente."],
-  ["<b>Seed</b>", "O termo de partida de um export. Define o que a ferramenta foi procurar, e por isso define o viés."],
+  ["<b>Seed</b>", "O termo de partida de um recorte. Define o que a ferramenta foi procurar, e por isso define o viés."],
   ["<b>Intent</b>", "Classificação da própria ferramenta sobre a disposição da consulta: informacional, comercial, transacional, navegacional, tarefa."],
   ["<b>Visibility</b>", "Nota de 0 a 100 que mede quanto de um tópico um domínio ocupa. Entra no cálculo de ocupação."],
   ["<b>AI Overview</b>", "Resumo gerado que o Google entrega no topo da busca em vez de links. Mede mediação, não presença da marca dentro do resumo."],
