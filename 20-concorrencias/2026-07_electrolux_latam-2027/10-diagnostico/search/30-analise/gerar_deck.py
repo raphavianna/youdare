@@ -14,6 +14,8 @@ from pathlib import Path
 B = Path(__file__).resolve().parent.parent
 D = json.load(open(B/"30-analise"/"dados_do_deck.json", encoding="utf-8"))
 P, SD, HD, AI, J4 = D["players"], D["sem_dono"], D["categoria_heads"], D["ai"], D["jornada4"]
+META = D["meta"]
+PAN, U = D["panorama"], D["panorama"]["universo"]   # usados ja na abertura
 
 # paleta categorica validada por dataviz/scripts/validate_palette.js (dark, superficie #1a1a19)
 COR = {"electrolux":"#3987e5","brastemp":"#d95926","consul":"#199e70","samsung":"#c98500",
@@ -24,17 +26,21 @@ NOME.update({"sem_dono":"Território sem dono","generico":"Categoria (heads)"})
 # rampa sequencial ordinal para os estagios da jornada (claro -> escuro)
 EST = {"sem_marca":"#f7e3b8","descoberta":"#f2c777","escolha":"#c98500","posse":"#7d5300","nc":"#2e2e2b"}
 MESES = ["ago","set","out","nov","dez","jan","fev","mar","abr","mai","jun","jul"]
-# fontes: sem nomear ferramenta, por decisao editorial
-F_KW  = "Base de busca Brasil · 4.965 keywords · ago/25–jul/26"
-F_CAUDA = "Base de busca Brasil · 492 keywords sem marca com volume"
-F_IA  = "Respostas de IA · 150 perguntas sem marca × 5 provedores"
-F_REF = "Tráfego vindo de LLM · 12 meses · 4 domínios"
-
 def e(s): return html.escape(str(s))
 def dec(v): return str(v).replace(".", ",")          # decimal em pt-BR
 def vs(k):  return f'{P[k]["inclinacao_vs_categoria"]:.2f}'.replace(".", ",")  # ano a ano vs categoria
 def n(v): return f"{v:,.0f}".replace(",", ".")
 def pct(v, d=1): return f"{v:.{d}f}".replace(".", ",") + "%"
+EXT = {1:"um",2:"dois",3:"três",4:"quatro",5:"cinco",6:"seis",7:"sete"}
+def ext(k): return EXT.get(k, str(k))   # numeral por extenso, para prosa
+
+# fontes: sem nomear ferramenta, por decisao editorial
+F_KW  = f'Base de busca Brasil · {n(META["kw_total"])} keywords · ago/25–jul/26'
+F_CAUDA = f'Base de busca Brasil · {n(META["kw_cauda"])} keywords sem marca com volume'
+# "All AI Platforms" e o agregado da propria ferramenta, nao um provedor
+N_PROV_IA = len([k for k in AI["marcas"]["Electrolux"]["cobertura"] if k != "All AI Platforms"])
+F_IA  = f'Respostas de IA · {META["perguntas_ia"]} perguntas sem marca × {N_PROV_IA} provedores'
+F_REF = "Tráfego vindo de LLM · 12 meses · 4 domínios"
 
 slides, apendice = [], []
 
@@ -283,8 +289,8 @@ IDX_ABERTURA = len(slides)   # o argumento de abertura e montado no fim
 slide("ambos", "As fontes", "Duas fontes de demanda, lidas separadamente antes de serem cruzadas",
   "Busca mostra o que as pessoas digitam. IA mostra o que elas perguntam e o que os assistentes respondem. As duas foram fechadas de forma independente.",
   '<div class="fontes">'
-  f'<div class="fx"><span class="fxb b-search">Search</span><span class="fxv">4,9 mil</span><span class="fxl">keywords da categoria e das marcas</span></div>'
-  f'<div class="fx"><span class="fxb b-ia">IA</span><span class="fxv">2,3 mil</span><span class="fxl">tópicos de demanda mediada por assistente</span></div>'
+  f'<div class="fx"><span class="fxb b-search">Search</span><span class="fxv">{n(META["kw_total"])}</span><span class="fxl">keywords da categoria e das marcas</span></div>'
+  f'<div class="fx"><span class="fxb b-ia">IA</span><span class="fxv">{n(U["topicos_categoria"])}</span><span class="fxl">tópicos de demanda mediada por assistente</span></div>'
   '</div>' +
   tabela(["","O que enxerga","O que não enxerga"], [
     ['<span class="badge b-search">Search</span>',"Demanda expressa, sua composição, os termos exatos, a forma ao longo de 12 meses","Quem captura cada consulta · demanda latente · conversão"],
@@ -412,7 +418,7 @@ slide("search", "Retrato", "Metade da demanda de busca acontece antes de qualque
   kpis([(n(SD["volume"]), "buscas/mês de serviço sem nenhum fabricante", COR["sem_dono"]),
         (f'{SD["ai_overview"]}%', "já respondidas com resumo de IA", "#c98500")]) +
   '</div></div>',
-  f'O estágio 0 é {PC(J4["sem_marca"])} da demanda e não pertence a nenhum player. Os outros {pct(100 - 100*J4["sem_marca"]/J4["total"],1)} trazem um nome de fabricante escrito na busca — é essa fatia que se reparte entre as sete marcas. Dentro do estágio 0, {n(SD["volume"])} buscas/mês são de quem já tem o produto e procura serviço sem nomear quem fabricou — é a coluna da direita.', F_KW + " · 492 keywords sem marca com volume")
+  f'O estágio 0 é {PC(J4["sem_marca"])} da demanda e não pertence a nenhum player. Os outros {pct(100 - 100*J4["sem_marca"]/J4["total"],1)} trazem um nome de fabricante escrito na busca — é essa fatia que se reparte entre as sete marcas. Dentro do estágio 0, {n(SD["volume"])} buscas/mês são de quem já tem o produto e procura serviço sem nomear quem fabricou — é a coluna da direita.', F_KW + f' · {n(META["kw_cauda"])} keywords sem marca com volume')
 
 slide("search", "Electrolux", "Contra a categoria, a demanda da Electrolux está parada",
   "Cada linha é a <b>fatia da categoria</b> que a marca tem, mês a mês, indexada ao próprio primeiro mês. "
@@ -462,8 +468,10 @@ slide("search", "Electrolux", "Mais gente procura assistência da Electrolux do 
   "A necessidade existe e a estrutura existe; o que falta é o consumidor conhecer o nome da frente. Cada barra traz a família em que a frente cai, e nenhuma delas é família por si.", F_KW + " + cauda sem marca")
 
 INCL = {f: v for f, v in el["familias_inclinacao"].items() if v["volume"] >= 100 and f != "nao classificado"}
+_incl4 = ", ".join(f'{FAMLAB.get(f, f.capitalize()).lower()} ({dec(v["inclinacao"])})'
+                   for f, v in sorted(INCL.items(), key=lambda i: -i[1]["inclinacao"])[:4])
 slide("search", "Electrolux", "Dentro da Electrolux, quem cresce é a demanda de quem já tem o produto",
-  "Inclinação por família dentro da marca: acima de 1,00 a família cresce, abaixo encolhe. As quatro primeiras são todas de posse.",
+  "Inclinação por família dentro da marca: acima de 1,00 a família cresce ao longo dos doze meses, abaixo encolhe. Em destaque, as famílias de posse.",
   barras_h([(FAMLAB.get(f, f.capitalize()),
              v["inclinacao"], "posse" if f in [x[0] for x in FAM_ESTAGIO["posse"]] else None)
             for f, v in sorted(INCL.items(), key=lambda i: -i[1]["inclinacao"])],
@@ -471,7 +479,9 @@ slide("search", "Electrolux", "Dentro da Electrolux, quem cresce é a demanda de
            fmt=lambda v: str(round(v, 2)).replace(".", ",")) +
   chips_familias([("defeito","Defeito"),("garantia","Garantia"),
                   ("peca e consumivel","Peça e consumível"),("manual e uso","Manual e uso")], escopo=el),
-  "As quatro famílias de posse (defeito, garantia, peça e manual) são as que mais crescem. Especificação de produto vem depois, e a demanda pelo nome da marca fica parada.", F_KW)
+  f'As quatro famílias que mais crescem são todas de posse — {_incl4}. '
+  f'Especificação de produto vem depois, com {dec(INCL["especificacao produto"]["inclinacao"])}, e é a maior em volume ({n(INCL["especificacao produto"]["volume"])} buscas/mês). '
+  f'A demanda pelo nome da marca fica parada, em {dec(INCL["marca e navegacao"]["inclinacao"])}.', F_KW)
 
 slide("search", "Electrolux", "Geladeira concentra um terço da demanda de marca da Electrolux",
   "Peso de cada categoria de produto dentro da demanda da marca, e as consultas que mais pesam.",
@@ -506,7 +516,6 @@ def bloco_player(k, titulo, subtitulo, leitura):
           f'<div class="col2"><div>{esq}</div><div>{dir_}</div></div>' + chips_estagio(p), leitura, F_KW)
 
 # ============================================== PARTE 2 · O PANORAMA DE IA
-PAN, U = D["panorama"], D["panorama"]["universo"]
 CN, SM, ES, OC = PAN["cobertura_nome"], PAN["sem_marca"], PAN["estagios"], PAN["ocupacao"]
 DOM0 = list(OC.values())[0] if OC else None   # dominio com tópicos de marca medidos
 NUC_ORD = sorted([k for k in CN if k != "outras_marcas"], key=lambda k: -CN[k]["pct"])
@@ -665,7 +674,7 @@ if DOM:
        (pct(DOM["ocupacao_pct"], 1), "ocupação: de fato ocupa", "Ponderado pela visibilidade real. Menos da metade da presença.", "#c98500"),
        (str(DOM["visibility_mediana"]), "visibilidade mediana", "Nos tópicos em que aparece, ocupa cerca de um terço do espaço.", "#f0ede4"),
        (pct(DOM["por_estagio"]["posse"]["descoberto"], 1), "da posse sem ela", "O estágio em que está mais ausente é o de vida com o produto.", EST["posse"])],
-      f'A marca com a maior base instalada da categoria ocupa <b>{pct(DOM["ocupacao_pct"],1)}</b> da demanda mediada por IA. Esse é o patamar de quem lidera em base instalada, o que situa o tamanho do território vago para todos os outros. <b>Não leia este número contra os {pct(CN["electrolux"]["pct"],1)} de cobertura da Electrolux</b>: cobertura é o que se pergunta, ocupação é o que a IA mostra, e a Electrolux ainda não tem esta segunda medida calculada.',
+      f'A {DOM["dominio"].split(".")[0].capitalize()} — a única marca do conjunto com esta medida calculada hoje — ocupa <b>{pct(DOM["ocupacao_pct"],1)}</b> da demanda mediada por IA. Serve de referência de patamar: mesmo uma marca estabelecida da categoria ocupa menos de um décimo da conversa. <b>Não leia este número contra os {pct(CN["electrolux"]["pct"],1)} de cobertura da Electrolux</b>: cobertura é o que se pergunta, ocupação é o que a IA mostra, e a Electrolux ainda não tem esta segunda medida calculada.',
       f'Tópicos de marca · {DOM["dominio"]} · {DOM["topicos_no_universo"]} tópicos de categoria em que o domínio aparece')
 
     slide("ia", "Ocupação", f'A {DOM["dominio"].split(".")[0].capitalize()} aparece em {pct(DOM["presenca_pct"],1)} da demanda da categoria e ocupa {pct(DOM["ocupacao_pct"],1)}',
@@ -711,6 +720,10 @@ slide("ia", "Retrato", "Quanto mais a pergunta se afasta da compra, menos a IA n
 V = PAN["visibility"]
 VNOME = {"electrolux":"Electrolux","brastemp":"Brastemp","consul":"Consul","midea":"Midea",
          "samsung":"Samsung","lg":"LG","panasonic":"Panasonic","outras":"Outras marcas"}
+# relatorios de concorrente e em quantos deles a Electrolux passa o dono da casa
+_CONC = [d for d in V.values() if d["dono"] != "electrolux"]
+_ACIMA = [d for d in _CONC
+          if d["electrolux_sov"] > next(p[1] for p in d["players"] if p[0] == d["dono"])]
 EL_CHAT = V["loja-electrolux · ChatGPT"]["electrolux_sov"]
 EL_AIM  = V["loja-electrolux · Google AI Mode"]["electrolux_sov"]
 slide("ia", "Visibilidade", "Onde quer que se olhe, a Electrolux é das marcas mais faladas",
@@ -729,7 +742,8 @@ slide("ia", "Visibilidade", "Onde quer que se olhe, a Electrolux é das marcas m
         (f'{pct(V["midea · Google AI Mode"]["electrolux_sov"],1)} a {pct(V["consul · Google AI Mode"]["electrolux_sov"],1)}',
          "faixa em que ela aparece nos relatórios dos concorrentes", "#6b6a63")]),
   f'Nos relatórios da própria Electrolux ela é 1ª nas duas plataformas, com {pct(EL_CHAT,1)} e {pct(EL_AIM,1)} — são esses os números que valem. '
-  f'Os relatórios de concorrente confirmam a leitura por outro caminho: em dois dos três, a Electrolux aparece mais que o dono da casa. '
+  f'Os {ext(len(_CONC))} relatórios de concorrente confirmam a leitura por outro caminho: '
+  f'em {"ambos" if len(_ACIMA) == len(_CONC) else str(len(_ACIMA))} a Electrolux aparece mais que o dono da casa. '
   f'E no da Consul quem lidera é a Brastemp, com {pct([p[1] for p in V["consul · Google AI Mode"]["players"] if p[0] == "brastemp"][0],1)} — posição que ela não tem em nenhuma outra medida do material.',
   "Relatórios de visibilidade em IA · 4 relatórios · 3 domínios")
 
@@ -744,14 +758,24 @@ slide("ia", "Visibilidade", "A percepção da marca muda de acordo com o assiste
   "Relatórios de visibilidade em IA · loja.electrolux.com.br")
 
 REF = AI["referrals"]
-slide("ia", "Tendência", "O tráfego vindo de LLM multiplicou por 5,4 em doze meses",
-  "Visitas mensais que chegam a cada domínio a partir de assistentes de IA.",
+# tudo calculado da serie: nenhum multiplo nem variacao digitada
+_RS   = REF["series"]
+_RTOT = [sum(s[i] for s in _RS.values()) for i in range(len(REF["meses"]))]
+_REL  = _RS["loja.electrolux.com.br"]
+_h    = len(_RTOT) // 2
+MULT_EL  = _REL[-1] / (_REL[0] or 1)
+MULT_CAT = _RTOT[-1] / (_RTOT[0] or 1)
+VAR_SEM  = 100 * (sum(_RTOT[_h:]) / (sum(_RTOT[:_h]) or 1) - 1)
+SH_INI, SH_FIM = 100*_REL[0]/_RTOT[0], 100*_REL[-1]/_RTOT[-1]
+slide("ia", "Tendência", f'O tráfego vindo de LLM multiplicou por {dec(round(MULT_EL,1))} na Electrolux e por {dec(round(MULT_CAT,1))} nos quatro domínios',
+  "Visitas mensais que chegam a cada domínio a partir de assistentes de IA. Os quatro domínios são os únicos da categoria com a medida disponível.",
   linhas({("electrolux" if "electrolux" in d else "brastemp" if "brastemp" in d else "consul" if "consul" in d else "midea"): s
-          for d, s in REF["series"].items()}, destaque="electrolux",
+          for d, s in _RS.items()}, destaque="electrolux", rotular_todos=True,
          rotulos_x=[m[-2:] for m in REF["meses"]], y0=0) +
-  kpis([(n(REF["series"]["loja.electrolux.com.br"][-1]), "visitas/mês da loja vindas de LLM", "#3987e5"),
-        ("+75%", "1º contra 2º semestre", "#f0ede4"), ("39,9% → 46,0%", "share da Electrolux no canal", "#199e70")]),
-  "O canal cresce para todos. A Electrolux sai na frente em volume e ganha participação dentro dele.", F_REF)
+  kpis([(n(_REL[-1]), "visitas/mês da loja vindas de LLM", "#3987e5"),
+        (f'+{VAR_SEM:.0f}%', "os quatro domínios somados · 2º semestre contra o 1º", "#f0ede4"),
+        (f'{pct(SH_INI,1)} → {pct(SH_FIM,1)}', "share da Electrolux dentro do canal", "#199e70")]),
+  f'O canal cresce para todos — os quatro domínios somados sobem {VAR_SEM:.0f}% de um semestre para o outro. A Electrolux sai na frente em volume e ainda ganha participação dentro dele, de {pct(SH_INI,1)} para {pct(SH_FIM,1)}.', F_REF)
 
 # ================================================================== PARTE 3
 slides.append("""<section class="slide divisor"><div class="slide-inner">
@@ -790,7 +814,7 @@ slide("ambos", "Síntese", "As duas fontes concordam sobre o vão e discordam so
   "Onde busca e IA convergem, a leitura é robusta. Onde divergem, a divergência é informação sobre como cada canal funciona.",
   tabela(["","<span class='badge b-search'>Search</span>","<span class='badge b-ia'>IA</span>"],
     [["<b>Posição da Electrolux</b>","3ª em volume de marca · recortes de profundidade diferente impedem comparar tamanho entre players", f'<b>{pct(CN["electrolux"]["pct"],1)}</b> de cobertura sobre o total · <b>1ª entre as sete</b>'],
-     ["<b>Trajetória</b>","não ganha share; quem cresce são os entrantes","share de tráfego <b>39,9% → 46,0%</b>"],
+     ["<b>Trajetória</b>","não ganha share; quem cresce são os entrantes",f'share de tráfego <b>{pct(SH_INI,1)} → {pct(SH_FIM,1)}</b>'],
      ["<b>Posse</b>", f'{pct(el["posse"])} da demanda da marca · metade da Consul', f'cobre {pct(CN["electrolux"]["por_estagio"]["posse"]["pct"],2)} do estágio · a maior das sete é a {CN[POSSE_TOP[0]]["nome"]}, com {pct(POSSE_TOP[1],2)}'],
      ["<b>Quem ocupa a posse</b>", f'Consul, com {pct(P["consul"]["posse"])} da demanda dela', f'Ninguém: {pct(ES["posse"]["sem_marca_pct"],1)} do estágio não tem marca no nome'],
      ["<b>Percepção</b>","não é o que a fonte mede", f'sentimento {dec(AI["marcas"]["Electrolux"]["sentimento"])}, 2º pior do conjunto']], "wide"),
@@ -831,7 +855,7 @@ slide("ambos", "Fechamento", "O que muda com o tempo, e o que não",
 _p1=[]
 sintese("search", "Parte 1 · Síntese", "A marca é grande onde se escolhe o produto e pequena onde se convive com ele",
   "O que esta parte estabelece, antes de abrir marca por marca. Toda a leitura é de demanda de busca no Brasil, doze meses.",
-  [(pct(el["posse"]), "da demanda da Electrolux é posse", f'Contra {pct(P["consul"]["posse"])} da Consul, a única que converteu base instalada em demanda de pós-compra.', COR["electrolux"]),
+  [(pct(el["posse"]), "da demanda da Electrolux é posse", f'Contra {pct(P["consul"]["posse"])} da Consul, a única das sete em que a demanda de quem já comprou pesa de verdade.', COR["electrolux"]),
    (vs("electrolux"), "de share ano a ano contra a categoria", "A marca não perde e não ganha share. Hisense (1,40) e Haier (1,36) crescem.", "#f0ede4"),
    (n(SD["volume"]), "buscas/mês que ninguém reivindica", "Território 100% posse, sem fabricante nomeado em nenhuma consulta.", COR["sem_dono"]),
    (pct(100*V_FRENTES/el["volume"], 1), "é o que as sete frentes somam", "A estrutura de serviço existe e o nome dela quase não é procurado.", "#d95926")],

@@ -9,7 +9,7 @@ entra aqui. Duplicatas foram removidas por hash de conteúdo, não por nome de a
 
 | Tipo | Qtd | Detalhe |
 |---|---:|---|
-| `topics_by_fts` de **categoria** | **19** | Entram no cálculo de cobertura |
+| `topics_by_fts` de **categoria** | **19 arquivos · 16 seeds distintos** | Entram no cálculo de cobertura |
 | `topics_by_fts` de **marca** | 1 | `consul` — isolado, **fora** da cobertura (ver §3) |
 | `prompts_by_topic` | 5 | `brastemp`, `eletrolux`, `geladeira`, `hisense`, `midea` |
 | `brand_topics` | 1 | `brastemp.com.br` |
@@ -78,7 +78,7 @@ entraram e **a cobertura não se moveu** — Electrolux 5,69% antes e depois. Ro
 
 **Tópicos de serviço: nunca testado. Vale, e é o único que pode mover a leitura.** A saturação
 acima é da dimensão *categoria de produto*. A dimensão *necessidade de serviço* não foi
-explorada nenhuma vez em 19 seeds.
+explorada nenhuma vez.
 
 **Prompts sem marca: subdimensionado. É onde expandir mais rende.** A amostra limpa — a única
 em que citar um fabricante é decisão do modelo e não eco do prompt — tem **943 respostas de um
@@ -121,7 +121,7 @@ Nenhum tem nome de marca, então a amostra continua limpa.
 
 ### Bloco B · `topics_by_fts` de serviço — o teste que falta
 
-Nenhum dos 19 seeds é de serviço. Com a taxonomia corrigida a posse mede **9,6%**, e mais
+Nenhum dos 16 seeds distintos é de serviço. Com a taxonomia corrigida a posse mede **9,6%**, e mais
 seeds de produto não mexem nisso. Estes dizem se 9,6% é o tamanho real ou o piso:
 
 - `assistência técnica`

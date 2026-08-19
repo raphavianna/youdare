@@ -17,7 +17,7 @@ Dez arquivos no pacote. **Cinco eram duplicatas** e foram descartados:
 | `topics_by_fts_ar_condicionado_br (1)` | **Zero tópicos inéditos** — mesmo export reordenado |
 | `Desempenho_da_marca-loja_electrolux 18/08` | Texto idêntico ao de 17/08; todos os números iguais |
 
-**Cinco entraram:**
+**Entraram:**
 
 | Entrou | O que é |
 |---|---|
@@ -67,12 +67,12 @@ Lendo cada um por dentro, que é o que vale:
 | Electrolux · ChatGPT | Electrolux 14,7% | Consul 12,1% | Brastemp 8,8% | 1º |
 | Electrolux · AI Mode | Electrolux 12,4% | Brastemp 11,6% | Consul 10,8% | 1º |
 
-**Em dois dos três relatórios de concorrente, a Electrolux aparece mais que o dono da casa.** No
+**Nos dois relatórios de concorrente, a Electrolux aparece mais que o dono da casa.** No
 universo de perguntas construído em torno do domínio da Consul, ela é 16,5% contra 14,6% da
 própria Consul. No da Midea, 11,2% contra 8,2%. Comparação interna, portanto válida.
 
-É a sexta medida independente a apontar a mesma coisa: a Electrolux é a marca mais presente da
-categoria em ambiente mediado por IA.
+É mais uma medida independente a apontar a mesma coisa: a Electrolux é a marca mais presente
+da categoria em ambiente mediado por IA.
 
 **E há um contraponto que não estava dado.** No relatório da Consul, quem lidera não é nenhuma
 das duas: é a **Brastemp, com 17,3%**. A Brastemp não aparece como líder em nenhuma outra
@@ -144,7 +144,7 @@ A base de tópicos não se moveu porque nada de tópico entrou. A base de prompt
 (n=18). Ambas precisam de 20. Um seed de `conserto de geladeira` ou `assistência técnica`
 fecharia as duas de uma vez, e são justamente as duas famílias mais centrais à tese de serviço.
 
-**`topics_by_fts` de serviço:** nenhum dos 19 seeds de tópico é de serviço. A posse segue medida
+**`topics_by_fts` de serviço:** nenhum dos 16 seeds distintos de tópico é de serviço. A posse segue medida
 em 9,6% e nada no pacote de hoje testou se esse é o piso.
 
 **`brand_topics` por domínio:** os PDFs de AI Visibility entregam SOV e sentimento, mas **não
