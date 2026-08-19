@@ -55,12 +55,14 @@ critérios que aparentemente pesam presença institucional e reputação de marc
 Electrolux se beneficia da segunda lógica mais do que da primeira.
 
 Isso é oportunidade e risco na mesma frase: **a marca está ganhando exatamente onde o canal
-cresceu 5,4 vezes em doze meses — e não construiu essa vantagem deliberadamente.** Vantagem que
+cresceu 4,7 vezes em doze meses — e 5,4 vezes para ela própria — sem ter construído essa
+vantagem deliberadamente.** Vantagem que
 não se sabe por que existe é vantagem que não se sabe defender.
 
 **Segunda divergência: receita migrou de canal.** Em busca, receita é a menor família do
-território sem dono — 3.010, 1,4% dele. Em IA, "uso e receita" é a **maior** família de posse,
-com 410.094 de volume. Dentro de cada fonte, posições opostas.
+território sem dono — 3.010, 1,4% dele. Em IA, "uso e receita" é a **3ª maior** família do estágio de posse,
+com 438.023 de volume — 19,5% do estágio, à frente de defeito, instalação e consumo. Dentro de
+cada fonte, posições quase opostas: última lá, terceira aqui.
 
 A leitura: **receita virou pergunta de assistente, não de buscador.** O briefing cita
 "pesquisar uma receita" como um dos pontos de entrada do consumidor na marca — e o dado diz que

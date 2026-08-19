@@ -202,10 +202,6 @@ def _exs(fam, prefer="marca", escopo=None):
             if key and src.get(key): return src[key]
     return []
 
-def ex(fam, k=3, prefer="marca", escopo=None):
-    """exemplos reais de consulta daquela familia, direto do dataset"""
-    return " · ".join(f'<code>{e(q)}</code>' for q, _ in _exs(fam, prefer, escopo)[:k])
-
 def exf(fam, rotulo, k=2, prefer="marca", escopo=None):
     """o mesmo, com a familia nomeada antes — nenhum termo de exemplo aparece solto"""
     qs = _exs(fam, prefer, escopo)[:k]
@@ -232,15 +228,10 @@ def chips_familias(lista, k=5, prefer="marca", escopo=None):
         itens.append(f'<span class="chip"><b>{e(lab)}</b><code>{e(exs[0][0])}</code></span>')
     return '<div class="chips">' + "".join(itens) + "</div>"
 
-def chips(estagio, k=4, prefer="marca", escopo=None):
-    """lista as familias do estagio com um exemplo real de consulta em cada"""
-    return chips_familias(FAM_ESTAGIO[estagio], k, prefer, escopo)
-
 FAMLAB = {f: lab for est in FAM_ESTAGIO.values() for f, lab in est}
 FAMLAB.update({"assistencia":"Assistência e reparo","peca":"Peça e consumível","manutencao":"Manutenção e cuidado",
                "consumo":"Consumo","receita":"Receita","descarte":"Descarte","sinonimo":"Categoria",
                "conectividade e smart":"Conectividade","nao classificado":"Não classificado"})
-EST_LAB = {"descoberta":"1 · Descoberta", "escolha":"2 · Escolha", "posse":"3 · Posse"}
 CATN = {"coccao":"cocção","lava loucas":"lava-louças","sem categoria":"sem categoria declarada"}
 def catn(c): return CATN.get(c, c).capitalize()
 TOPLAB = {"uso e receita":"Uso e receita","limpeza e manutencao":"Limpeza e manutenção",
@@ -258,17 +249,6 @@ def sintese(marca_fonte, parte, titulo, subtitulo, pontos, decide, fonte="", des
     corpo = (f'<div class="sintese">{cartoes}</div>'
              f'<div class="quadro"><span class="qh">O que este bloco decide</span><p>{decide}</p></div>')
     slide(marca_fonte, parte, titulo, subtitulo, corpo, "", fonte, destino)
-
-def chips_estagio(perfil, ests=("descoberta","escolha","posse")):
-    """as consultas que mais pesam em cada estagio DENTRO daquele recorte, com a familia de origem"""
-    itens = []
-    for est in ests:
-        t = (perfil.get("top_estagio") or {}).get(est) or []
-        if not t: continue
-        kw, _, fam = t[0]
-        itens.append(f'<span class="chip e-{est}"><b>{EST_LAB[est]} · {e(FAMLAB.get(fam,fam))}</b>'
-                     f'<code>{e(kw)}</code></span>')
-    return '<div class="chips">' + "".join(itens) + "</div>"
 
 # ================================================================== ABERTURA
 slides.append(f"""<section class="slide capa"><div class="slide-inner">
@@ -494,27 +474,6 @@ slide("search", "Electrolux", "Geladeira concentra um terço da demanda de marca
   f'Ar condicionado é {pct(el["categorias"].get("ar condicionado", 0))} da demanda da Electrolux, contra {pct(P["midea"]["categorias"].get("ar condicionado", 0))} da Midea e {pct(P["haier"]["categorias"].get("ar condicionado", 0))} da Haier.', F_KW)
 
 # --- demais players
-def bloco_player(k, titulo, subtitulo, leitura):
-    """So dado de busca. Tudo que e IA vive na Parte 2, depois do modelo de IA."""
-    p = P[k]
-    esq = barras_empilhadas([("Jornada", [("Descoberta", p["descoberta"], EST["descoberta"]),
-                                          ("Escolha", p["escolha"], EST["escolha"]),
-                                          ("Posse", p["posse"], EST["posse"]),
-                                          ("Não class.", p["nao_class"], EST["nc"])], "")]) + \
-          legenda([("Descoberta", EST["descoberta"]), ("Escolha", EST["escolha"]),
-                   ("Posse", EST["posse"]), ("Não class.", EST["nc"])]) + \
-          barras_h([(catn(c), v, k) for c, v in list(p["categorias"].items())[:6]],
-                   lambda x: COR[k], fmt=lambda v: pct(v))
-    dir_ = kpis([(n(p["volume"]), "buscas/mês", COR[k]),
-                 (vs(k), "ano a ano vs categoria", "#f0ede4"),
-                 (f'{indexar(p["serie_relativa"])[-1]:.0f}', "ponta a ponta, base 100", "#f0ede4")]) + \
-           '<div class="mm"><span class="mml">Mês a mês</span>' + sparkbar(p["serie_relativa"]) + '</div>' + \
-           tabela(["Maiores consultas da marca","Família","Buscas/mês"],
-                  [[e(kw), f'<span class="fam">{e(FAMLAB.get(f, f.capitalize()))}</span>', "<b>" + n(v) + "</b>"]
-                   for kw, v, f in p["top_keywords"][:5]])
-    slide("search", p["nome"], titulo, subtitulo,
-          f'<div class="col2"><div>{esq}</div><div>{dir_}</div></div>' + chips_estagio(p), leitura, F_KW)
-
 # ============================================== PARTE 2 · O PANORAMA DE IA
 CN, SM, ES, OC = PAN["cobertura_nome"], PAN["sem_marca"], PAN["estagios"], PAN["ocupacao"]
 DOM0 = list(OC.values())[0] if OC else None   # dominio com tópicos de marca medidos
