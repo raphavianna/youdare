@@ -726,26 +726,22 @@ _ACIMA = [d for d in _CONC
           if d["electrolux_sov"] > next(p[1] for p in d["players"] if p[0] == d["dono"])]
 EL_CHAT = V["loja-electrolux · ChatGPT"]["electrolux_sov"]
 EL_AIM  = V["loja-electrolux · Google AI Mode"]["electrolux_sov"]
-slide("ia", "Visibilidade", "Onde quer que se olhe, a Electrolux é das marcas mais faladas",
-  "Share of voice em resposta de IA, de quatro relatórios sobre três domínios. <b>Cada relatório monta o próprio universo de perguntas, em torno do domínio analisado</b>, então a comparação só vale entre players da mesma linha. Em negrito, o dono de cada relatório. "
-  "<b>Quando o mesmo player aparece com valores diferentes, o número de referência é o do relatório da Electrolux</b>; os demais entram como confirmação, não como medida.",
-  tabela(["Relatório", "1º", "2º", "3º", "Onde o dono fica", "Sentimento do dono"],
+slide("ia", "Visibilidade", "A Electrolux é a marca mais falada nas respostas de IA, nas duas plataformas medidas",
+  "Share of voice em resposta de IA, dos dois relatórios sobre o domínio da marca. <b>Cada relatório monta o próprio universo de perguntas em torno do domínio analisado</b>, então a comparação vale entre os players da mesma linha — e o número de referência do material é sempre o do relatório da Electrolux.",
+  tabela(["Relatório", "1º", "2º", "3º", "Posição da Electrolux", "Sentimento favorável"],
     [[f'<b>{VNOME.get(d["dono"], d["dono"])}</b><br><span class="th2">{d["plataforma"]}</span>'] +
      [(f'<b>{VNOME.get(m, m)} {pct(sv,1)}</b>' if dono else f'{VNOME.get(m, m)} {pct(sv,1)}')
       for m, sv, _, dono in [x for x in d["players"] if x[0] != "outras"][:3]] +
      [f'<b class="{"up" if d["posicao_do_dono"] == 1 else "down"}">{d["posicao_do_dono"]}º</b>',
       f'<b class="{"down" if (d["favoravel_do_dono"] or 0) < 60 else "up"}">{d["favoravel_do_dono"]}%</b>']
-     for d in V.values()], "wide") +
-  kpis([(pct(EL_CHAT, 1), "SOV da Electrolux no ChatGPT · relatório dela, o número de referência", COR["electrolux"]),
-        (pct(EL_AIM, 1), "SOV da Electrolux no Google AI Mode · relatório dela", COR["electrolux"]),
-        ("1º", "posição dela nos dois relatórios próprios", "#199e70"),
-        (f'{pct(V["midea · Google AI Mode"]["electrolux_sov"],1)} a {pct(V["consul · Google AI Mode"]["electrolux_sov"],1)}',
-         "faixa em que ela aparece nos relatórios dos concorrentes", "#6b6a63")]),
-  f'Nos relatórios da própria Electrolux ela é 1ª nas duas plataformas, com {pct(EL_CHAT,1)} e {pct(EL_AIM,1)} — são esses os números que valem. '
-  f'Os {ext(len(_CONC))} relatórios de concorrente confirmam a leitura por outro caminho: '
-  f'em {"ambos" if len(_ACIMA) == len(_CONC) else str(len(_ACIMA))} a Electrolux aparece mais que o dono da casa. '
-  f'E no da Consul quem lidera é a Brastemp, com {pct([p[1] for p in V["consul · Google AI Mode"]["players"] if p[0] == "brastemp"][0],1)} — posição que ela não tem em nenhuma outra medida do material.',
-  "Relatórios de visibilidade em IA · 4 relatórios · 3 domínios")
+     for d in V.values() if d["dono"] == "electrolux"], "wide") +
+  kpis([(pct(EL_CHAT, 1), "SOV no ChatGPT · 1º, à frente de Consul e Brastemp", COR["electrolux"]),
+        (pct(EL_AIM, 1), "SOV no Google AI Mode · 1º, à frente de Brastemp e Consul", COR["electrolux"]),
+        (f'{V["loja-electrolux · ChatGPT"]["favoravel_do_dono"]}%', "sentimento favorável no ChatGPT", "#d95926"),
+        (f'{V["loja-electrolux · Google AI Mode"]["favoravel_do_dono"]}%', "no Google AI Mode — a tela seguinte abre essa distância", "#199e70")]),
+  f'Primeira nas duas plataformas, com {pct(EL_CHAT,1)} e {pct(EL_AIM,1)}. Os {ext(len(_CONC))} relatórios rodados sobre domínio de concorrente confirmam por outro caminho: '
+  f'em {"ambos" if len(_ACIMA) == len(_CONC) else str(len(_ACIMA))} a Electrolux aparece mais que o dono da casa — mas cada um mede um universo próprio de perguntas, então eles sustentam a leitura, não os números.',
+  "Relatórios de visibilidade em IA · loja.electrolux.com.br · ChatGPT e Google AI Mode")
 
 slide("ia", "Visibilidade", "A percepção da marca muda de acordo com o assistente",
   "Sentimento favorável do mesmo domínio, <code>loja.electrolux.com.br</code>, medido no mesmo dia em duas plataformas.",
@@ -767,32 +763,51 @@ MULT_EL  = _REL[-1] / (_REL[0] or 1)
 MULT_CAT = _RTOT[-1] / (_RTOT[0] or 1)
 VAR_SEM  = 100 * (sum(_RTOT[_h:]) / (sum(_RTOT[:_h]) or 1) - 1)
 SH_INI, SH_FIM = 100*_REL[0]/_RTOT[0], 100*_REL[-1]/_RTOT[-1]
+NOME_DOM = {"loja.electrolux.com.br":"electrolux","brastemp.com.br":"brastemp",
+            "consul.com.br":"consul","midea.com.br":"midea"}
+# cenario declarado: se um plano de AI dobrar a cobertura da marca (5,7% -> 11,4%),
+# e as visitas acompanharem a cobertura proporcionalmente, o trafego dobra.
+# Piso: canal congelado no tamanho atual. Teto: canal mantendo o ritmo do ultimo semestre.
+PROJ_PISO = 2 * _REL[-1]
+PROJ_TETO = 2 * _REL[-1] * (1 + VAR_SEM/100)
 slide("ia", "Tendência", f'O tráfego vindo de LLM multiplicou por {dec(round(MULT_EL,1))} na Electrolux e por {dec(round(MULT_CAT,1))} nos quatro domínios',
   "Visitas mensais que chegam a cada domínio a partir de assistentes de IA. Os quatro domínios são os únicos da categoria com a medida disponível.",
-  linhas({("electrolux" if "electrolux" in d else "brastemp" if "brastemp" in d else "consul" if "consul" in d else "midea"): s
-          for d, s in _RS.items()}, destaque="electrolux", rotular_todos=True,
-         rotulos_x=[m[-2:] for m in REF["meses"]], y0=0) +
-  kpis([(n(_REL[-1]), "visitas/mês da loja vindas de LLM", "#3987e5"),
-        (f'+{VAR_SEM:.0f}%', "os quatro domínios somados · 2º semestre contra o 1º", "#f0ede4"),
-        (f'{pct(SH_INI,1)} → {pct(SH_FIM,1)}', "share da Electrolux dentro do canal", "#199e70")]),
-  f'O canal cresce para todos — os quatro domínios somados sobem {VAR_SEM:.0f}% de um semestre para o outro. A Electrolux sai na frente em volume e ainda ganha participação dentro dele, de {pct(SH_INI,1)} para {pct(SH_FIM,1)}.', F_REF)
+  linhas({NOME_DOM[d]: sr for d, sr in _RS.items()}, destaque="electrolux", rotular_todos=True,
+         rotulos_x=[m[-2:] for m in REF["meses"]], y0=0, h=230) +
+  '<div class="col2"><div>' +
+  tabela(["Domínio","Visitas/mês · ago/25","· jul/26","Multiplicou por"],
+    [[f'<span class="dot" style="background:{COR[NOME_DOM[d]]}"></span>{NOME[NOME_DOM[d]]}',
+      n(sr[0]), f'<b>{n(sr[-1])}</b>', f'<b>{dec(round(sr[-1]/sr[0],1))}</b>']
+     for d, sr in sorted(_RS.items(), key=lambda x: -x[1][-1])]) +
+  '</div><div class="quadro"><span class="qh">E se um plano de AI dobrar a cobertura?</span>'
+  f'<p>Hoje a marca cobre {pct(CN["electrolux"]["pct"],1)} da demanda mediada e recebe <b>{n(_REL[-1])}</b> visitas/mês do canal. '
+  f'<b>Premissa declarada: visitas proporcionais à cobertura.</b> Dobrando a cobertura para {pct(2*CN["electrolux"]["pct"],1)}, o tráfego vai a '
+  f'<b>{n(PROJ_PISO)}/mês</b> com o canal no tamanho atual — e a <b>~{n(round(PROJ_TETO,-3))}/mês</b> se o canal mantiver o ritmo de +{VAR_SEM:.0f}% por semestre. '
+  f'É cenário para dimensionar a oportunidade, não previsão: a elasticidade real entre cobertura e visita é o que o plano mede no primeiro ciclo.</p></div></div>',
+  f'O canal cresce para todos — os quatro domínios somados sobem {VAR_SEM:.0f}% de um semestre para o outro — e a Electrolux já ganha participação dentro dele, de {pct(SH_INI,1)} para {pct(SH_FIM,1)}, sem plano dedicado. O cenário ao lado dimensiona o que um plano compra: entre {n(PROJ_PISO)} e ~{n(round(PROJ_TETO,-3))} visitas/mês.', F_REF)
 
 # ================================================================== PARTE 3
 slides.append("""<section class="slide divisor"><div class="slide-inner">
   <span class="parte">Parte 3</span><h2>Busca e IA juntas</h2>
   <p class="sub">O que as duas fontes dizem quando comparadas: onde convergem, onde divergem, e a leitura que só existe no cruzamento</p></div></section>""")
 
-slide("ambos", "Divergência", "Receita é a menor família em busca e a maior em IA",
-  "A mesma necessidade aparece em posições opostas nas duas fontes. É comportamento migrando de canal.",
+# a comparacao honesta e com o MESMO denominador dos dois lados:
+# a fatia que a familia de receita ocupa dentro da demanda de servico de cada fonte
+UR = PAN["estagios"]["posse"]["familias"]          # [familia, volume, % do estagio]
+UR_PCT  = next(pp for f, _, pp in UR if f == "uso e receita")
+UR_RANK = next(i+1 for i, (f, _, _) in enumerate(UR) if f == "uso e receita")
+UR_VOL  = next(v for f, v, _ in UR if f == "uso e receita")
+slide("ambos", "Divergência", "Quem quer cozinhar não pergunta ao buscador — pergunta ao assistente",
+  "A mesma medida nas duas fontes: quanto a família de receita pesa <b>dentro da demanda de serviço</b> de cada uma. Na busca ela é a última das famílias; em IA, a terceira — à frente de defeito, instalação e consumo.",
   '<div class="confronto">'
-  f'<div class="cf"><span class="cft">Em busca</span><span class="cfv" style="color:#6b6a63">{pct(SD["familias"]["receita"])}</span><span class="cfl">do território sem dono · a <b>menor</b> família</span></div>'
+  f'<div class="cf"><span class="cft">Na demanda de serviço em busca</span><span class="cfv" style="color:#6b6a63">{pct(SD["familias"]["receita"])}</span><span class="cfl"><b>a última</b> família da cauda de serviço</span></div>'
   '<div class="cfx">↔</div>'
-  f'<div class="cf"><span class="cft">Em IA</span><span class="cfv" style="color:#199e70">{pct(PAN["familias"]["uso e receita"]["pct"])}</span><span class="cfl">da categoria · a <b>maior</b> família de posse</span></div></div>' +
+  f'<div class="cf"><span class="cft">Na demanda de posse em IA</span><span class="cfv" style="color:#199e70">{pct(UR_PCT)}</span><span class="cfl"><b>a {UR_RANK}ª maior</b> família do estágio de posse</span></div></div>' +
   tabela(["Maiores tópicos de uso e receita em IA","Volume"],
          [[e(t), "<b>" + n(v) + "</b>"] for t, v in PAN["familias"]["uso e receita"]["exemplos"][:4]]) +
-  kpis([(n(PAN["familias"]["uso e receita"]["volume"]), "de volume em uso e receita na IA", "#199e70"),
-        (pct(PAN["familias"]["uso e receita"]["sem_marca_pct"]), "dele sem marca nenhuma", "#c98500")]),
-  "O briefing cita “pesquisar uma receita” como ponto de entrada. O dado diz que essa porta hoje é de assistente, não de buscador.", F_PAN + " · " + F_KW)
+  kpis([(n(UR_VOL), "de volume de uso e receita em IA", "#199e70"),
+        (pct(PAN["familias"]["uso e receita"]["sem_marca_pct"], 1), "dos tópicos de receita não citam fabricante nenhum", "#c98500")]),
+  "É a mesma necessidade mudando de canal: quem já tem o produto e quer usá-lo pergunta ao assistente, não ao buscador. O briefing cita “pesquisar uma receita” como ponto de entrada do consumidor na marca — essa porta hoje é de assistente, e ninguém está nela.", F_PAN + " · " + F_KW)
 
 slide("search", "Mediação", "A IA já responde a maior parte das consultas de posse",
   "Com que frequência o Google entrega um resumo gerado no topo, em vez de links, para cada família de demanda.",
@@ -825,18 +840,18 @@ slide("ambos", "Fechamento", "Os quatro achados que sustentam o resto",
   '<div class="achados">' + "".join(
     f'<div class="ach"><span class="an">{i}</span><div><b>{t}</b><p>{dd}</p></div></div>'
     for i, (t, dd) in enumerate([
-      ("A IA só nomeia fabricante quando a pergunta é de compra",
-       f'A citação cai de forma contínua ao longo de {len(MPF)} famílias: {pct(MPF["marca e loja"]["com_marca"],1)} das respostas sobre onde comprar citam uma das sete marcas, '
-       f'{pct(MPF["produto e categoria"]["com_marca"],1)} das respostas sobre o produto, {pct(MPF["uso e receita"]["com_marca"],1)} das sobre uso e receita, e {pct(MPF["instalacao"]["com_marca"],1)} das sobre instalação. '
-       f'Quanto mais a pergunta se afasta da transação, mais a categoria é respondida sem que exista fabricante.'),
-      ("A Electrolux ganhou presença em IA sem ganhar reputação",
-       f'É a mais coberta das sete ({pct(CN["electrolux"]["pct"],1)} da demanda mediada, contra {pct(CN["brastemp"]["pct"],1)} da Brastemp) e a segunda pior em sentimento ({dec(AI["marcas"]["Electrolux"]["sentimento"])} contra {dec(AI["marcas"]["Consul"]["sentimento"])} da Consul). '
-       f'São medidas independentes: ser citada mais não faz ser falada melhor.'),
+      ("O consumidor já trata a Electrolux como ecossistema; a marca ainda não",
+       f'Dentro da demanda pela marca, o que cresce são as famílias de serviço — {_incl4} — enquanto a busca pelo nome fica parada, em {dec(INCL["marca e navegacao"]["inclinacao"])}. '
+       f'A demanda que o case do briefing quer criar já existe e já cresce sozinha; o que falta é a marca aparecer quando ela é expressa.'),
       ("O crescimento da categoria está nos entrantes",
-       f'Hisense a {vs("hisense")} e Haier a {vs("haier")} contra a categoria; Brastemp a {vs("brastemp")} e Samsung a {vs("samsung")}.'),
-      ("Quem for ocupar a posse vai encontrar um intermediário já instalado",
-       f'{pct(ES["posse"]["sem_marca_pct"],1)} da demanda de posse em IA não nomeia fabricante e {ag["posse"]["aio"]}% das consultas de posse em busca já são respondidas por resumo gerado. '
-       f'O território está vago do lado das marcas e ocupado do lado da mediação.')], 1)) + '</div>',
+       f'Hisense a {vs("hisense")} e Haier a {vs("haier")} contra a categoria; Brastemp a {vs("brastemp")} e Samsung a {vs("samsung")}. '
+       f'E a categoria em si não cresce ({indexar(HD["serie"])[-1]:.0f} ponta a ponta): todo ganho dos entrantes sai de alguém — hoje, das duas maiores marcas estabelecidas.'),
+      ("Ser citado pela IA depende do tipo da pergunta, não do tamanho da marca",
+       f'A citação desce de {pct(MPF["marca e loja"]["com_marca"],1)} nas perguntas de compra a {pct(MPF["instalacao"]["com_marca"],1)} nas de instalação, para todas as marcas ao mesmo tempo. '
+       f'Como a posse já pesa mais que a descoberta em IA ({pct(ES["posse"]["pct"])} contra {pct(ES["descoberta"]["pct"])}), a conversa da categoria migra exatamente para onde nenhum fabricante é nomeado — quem quiser existir nela precisa responder outro tipo de pergunta, não repetir mais alto a mesma.'),
+      ("A vantagem da Electrolux no canal novo chegou sem a reputação junto",
+       f'Mais citada da categoria ({pct(CN["electrolux"]["pct"],1)} contra {pct(CN["brastemp"]["pct"],1)} da Brastemp), maior tráfego de LLM ({pct(SH_FIM,1)} do canal medido) — e a segunda pior percepção entre as grandes ({dec(AI["marcas"]["Electrolux"]["sentimento"])} contra {dec(AI["marcas"]["Consul"]["sentimento"])} da Consul). '
+       f'Num canal em que a resposta é uma síntese, presença amplifica o que se fala da marca — escalar presença sem tratar percepção amplifica a fala negativa.')], 1)) + '</div>',
   "", "")
 
 slide("ambos", "Fechamento", "O que muda com o tempo, e o que não",
@@ -844,13 +859,12 @@ slide("ambos", "Fechamento", "O que muda com o tempo, e o que não",
   '<div class="col2"><div class="quadro"><span class="qh">Move com o tempo</span><ul>'
   '<li>A base instalada de Haier e Hisense começa a gerar demanda de pós-compra</li>'
   '<li>O tráfego de LLM segue crescendo em toda a categoria</li>'
-  f'<li>A conversa de uso e receita já trocou de canal: é a menor família em busca ({pct(SD["familias"]["receita"])} do território sem dono) e a maior de posse em IA ({pct(PAN["familias"]["uso e receita"]["pct"])} da categoria)</li>'
-  f'<li>A mediação sobe da posse para a compra: hoje responde {ag["posse"]["aio"]}% das consultas de posse e {ag["electrolux"]}% das da Electrolux — a distância entre os dois números é o prazo que a marca tem</li></ul></div>'
+  f'<li>A mediação tem calendário: já responde {ag["posse"]["aio"]}% das consultas de serviço e ainda só {ag["electrolux"]}% das consultas da marca. A distância entre os dois números é o prazo que a Electrolux tem para decidir em que termos será intermediada no próprio terreno</li>'
+  f'<li>O pós-compra caminha para ser o primeiro território integralmente mediado: receita já é a {UR_RANK}ª conversa de posse em IA e a última em busca — a porta de entrada que o briefing cita já trocou de canal</li></ul></div>'
   '<div class="quadro"><span class="qh">Não move sozinho</span><ul>'
   '<li>O território de posse continua sem dono enquanto ninguém o ocupar</li>'
-  f'<li>A escolha de produto segue sem dono: {pct(ES["escolha"]["sem_marca_pct"],1)} do estágio em que a compra se decide não nomeia fabricante nenhum</li>'
-  f'<li>Reputação não vem junto com presença: a Electrolux é a mais citada da categoria e a segunda pior em sentimento ({dec(AI["marcas"]["Electrolux"]["sentimento"])} contra {dec(AI["marcas"]["Consul"]["sentimento"])} da Consul)</li>'
-  f'<li>Nome de frente comercial não vira demanda por existir: as sete somam {n(V_FRENTES)} buscas/mês, {pct(100*V_FRENTES/el["volume"],1)} da demanda pela marca</li></ul></div></div>',
+  f'<li>Citação não conserta percepção: são alavancas separadas, e hoje a marca lidera uma ({pct(CN["electrolux"]["pct"],1)} de cobertura) e perde a outra ({dec(AI["marcas"]["Electrolux"]["sentimento"])} de sentimento). Mais volume amplifica o problema em vez de resolvê-lo</li>'
+  f'<li>Frente nomeada sem ponte para a necessidade não vira demanda: as sete somam {n(V_FRENTES)} buscas/mês ({pct(100*V_FRENTES/el["volume"],1)} da marca) enquanto a mesma necessidade é procurada sem nome em volume muito maior — a ligação entre as duas é operável; o nome, sozinho, não anda</li></ul></div></div>',
   "", "")
 _p1=[]
 sintese("search", "Parte 1 · Síntese", "A marca é grande onde se escolhe o produto e pequena onde se convive com ele",
@@ -901,6 +915,7 @@ slide("ambos", "Ressalvas", "Números frágeis: confira antes de levar para o cl
     ["Séries de 12 meses","Reconstruídas a partir do volume médio e do índice de tendência, sob premissa declarada","Todos os slides de evolução"],
     ["Volumes entre players em <b>busca</b>","Recortes com profundidade diferente: Brastemp 1.998 keywords, Haier 44. Composição interna da marca é comparável; tamanho entre marcas não. <b>A comparação de cobertura entre players só é válida na base de IA</b>, cujos 16 exports partem dos mesmos seeds de categoria","Panorama e blocos de player"],
     ["Tráfego de LLM","Estimativa modelada, não contagem","Slide de tendência"],
+    ["Projeção de tráfego com cobertura dobrada (92,5 mil a ~172 mil/mês)","<b>Cenário, não previsão.</b> Premissa declarada de proporcionalidade entre cobertura e visita, sem elasticidade medida. Serve para dimensionar a oportunidade; a elasticidade real sai do primeiro ciclo do plano","Slide de tendência"],
     ["Famílias de demanda","A classificação cobre entre 33% e 89% do volume por player. “Não classificado” é categoria legítima","Todos os slides de jornada"],
     ["Volume das frentes nomeadas","Soma duas grafias da marca (<code>electrolux</code> e <code>eletrolux</code>) e vem de dois recortes diferentes. Frente não é família: cada uma entra pela necessidade que atende","Slides do modelo e da Electrolux"],
     ["Todo percentual do panorama de IA","Cada export para em 1.000 linhas. É participação sobre <b>demanda mapeada</b>, não sobre o universo da categoria. Seed novo muda o denominador","Parte 2 inteira"],
