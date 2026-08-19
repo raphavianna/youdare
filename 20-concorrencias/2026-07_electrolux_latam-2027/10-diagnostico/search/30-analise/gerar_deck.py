@@ -600,9 +600,9 @@ slide("ia", "Cobertura · Por estágio", "A Electrolux cobre um quarto da descob
   kpis([(pct(CN["electrolux"]["por_estagio"]["descoberta"]["pct"], 1), "da descoberta é Electrolux", EST["descoberta"]),
         (pct(CN["electrolux"]["por_estagio"]["escolha"]["pct"], 1), "da escolha", EST["escolha"]),
         (pct(CN["electrolux"]["por_estagio"]["posse"]["pct"], 1), "da posse", EST["posse"]),
-        (pct(POSSE_TOP[1], 2), f'da posse é {CN[POSSE_TOP[0]]["nome"]}, a maior das sete nesse estágio', COR.get(POSSE_TOP[0], "#6b6a63"))]),
+        (pct(ES["posse"]["sem_marca_pct"], 1), "da posse não tem fabricante nenhum no nome", "#c98500")]),
   f'O perfil da Electrolux em IA repete o da busca: forte onde a marca é procurada pelo nome ({pct(CN["electrolux"]["por_estagio"]["descoberta"]["pct"],1)} da descoberta), quase ausente onde o produto é escolhido e onde se convive com ele. '
-  f'Nenhuma das sete passa de {pct(POSSE_TOP[1],2)} na posse — o estágio inteiro cabe numa margem estreita, e o resto dele não tem nome de fabricante nenhum.', F_PAN)
+  f'Na posse ela é a <b>maior das sete</b>, com {pct(POSSE_TOP[1],2)} — e mesmo assim o estágio inteiro cabe numa margem estreita: nenhuma marca passa disso, e {pct(ES["posse"]["sem_marca_pct"],1)} do volume não tem fabricante nenhum no nome.', F_PAN)
 
 # --- as outras medidas de marca em IA, ancoradas na cobertura sobre o total
 slide("ia", "Cobertura · Outras medidas", "Citação, posição e sentimento: três leituras que não substituem a cobertura",
@@ -815,7 +815,7 @@ slide("ambos", "Síntese", "As duas fontes concordam sobre o vão e discordam so
   tabela(["","<span class='badge b-search'>Search</span>","<span class='badge b-ia'>IA</span>"],
     [["<b>Posição da Electrolux</b>","3ª em volume de marca · recortes de profundidade diferente impedem comparar tamanho entre players", f'<b>{pct(CN["electrolux"]["pct"],1)}</b> de cobertura sobre o total · <b>1ª entre as sete</b>'],
      ["<b>Trajetória</b>","não ganha share; quem cresce são os entrantes",f'share de tráfego <b>{pct(SH_INI,1)} → {pct(SH_FIM,1)}</b>'],
-     ["<b>Posse</b>", f'{pct(el["posse"])} da demanda da marca · metade da Consul', f'cobre {pct(CN["electrolux"]["por_estagio"]["posse"]["pct"],2)} do estágio · a maior das sete é a {CN[POSSE_TOP[0]]["nome"]}, com {pct(POSSE_TOP[1],2)}'],
+     ["<b>Posse</b>", f'{pct(el["posse"])} da demanda da marca · metade da Consul', f'cobre {pct(CN["electrolux"]["por_estagio"]["posse"]["pct"],2)} do estágio · <b>a maior das sete</b>, e ainda assim quase nada'],
      ["<b>Quem ocupa a posse</b>", f'Consul, com {pct(P["consul"]["posse"])} da demanda dela', f'Ninguém: {pct(ES["posse"]["sem_marca_pct"],1)} do estágio não tem marca no nome'],
      ["<b>Percepção</b>","não é o que a fonte mede", f'sentimento {dec(AI["marcas"]["Electrolux"]["sentimento"])}, 2º pior do conjunto']], "wide"),
   "A marca está melhor posicionada no canal novo do que no maduro, e não construiu essa vantagem deliberadamente.", F_KW + " · " + F_IA)
