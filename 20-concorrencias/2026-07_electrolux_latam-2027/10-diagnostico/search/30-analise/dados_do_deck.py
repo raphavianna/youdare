@@ -147,6 +147,20 @@ j4["nao_class"]  = round(vol(branded)) - j4["descoberta"] - j4["escolha"] - j4["
 j4["total"]      = j4["sem_marca"] + round(vol(branded))
 out["jornada4"] = j4
 
+# ---------- divisao da demanda total de busca por familia (big numbers) ----------
+# heads sem classificacao = a consulta E o nome da categoria; cauda usa nomes curtos
+CANON = {"assistencia":"assistencia e reparo","peca":"peca e consumivel",
+         "manutencao":"manutencao e cuidado","consumo":"consumo e eficiencia",
+         "receita":"receita e preparo","descarte":"descarte e sustentab"}
+bf = collections.Counter()
+for r in todos:
+    f = CANON.get(r["familia"], r["familia"])
+    if r["marca_seed"] == "generico" and f == "nao classificado": f = "cabeca de categoria"
+    bf[f] += num(r["volume_medio_12m"])
+TB = sum(bf.values())
+out["busca_familias"] = {"total": round(TB),
+    "familias": [[f, round(v), round(100*v/TB, 1)] for f, v in bf.most_common() if v >= 3000]}
+
 # ---------- exemplos reais de consulta, por familia, para os chips do deck ----------
 def exemplos(rows, k=8):
     d = collections.defaultdict(list)

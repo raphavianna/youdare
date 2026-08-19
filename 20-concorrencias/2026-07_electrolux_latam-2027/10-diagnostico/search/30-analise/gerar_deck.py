@@ -231,7 +231,8 @@ def chips_familias(lista, k=5, prefer="marca", escopo=None):
 FAMLAB = {f: lab for est in FAM_ESTAGIO.values() for f, lab in est}
 FAMLAB.update({"assistencia":"Assistência e reparo","peca":"Peça e consumível","manutencao":"Manutenção e cuidado",
                "consumo":"Consumo","receita":"Receita","descarte":"Descarte","sinonimo":"Categoria",
-               "conectividade e smart":"Conectividade","nao classificado":"Não classificado"})
+               "conectividade e smart":"Conectividade","nao classificado":"Não classificado",
+               "cabeca de categoria":"Cabeça de categoria"})
 CATN = {"coccao":"cocção","lava loucas":"lava-louças","sem categoria":"sem categoria declarada"}
 def catn(c): return CATN.get(c, c).capitalize()
 TOPLAB = {"uso e receita":"Uso e receita","limpeza e manutencao":"Limpeza e manutenção",
@@ -296,6 +297,20 @@ slide("search", "O modelo", "A jornada tem quatro estágios, e o primeiro não t
 slides.append("""<section class="slide divisor"><div class="slide-inner">
   <span class="parte">Parte 1</span><h2>A categoria e os players</h2>
   <p class="sub">Quem cresce, quem perde, onde cada um joga e o que a demanda de busca revela sobre a relação de cada marca com o consumidor</p></div></section>""")
+
+BF = D["busca_familias"]
+slide("search", "O universo", f'{n(BF["total"])} buscas por mês na categoria, e quase metade é só o nome dela',
+  "O tamanho total da demanda de busca mapeada e como ela se divide pelas famílias de necessidade. "
+  "<b>Cabeça de categoria</b> é a consulta que é só o nome da categoria (<code>geladeira</code>, <code>air fryer</code>); "
+  "<b>não classificado</b> traz uma marca, mas o texto não revela a necessidade.",
+  kpis([(n(BF["total"]), "buscas/mês na categoria", "#3987e5"),
+        (n(META["kw_total"] + META["kw_cauda"]), "keywords lidas, das marcas, da categoria e da cauda de serviço", "#f0ede4"),
+        ("12", "meses de série, ago/25 a jul/26", "#f0ede4")]) +
+  barras_h([(FAMLAB.get(f, f.capitalize()), pp, f) for f, v, pp in BF["familias"][:10]],
+           lambda f: "#7d5300" if f in ("peca e consumivel","assistencia e reparo","instalacao",
+                                        "manutencao e cuidado","defeito","manual e uso") else "#3987e5",
+           fmt=lambda v: pct(v)),
+  f'As famílias de serviço — peça, assistência, instalação, manutenção, defeito, manual (em destaque) — somam pouco mais de 3% do total, e são elas que carregam a relação de pós-compra. O resto é nome de categoria, especificação e nome de marca.', F_KW + " · " + F_CAUDA)
 
 IDX_P1 = len(slides)   # a sintese da Parte 1 e montada no fim e inserida aqui
 
@@ -498,6 +513,21 @@ slides.append("""<section class="slide divisor"><div class="slide-inner">
   <span class="parte">Parte 2</span><h2>A demanda em IA</h2>
   <p class="sub">O tamanho da conversa mediada por assistente, como ela se distribui pela jornada, e quanto dela nenhuma marca ocupa</p></div></section>""")
 
+slide("ia", "O universo", f'{n(U["volume"])} de demanda mediada por assistente, em {n(U["topicos_categoria"])} tópicos de categoria',
+  "O tamanho total da conversa mediada por IA sobre a categoria no Brasil e como ela se divide pelas famílias de necessidade. Um tópico é um agrupamento de prompts que os assistentes tratam como o mesmo assunto — o equivalente da keyword na busca. "
+  "<b>Produto e categoria</b> é o análogo da cabeça de categoria: fala do aparelho sem expressar necessidade específica.",
+  kpis([(n(U["volume"]), "de volume mediado por IA", "#199e70"),
+        (n(U["topicos_categoria"]), "tópicos de categoria no Brasil", "#f0ede4"),
+        (n(U["prompts_declarados"]), "prompts dentro desses tópicos", "#f0ede4"),
+        (n(U["prompts_distintos"]), "prompts lidos um a um", "#c98500")]) +
+  barras_h([(fn(f), PAN["familias"][f]["pct"], f) for f in
+            sorted(PAN["familias"], key=lambda f: -PAN["familias"][f]["pct"])[:10]],
+           lambda f: "#7d5300" if f in ("manutencao e limpeza","peca e filtro","uso e receita",
+                                        "defeito e problema","instalacao","consumo e energia",
+                                        "assistencia e conserto","garantia e suporte") else "#199e70",
+           fmt=lambda v: pct(v)),
+  f'Nenhuma marca foi usada como ponto de partida dos {len(U["seeds"])} recortes — toda marca que aparecer nas telas seguintes foi encontrada dentro da demanda, não procurada. As famílias de posse (em destaque) somam {pct(ES["posse"]["pct"])} do volume: mais que em busca, e é lá que a próxima tela mostra o território descoberto.', F_PAN)
+
 sintese("ia", "Parte 2 · Síntese", f'{pct(SM["pct"], 1)} da demanda em IA não nomeia nenhum fabricante',
   "O que esta parte estabelece, antes de abrir marca por marca. Todos os números são de demanda mediada por assistente no Brasil. É outra fonte e outra unidade que a busca, e não se soma com ela.",
   [(pct(SM["pct"], 1), "da demanda não nomeia fabricante", "O maior dado da base. A demanda é de categoria, não de fabricante.", EST["sem_marca"]),
@@ -510,22 +540,9 @@ sintese("ia", "Parte 2 · Síntese", f'{pct(SM["pct"], 1)} da demanda em IA não
   "Com a maior parte da demanda sem marca, a disputa é por <b>ocupar território vago</b> e não por tirar participação de um concorrente. As telas seguintes mostram qual território, em que momento da jornada e a que distância cada player está dele.",
   F_PAN)
 
-slide("ia", "O universo", f'{n(U["topicos_categoria"])} tópicos de categoria, {n(U["volume"])} de demanda mediada por assistente',
-  "Um tópico é um agrupamento de prompts que os assistentes tratam como o mesmo assunto — a unidade desta parte, equivalente ao que a keyword é na busca. Toda a leitura a seguir se refere ao Brasil e a eletrodomésticos.",
-  kpis([(n(U["topicos_categoria"]), "tópicos de categoria no Brasil", "#199e70"),
-        (n(U["volume"]), "de volume mediado por IA", "#f0ede4"),
-        (n(U["prompts_declarados"]), "prompts dentro desses tópicos", "#f0ede4"),
-        (n(U["prompts_distintos"]), "prompts lidos um a um", "#c98500")]) +
-  tabela(["Do que foi lido ao que entra na conta","Tópicos","O critério"], [
-    ["Tópicos lidos", n(U["topicos_exportados"]), f'{len(U["seeds"])} pontos de partida, todos de categoria — <b>nenhum com nome de marca</b>, e é isso que torna a cobertura por marca uma medida limpa'],
-    ["No Brasil", n(U["topicos_br"]), f'{n(U["topicos_us"])} tópicos dos Estados Unidos ficam fora de todo agregado'],
-    ["<b>Sobre a categoria</b>", f'<b>{n(U["topicos_categoria"])}</b>',
-     f'{100 - round(100*U["topicos_categoria"]/U["topicos_br"])}% do recorte Brasil trata de outro assunto e não menciona aparelho']], "wide"),
-  "Nenhuma marca foi usada como ponto de partida. Toda marca que aparecer nas telas seguintes foi encontrada dentro da demanda de categoria, não procurada — e por isso as sete se comparam entre si sobre a mesma base.", F_PAN)
-
 # --- cenario consolidado da cobertura -------------------------------------
 CN_ORD = sorted([k for k in CN], key=lambda k: -CN[k]["pct"])
-slide("ia", "Cobertura · Consolidado", f'{pct(SM["pct"],1)} da demanda mediada por IA não nomeia nenhum fabricante',
+slide("ia", "Cobertura · Consolidado", "De cada cinco tópicos da categoria, quatro não carregam nome de marca",
   "Participação de cada marca no volume dos tópicos de categoria, medida pelo nome do tópico. Os seeds são todos de categoria. Nenhuma marca foi semeada, então marca que aparece aqui foi descoberta pela própria ferramenta.",
   barras_empilhadas([("Demanda de categoria",
       [("Sem marca", SM["pct"], EST["sem_marca"])] +
