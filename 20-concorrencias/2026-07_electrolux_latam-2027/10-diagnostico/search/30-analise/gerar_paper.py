@@ -1,0 +1,385 @@
+# -*- coding: utf-8 -*-
+"""
+Gera o paper consolidado de percepcao de marca em IA a partir dos quatro
+relatorios de visibilidade ancorados em 00-raw/ai-search/ai-visibility/.
+
+Os numeros de SOV, mencoes e sentimento vem de 20-normalizado/ai_visibility.csv
+(extraidos por normalizar_visibility.py). Os temas qualitativos — forcas,
+atritos, distribuicoes de topico e intencao, motivadores com contagem — foram
+transcritos dos PDFs de origem e estao declarados abaixo como dado, com o
+arquivo de origem anotado. A prosa e nossa; os fatos sao dos relatorios.
+
+Decisao editorial (a mesma do deck): a ferramenta de origem nao e nomeada no
+documento; a rastreabilidade fica no repositorio.
+
+Uso: python3 gerar_paper.py -> 50-entrega/2026-08-19_youdare_paper_percepcao-de-marca-em-ia.html
+"""
+import csv, html, collections
+from pathlib import Path
+
+B = Path(__file__).resolve().parent.parent
+OUT = B/"50-entrega"/"2026-08-19_youdare_paper_percepcao-de-marca-em-ia.html"
+
+def e(s): return html.escape(str(s))
+def pv(x): return str(x).replace(".", ",")
+
+# ---------------- numeros: direto do CSV normalizado ----------------
+rows = list(csv.DictReader(open(B/"20-normalizado"/"ai_visibility.csv", encoding="utf-8")))
+REL = collections.defaultdict(list); seen = set()
+for r in rows:
+    k = (r["relatorio"], r["marca"])
+    if k in seen: continue
+    seen.add(k); REL[r["relatorio"]].append(r)
+
+NOME = {"electrolux":"Electrolux","brastemp":"Brastemp","consul":"Consul","midea":"Midea",
+        "samsung":"Samsung","lg":"LG","panasonic":"Panasonic","outras":"Demais marcas"}
+
+def sov_tab(rel, destaque):
+    linhas = sorted(REL[rel], key=lambda r: (r["marca"] == "outras", -float(r["share_of_voice"])))
+    tr = ""
+    for r in linhas:
+        b = ' class="dest"' if r["marca"] == destaque else ""
+        men = f'{pv(r["mencoes_pct"])}% · {r["mencoes_n"]}' if r["mencoes_n"] else "—"
+        tr += (f'<tr{b}><td>{NOME[r["marca"]]}</td><td>{pv(r["share_of_voice"])}%</td>'
+               f'<td>{men}</td></tr>')
+    return ('<table><thead><tr><th>Marca</th><th>Share of voice</th>'
+            '<th>Menções · % e nº</th></tr></thead><tbody>' + tr + '</tbody></table>')
+
+def fav(rel):
+    return next(r["sentimento_favoravel_do_dono"] for r in REL[rel] if r["eh_o_dono_do_relatorio"] == "1")
+
+# ---------------- temas qualitativos, transcritos dos PDFs ----------------
+# origem: 2026-08-17_ai-visibility_loja-electrolux_{chatgpt,google-ai-mode}.pdf
+EL_TOPICOS = [("Cocção — fogões, fornos, cooktops, micro-ondas, air fryer", "26,5%"),
+              ("Lavanderia e louças", "24,5%"),
+              ("Clima, água e limpeza — ar-condicionado, purificador, aspiração", "20,5%"),
+              ("Loja, serviços, preço e políticas", "13,5%"),
+              ("Refrigeração e freezers", "9%"),
+              ("Portáteis e preparo de cozinha", "6%")]
+EL_INTENCOES = [("Educação sobre a categoria", "25,5%"), ("Descoberta de produto e recursos", "24,5%"),
+                ("Comparação", "24%"), ("Preço, promoção e políticas", "8,5%"),
+                ("Políticas, garantia e confiança na marca", "7%"), ("Serviço, instalação e garantia", "3,5%")]
+EL_FORCAS = [
+    "Ecossistema de serviços oficiais em volta da compra — instalação autorizada, assistência, garantia estendida com rede própria",
+    "Mecânica de loja que prende o cliente: cashback, carteira digital, assinatura de refis com desconto e frete",
+    "Tecnologias proprietárias percebidas como diferencial (vapor, ciclos especiais, conectividade)",
+    "Liderança em eficiência energética — inverter e classificação A citadas em várias categorias",
+    "Confiança de canal: comprar na loja oficial lido como mais seguro que vendedor desconhecido de marketplace",
+    "Sortimento amplo e especializado na loja própria",
+    "Sustentabilidade e logística reversa — coleta gratuita e descarte consciente do aparelho antigo"]
+EL_ATRITOS = [
+    "Regras de garantia estendida, reembolso e devolução percebidas como condicionais e difíceis de entender",
+    "Frete grátis e parcelamento restritos por região, produto e cartão — o benefício exige checagem caso a caso",
+    "Cobertura de serviço limitada por CEP e por categoria (instalação, coleta, descarte de ar-condicionado)",
+    "Informação técnica incompleta nas páginas de produto — ruído em dB, consumo por ciclo",
+    "Cashback e promoções com regras lidas como complexas ou restritivas",
+    "Ruptura de estoque em modelos da loja própria",
+    "Preço da loja oficial nem sempre competitivo: as respostas chegam a recomendar comprar a marca dentro do marketplace"]
+EL_DRIVERS = [("Conveniência da casa", 36), ("Eficiência energética", 14),
+              ("Instalação oficial", 9), ("Compra protegida e serviços", 8)]
+EL_PERGUNTAS = ("Mais de 60% das perguntas do universo tocam economia — energia, água, consumo; "
+                "mais da metade compara marcas ou formatos; e uma em cada três cita instalação, "
+                "garantia, descarte ou filtro.")
+
+# origem: 2026-08-18_ai-visibility_consul_google-ai-mode.pdf
+CO_TOPICOS = [("Confiança e posicionamento — a marca contra concorrentes", "35,5%"),
+              ("Experiência de posse e suporte", "19%"),
+              ("Sustentabilidade, eficiência e segurança", "16,5%"),
+              ("Preço, promoção e condições de compra", "15%"),
+              ("Design, usabilidade e encaixe no estilo de vida", "11,5%"),
+              ("Descoberta de produto por categoria", "2,5%")]
+CO_INTENCOES = [("Comparação", "41%"), ("Pesquisa", "40,5%"), ("Suporte", "11%"), ("Compra", "7,5%")]
+CO_FORCAS = [
+    "Marca brasileira tradicional, lida como escolha segura e sem risco",
+    "Custo-benefício forte: qualidade boa a preço acessível, o ajuste certo para classe C e primeira casa",
+    "Produto prático e simples de usar — o “sem frescura” aparece como elogio",
+    "Durabilidade e confiabilidade no uso do dia a dia",
+    "Rede de assistência ampla, com peça original barata e fácil de achar",
+    "Programas de conveniência em volta da troca e da compra"]
+CO_ATRITOS = [
+    "Não é vista como primeira escolha para uso intenso ou famílias grandes",
+    "O consumidor sobe de Consul para Brastemp quando o preço permite — a marca perde o cliente que prospera",
+    "Pós-venda lido como funcional, não como diferencial",
+    "Design e acabamento percebidos como básicos frente aos concorrentes",
+    "Em ar-condicionado, não é referência de eficiência",
+    "Relatos específicos de problema em refrigeração",
+    "Menos tecnologia e recurso que Electrolux, LG e Samsung"]
+
+# origem: 2026-08-18_ai-visibility_midea_google-ai-mode.pdf
+MI_TOPICOS = [("Marca e reputação — a marca contra as outras", "23%"),
+              ("Lavanderia — lavadora, lava e seca, lava-louças", "22%"),
+              ("Portáteis e purificadores", "16%"),
+              ("Refrigeração e conservação", "14,5%"),
+              ("Ar-condicionado e climatização", "12,5%"),
+              ("Recursos smart, suporte e decisão de compra", "12%")]
+MI_INTENCOES = [("Pesquisa", "60%"), ("Comparação", "35%"), ("Orientação de compra", "3%"), ("Suporte", "2%")]
+MI_FORCAS = [
+    "Eficiência energética e desempenho inverter — consumo baixo citado como motivo de escolha",
+    "Força e confiabilidade em ar-condicionado e climatização, o território de origem",
+    "Custo-benefício: “boa e barata”, entrega mais do que o preço sugere",
+    "Produtos compactos, certos para espaço pequeno",
+    "Espaço interno e funcionalidade bem avaliados nos aparelhos grandes",
+    "Amplitude de portfólio e recursos smart (Wi-Fi, conectividade)"]
+MI_ATRITOS = [
+    "Marca lida como menos tradicional e menos confiável que as estabelecidas",
+    "Pós-venda e rede de assistência fracos ou lentos em várias regiões — o atrito mais citado",
+    "Burocracia de garantia e condições de instalação",
+    "Percepção de fragilidade em eletrônica e componentes",
+    "Reclamações de ruído em refrigeração",
+    "Ecossistema conectado com experiência irregular"]
+
+# ---------------- montagem ----------------
+def lista(itens, cls):
+    return f'<ul class="{cls}">' + "".join(f"<li>{e(i)}</li>" for i in itens) + "</ul>"
+
+def dist(titulo, pares):
+    tr = "".join(f'<tr><td>{e(a)}</td><td>{b}</td></tr>' for a, b in pares)
+    return (f'<div class="dist"><h4>{titulo}</h4><table><tbody>{tr}</tbody></table></div>')
+
+def secnum(n, t): return f'<h2><span class="n">{n}</span>{t}</h2>'
+
+S = []
+
+S.append(f"""
+<header class="capa">
+  <p class="k">Youdare · Direção de Mídia e Dados</p>
+  <h1>Percepção de marca<br>em respostas de IA</h1>
+  <p class="sub">Consolidado dos quatro estudos de visibilidade por domínio — Electrolux em duas
+  plataformas, Consul e Midea — com share of voice, sentimento, forças, atritos e o que cada
+  universo de perguntas revela. Categoria de eletrodomésticos, Brasil.</p>
+  <p class="meta">Concorrência Electrolux LATAM 2027 · Uso interno · Agosto de 2026</p>
+</header>""")
+
+S.append(secnum("01", "Sumário executivo") + f"""
+<ol class="sumario">
+<li><b>A Electrolux é a marca mais falada da categoria em resposta de IA.</b> Primeira em share of
+voice nos dois estudos sobre o domínio dela — {pv(next(r['share_of_voice'] for r in REL['loja-electrolux · ChatGPT'] if r['marca']=='electrolux'))}% no ChatGPT e
+{pv(next(r['share_of_voice'] for r in REL['loja-electrolux · Google AI Mode'] if r['marca']=='electrolux'))}% no Google AI Mode — e, nos estudos rodados sobre domínio de
+concorrente, aparece mais que o próprio dono da casa nas duas vezes.</li>
+<li><b>Presença não veio com reputação.</b> O sentimento favorável da Electrolux é {fav('loja-electrolux · ChatGPT')}% no
+ChatGPT e {fav('loja-electrolux · Google AI Mode')}% no Google AI Mode — a mesma marca, no mesmo período. Consul opera a {fav('consul · Google AI Mode')}%
+no próprio universo. O passivo não é de presença; é de como a marca é falada onde ela mais aparece.</li>
+<li><b>Os freios são operacionais, não de marca.</b> O que puxa o tom para baixo nas respostas é
+recorrente e endereçável: preço da loja própria contra marketplace, regras de cashback e garantia
+lidas como complexas, cobertura de serviço condicionada a CEP.</li>
+<li><b>Serviço é a força da Electrolux e a fraqueza dos dois concorrentes medidos.</b> Instalação
+oficial, assistência e logística reversa aparecem como motivo de preferência da Electrolux; na
+Consul o pós-venda é lido como funcional sem ser diferencial, e na Midea é o atrito mais citado.</li>
+<li><b>Cada universo conta uma história diferente da mesma categoria.</b> No universo da Consul a
+conversa é sobre confiança entre marcas; no da Midea, 60% é pesquisa de categoria; no da
+Electrolux, economia de energia domina as perguntas. Onde a marca disputa muda o que ela precisa responder.</li>
+</ol>""")
+
+S.append(secnum("02", "Como ler este documento") + """
+<p>Cada estudo monta o próprio universo de perguntas em torno de um domínio e mede, dentro dele,
+quanto cada marca aparece nas respostas dos assistentes e com que carga. A consequência de método
+é uma regra única: <b>números de estudos diferentes não se comparam entre si</b> — a mesma marca tem
+valores diferentes em universos diferentes, e isso é construção, não contradição. A comparação
+válida é sempre entre marcas dentro do mesmo estudo.</p>
+<p>Quando os estudos divergem sobre o mesmo player, o número de referência deste material é o do
+estudo sobre o domínio da Electrolux. Os estudos de concorrente entram para ler cada rival por
+dentro do próprio território — que é o que eles medem de fato.</p>""")
+
+# ---------- Electrolux
+elc, ela = 'loja-electrolux · ChatGPT', 'loja-electrolux · Google AI Mode'
+S.append(secnum("03", "Electrolux, por dentro do próprio universo") + f"""
+<p class="escopo">Domínio analisado: loja.electrolux.com.br · duas plataformas, mesmo conjunto de perguntas</p>
+<div class="cols">
+<div><h3>ChatGPT</h3>{sov_tab(elc, 'electrolux')}
+<p class="nota">Sentimento favorável da marca: <b class="ruim">{fav(elc)}%</b></p></div>
+<div><h3>Google AI Mode</h3>{sov_tab(ela, 'electrolux')}
+<p class="nota">Sentimento favorável da marca: <b class="bom">{fav(ela)}%</b></p></div>
+</div>
+<p>Primeira nas duas plataformas — e com o conjunto competitivo somando menos da metade da conversa:
+a maior parte do share of voice pertence a marcas de fora do conjunto declarado e a fontes sem
+marca. A leitura que importa está no contraste de sentimento: <b>{fav(elc)}% contra {fav(ela)}%
+para a mesma marca, no mesmo período</b>. A percepção em IA é propriedade da plataforma, não da
+marca — qualquer meta de percepção precisa ser definida por assistente.</p>
+<div class="cols">{dist("Sobre o que o universo pergunta", EL_TOPICOS)}{dist("Com que intenção", EL_INTENCOES)}</div>
+<p>{e(EL_PERGUNTAS)} A conversa em volta do domínio da marca é uma conversa de <b>economia,
+comparação e vida com o produto</b> — não de lançamento.</p>
+<div class="cols">
+<div><h4>O que sustenta a marca nas respostas</h4>{lista(EL_FORCAS, 'forcas')}</div>
+<div><h4>O que puxa o tom para baixo</h4>{lista(EL_ATRITOS, 'atritos')}</div>
+</div>
+<h4>A leitura de percepção</h4>
+<p>Os motivadores positivos mais citados são <b>conveniência da casa ({EL_DRIVERS[0][1]} menções),
+eficiência energética ({EL_DRIVERS[1][1]}), instalação oficial ({EL_DRIVERS[2][1]}) e compra
+protegida ({EL_DRIVERS[3][1]})</b> — todos de serviço e ecossistema, nenhum de produto isolado. O
+assistente repete que comprar na loja oficial é mais seguro: peça original, rede autorizada,
+garantia, logística reversa.</p>
+<p>O contrapeso vem de dois freios. O primeiro é <b>preço</b>: as respostas tratam a loja própria
+como nem sempre competitiva e chegam a recomendar comprar a marca dentro do marketplace quando a
+diferença é grande — a vantagem do canal próprio fica restrita aos casos em que o pós-venda pesa
+mais que o desconto. O segundo é <b>complexidade de regra</b>: cashback, garantia estendida e
+devolução aparecem cercados de condições, e a resposta típica manda o consumidor “ler o
+regulamento” — o que esvazia o benefício no momento exato em que ele seria argumento.</p>
+<p class="implica">Implicação: a marca já é falada como ecossistema de serviço — exatamente a
+percepção que o briefing quer construir — mas com um desconto de tom que nasce de preço e de regra,
+não de produto. Simplificar a regra e reposicionar o preço como valor total são as duas alavancas
+com efeito direto no tom das respostas.</p>""")
+
+# ---------- Consul
+co = 'consul · Google AI Mode'
+S.append(secnum("04", "Consul, por dentro do próprio universo") + f"""
+<p class="escopo">Domínio analisado: consul.com.br · Google AI Mode</p>
+<div class="cols">
+<div>{sov_tab(co, 'consul')}
+<p class="nota">Sentimento favorável da marca: <b class="bom">{fav(co)}%</b></p></div>
+<div>{dist("Sobre o que o universo pergunta", CO_TOPICOS)}{dist("Com que intenção", CO_INTENCOES)}</div>
+</div>
+<p>No próprio território, a Consul é a <b>terceira</b> marca mais falada — atrás de Brastemp
+({pv(next(r['share_of_voice'] for r in REL[co] if r['marca']=='brastemp'))}%) e Electrolux
+({pv(next(r['share_of_voice'] for r in REL[co] if r['marca']=='electrolux'))}%). E o universo dela é o mais
+comparativo dos quatro: mais de um terço das perguntas é sobre confiança e posicionamento entre
+marcas, e comparação e pesquisa somam mais de 80% da intenção. É um território onde se disputa
+reputação, e a dona da casa não lidera a conversa.</p>
+<div class="cols">
+<div><h4>O que sustenta a marca nas respostas</h4>{lista(CO_FORCAS, 'forcas')}</div>
+<div><h4>O que puxa o tom para baixo</h4>{lista(CO_ATRITOS, 'atritos')}</div>
+</div>
+<h4>A leitura de percepção</h4>
+<p>A Consul tem o melhor saldo emocional do conjunto ({fav(co)}% favorável) apoiado em confiança,
+simplicidade e custo-benefício. O limite da posição aparece dentro dos próprios atritos: <b>quando a
+renda sobe, o consumidor sobe de Consul para Brastemp</b> — a marca é lida como porta de entrada, não
+como destino. E o pós-venda, força da categoria de entrada, é descrito como funcional, sem virar
+motivo de preferência.</p>
+<p class="implica">Implicação para a Electrolux: a Consul é a régua de percepção do grupo, mas não
+disputa o mesmo cliente no mesmo momento — ela alimenta o funil que a Brastemp captura. O confronto
+direto de percepção da Electrolux é com a expectativa de serviço, não com o preço da Consul.</p>""")
+
+# ---------- Midea
+mi = 'midea · Google AI Mode'
+S.append(secnum("05", "Midea, por dentro do próprio universo") + f"""
+<p class="escopo">Domínio analisado: midea.com.br · Google AI Mode</p>
+<div class="cols">
+<div>{sov_tab(mi, 'midea')}
+<p class="nota">Sentimento favorável da marca: <b class="bom">{fav(mi)}%</b></p></div>
+<div>{dist("Sobre o que o universo pergunta", MI_TOPICOS)}{dist("Com que intenção", MI_INTENCOES)}</div>
+</div>
+<p>No próprio território, a Midea é a <b>quinta</b> marca mais falada — atrás de Electrolux,
+Panasonic, LG e Samsung. O universo dela é o mais exploratório dos quatro: <b>60% de pesquisa</b>,
+contra 35% de comparação e quase nada de compra e suporte. É a conversa de quem ainda está
+conhecendo a marca — coerente com um entrante em expansão de categoria.</p>
+<div class="cols">
+<div><h4>O que sustenta a marca nas respostas</h4>{lista(MI_FORCAS, 'forcas')}</div>
+<div><h4>O que puxa o tom para baixo</h4>{lista(MI_ATRITOS, 'atritos')}</div>
+</div>
+<h4>A leitura de percepção</h4>
+<p>A força da Midea nas respostas é eficiência e custo-benefício, ancorada no território de origem
+(climatização). A fragilidade é exatamente o que a Electrolux tem de melhor: <b>pós-venda, rede de
+assistência e confiança de marca</b> — os atritos mais citados da Midea são serviço lento ou ausente
+e a sensação de marca menos estabelecida.</p>
+<p class="implica">Implicação: a Midea cresce vendendo aparelho e ainda não construiu a camada de
+serviço. É o espelho invertido da tese do ecossistema — e o argumento competitivo mais direto contra
+ela não é preço nem tecnologia, é a pergunta “quem atende quando quebra”.</p>""")
+
+# ---------- cruzada
+S.append(secnum("06", "O que atravessa os quatro estudos") + """
+<ul class="cruzada">
+<li><b>A Electrolux aparece em todos os universos, inclusive nos alheios.</b> É a única marca do
+conjunto que lidera ou vice-lidera share of voice nos quatro estudos — a presença dela em resposta
+de IA não depende de quem puxa a conversa.</li>
+<li><b>Percepção é o eixo em que as posições se invertem.</b> A marca mais presente (Electrolux) tem
+o pior saldo emocional medido no próprio universo; a marca com menor presença relativa entre as
+tradicionais (Consul) tem o melhor. Presença e reputação são alavancas separadas e precisam de
+metas separadas.</li>
+<li><b>Serviço é o divisor de águas da categoria nas respostas.</b> Aparece como motivo de
+preferência da Electrolux, como atributo neutro da Consul e como principal fraqueza da Midea. É o
+atributo com maior variância entre marcas — e, portanto, o de maior potencial discriminante.</li>
+<li><b>Preço contra marketplace é tema em todos os universos.</b> Os assistentes comparam canal por
+padrão. Marca que não tem resposta de valor total para “por que comprar direto” entrega a
+recomendação final ao intermediário mais barato.</li>
+<li><b>O tom varia mais por plataforma do que por marca.</b> A mesma Electrolux vai de 41% a 71% de
+favorável entre dois assistentes. Medir e gerir percepção em IA exige leitura por plataforma — uma
+média esconderia o problema e a solução.</li>
+</ul>""")
+
+S.append(secnum("07", "O que eu faria a seguir") + """
+<ol class="prox">
+<li><b>Tratar o tom no ChatGPT como frente própria.</b> É a plataforma onde a categoria mais cita
+marcas e onde a Electrolux tem o pior saldo. As duas causas dominantes — regra complexa e preço
+contra marketplace — são endereçáveis por conteúdo institucional claro e por argumento de valor
+total; nenhuma exige mudança de produto.</li>
+<li><b>Transformar a fraqueza de serviço dos entrantes em critério de categoria.</b> Conteúdo
+comparativo de pós-venda, rede e instalação — o atributo em que a distância para Midea (e Haier,
+ainda invisível nas respostas) é maior e documentada.</li>
+<li><b>Repetir estes quatro estudos em cadência trimestral, com o mesmo desenho</b>, para
+transformar retrato em série: é o que permite provar efeito das ações sobre share of voice e
+sentimento, universo a universo.</li>
+</ol>""")
+
+S.append("""<footer class="metodo">
+<h4>Nota de método</h4>
+<p>Quatro estudos de visibilidade em respostas de assistentes de IA, cada um construído sobre o
+universo de perguntas de um domínio: loja.electrolux.com.br (ChatGPT e Google AI Mode, 17/08/2026),
+consul.com.br e midea.com.br (Google AI Mode, 18/08/2026). Share of voice e menções medidos dentro
+de cada universo; sentimento classificado automaticamente e reportado para o domínio analisado —
+vale como comparação relativa, não como nível absoluto. Números de universos diferentes não se
+comparam entre si. Os arquivos de origem e a extração ficam versionados no repositório da
+concorrência.</p>
+</footer>""")
+
+CSS = """
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--ink:#1c1b18;--ink2:#565349;--ink3:#8a8779;--hair:#e2ded2;--accent:#2563c4;
+  --bom:#13795b;--ruim:#b4441f;--paper:#faf8f2;--card:#f2efe6}
+html{background:#e8e5da}
+body{font-family:'Supreme',ui-sans-serif,system-ui,sans-serif;color:var(--ink);
+  background:var(--paper);max-width:54rem;margin:0 auto;padding:4rem 3.4rem 5rem;
+  font-size:.95rem;line-height:1.62;font-feature-settings:'tnum' 1}
+.capa{margin-bottom:3.4rem;border-bottom:2px solid var(--ink);padding-bottom:2.2rem}
+.capa .k{font-size:.68rem;letter-spacing:.22em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.capa h1{font-family:'Zodiak',Georgia,serif;font-weight:400;font-size:3rem;line-height:1.04;
+  letter-spacing:-.02em;margin:.7rem 0 1rem}
+.capa .sub{max-width:44ch;color:var(--ink2)}
+.capa .meta{margin-top:1.4rem;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink3)}
+h2{font-family:'Zodiak',Georgia,serif;font-weight:400;font-size:1.65rem;letter-spacing:-.01em;
+  margin:3rem 0 1rem;padding-top:1.6rem;border-top:1px solid var(--hair);display:flex;gap:.9rem;align-items:baseline}
+h2 .n{font-size:.72rem;color:var(--accent);letter-spacing:.18em;font-family:'Supreme',sans-serif;font-weight:600}
+h3{font-size:1.02rem;margin:.2rem 0 .6rem}
+h4{font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2);margin:1.5rem 0 .55rem}
+p{margin:.75rem 0}
+.escopo{font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);margin-top:-.5rem}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:1.6rem;margin:1.1rem 0;align-items:start}
+table{width:100%;border-collapse:collapse;font-size:.86rem}
+th{text-align:left;font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);
+  padding:.35rem .5rem;border-bottom:1px solid var(--ink)}
+td{padding:.42rem .5rem;border-bottom:1px solid var(--hair)}
+td:nth-child(2),td:nth-child(3){font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.dest td{font-weight:700;background:var(--card)}
+.dist h4{margin-top:.2rem}
+.dist td:last-child{text-align:right;font-weight:600;white-space:nowrap}
+.nota{font-size:.85rem;color:var(--ink2);margin-top:.5rem}
+.bom{color:var(--bom)} .ruim{color:var(--ruim)}
+ul.forcas,ul.atritos{list-style:none}
+ul.forcas li,ul.atritos li{padding:.42rem 0 .42rem 1.25rem;position:relative;
+  border-bottom:1px solid var(--hair);font-size:.88rem}
+ul.forcas li::before{content:'+';position:absolute;left:0;color:var(--bom);font-weight:700}
+ul.atritos li::before{content:'–';position:absolute;left:0;color:var(--ruim);font-weight:700}
+.sumario,.prox{margin-left:1.2rem}
+.sumario li,.prox li{margin:.7rem 0}
+ul.cruzada{list-style:none}
+ul.cruzada li{margin:.75rem 0;padding-left:1.3rem;position:relative}
+ul.cruzada li::before{content:'';position:absolute;left:0;top:.62em;width:.55em;height:.55em;
+  border-radius:50%;background:var(--accent)}
+.implica{border-left:3px solid var(--accent);padding:.55rem 0 .55rem 1rem;background:var(--card)}
+.metodo{margin-top:3.4rem;padding-top:1.4rem;border-top:2px solid var(--ink)}
+.metodo p{font-size:.82rem;color:var(--ink2)}
+b{font-weight:700}
+@media print{
+  html,body{background:#fff}
+  body{max-width:none;padding:1.2cm 1.6cm}
+  h2{break-after:avoid}
+  .cols,table,ul,.implica{break-inside:avoid}
+  @page{size:A4;margin:1.4cm}
+}
+@media (max-width:720px){.cols{grid-template-columns:1fr}body{padding:2rem 1.2rem}}
+"""
+
+HTML = ("<!doctype html><html lang='pt-BR'><head><meta charset='utf-8'>"
+        "<meta name='viewport' content='width=device-width,initial-scale=1'>"
+        "<title>Percepção de marca em respostas de IA — Electrolux LATAM 2027</title>"
+        f"<style>{CSS}</style></head><body>" + "".join(S) + "</body></html>")
+OUT.write_text(HTML, encoding="utf-8")
+print(f"paper: {len(HTML):,} bytes -> {OUT.name}")
